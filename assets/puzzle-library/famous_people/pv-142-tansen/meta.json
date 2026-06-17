@@ -1,0 +1,50 @@
+{
+  "id": "pv-142-tansen",
+  "levelNumber": 142,
+  "title": "Tansen",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "music",
+  "educationalFact": "Tansen is connected with Hindustani classical music.",
+  "contextFact": "Important context: Mughal court.",
+  "pieces": 151,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-142-tansen/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-142-tansen/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Tansen",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Tansen?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Tansen is especially connected with what?",
+      "a": [
+        "Hindustani classical music",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Tansen?",
+      "a": [
+        "Mughal court",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

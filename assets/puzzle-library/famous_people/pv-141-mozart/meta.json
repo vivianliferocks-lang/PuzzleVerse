@@ -1,0 +1,50 @@
+{
+  "id": "pv-141-mozart",
+  "levelNumber": 141,
+  "title": "Mozart",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "music",
+  "educationalFact": "Mozart is connected with classical compositions.",
+  "contextFact": "Important context: prodigy.",
+  "pieces": 150,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-141-mozart/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-141-mozart/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Mozart",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Mozart?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Mozart is especially connected with what?",
+      "a": [
+        "classical compositions",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Mozart?",
+      "a": [
+        "prodigy",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

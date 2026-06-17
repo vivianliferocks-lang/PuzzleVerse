@@ -1,0 +1,50 @@
+{
+  "id": "pv-144-lata-mangeshkar",
+  "levelNumber": 144,
+  "title": "Lata Mangeshkar",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "music",
+  "educationalFact": "Lata Mangeshkar is connected with playback singing.",
+  "contextFact": "Important context: Indian cinema.",
+  "pieces": 153,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-144-lata-mangeshkar/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-144-lata-mangeshkar/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Lata%20Mangeshkar",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Lata Mangeshkar?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Lata Mangeshkar is especially connected with what?",
+      "a": [
+        "playback singing",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Lata Mangeshkar?",
+      "a": [
+        "Indian cinema",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

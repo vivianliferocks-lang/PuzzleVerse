@@ -1,0 +1,50 @@
+{
+  "id": "pv-147-kalpana-chawla",
+  "levelNumber": 147,
+  "title": "Kalpana Chawla",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "space exploration",
+  "educationalFact": "Kalpana Chawla is connected with astronaut.",
+  "contextFact": "Important context: NASA mission.",
+  "pieces": 156,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-147-kalpana-chawla/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-147-kalpana-chawla/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Kalpana%20Chawla",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Kalpana Chawla?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Kalpana Chawla is especially connected with what?",
+      "a": [
+        "astronaut",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Kalpana Chawla?",
+      "a": [
+        "NASA mission",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pv-146-savitribai-phule",
+  "levelNumber": 146,
+  "title": "Savitribai Phule",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "education reform",
+  "educationalFact": "Savitribai Phule is connected with girls’ education.",
+  "contextFact": "Important context: social reform.",
+  "pieces": 155,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-146-savitribai-phule/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-146-savitribai-phule/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Savitribai%20Phule",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Savitribai Phule?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Savitribai Phule is especially connected with what?",
+      "a": [
+        "girls’ education",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Savitribai Phule?",
+      "a": [
+        "social reform",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

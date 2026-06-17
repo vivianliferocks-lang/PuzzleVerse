@@ -1,0 +1,50 @@
+{
+  "id": "pv-148-sunita-williams",
+  "levelNumber": 148,
+  "title": "Sunita Williams",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "space exploration",
+  "educationalFact": "Sunita Williams is connected with astronaut.",
+  "contextFact": "Important context: spacewalks.",
+  "pieces": 157,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-148-sunita-williams/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-148-sunita-williams/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Sunita%20Williams",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Sunita Williams?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Sunita Williams is especially connected with what?",
+      "a": [
+        "astronaut",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Sunita Williams?",
+      "a": [
+        "spacewalks",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

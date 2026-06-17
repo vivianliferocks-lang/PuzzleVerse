@@ -1,0 +1,50 @@
+{
+  "id": "pv-149-mary-anning",
+  "levelNumber": 149,
+  "title": "Mary Anning",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "palaeontology",
+  "educationalFact": "Mary Anning is connected with fossil discoveries.",
+  "contextFact": "Important context: Jurassic Coast.",
+  "pieces": 158,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-149-mary-anning/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-149-mary-anning/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Mary%20Anning",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Mary Anning?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Mary Anning is especially connected with what?",
+      "a": [
+        "fossil discoveries",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Mary Anning?",
+      "a": [
+        "Jurassic Coast",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}
