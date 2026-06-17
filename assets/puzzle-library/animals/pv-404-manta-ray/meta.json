@@ -1,0 +1,50 @@
+{
+  "id": "pv-404-manta-ray",
+  "levelNumber": 404,
+  "title": "Manta Ray",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "fish",
+  "educationalFact": "Manta Ray is connected with large filter feeder.",
+  "contextFact": "Important context: tropical seas.",
+  "pieces": 424,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-404-manta-ray/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-404-manta-ray/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Manta%20Ray",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Manta Ray?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Manta Ray is especially connected with what?",
+      "a": [
+        "large filter feeder",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Manta Ray?",
+      "a": [
+        "tropical seas",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

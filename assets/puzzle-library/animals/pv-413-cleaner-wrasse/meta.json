@@ -1,0 +1,50 @@
+{
+  "id": "pv-413-cleaner-wrasse",
+  "levelNumber": 413,
+  "title": "Cleaner Wrasse",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "fish",
+  "educationalFact": "Cleaner Wrasse is connected with cleaning behavior.",
+  "contextFact": "Important context: reefs.",
+  "pieces": 433,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-413-cleaner-wrasse/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-413-cleaner-wrasse/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Cleaner%20Wrasse",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Cleaner Wrasse?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Cleaner Wrasse is especially connected with what?",
+      "a": [
+        "cleaning behavior",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Cleaner Wrasse?",
+      "a": [
+        "reefs",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

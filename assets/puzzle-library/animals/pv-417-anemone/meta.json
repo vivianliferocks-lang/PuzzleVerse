@@ -1,0 +1,50 @@
+{
+  "id": "pv-417-anemone",
+  "levelNumber": 417,
+  "title": "Anemone",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "cnidarian",
+  "educationalFact": "Anemone is connected with stinging tentacles.",
+  "contextFact": "Important context: reefs.",
+  "pieces": 437,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-417-anemone/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-417-anemone/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Anemone",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Anemone?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Anemone is especially connected with what?",
+      "a": [
+        "stinging tentacles",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Anemone?",
+      "a": [
+        "reefs",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

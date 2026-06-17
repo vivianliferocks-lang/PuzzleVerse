@@ -1,0 +1,50 @@
+{
+  "id": "pv-405-whale-shark",
+  "levelNumber": 405,
+  "title": "Whale Shark",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "fish",
+  "educationalFact": "Whale Shark is connected with largest fish.",
+  "contextFact": "Important context: warm oceans.",
+  "pieces": 425,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-405-whale-shark/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-405-whale-shark/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Whale%20Shark",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Whale Shark?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Whale Shark is especially connected with what?",
+      "a": [
+        "largest fish",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Whale Shark?",
+      "a": [
+        "warm oceans",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

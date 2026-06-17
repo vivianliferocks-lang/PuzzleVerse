@@ -1,0 +1,50 @@
+{
+  "id": "pv-406-clown-triggerfish",
+  "levelNumber": 406,
+  "title": "Clown Triggerfish",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "fish",
+  "educationalFact": "Clown Triggerfish is connected with bold pattern.",
+  "contextFact": "Important context: coral reefs.",
+  "pieces": 426,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-406-clown-triggerfish/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-406-clown-triggerfish/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Clown%20Triggerfish",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Clown Triggerfish?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Clown Triggerfish is especially connected with what?",
+      "a": [
+        "bold pattern",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Clown Triggerfish?",
+      "a": [
+        "coral reefs",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pv-401-poison-dart-frog",
+  "levelNumber": 401,
+  "title": "Poison Dart Frog",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "amphibian",
+  "educationalFact": "Poison Dart Frog is connected with bright warning colors.",
+  "contextFact": "Important context: rainforest.",
+  "pieces": 421,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-401-poison-dart-frog/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-401-poison-dart-frog/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Poison%20Dart%20Frog",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Poison Dart Frog?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Poison Dart Frog is especially connected with what?",
+      "a": [
+        "bright warning colors",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Poison Dart Frog?",
+      "a": [
+        "rainforest",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

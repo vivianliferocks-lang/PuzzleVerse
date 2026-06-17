@@ -1,0 +1,50 @@
+{
+  "id": "pv-409-moorish-idol",
+  "levelNumber": 409,
+  "title": "Moorish Idol",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "fish",
+  "educationalFact": "Moorish Idol is connected with reef fish.",
+  "contextFact": "Important context: Indo-Pacific.",
+  "pieces": 429,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-409-moorish-idol/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-409-moorish-idol/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Moorish%20Idol",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Moorish Idol?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Moorish Idol is especially connected with what?",
+      "a": [
+        "reef fish",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Moorish Idol?",
+      "a": [
+        "Indo-Pacific",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

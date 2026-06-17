@@ -1,0 +1,50 @@
+{
+  "id": "pv-415-crown-of-thorns-starfish",
+  "levelNumber": 415,
+  "title": "Crown-of-Thorns Starfish",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "echinoderm",
+  "educationalFact": "Crown-of-Thorns Starfish is connected with coral predator.",
+  "contextFact": "Important context: reefs.",
+  "pieces": 435,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-415-crown-of-thorns-starfish/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-415-crown-of-thorns-starfish/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Crown-of-Thorns%20Starfish",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Crown-of-Thorns Starfish?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Crown-of-Thorns Starfish is especially connected with what?",
+      "a": [
+        "coral predator",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Crown-of-Thorns Starfish?",
+      "a": [
+        "reefs",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

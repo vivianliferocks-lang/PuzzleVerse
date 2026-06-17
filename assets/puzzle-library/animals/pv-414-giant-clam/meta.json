@@ -1,0 +1,50 @@
+{
+  "id": "pv-414-giant-clam",
+  "levelNumber": 414,
+  "title": "Giant Clam",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "mollusk",
+  "educationalFact": "Giant Clam is connected with symbiotic algae.",
+  "contextFact": "Important context: reefs.",
+  "pieces": 434,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-414-giant-clam/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-414-giant-clam/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Giant%20Clam",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Giant Clam?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Giant Clam is especially connected with what?",
+      "a": [
+        "symbiotic algae",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Giant Clam?",
+      "a": [
+        "reefs",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

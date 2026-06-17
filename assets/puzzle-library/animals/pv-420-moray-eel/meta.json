@@ -1,0 +1,50 @@
+{
+  "id": "pv-420-moray-eel",
+  "levelNumber": 420,
+  "title": "Moray Eel",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "fish",
+  "educationalFact": "Moray Eel is connected with reef predator.",
+  "contextFact": "Important context: reefs.",
+  "pieces": 440,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-420-moray-eel/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-420-moray-eel/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Moray%20Eel",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Moray Eel?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Moray Eel is especially connected with what?",
+      "a": [
+        "reef predator",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Moray Eel?",
+      "a": [
+        "reefs",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pv-408-lionfish",
+  "levelNumber": 408,
+  "title": "Lionfish",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "fish",
+  "educationalFact": "Lionfish is connected with venomous spines.",
+  "contextFact": "Important context: reefs.",
+  "pieces": 428,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-408-lionfish/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-408-lionfish/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Lionfish",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Lionfish?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Lionfish is especially connected with what?",
+      "a": [
+        "venomous spines",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Lionfish?",
+      "a": [
+        "reefs",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

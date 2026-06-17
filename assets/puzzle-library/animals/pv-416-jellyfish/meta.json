@@ -1,0 +1,50 @@
+{
+  "id": "pv-416-jellyfish",
+  "levelNumber": 416,
+  "title": "Jellyfish",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "cnidarian",
+  "educationalFact": "Jellyfish is connected with stinging cells.",
+  "contextFact": "Important context: oceans.",
+  "pieces": 436,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-416-jellyfish/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-416-jellyfish/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Jellyfish",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Jellyfish?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Jellyfish is especially connected with what?",
+      "a": [
+        "stinging cells",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Jellyfish?",
+      "a": [
+        "oceans",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

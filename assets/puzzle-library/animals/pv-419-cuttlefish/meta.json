@@ -1,0 +1,50 @@
+{
+  "id": "pv-419-cuttlefish",
+  "levelNumber": 419,
+  "title": "Cuttlefish",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "mollusk",
+  "educationalFact": "Cuttlefish is connected with camouflage master.",
+  "contextFact": "Important context: seas.",
+  "pieces": 439,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-419-cuttlefish/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-419-cuttlefish/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Cuttlefish",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Cuttlefish?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Cuttlefish is especially connected with what?",
+      "a": [
+        "camouflage master",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Cuttlefish?",
+      "a": [
+        "seas",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pv-418-portuguese-man-o-war",
+  "levelNumber": 418,
+  "title": "Portuguese Man o War",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "cnidarian colony",
+  "educationalFact": "Portuguese Man o War is connected with floating siphonophore.",
+  "contextFact": "Important context: ocean surface.",
+  "pieces": 438,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-418-portuguese-man-o-war/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-418-portuguese-man-o-war/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Portuguese%20Man%20o%20War",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Portuguese Man o War?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Portuguese Man o War is especially connected with what?",
+      "a": [
+        "floating siphonophore",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Portuguese Man o War?",
+      "a": [
+        "ocean surface",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

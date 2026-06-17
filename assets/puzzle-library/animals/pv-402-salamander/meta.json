@@ -1,0 +1,50 @@
+{
+  "id": "pv-402-salamander",
+  "levelNumber": 402,
+  "title": "Salamander",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "amphibian",
+  "educationalFact": "Salamander is connected with moist skin.",
+  "contextFact": "Important context: forests.",
+  "pieces": 422,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-402-salamander/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-402-salamander/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Salamander",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Salamander?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Salamander is especially connected with what?",
+      "a": [
+        "moist skin",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Salamander?",
+      "a": [
+        "forests",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}
