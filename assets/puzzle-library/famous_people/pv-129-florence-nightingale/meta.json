@@ -1,0 +1,50 @@
+{
+  "id": "pv-129-florence-nightingale",
+  "levelNumber": 129,
+  "title": "Florence Nightingale",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "nursing",
+  "educationalFact": "Florence Nightingale is connected with modern nursing.",
+  "contextFact": "Important context: public health.",
+  "pieces": 138,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-129-florence-nightingale/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-129-florence-nightingale/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Florence%20Nightingale",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Florence Nightingale?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Florence Nightingale is especially connected with what?",
+      "a": [
+        "modern nursing",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Florence Nightingale?",
+      "a": [
+        "public health",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

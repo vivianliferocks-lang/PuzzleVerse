@@ -1,0 +1,50 @@
+{
+  "id": "pv-133-homer",
+  "levelNumber": 133,
+  "title": "Homer",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "literature",
+  "educationalFact": "Homer is connected with Iliad and Odyssey.",
+  "contextFact": "Important context: ancient epics.",
+  "pieces": 142,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-133-homer/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-133-homer/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Homer",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Homer?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Homer is especially connected with what?",
+      "a": [
+        "Iliad and Odyssey",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Homer?",
+      "a": [
+        "ancient epics",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

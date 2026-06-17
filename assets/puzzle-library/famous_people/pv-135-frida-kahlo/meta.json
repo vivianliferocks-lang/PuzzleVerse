@@ -1,0 +1,50 @@
+{
+  "id": "pv-135-frida-kahlo",
+  "levelNumber": 135,
+  "title": "Frida Kahlo",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "art",
+  "educationalFact": "Frida Kahlo is connected with self-portraits.",
+  "contextFact": "Important context: Mexican art.",
+  "pieces": 144,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-135-frida-kahlo/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-135-frida-kahlo/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Frida%20Kahlo",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Frida Kahlo?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Frida Kahlo is especially connected with what?",
+      "a": [
+        "self-portraits",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Frida Kahlo?",
+      "a": [
+        "Mexican art",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

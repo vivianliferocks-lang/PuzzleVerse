@@ -1,0 +1,50 @@
+{
+  "id": "pv-140-beethoven",
+  "levelNumber": 140,
+  "title": "Beethoven",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "music",
+  "educationalFact": "Beethoven is connected with symphonies.",
+  "contextFact": "Important context: classical composer.",
+  "pieces": 149,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-140-beethoven/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-140-beethoven/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Beethoven",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Beethoven?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Beethoven is especially connected with what?",
+      "a": [
+        "symphonies",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Beethoven?",
+      "a": [
+        "classical composer",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

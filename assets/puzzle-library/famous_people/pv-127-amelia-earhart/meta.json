@@ -1,0 +1,50 @@
+{
+  "id": "pv-127-amelia-earhart",
+  "levelNumber": 127,
+  "title": "Amelia Earhart",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "aviation",
+  "educationalFact": "Amelia Earhart is connected with solo flight achievements.",
+  "contextFact": "Important context: aviator.",
+  "pieces": 136,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-127-amelia-earhart/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-127-amelia-earhart/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Amelia%20Earhart",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Amelia Earhart?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Amelia Earhart is especially connected with what?",
+      "a": [
+        "solo flight achievements",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Amelia Earhart?",
+      "a": [
+        "aviator",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

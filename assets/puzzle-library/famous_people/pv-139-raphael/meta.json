@@ -1,0 +1,50 @@
+{
+  "id": "pv-139-raphael",
+  "levelNumber": 139,
+  "title": "Raphael",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "art",
+  "educationalFact": "Raphael is connected with High Renaissance.",
+  "contextFact": "Important context: paintings.",
+  "pieces": 148,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-139-raphael/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-139-raphael/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Raphael",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Raphael?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Raphael is especially connected with what?",
+      "a": [
+        "High Renaissance",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Raphael?",
+      "a": [
+        "paintings",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pv-132-william-shakespeare",
+  "levelNumber": 132,
+  "title": "William Shakespeare",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "literature",
+  "educationalFact": "William Shakespeare is connected with plays and sonnets.",
+  "contextFact": "Important context: English theatre.",
+  "pieces": 141,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-132-william-shakespeare/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-132-william-shakespeare/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=William%20Shakespeare",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches William Shakespeare?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "William Shakespeare is especially connected with what?",
+      "a": [
+        "plays and sonnets",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to William Shakespeare?",
+      "a": [
+        "English theatre",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pv-128-wright-brothers",
+  "levelNumber": 128,
+  "title": "Wright Brothers",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "aviation",
+  "educationalFact": "Wright Brothers is connected with powered flight.",
+  "contextFact": "Important context: Kitty Hawk.",
+  "pieces": 137,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-128-wright-brothers/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-128-wright-brothers/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Wright%20Brothers",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Wright Brothers?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Wright Brothers is especially connected with what?",
+      "a": [
+        "powered flight",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Wright Brothers?",
+      "a": [
+        "Kitty Hawk",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

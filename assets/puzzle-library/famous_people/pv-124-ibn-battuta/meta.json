@@ -1,0 +1,50 @@
+{
+  "id": "pv-124-ibn-battuta",
+  "levelNumber": 124,
+  "title": "Ibn Battuta",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "exploration",
+  "educationalFact": "Ibn Battuta is connected with world travels.",
+  "contextFact": "Important context: travel writing.",
+  "pieces": 132,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-124-ibn-battuta/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-124-ibn-battuta/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Ibn%20Battuta",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Ibn Battuta?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Ibn Battuta is especially connected with what?",
+      "a": [
+        "world travels",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Ibn Battuta?",
+      "a": [
+        "travel writing",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

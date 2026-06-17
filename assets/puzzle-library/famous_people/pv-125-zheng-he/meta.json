@@ -1,0 +1,50 @@
+{
+  "id": "pv-125-zheng-he",
+  "levelNumber": 125,
+  "title": "Zheng He",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "exploration",
+  "educationalFact": "Zheng He is connected with treasure voyages.",
+  "contextFact": "Important context: Ming China.",
+  "pieces": 134,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-125-zheng-he/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-125-zheng-he/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Zheng%20He",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Zheng He?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Zheng He is especially connected with what?",
+      "a": [
+        "treasure voyages",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Zheng He?",
+      "a": [
+        "Ming China",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

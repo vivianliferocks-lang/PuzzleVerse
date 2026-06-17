@@ -1,0 +1,50 @@
+{
+  "id": "pv-131-rabindranath-tagore",
+  "levelNumber": 131,
+  "title": "Rabindranath Tagore",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "literature",
+  "educationalFact": "Rabindranath Tagore is connected with Gitanjali.",
+  "contextFact": "Important context: Nobel Prize.",
+  "pieces": 140,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-131-rabindranath-tagore/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-131-rabindranath-tagore/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Rabindranath%20Tagore",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Rabindranath Tagore?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Rabindranath Tagore is especially connected with what?",
+      "a": [
+        "Gitanjali",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Rabindranath Tagore?",
+      "a": [
+        "Nobel Prize",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

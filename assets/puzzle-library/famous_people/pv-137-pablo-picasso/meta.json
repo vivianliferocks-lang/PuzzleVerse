@@ -1,0 +1,50 @@
+{
+  "id": "pv-137-pablo-picasso",
+  "levelNumber": 137,
+  "title": "Pablo Picasso",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "art",
+  "educationalFact": "Pablo Picasso is connected with Cubism.",
+  "contextFact": "Important context: modern art.",
+  "pieces": 146,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-137-pablo-picasso/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-137-pablo-picasso/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Pablo%20Picasso",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Pablo Picasso?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Pablo Picasso is especially connected with what?",
+      "a": [
+        "Cubism",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Pablo Picasso?",
+      "a": [
+        "modern art",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

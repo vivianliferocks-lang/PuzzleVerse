@@ -1,0 +1,50 @@
+{
+  "id": "pv-134-murasaki-shikibu",
+  "levelNumber": 134,
+  "title": "Murasaki Shikibu",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "literature",
+  "educationalFact": "Murasaki Shikibu is connected with The Tale of Genji.",
+  "contextFact": "Important context: Heian Japan.",
+  "pieces": 143,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-134-murasaki-shikibu/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-134-murasaki-shikibu/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Murasaki%20Shikibu",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Murasaki Shikibu?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Murasaki Shikibu is especially connected with what?",
+      "a": [
+        "The Tale of Genji",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Murasaki Shikibu?",
+      "a": [
+        "Heian Japan",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pv-136-vincent-van-gogh",
+  "levelNumber": 136,
+  "title": "Vincent van Gogh",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "art",
+  "educationalFact": "Vincent van Gogh is connected with Post-Impressionism.",
+  "contextFact": "Important context: Starry Night.",
+  "pieces": 145,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-136-vincent-van-gogh/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-136-vincent-van-gogh/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Vincent%20van%20Gogh",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Vincent van Gogh?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Vincent van Gogh is especially connected with what?",
+      "a": [
+        "Post-Impressionism",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Vincent van Gogh?",
+      "a": [
+        "Starry Night",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

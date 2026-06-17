@@ -1,0 +1,50 @@
+{
+  "id": "pv-123-ibn-sina",
+  "levelNumber": 123,
+  "title": "Ibn Sina",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "medicine and philosophy",
+  "educationalFact": "Ibn Sina is connected with Canon of Medicine.",
+  "contextFact": "Important context: Islamic Golden Age.",
+  "pieces": 131,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-123-ibn-sina/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-123-ibn-sina/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Ibn%20Sina",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Ibn Sina?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Ibn Sina is especially connected with what?",
+      "a": [
+        "Canon of Medicine",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Ibn Sina?",
+      "a": [
+        "Islamic Golden Age",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

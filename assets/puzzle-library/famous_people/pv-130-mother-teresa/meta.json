@@ -1,0 +1,50 @@
+{
+  "id": "pv-130-mother-teresa",
+  "levelNumber": 130,
+  "title": "Mother Teresa",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "humanitarian work",
+  "educationalFact": "Mother Teresa is connected with service to poor.",
+  "contextFact": "Important context: Kolkata.",
+  "pieces": 139,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-130-mother-teresa/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-130-mother-teresa/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Mother%20Teresa",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Mother Teresa?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Mother Teresa is especially connected with what?",
+      "a": [
+        "service to poor",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Mother Teresa?",
+      "a": [
+        "Kolkata",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

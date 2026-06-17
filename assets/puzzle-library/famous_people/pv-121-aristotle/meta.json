@@ -1,0 +1,50 @@
+{
+  "id": "pv-121-aristotle",
+  "levelNumber": 121,
+  "title": "Aristotle",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "philosophy and science",
+  "educationalFact": "Aristotle is connected with logic and biology.",
+  "contextFact": "Important context: ancient Greece.",
+  "pieces": 129,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-121-aristotle/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-121-aristotle/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Aristotle",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Aristotle?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Aristotle is especially connected with what?",
+      "a": [
+        "logic and biology",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Aristotle?",
+      "a": [
+        "ancient Greece",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}
