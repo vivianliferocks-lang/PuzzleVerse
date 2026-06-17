@@ -1,0 +1,13 @@
+{
+  "name": "puzzleverse-jigsaw-creator",
+  "version": "0.1.0",
+  "description": "GitHub Pages-ready prototype for a competitive jigsaw puzzle creator game.",
+  "private": true,
+  "scripts": {
+    "start": "python3 -m http.server 8080",
+    "serve": "python3 -m http.server 8080"
+  },
+  "keywords": ["jigsaw", "puzzle", "ugc", "trivia", "leaderboard", "html5-game"],
+  "author": "Wolfpack Animation Studio prototype",
+  "license": "MIT"
+}
