@@ -1,16 +1,9 @@
-# Attribution
+# Florence Nightingale
 
-Puzzle: Florence Nightingale
-Level ID: pv-129-florence-nightingale
-
-Source: wikipedia-pageimage
-File/title: Florence Nightingale
-Image URL: https://upload.wikimedia.org/wikipedia/commons/a/ab/Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg
-Credit/artist: Wikimedia Commons / Wikipedia contributor
-License: Check source page
-License URL: Check source page
-
-Curation warning: none
-Curation score: 140.0
-
-Review before commercial publishing. Replace if the image is not an accurate match.
+- Source: wikidata-P18
+- File: File:Florence Nightingale (H Hering NPG x82368).jpg
+- URL: https://upload.wikimedia.org/wikipedia/commons/a/ab/Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg
+- Artist: Henry Hering (1814-1893)
+- Credit: NPG x82368  from National Portrait Gallery, London
+- License: Public domain
+- Warning: none
