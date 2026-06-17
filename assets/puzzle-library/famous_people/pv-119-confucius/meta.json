@@ -1,0 +1,50 @@
+{
+  "id": "pv-119-confucius",
+  "levelNumber": 119,
+  "title": "Confucius",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "philosophy",
+  "educationalFact": "Confucius is connected with ethics and society.",
+  "contextFact": "Important context: China.",
+  "pieces": 127,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-119-confucius/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-119-confucius/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Confucius",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Confucius?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Confucius is especially connected with what?",
+      "a": [
+        "ethics and society",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Confucius?",
+      "a": [
+        "China",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

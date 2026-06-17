@@ -1,0 +1,50 @@
+{
+  "id": "pv-118-chanakya",
+  "levelNumber": 118,
+  "title": "Chanakya",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "ancient India",
+  "educationalFact": "Chanakya is connected with political strategy.",
+  "contextFact": "Important context: Arthashastra.",
+  "pieces": 126,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-118-chanakya/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-118-chanakya/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Chanakya",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Chanakya?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Chanakya is especially connected with what?",
+      "a": [
+        "political strategy",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Chanakya?",
+      "a": [
+        "Arthashastra",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

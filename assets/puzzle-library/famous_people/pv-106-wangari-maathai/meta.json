@@ -1,0 +1,50 @@
+{
+  "id": "pv-106-wangari-maathai",
+  "levelNumber": 106,
+  "title": "Wangari Maathai",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "environment",
+  "educationalFact": "Wangari Maathai is connected with Green Belt Movement.",
+  "contextFact": "Important context: Nobel Peace Prize.",
+  "pieces": 114,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-106-wangari-maathai/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-106-wangari-maathai/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Wangari%20Maathai",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Wangari Maathai?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Wangari Maathai is especially connected with what?",
+      "a": [
+        "Green Belt Movement",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Wangari Maathai?",
+      "a": [
+        "Nobel Peace Prize",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

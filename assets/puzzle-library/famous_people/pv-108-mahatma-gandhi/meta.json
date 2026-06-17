@@ -1,0 +1,50 @@
+{
+  "id": "pv-108-mahatma-gandhi",
+  "levelNumber": 108,
+  "title": "Mahatma Gandhi",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "freedom movement",
+  "educationalFact": "Mahatma Gandhi is connected with nonviolent resistance.",
+  "contextFact": "Important context: India.",
+  "pieces": 116,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-108-mahatma-gandhi/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-108-mahatma-gandhi/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Mahatma%20Gandhi",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Mahatma Gandhi?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Mahatma Gandhi is especially connected with what?",
+      "a": [
+        "nonviolent resistance",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Mahatma Gandhi?",
+      "a": [
+        "India",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

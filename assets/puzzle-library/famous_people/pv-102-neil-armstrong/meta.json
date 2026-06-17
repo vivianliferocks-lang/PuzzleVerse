@@ -1,0 +1,50 @@
+{
+  "id": "pv-102-neil-armstrong",
+  "levelNumber": 102,
+  "title": "Neil Armstrong",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "space exploration",
+  "educationalFact": "Neil Armstrong is connected with first Moon walk.",
+  "contextFact": "Important context: Apollo 11.",
+  "pieces": 110,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-102-neil-armstrong/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-102-neil-armstrong/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Neil%20Armstrong",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Neil Armstrong?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Neil Armstrong is especially connected with what?",
+      "a": [
+        "first Moon walk",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Neil Armstrong?",
+      "a": [
+        "Apollo 11",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

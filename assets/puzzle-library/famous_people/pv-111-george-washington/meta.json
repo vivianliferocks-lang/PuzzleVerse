@@ -1,0 +1,50 @@
+{
+  "id": "pv-111-george-washington",
+  "levelNumber": 111,
+  "title": "George Washington",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "leadership",
+  "educationalFact": "George Washington is connected with first US president.",
+  "contextFact": "Important context: American Revolution.",
+  "pieces": 119,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-111-george-washington/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-111-george-washington/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=George%20Washington",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches George Washington?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "George Washington is especially connected with what?",
+      "a": [
+        "first US president",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to George Washington?",
+      "a": [
+        "American Revolution",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

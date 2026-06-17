@@ -1,0 +1,50 @@
+{
+  "id": "pv-110-abraham-lincoln",
+  "levelNumber": 110,
+  "title": "Abraham Lincoln",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "leadership",
+  "educationalFact": "Abraham Lincoln is connected with US Civil War presidency.",
+  "contextFact": "Important context: emancipation.",
+  "pieces": 118,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-110-abraham-lincoln/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-110-abraham-lincoln/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Abraham%20Lincoln",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Abraham Lincoln?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Abraham Lincoln is especially connected with what?",
+      "a": [
+        "US Civil War presidency",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Abraham Lincoln?",
+      "a": [
+        "emancipation",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

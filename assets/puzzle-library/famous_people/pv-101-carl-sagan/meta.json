@@ -1,0 +1,50 @@
+{
+  "id": "pv-101-carl-sagan",
+  "levelNumber": 101,
+  "title": "Carl Sagan",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "astronomy communication",
+  "educationalFact": "Carl Sagan is connected with Cosmos.",
+  "contextFact": "Important context: science education.",
+  "pieces": 109,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-101-carl-sagan/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-101-carl-sagan/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Carl%20Sagan",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Carl Sagan?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Carl Sagan is especially connected with what?",
+      "a": [
+        "Cosmos",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Carl Sagan?",
+      "a": [
+        "science education",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

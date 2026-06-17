@@ -1,0 +1,50 @@
+{
+  "id": "pv-114-ashoka",
+  "levelNumber": 114,
+  "title": "Ashoka",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "ancient India",
+  "educationalFact": "Ashoka is connected with Mauryan emperor.",
+  "contextFact": "Important context: Buddhist patronage.",
+  "pieces": 122,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-114-ashoka/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-114-ashoka/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Ashoka",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Ashoka?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Ashoka is especially connected with what?",
+      "a": [
+        "Mauryan emperor",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Ashoka?",
+      "a": [
+        "Buddhist patronage",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

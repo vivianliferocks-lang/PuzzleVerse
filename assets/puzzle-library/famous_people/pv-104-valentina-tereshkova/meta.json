@@ -1,0 +1,50 @@
+{
+  "id": "pv-104-valentina-tereshkova",
+  "levelNumber": 104,
+  "title": "Valentina Tereshkova",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "space exploration",
+  "educationalFact": "Valentina Tereshkova is connected with first woman in space.",
+  "contextFact": "Important context: Vostok 6.",
+  "pieces": 112,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-104-valentina-tereshkova/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-104-valentina-tereshkova/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Valentina%20Tereshkova",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Valentina Tereshkova?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Valentina Tereshkova is especially connected with what?",
+      "a": [
+        "first woman in space",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Valentina Tereshkova?",
+      "a": [
+        "Vostok 6",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

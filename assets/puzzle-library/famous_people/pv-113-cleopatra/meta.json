@@ -1,0 +1,50 @@
+{
+  "id": "pv-113-cleopatra",
+  "levelNumber": 113,
+  "title": "Cleopatra",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "ancient history",
+  "educationalFact": "Cleopatra is connected with Ptolemaic Egypt.",
+  "contextFact": "Important context: last active pharaoh.",
+  "pieces": 121,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-113-cleopatra/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-113-cleopatra/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Cleopatra",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Cleopatra?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Cleopatra is especially connected with what?",
+      "a": [
+        "Ptolemaic Egypt",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Cleopatra?",
+      "a": [
+        "last active pharaoh",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pv-103-yuri-gagarin",
+  "levelNumber": 103,
+  "title": "Yuri Gagarin",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "space exploration",
+  "educationalFact": "Yuri Gagarin is connected with first human in space.",
+  "contextFact": "Important context: Vostok 1.",
+  "pieces": 111,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-103-yuri-gagarin/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-103-yuri-gagarin/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Yuri%20Gagarin",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Yuri Gagarin?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Yuri Gagarin is especially connected with what?",
+      "a": [
+        "first human in space",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Yuri Gagarin?",
+      "a": [
+        "Vostok 1",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

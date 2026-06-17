@@ -1,0 +1,50 @@
+{
+  "id": "pv-117-tipu-sultan",
+  "levelNumber": 117,
+  "title": "Tipu Sultan",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "Indian history",
+  "educationalFact": "Tipu Sultan is connected with Mysore ruler.",
+  "contextFact": "Important context: rockets and resistance.",
+  "pieces": 125,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-117-tipu-sultan/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-117-tipu-sultan/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Tipu%20Sultan",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Tipu Sultan?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Tipu Sultan is especially connected with what?",
+      "a": [
+        "Mysore ruler",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Tipu Sultan?",
+      "a": [
+        "rockets and resistance",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

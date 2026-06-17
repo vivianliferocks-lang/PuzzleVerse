@@ -1,0 +1,50 @@
+{
+  "id": "pv-109-martin-luther-king-jr",
+  "levelNumber": 109,
+  "title": "Martin Luther King Jr",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "civil rights",
+  "educationalFact": "Martin Luther King Jr is connected with nonviolent activism.",
+  "contextFact": "Important context: I Have a Dream.",
+  "pieces": 117,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-109-martin-luther-king-jr/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-109-martin-luther-king-jr/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Martin%20Luther%20King%20Jr",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Martin Luther King Jr?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Martin Luther King Jr is especially connected with what?",
+      "a": [
+        "nonviolent activism",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Martin Luther King Jr?",
+      "a": [
+        "I Have a Dream",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

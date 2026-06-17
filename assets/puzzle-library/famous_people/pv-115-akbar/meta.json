@@ -1,0 +1,50 @@
+{
+  "id": "pv-115-akbar",
+  "levelNumber": 115,
+  "title": "Akbar",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "Mughal history",
+  "educationalFact": "Akbar is connected with administration and tolerance.",
+  "contextFact": "Important context: Mughal emperor.",
+  "pieces": 123,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-115-akbar/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-115-akbar/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Akbar",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Akbar?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Akbar is especially connected with what?",
+      "a": [
+        "administration and tolerance",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Akbar?",
+      "a": [
+        "Mughal emperor",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

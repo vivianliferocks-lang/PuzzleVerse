@@ -1,0 +1,50 @@
+{
+  "id": "pv-120-socrates",
+  "levelNumber": 120,
+  "title": "Socrates",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "philosophy",
+  "educationalFact": "Socrates is connected with questioning method.",
+  "contextFact": "Important context: ancient Greece.",
+  "pieces": 128,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-120-socrates/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-120-socrates/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Socrates",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Socrates?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Socrates is especially connected with what?",
+      "a": [
+        "questioning method",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Socrates?",
+      "a": [
+        "ancient Greece",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

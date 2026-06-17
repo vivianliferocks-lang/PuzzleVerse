@@ -1,0 +1,50 @@
+{
+  "id": "pv-112-queen-elizabeth-i",
+  "levelNumber": 112,
+  "title": "Queen Elizabeth I",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "history",
+  "educationalFact": "Queen Elizabeth I is connected with Tudor monarchy.",
+  "contextFact": "Important context: England.",
+  "pieces": 120,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-112-queen-elizabeth-i/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-112-queen-elizabeth-i/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Queen%20Elizabeth%20I",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Queen Elizabeth I?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Queen Elizabeth I is especially connected with what?",
+      "a": [
+        "Tudor monarchy",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Queen Elizabeth I?",
+      "a": [
+        "England",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}
