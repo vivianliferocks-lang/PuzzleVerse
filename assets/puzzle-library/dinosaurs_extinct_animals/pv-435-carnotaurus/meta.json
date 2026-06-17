@@ -1,0 +1,50 @@
+{
+  "id": "pv-435-carnotaurus",
+  "levelNumber": 435,
+  "title": "Carnotaurus",
+  "theme": "Dinosaurs & Extinct Animals",
+  "category": "dinosaurs_extinct_animals",
+  "subtype": "theropod dinosaur",
+  "educationalFact": "Carnotaurus is connected with bull-like horns.",
+  "contextFact": "Important context: Late Cretaceous.",
+  "pieces": 456,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/dinosaurs_extinct_animals/pv-435-carnotaurus/placeholder.svg",
+  "localImage": "assets/puzzle-library/dinosaurs_extinct_animals/pv-435-carnotaurus/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Carnotaurus",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Carnotaurus?",
+      "a": [
+        "Dinosaurs & Extinct Animals",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Carnotaurus is especially connected with what?",
+      "a": [
+        "bull-like horns",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Carnotaurus?",
+      "a": [
+        "Late Cretaceous",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

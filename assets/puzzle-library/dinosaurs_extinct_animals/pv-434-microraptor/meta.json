@@ -1,0 +1,50 @@
+{
+  "id": "pv-434-microraptor",
+  "levelNumber": 434,
+  "title": "Microraptor",
+  "theme": "Dinosaurs & Extinct Animals",
+  "category": "dinosaurs_extinct_animals",
+  "subtype": "small feathered dinosaur",
+  "educationalFact": "Microraptor is connected with four-winged form.",
+  "contextFact": "Important context: Early Cretaceous.",
+  "pieces": 455,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/dinosaurs_extinct_animals/pv-434-microraptor/placeholder.svg",
+  "localImage": "assets/puzzle-library/dinosaurs_extinct_animals/pv-434-microraptor/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Microraptor",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Microraptor?",
+      "a": [
+        "Dinosaurs & Extinct Animals",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Microraptor is especially connected with what?",
+      "a": [
+        "four-winged form",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Microraptor?",
+      "a": [
+        "Early Cretaceous",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

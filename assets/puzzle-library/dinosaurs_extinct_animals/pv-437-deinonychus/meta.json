@@ -1,0 +1,50 @@
+{
+  "id": "pv-437-deinonychus",
+  "levelNumber": 437,
+  "title": "Deinonychus",
+  "theme": "Dinosaurs & Extinct Animals",
+  "category": "dinosaurs_extinct_animals",
+  "subtype": "theropod dinosaur",
+  "educationalFact": "Deinonychus is connected with sickle claw.",
+  "contextFact": "Important context: Early Cretaceous.",
+  "pieces": 458,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/dinosaurs_extinct_animals/pv-437-deinonychus/placeholder.svg",
+  "localImage": "assets/puzzle-library/dinosaurs_extinct_animals/pv-437-deinonychus/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Deinonychus",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Deinonychus?",
+      "a": [
+        "Dinosaurs & Extinct Animals",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Deinonychus is especially connected with what?",
+      "a": [
+        "sickle claw",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Deinonychus?",
+      "a": [
+        "Early Cretaceous",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pv-427-spinosaurus",
+  "levelNumber": 427,
+  "title": "Spinosaurus",
+  "theme": "Dinosaurs & Extinct Animals",
+  "category": "dinosaurs_extinct_animals",
+  "subtype": "theropod dinosaur",
+  "educationalFact": "Spinosaurus is connected with sail-like spine.",
+  "contextFact": "Important context: Cretaceous.",
+  "pieces": 448,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/dinosaurs_extinct_animals/pv-427-spinosaurus/placeholder.svg",
+  "localImage": "assets/puzzle-library/dinosaurs_extinct_animals/pv-427-spinosaurus/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Spinosaurus",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Spinosaurus?",
+      "a": [
+        "Dinosaurs & Extinct Animals",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Spinosaurus is especially connected with what?",
+      "a": [
+        "sail-like spine",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Spinosaurus?",
+      "a": [
+        "Cretaceous",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

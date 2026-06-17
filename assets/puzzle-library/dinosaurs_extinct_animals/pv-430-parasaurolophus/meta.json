@@ -1,0 +1,50 @@
+{
+  "id": "pv-430-parasaurolophus",
+  "levelNumber": 430,
+  "title": "Parasaurolophus",
+  "theme": "Dinosaurs & Extinct Animals",
+  "category": "dinosaurs_extinct_animals",
+  "subtype": "hadrosaur dinosaur",
+  "educationalFact": "Parasaurolophus is connected with long crest.",
+  "contextFact": "Important context: Late Cretaceous.",
+  "pieces": 451,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/dinosaurs_extinct_animals/pv-430-parasaurolophus/placeholder.svg",
+  "localImage": "assets/puzzle-library/dinosaurs_extinct_animals/pv-430-parasaurolophus/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Parasaurolophus",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Parasaurolophus?",
+      "a": [
+        "Dinosaurs & Extinct Animals",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Parasaurolophus is especially connected with what?",
+      "a": [
+        "long crest",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Parasaurolophus?",
+      "a": [
+        "Late Cretaceous",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

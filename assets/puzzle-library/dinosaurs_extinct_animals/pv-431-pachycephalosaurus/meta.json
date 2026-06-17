@@ -1,0 +1,50 @@
+{
+  "id": "pv-431-pachycephalosaurus",
+  "levelNumber": 431,
+  "title": "Pachycephalosaurus",
+  "theme": "Dinosaurs & Extinct Animals",
+  "category": "dinosaurs_extinct_animals",
+  "subtype": "dome-headed dinosaur",
+  "educationalFact": "Pachycephalosaurus is connected with thick skull.",
+  "contextFact": "Important context: Late Cretaceous.",
+  "pieces": 452,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/dinosaurs_extinct_animals/pv-431-pachycephalosaurus/placeholder.svg",
+  "localImage": "assets/puzzle-library/dinosaurs_extinct_animals/pv-431-pachycephalosaurus/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Pachycephalosaurus",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Pachycephalosaurus?",
+      "a": [
+        "Dinosaurs & Extinct Animals",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Pachycephalosaurus is especially connected with what?",
+      "a": [
+        "thick skull",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Pachycephalosaurus?",
+      "a": [
+        "Late Cretaceous",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

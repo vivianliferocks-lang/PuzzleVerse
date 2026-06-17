@@ -1,0 +1,50 @@
+{
+  "id": "pv-421-tyrannosaurus-rex",
+  "levelNumber": 421,
+  "title": "Tyrannosaurus rex",
+  "theme": "Dinosaurs & Extinct Animals",
+  "category": "dinosaurs_extinct_animals",
+  "subtype": "theropod dinosaur",
+  "educationalFact": "Tyrannosaurus rex is connected with powerful jaws.",
+  "contextFact": "Important context: Late Cretaceous.",
+  "pieces": 441,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/dinosaurs_extinct_animals/pv-421-tyrannosaurus-rex/placeholder.svg",
+  "localImage": "assets/puzzle-library/dinosaurs_extinct_animals/pv-421-tyrannosaurus-rex/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Tyrannosaurus%20rex",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Tyrannosaurus rex?",
+      "a": [
+        "Dinosaurs & Extinct Animals",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Tyrannosaurus rex is especially connected with what?",
+      "a": [
+        "powerful jaws",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Tyrannosaurus rex?",
+      "a": [
+        "Late Cretaceous",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

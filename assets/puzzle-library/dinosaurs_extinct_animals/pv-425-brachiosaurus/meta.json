@@ -1,0 +1,50 @@
+{
+  "id": "pv-425-brachiosaurus",
+  "levelNumber": 425,
+  "title": "Brachiosaurus",
+  "theme": "Dinosaurs & Extinct Animals",
+  "category": "dinosaurs_extinct_animals",
+  "subtype": "sauropod dinosaur",
+  "educationalFact": "Brachiosaurus is connected with long neck.",
+  "contextFact": "Important context: Late Jurassic.",
+  "pieces": 446,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/dinosaurs_extinct_animals/pv-425-brachiosaurus/placeholder.svg",
+  "localImage": "assets/puzzle-library/dinosaurs_extinct_animals/pv-425-brachiosaurus/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Brachiosaurus",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Brachiosaurus?",
+      "a": [
+        "Dinosaurs & Extinct Animals",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Brachiosaurus is especially connected with what?",
+      "a": [
+        "long neck",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Brachiosaurus?",
+      "a": [
+        "Late Jurassic",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}
