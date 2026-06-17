@@ -1,0 +1,50 @@
+{
+  "id": "pv-342-sea-urchin",
+  "levelNumber": 342,
+  "title": "Sea Urchin",
+  "theme": "Small Critters",
+  "category": "small_critters",
+  "subtype": "echinoderm",
+  "educationalFact": "Sea Urchin is connected with spiny body.",
+  "contextFact": "Important context: grazing.",
+  "pieces": 359,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/small_critters/pv-342-sea-urchin/placeholder.svg",
+  "localImage": "assets/puzzle-library/small_critters/pv-342-sea-urchin/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Sea%20Urchin",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Sea Urchin?",
+      "a": [
+        "Small Critters",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Sea Urchin is especially connected with what?",
+      "a": [
+        "spiny body",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Sea Urchin?",
+      "a": [
+        "grazing",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

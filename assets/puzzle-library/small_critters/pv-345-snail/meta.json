@@ -1,0 +1,50 @@
+{
+  "id": "pv-345-snail",
+  "levelNumber": 345,
+  "title": "Snail",
+  "theme": "Small Critters",
+  "category": "small_critters",
+  "subtype": "mollusk",
+  "educationalFact": "Snail is connected with spiral shell.",
+  "contextFact": "Important context: radula.",
+  "pieces": 362,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/small_critters/pv-345-snail/placeholder.svg",
+  "localImage": "assets/puzzle-library/small_critters/pv-345-snail/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Snail",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Snail?",
+      "a": [
+        "Small Critters",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Snail is especially connected with what?",
+      "a": [
+        "spiral shell",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Snail?",
+      "a": [
+        "radula",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

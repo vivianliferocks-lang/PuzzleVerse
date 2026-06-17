@@ -1,0 +1,50 @@
+{
+  "id": "pv-341-brittle-star",
+  "levelNumber": 341,
+  "title": "Brittle Star",
+  "theme": "Small Critters",
+  "category": "small_critters",
+  "subtype": "echinoderm",
+  "educationalFact": "Brittle Star is connected with flexible arms.",
+  "contextFact": "Important context: seafloor.",
+  "pieces": 358,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/small_critters/pv-341-brittle-star/placeholder.svg",
+  "localImage": "assets/puzzle-library/small_critters/pv-341-brittle-star/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Brittle%20Star",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Brittle Star?",
+      "a": [
+        "Small Critters",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Brittle Star is especially connected with what?",
+      "a": [
+        "flexible arms",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Brittle Star?",
+      "a": [
+        "seafloor",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

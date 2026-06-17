@@ -1,0 +1,50 @@
+{
+  "id": "pv-347-cuttlefish",
+  "levelNumber": 347,
+  "title": "Cuttlefish",
+  "theme": "Small Critters",
+  "category": "small_critters",
+  "subtype": "mollusk",
+  "educationalFact": "Cuttlefish is connected with color-changing skin.",
+  "contextFact": "Important context: camouflage.",
+  "pieces": 364,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/small_critters/pv-347-cuttlefish/placeholder.svg",
+  "localImage": "assets/puzzle-library/small_critters/pv-347-cuttlefish/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Cuttlefish",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Cuttlefish?",
+      "a": [
+        "Small Critters",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Cuttlefish is especially connected with what?",
+      "a": [
+        "color-changing skin",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Cuttlefish?",
+      "a": [
+        "camouflage",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

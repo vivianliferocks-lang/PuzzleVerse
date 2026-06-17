@@ -1,0 +1,50 @@
+{
+  "id": "pv-333-copepod",
+  "levelNumber": 333,
+  "title": "Copepod",
+  "theme": "Small Critters",
+  "category": "small_critters",
+  "subtype": "crustacean",
+  "educationalFact": "Copepod is connected with tiny plankton.",
+  "contextFact": "Important context: food webs.",
+  "pieces": 350,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/small_critters/pv-333-copepod/placeholder.svg",
+  "localImage": "assets/puzzle-library/small_critters/pv-333-copepod/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Copepod",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Copepod?",
+      "a": [
+        "Small Critters",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Copepod is especially connected with what?",
+      "a": [
+        "tiny plankton",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Copepod?",
+      "a": [
+        "food webs",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

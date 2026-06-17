@@ -1,0 +1,50 @@
+{
+  "id": "pv-335-water-bear-tardigrade",
+  "levelNumber": 335,
+  "title": "Water Bear Tardigrade",
+  "theme": "Small Critters",
+  "category": "small_critters",
+  "subtype": "micro-animal",
+  "educationalFact": "Water Bear Tardigrade is connected with extreme survival.",
+  "contextFact": "Important context: microscopic.",
+  "pieces": 352,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/small_critters/pv-335-water-bear-tardigrade/placeholder.svg",
+  "localImage": "assets/puzzle-library/small_critters/pv-335-water-bear-tardigrade/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Water%20Bear%20Tardigrade",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Water Bear Tardigrade?",
+      "a": [
+        "Small Critters",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Water Bear Tardigrade is especially connected with what?",
+      "a": [
+        "extreme survival",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Water Bear Tardigrade?",
+      "a": [
+        "microscopic",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

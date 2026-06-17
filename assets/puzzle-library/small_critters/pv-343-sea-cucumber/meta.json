@@ -1,0 +1,50 @@
+{
+  "id": "pv-343-sea-cucumber",
+  "levelNumber": 343,
+  "title": "Sea Cucumber",
+  "theme": "Small Critters",
+  "category": "small_critters",
+  "subtype": "echinoderm",
+  "educationalFact": "Sea Cucumber is connected with soft elongated body.",
+  "contextFact": "Important context: sediment cleaning.",
+  "pieces": 360,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/small_critters/pv-343-sea-cucumber/placeholder.svg",
+  "localImage": "assets/puzzle-library/small_critters/pv-343-sea-cucumber/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Sea%20Cucumber",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Sea Cucumber?",
+      "a": [
+        "Small Critters",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Sea Cucumber is especially connected with what?",
+      "a": [
+        "soft elongated body",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Sea Cucumber?",
+      "a": [
+        "sediment cleaning",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

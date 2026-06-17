@@ -1,0 +1,50 @@
+{
+  "id": "pv-350-seahorse",
+  "levelNumber": 350,
+  "title": "Seahorse",
+  "theme": "Small Critters",
+  "category": "small_critters",
+  "subtype": "fish",
+  "educationalFact": "Seahorse is connected with male pregnancy.",
+  "contextFact": "Important context: seagrass.",
+  "pieces": 368,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/small_critters/pv-350-seahorse/placeholder.svg",
+  "localImage": "assets/puzzle-library/small_critters/pv-350-seahorse/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Seahorse",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Seahorse?",
+      "a": [
+        "Small Critters",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Seahorse is especially connected with what?",
+      "a": [
+        "male pregnancy",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Seahorse?",
+      "a": [
+        "seagrass",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

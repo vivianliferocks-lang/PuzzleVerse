@@ -1,0 +1,50 @@
+{
+  "id": "pv-349-clownfish",
+  "levelNumber": 349,
+  "title": "Clownfish",
+  "theme": "Small Critters",
+  "category": "small_critters",
+  "subtype": "reef fish",
+  "educationalFact": "Clownfish is connected with anemone partnership.",
+  "contextFact": "Important context: coral reefs.",
+  "pieces": 366,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/small_critters/pv-349-clownfish/placeholder.svg",
+  "localImage": "assets/puzzle-library/small_critters/pv-349-clownfish/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Clownfish",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Clownfish?",
+      "a": [
+        "Small Critters",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Clownfish is especially connected with what?",
+      "a": [
+        "anemone partnership",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Clownfish?",
+      "a": [
+        "coral reefs",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

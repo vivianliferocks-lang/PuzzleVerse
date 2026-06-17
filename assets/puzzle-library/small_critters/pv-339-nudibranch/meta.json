@@ -1,0 +1,50 @@
+{
+  "id": "pv-339-nudibranch",
+  "levelNumber": 339,
+  "title": "Nudibranch",
+  "theme": "Small Critters",
+  "category": "small_critters",
+  "subtype": "sea slug",
+  "educationalFact": "Nudibranch is connected with bright colors.",
+  "contextFact": "Important context: chemical defense.",
+  "pieces": 356,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/small_critters/pv-339-nudibranch/placeholder.svg",
+  "localImage": "assets/puzzle-library/small_critters/pv-339-nudibranch/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Nudibranch",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Nudibranch?",
+      "a": [
+        "Small Critters",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Nudibranch is especially connected with what?",
+      "a": [
+        "bright colors",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Nudibranch?",
+      "a": [
+        "chemical defense",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

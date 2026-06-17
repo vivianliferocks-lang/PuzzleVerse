@@ -1,0 +1,50 @@
+{
+  "id": "pv-348-nautilus",
+  "levelNumber": 348,
+  "title": "Nautilus",
+  "theme": "Small Critters",
+  "category": "small_critters",
+  "subtype": "mollusk",
+  "educationalFact": "Nautilus is connected with chambered shell.",
+  "contextFact": "Important context: ancient lineage.",
+  "pieces": 365,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/small_critters/pv-348-nautilus/placeholder.svg",
+  "localImage": "assets/puzzle-library/small_critters/pv-348-nautilus/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Nautilus",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Nautilus?",
+      "a": [
+        "Small Critters",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Nautilus is especially connected with what?",
+      "a": [
+        "chambered shell",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Nautilus?",
+      "a": [
+        "ancient lineage",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

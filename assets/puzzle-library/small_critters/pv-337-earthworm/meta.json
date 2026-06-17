@@ -1,0 +1,50 @@
+{
+  "id": "pv-337-earthworm",
+  "levelNumber": 337,
+  "title": "Earthworm",
+  "theme": "Small Critters",
+  "category": "small_critters",
+  "subtype": "annelid",
+  "educationalFact": "Earthworm is connected with soil aeration.",
+  "contextFact": "Important context: decomposition.",
+  "pieces": 354,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/small_critters/pv-337-earthworm/placeholder.svg",
+  "localImage": "assets/puzzle-library/small_critters/pv-337-earthworm/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Earthworm",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Earthworm?",
+      "a": [
+        "Small Critters",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Earthworm is especially connected with what?",
+      "a": [
+        "soil aeration",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Earthworm?",
+      "a": [
+        "decomposition",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}
