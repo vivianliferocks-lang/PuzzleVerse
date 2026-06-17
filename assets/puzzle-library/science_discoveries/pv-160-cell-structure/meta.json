@@ -1,0 +1,50 @@
+{
+  "id": "pv-160-cell-structure",
+  "levelNumber": 160,
+  "title": "Cell Structure",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "biology",
+  "educationalFact": "Cell Structure is connected with basic unit of life.",
+  "contextFact": "Important context: microscopy.",
+  "pieces": 170,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/science_discoveries/pv-160-cell-structure/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-160-cell-structure/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Cell%20Structure",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Cell Structure?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Cell Structure is especially connected with what?",
+      "a": [
+        "basic unit of life",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Cell Structure?",
+      "a": [
+        "microscopy",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

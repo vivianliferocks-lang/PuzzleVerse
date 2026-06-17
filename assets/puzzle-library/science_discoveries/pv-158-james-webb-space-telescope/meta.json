@@ -1,0 +1,50 @@
+{
+  "id": "pv-158-james-webb-space-telescope",
+  "levelNumber": 158,
+  "title": "James Webb Space Telescope",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "astronomy",
+  "educationalFact": "James Webb Space Telescope is connected with infrared space telescope.",
+  "contextFact": "Important context: early galaxies.",
+  "pieces": 168,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/science_discoveries/pv-158-james-webb-space-telescope/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-158-james-webb-space-telescope/image.jpg",
+  "sourceProvider": "NASA Image and Video Library",
+  "sourceSearchUrl": "https://images.nasa.gov/search-results?q=James%20Webb%20Space%20Telescope",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches James Webb Space Telescope?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "James Webb Space Telescope is especially connected with what?",
+      "a": [
+        "infrared space telescope",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to James Webb Space Telescope?",
+      "a": [
+        "early galaxies",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

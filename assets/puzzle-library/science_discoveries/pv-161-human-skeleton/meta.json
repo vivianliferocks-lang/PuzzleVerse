@@ -1,0 +1,50 @@
+{
+  "id": "pv-161-human-skeleton",
+  "levelNumber": 161,
+  "title": "Human Skeleton",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "biology",
+  "educationalFact": "Human Skeleton is connected with bone framework.",
+  "contextFact": "Important context: anatomy.",
+  "pieces": 171,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/science_discoveries/pv-161-human-skeleton/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-161-human-skeleton/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Human%20Skeleton",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Human Skeleton?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Human Skeleton is especially connected with what?",
+      "a": [
+        "bone framework",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Human Skeleton?",
+      "a": [
+        "anatomy",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

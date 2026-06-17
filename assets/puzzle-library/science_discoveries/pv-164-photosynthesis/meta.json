@@ -1,0 +1,50 @@
+{
+  "id": "pv-164-photosynthesis",
+  "levelNumber": 164,
+  "title": "Photosynthesis",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "biology",
+  "educationalFact": "Photosynthesis is connected with plants make food using light.",
+  "contextFact": "Important context: chlorophyll.",
+  "pieces": 174,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/science_discoveries/pv-164-photosynthesis/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-164-photosynthesis/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Photosynthesis",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Photosynthesis?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Photosynthesis is especially connected with what?",
+      "a": [
+        "plants make food using light",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Photosynthesis?",
+      "a": [
+        "chlorophyll",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pv-165-water-cycle",
+  "levelNumber": 165,
+  "title": "Water Cycle",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "earth science",
+  "educationalFact": "Water Cycle is connected with evaporation and rain.",
+  "contextFact": "Important context: climate.",
+  "pieces": 175,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/science_discoveries/pv-165-water-cycle/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-165-water-cycle/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Water%20Cycle",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Water Cycle?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Water Cycle is especially connected with what?",
+      "a": [
+        "evaporation and rain",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Water Cycle?",
+      "a": [
+        "climate",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

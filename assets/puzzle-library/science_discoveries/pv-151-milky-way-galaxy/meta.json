@@ -1,0 +1,50 @@
+{
+  "id": "pv-151-milky-way-galaxy",
+  "levelNumber": 151,
+  "title": "Milky Way Galaxy",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "astronomy",
+  "educationalFact": "Milky Way Galaxy is connected with our home galaxy.",
+  "contextFact": "Important context: barred spiral galaxy.",
+  "pieces": 161,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/science_discoveries/pv-151-milky-way-galaxy/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-151-milky-way-galaxy/image.jpg",
+  "sourceProvider": "NASA Image and Video Library",
+  "sourceSearchUrl": "https://images.nasa.gov/search-results?q=Milky%20Way%20Galaxy",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Milky Way Galaxy?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Milky Way Galaxy is especially connected with what?",
+      "a": [
+        "our home galaxy",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Milky Way Galaxy?",
+      "a": [
+        "barred spiral galaxy",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

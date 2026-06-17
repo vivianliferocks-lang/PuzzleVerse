@@ -1,0 +1,50 @@
+{
+  "id": "pv-170-microscope",
+  "levelNumber": 170,
+  "title": "Microscope",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "science tool",
+  "educationalFact": "Microscope is connected with magnifies tiny objects.",
+  "contextFact": "Important context: laboratory.",
+  "pieces": 180,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/science_discoveries/pv-170-microscope/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-170-microscope/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Microscope",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Microscope?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Microscope is especially connected with what?",
+      "a": [
+        "magnifies tiny objects",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Microscope?",
+      "a": [
+        "laboratory",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

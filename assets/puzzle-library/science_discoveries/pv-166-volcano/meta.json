@@ -1,0 +1,50 @@
+{
+  "id": "pv-166-volcano",
+  "levelNumber": 166,
+  "title": "Volcano",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "earth science",
+  "educationalFact": "Volcano is connected with molten rock eruption.",
+  "contextFact": "Important context: geology.",
+  "pieces": 176,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/science_discoveries/pv-166-volcano/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-166-volcano/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Volcano",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Volcano?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Volcano is especially connected with what?",
+      "a": [
+        "molten rock eruption",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Volcano?",
+      "a": [
+        "geology",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

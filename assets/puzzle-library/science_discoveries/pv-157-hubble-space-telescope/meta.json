@@ -1,0 +1,50 @@
+{
+  "id": "pv-157-hubble-space-telescope",
+  "levelNumber": 157,
+  "title": "Hubble Space Telescope",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "astronomy",
+  "educationalFact": "Hubble Space Telescope is connected with space observatory.",
+  "contextFact": "Important context: deep-space images.",
+  "pieces": 167,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/science_discoveries/pv-157-hubble-space-telescope/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-157-hubble-space-telescope/image.jpg",
+  "sourceProvider": "NASA Image and Video Library",
+  "sourceSearchUrl": "https://images.nasa.gov/search-results?q=Hubble%20Space%20Telescope",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Hubble Space Telescope?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Hubble Space Telescope is especially connected with what?",
+      "a": [
+        "space observatory",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Hubble Space Telescope?",
+      "a": [
+        "deep-space images",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

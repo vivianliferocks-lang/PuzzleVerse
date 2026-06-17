@@ -1,0 +1,50 @@
+{
+  "id": "pv-150-solar-system",
+  "levelNumber": 150,
+  "title": "Solar System",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "astronomy",
+  "educationalFact": "Solar System is connected with planets orbiting the Sun.",
+  "contextFact": "Important context: space science.",
+  "pieces": 160,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/science_discoveries/pv-150-solar-system/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-150-solar-system/image.jpg",
+  "sourceProvider": "NASA Image and Video Library",
+  "sourceSearchUrl": "https://images.nasa.gov/search-results?q=Solar%20System",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Solar System?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Solar System is especially connected with what?",
+      "a": [
+        "planets orbiting the Sun",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Solar System?",
+      "a": [
+        "space science",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

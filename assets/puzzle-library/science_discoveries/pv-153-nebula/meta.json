@@ -1,0 +1,50 @@
+{
+  "id": "pv-153-nebula",
+  "levelNumber": 153,
+  "title": "Nebula",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "astronomy",
+  "educationalFact": "Nebula is connected with cloud of gas and dust.",
+  "contextFact": "Important context: star formation.",
+  "pieces": 163,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/science_discoveries/pv-153-nebula/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-153-nebula/image.jpg",
+  "sourceProvider": "NASA Image and Video Library",
+  "sourceSearchUrl": "https://images.nasa.gov/search-results?q=Nebula",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Nebula?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Nebula is especially connected with what?",
+      "a": [
+        "cloud of gas and dust",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Nebula?",
+      "a": [
+        "star formation",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

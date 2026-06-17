@@ -1,0 +1,50 @@
+{
+  "id": "pv-154-supernova",
+  "levelNumber": 154,
+  "title": "Supernova",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "astronomy",
+  "educationalFact": "Supernova is connected with stellar explosion.",
+  "contextFact": "Important context: element creation.",
+  "pieces": 164,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/science_discoveries/pv-154-supernova/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-154-supernova/image.jpg",
+  "sourceProvider": "NASA Image and Video Library",
+  "sourceSearchUrl": "https://images.nasa.gov/search-results?q=Supernova",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Supernova?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Supernova is especially connected with what?",
+      "a": [
+        "stellar explosion",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Supernova?",
+      "a": [
+        "element creation",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

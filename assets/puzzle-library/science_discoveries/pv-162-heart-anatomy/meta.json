@@ -1,0 +1,50 @@
+{
+  "id": "pv-162-heart-anatomy",
+  "levelNumber": 162,
+  "title": "Heart Anatomy",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "biology",
+  "educationalFact": "Heart Anatomy is connected with blood-pumping organ.",
+  "contextFact": "Important context: circulation.",
+  "pieces": 172,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/science_discoveries/pv-162-heart-anatomy/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-162-heart-anatomy/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Heart%20Anatomy",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Heart Anatomy?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Heart Anatomy is especially connected with what?",
+      "a": [
+        "blood-pumping organ",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Heart Anatomy?",
+      "a": [
+        "circulation",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

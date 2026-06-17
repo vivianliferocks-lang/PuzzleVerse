@@ -1,0 +1,50 @@
+{
+  "id": "pv-156-mars-rover",
+  "levelNumber": 156,
+  "title": "Mars Rover",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "space exploration",
+  "educationalFact": "Mars Rover is connected with robotic planet explorer.",
+  "contextFact": "Important context: Mars.",
+  "pieces": 166,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/science_discoveries/pv-156-mars-rover/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-156-mars-rover/image.jpg",
+  "sourceProvider": "NASA Image and Video Library",
+  "sourceSearchUrl": "https://images.nasa.gov/search-results?q=Mars%20Rover",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Mars Rover?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Mars Rover is especially connected with what?",
+      "a": [
+        "robotic planet explorer",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Mars Rover?",
+      "a": [
+        "Mars",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

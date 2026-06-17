@@ -1,0 +1,50 @@
+{
+  "id": "pv-152-black-hole",
+  "levelNumber": 152,
+  "title": "Black Hole",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "astronomy",
+  "educationalFact": "Black Hole is connected with gravity so strong light cannot escape.",
+  "contextFact": "Important context: relativity.",
+  "pieces": 162,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/science_discoveries/pv-152-black-hole/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-152-black-hole/image.jpg",
+  "sourceProvider": "NASA Image and Video Library",
+  "sourceSearchUrl": "https://images.nasa.gov/search-results?q=Black%20Hole",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Black Hole?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Black Hole is especially connected with what?",
+      "a": [
+        "gravity so strong light cannot escape",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Black Hole?",
+      "a": [
+        "relativity",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

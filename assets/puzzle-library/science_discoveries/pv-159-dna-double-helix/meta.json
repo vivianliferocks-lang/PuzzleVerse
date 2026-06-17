@@ -1,0 +1,50 @@
+{
+  "id": "pv-159-dna-double-helix",
+  "levelNumber": 159,
+  "title": "DNA Double Helix",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "biology",
+  "educationalFact": "DNA Double Helix is connected with genetic information shape.",
+  "contextFact": "Important context: life science.",
+  "pieces": 169,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/science_discoveries/pv-159-dna-double-helix/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-159-dna-double-helix/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=DNA%20Double%20Helix",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches DNA Double Helix?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "DNA Double Helix is especially connected with what?",
+      "a": [
+        "genetic information shape",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to DNA Double Helix?",
+      "a": [
+        "life science",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

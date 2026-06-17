@@ -1,0 +1,50 @@
+{
+  "id": "pv-168-plate-tectonics",
+  "levelNumber": 168,
+  "title": "Plate Tectonics",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "earth science",
+  "educationalFact": "Plate Tectonics is connected with moving crust plates.",
+  "contextFact": "Important context: geology.",
+  "pieces": 178,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/science_discoveries/pv-168-plate-tectonics/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-168-plate-tectonics/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Plate%20Tectonics",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Plate Tectonics?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Plate Tectonics is especially connected with what?",
+      "a": [
+        "moving crust plates",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Plate Tectonics?",
+      "a": [
+        "geology",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

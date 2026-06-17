@@ -1,0 +1,50 @@
+{
+  "id": "pv-167-earthquake-fault",
+  "levelNumber": 167,
+  "title": "Earthquake Fault",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "earth science",
+  "educationalFact": "Earthquake Fault is connected with moving rock fracture.",
+  "contextFact": "Important context: tectonics.",
+  "pieces": 177,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/science_discoveries/pv-167-earthquake-fault/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-167-earthquake-fault/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Earthquake%20Fault",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Earthquake Fault?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Earthquake Fault is especially connected with what?",
+      "a": [
+        "moving rock fracture",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Earthquake Fault?",
+      "a": [
+        "tectonics",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

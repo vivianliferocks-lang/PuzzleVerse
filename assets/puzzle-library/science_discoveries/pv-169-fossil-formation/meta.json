@@ -1,0 +1,50 @@
+{
+  "id": "pv-169-fossil-formation",
+  "levelNumber": 169,
+  "title": "Fossil Formation",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "palaeontology",
+  "educationalFact": "Fossil Formation is connected with preserved ancient life.",
+  "contextFact": "Important context: sediments.",
+  "pieces": 179,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/science_discoveries/pv-169-fossil-formation/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-169-fossil-formation/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Fossil%20Formation",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Fossil Formation?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Fossil Formation is especially connected with what?",
+      "a": [
+        "preserved ancient life",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Fossil Formation?",
+      "a": [
+        "sediments",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}
