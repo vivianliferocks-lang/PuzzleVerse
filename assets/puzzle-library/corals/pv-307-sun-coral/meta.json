@@ -1,0 +1,50 @@
+{
+  "id": "pv-307-sun-coral",
+  "levelNumber": 307,
+  "title": "Sun Coral",
+  "theme": "Corals & Reef Life",
+  "category": "corals",
+  "subtype": "non-photosynthetic coral",
+  "educationalFact": "Sun Coral is connected with orange polyps.",
+  "contextFact": "Important context: night feeding.",
+  "pieces": 323,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/corals/pv-307-sun-coral/placeholder.svg",
+  "localImage": "assets/puzzle-library/corals/pv-307-sun-coral/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Sun%20Coral",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Sun Coral?",
+      "a": [
+        "Corals & Reef Life",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Sun Coral is especially connected with what?",
+      "a": [
+        "orange polyps",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Sun Coral?",
+      "a": [
+        "night feeding",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

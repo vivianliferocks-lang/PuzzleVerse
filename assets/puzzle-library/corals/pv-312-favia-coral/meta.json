@@ -1,0 +1,50 @@
+{
+  "id": "pv-312-favia-coral",
+  "levelNumber": 312,
+  "title": "Favia Coral",
+  "theme": "Corals & Reef Life",
+  "category": "corals",
+  "subtype": "brain coral",
+  "educationalFact": "Favia Coral is connected with separate corallites.",
+  "contextFact": "Important context: reef builder.",
+  "pieces": 328,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/corals/pv-312-favia-coral/placeholder.svg",
+  "localImage": "assets/puzzle-library/corals/pv-312-favia-coral/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Favia%20Coral",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Favia Coral?",
+      "a": [
+        "Corals & Reef Life",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Favia Coral is especially connected with what?",
+      "a": [
+        "separate corallites",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Favia Coral?",
+      "a": [
+        "reef builder",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

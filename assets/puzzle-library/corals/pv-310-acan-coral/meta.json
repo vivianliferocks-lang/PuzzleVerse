@@ -1,0 +1,50 @@
+{
+  "id": "pv-310-acan-coral",
+  "levelNumber": 310,
+  "title": "Acan Coral",
+  "theme": "Corals & Reef Life",
+  "category": "corals",
+  "subtype": "large-polyp coral",
+  "educationalFact": "Acan Coral is connected with fleshy polyps.",
+  "contextFact": "Important context: Micromussa.",
+  "pieces": 326,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/corals/pv-310-acan-coral/placeholder.svg",
+  "localImage": "assets/puzzle-library/corals/pv-310-acan-coral/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Acan%20Coral",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Acan Coral?",
+      "a": [
+        "Corals & Reef Life",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Acan Coral is especially connected with what?",
+      "a": [
+        "fleshy polyps",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Acan Coral?",
+      "a": [
+        "Micromussa",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

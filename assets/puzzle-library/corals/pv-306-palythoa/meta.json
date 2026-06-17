@@ -1,0 +1,50 @@
+{
+  "id": "pv-306-palythoa",
+  "levelNumber": 306,
+  "title": "Palythoa",
+  "theme": "Corals & Reef Life",
+  "category": "corals",
+  "subtype": "colonial polyps",
+  "educationalFact": "Palythoa is connected with larger polyps.",
+  "contextFact": "Important context: can be toxic.",
+  "pieces": 322,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/corals/pv-306-palythoa/placeholder.svg",
+  "localImage": "assets/puzzle-library/corals/pv-306-palythoa/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Palythoa",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Palythoa?",
+      "a": [
+        "Corals & Reef Life",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Palythoa is especially connected with what?",
+      "a": [
+        "larger polyps",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Palythoa?",
+      "a": [
+        "can be toxic",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}
