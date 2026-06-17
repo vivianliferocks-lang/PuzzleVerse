@@ -1,3 +1,19 @@
 # Attribution for Venice Canals
 
-Pending. Use the fetch script or manually select a public-domain/Creative-Commons image and record author, source URL, license, and modifications here.
+Source page: https://commons.wikimedia.org/wiki/File%3A%28Venice%29_Francesco_Albotto_-_Canal_Grande_con_San_Simeon_Piccolo_e_la_chiesa_degli_Scalzi_verso_Santa_Lucia_-_Pinacoteca_Querini_Stampalia.jpg
+
+Downloaded URL: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/%28Venice%29_Francesco_Albotto_-_Canal_Grande_con_San_Simeon_Piccolo_e_la_chiesa_degli_Scalzi_verso_Santa_Lucia_-_Pinacoteca_Querini_Stampalia.jpg/1920px-%28Venice%29_Francesco_Albotto_-_Canal_Grande_con_San_Simeon_Piccolo_e_la_chiesa_degli_Scalzi_verso_Santa_Lucia_-_Pinacoteca_Querini_Stampalia.jpg
+
+Original URL: https://upload.wikimedia.org/wikipedia/commons/2/27/%28Venice%29_Francesco_Albotto_-_Canal_Grande_con_San_Simeon_Piccolo_e_la_chiesa_degli_Scalzi_verso_Santa_Lucia_-_Pinacoteca_Querini_Stampalia.jpg
+
+Thumbnail URL: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/%28Venice%29_Francesco_Albotto_-_Canal_Grande_con_San_Simeon_Piccolo_e_la_chiesa_degli_Scalzi_verso_Santa_Lucia_-_Pinacoteca_Querini_Stampalia.jpg/1920px-%28Venice%29_Francesco_Albotto_-_Canal_Grande_con_San_Simeon_Piccolo_e_la_chiesa_degli_Scalzi_verso_Santa_Lucia_-_Pinacoteca_Querini_Stampalia.jpg
+
+Artist: Didier Descouens
+
+Credit: Own work
+
+License: CC BY-SA 4.0
+
+Original dimensions: 8628 x 6186
+
+Review status: needs human review before commercial use.

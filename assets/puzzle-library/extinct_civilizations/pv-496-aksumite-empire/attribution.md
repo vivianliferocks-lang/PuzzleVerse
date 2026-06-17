@@ -1,3 +1,19 @@
 # Attribution for Aksumite Empire
 
-Pending. Use the fetch script or manually select a public-domain/Creative-Commons image and record author, source URL, license, and modifications here.
+Source page: https://commons.wikimedia.org/wiki/File%3AET_Axum_asv2018-01_img48_Dungur.jpg
+
+Downloaded URL: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ET_Axum_asv2018-01_img48_Dungur.jpg/1920px-ET_Axum_asv2018-01_img48_Dungur.jpg
+
+Original URL: https://upload.wikimedia.org/wikipedia/commons/7/7a/ET_Axum_asv2018-01_img48_Dungur.jpg
+
+Thumbnail URL: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ET_Axum_asv2018-01_img48_Dungur.jpg/1920px-ET_Axum_asv2018-01_img48_Dungur.jpg
+
+Artist: A.Savin
+
+Credit: Own work
+
+License: FAL
+
+Original dimensions: 7952 x 4970
+
+Review status: needs human review before commercial use.

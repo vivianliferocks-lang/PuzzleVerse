@@ -1,3 +1,19 @@
 # Attribution for Birdsnest Coral
 
-Pending. Use the fetch script or manually select a public-domain/Creative-Commons image and record author, source URL, license, and modifications here.
+Source page: https://commons.wikimedia.org/wiki/File%3ASeriatopora_caliendrum%2C_verde.jpg
+
+Downloaded URL: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Seriatopora_caliendrum%2C_verde.jpg/1920px-Seriatopora_caliendrum%2C_verde.jpg
+
+Original URL: https://upload.wikimedia.org/wikipedia/commons/8/86/Seriatopora_caliendrum%2C_verde.jpg
+
+Thumbnail URL: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Seriatopora_caliendrum%2C_verde.jpg/1920px-Seriatopora_caliendrum%2C_verde.jpg
+
+Artist: Will Thomas
+
+Credit: Green Birdnest Coral
+
+License: CC BY 2.0
+
+Original dimensions: 5616 x 3744
+
+Review status: needs human review before commercial use.

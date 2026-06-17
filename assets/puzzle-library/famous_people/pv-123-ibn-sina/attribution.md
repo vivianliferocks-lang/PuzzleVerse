@@ -1,3 +1,19 @@
 # Attribution for Ibn Sina
 
-Pending. Use the fetch script or manually select a public-domain/Creative-Commons image and record author, source URL, license, and modifications here.
+Source page: https://commons.wikimedia.org/wiki/File%3AIbn_Sina_Specialized_Hospital_01.jpg
+
+Downloaded URL: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ibn_Sina_Specialized_Hospital_01.jpg/1920px-Ibn_Sina_Specialized_Hospital_01.jpg
+
+Original URL: https://upload.wikimedia.org/wikipedia/commons/7/76/Ibn_Sina_Specialized_Hospital_01.jpg
+
+Thumbnail URL: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ibn_Sina_Specialized_Hospital_01.jpg/1920px-Ibn_Sina_Specialized_Hospital_01.jpg
+
+Artist: أمين
+
+Credit: Own work
+
+License: CC BY-SA 4.0
+
+Original dimensions: 8000 x 6000
+
+Review status: needs human review before commercial use.

@@ -1,3 +1,19 @@
 # Attribution for Rhinoceros
 
-Pending. Use the fetch script or manually select a public-domain/Creative-Commons image and record author, source URL, license, and modifications here.
+Source page: https://commons.wikimedia.org/wiki/File%3A075_White_rhinoceros_mother_and_her_newborn_baby_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg
+
+Downloaded URL: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/075_White_rhinoceros_mother_and_her_newborn_baby_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg/1920px-075_White_rhinoceros_mother_and_her_newborn_baby_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg
+
+Original URL: https://upload.wikimedia.org/wikipedia/commons/a/a6/075_White_rhinoceros_mother_and_her_newborn_baby_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg
+
+Thumbnail URL: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/075_White_rhinoceros_mother_and_her_newborn_baby_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg/1920px-075_White_rhinoceros_mother_and_her_newborn_baby_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg
+
+Artist: Giles Laurent
+
+Credit: Own work
+
+License: CC BY-SA 4.0
+
+Original dimensions: 8571 x 5714
+
+Review status: needs human review before commercial use.

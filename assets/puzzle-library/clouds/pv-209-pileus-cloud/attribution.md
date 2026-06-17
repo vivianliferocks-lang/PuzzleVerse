@@ -1,3 +1,19 @@
 # Attribution for Pileus Cloud
 
-Pending. Use the fetch script or manually select a public-domain/Creative-Commons image and record author, source URL, license, and modifications here.
+Source page: https://commons.wikimedia.org/wiki/File%3ACumulonimbo_con_pileus._Volando_a_11.000_metros_sobre_Brasil.jpg
+
+Downloaded URL: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Cumulonimbo_con_pileus._Volando_a_11.000_metros_sobre_Brasil.jpg/1920px-Cumulonimbo_con_pileus._Volando_a_11.000_metros_sobre_Brasil.jpg
+
+Original URL: https://upload.wikimedia.org/wikipedia/commons/d/d0/Cumulonimbo_con_pileus._Volando_a_11.000_metros_sobre_Brasil.jpg
+
+Thumbnail URL: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Cumulonimbo_con_pileus._Volando_a_11.000_metros_sobre_Brasil.jpg/1920px-Cumulonimbo_con_pileus._Volando_a_11.000_metros_sobre_Brasil.jpg
+
+Artist: CARLOS TEIXIDOR CADENAS
+
+Credit: Own work
+
+License: CC BY 4.0
+
+Original dimensions: 6120 x 8160
+
+Review status: needs human review before commercial use.

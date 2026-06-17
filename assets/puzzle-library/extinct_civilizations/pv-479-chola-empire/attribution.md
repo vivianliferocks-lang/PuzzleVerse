@@ -1,3 +1,19 @@
 # Attribution for Chola Empire
 
-Pending. Use the fetch script or manually select a public-domain/Creative-Commons image and record author, source URL, license, and modifications here.
+Source page: https://commons.wikimedia.org/wiki/File%3ATwo_copper_coins_from_the_Chola_empire_and_princely_state_of_Junagarh%2C_photographed_from_a_personal_collection_in_West_Bengal%2C_India%2C_December_24%2C_2023.jpg
+
+Downloaded URL: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Two_copper_coins_from_the_Chola_empire_and_princely_state_of_Junagarh%2C_photographed_from_a_personal_collection_in_West_Bengal%2C_India%2C_December_24%2C_2023.jpg/1920px-Two_copper_coins_from_the_Chola_empire_and_princely_state_of_Junagarh%2C_photographed_from_a_personal_collection_in_West_Bengal%2C_India%2C_December_24%2C_2023.jpg
+
+Original URL: https://upload.wikimedia.org/wikipedia/commons/f/f2/Two_copper_coins_from_the_Chola_empire_and_princely_state_of_Junagarh%2C_photographed_from_a_personal_collection_in_West_Bengal%2C_India%2C_December_24%2C_2023.jpg
+
+Thumbnail URL: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Two_copper_coins_from_the_Chola_empire_and_princely_state_of_Junagarh%2C_photographed_from_a_personal_collection_in_West_Bengal%2C_India%2C_December_24%2C_2023.jpg/1920px-Two_copper_coins_from_the_Chola_empire_and_princely_state_of_Junagarh%2C_photographed_from_a_personal_collection_in_West_Bengal%2C_India%2C_December_24%2C_2023.jpg
+
+Artist: Billjones94
+
+Credit: Own work
+
+License: CC0
+
+Original dimensions: 3833 x 2869
+
+Review status: needs human review before commercial use.

@@ -1,3 +1,19 @@
 # Attribution for Cancer
 
-Pending. Use the fetch script or manually select a public-domain/Creative-Commons image and record author, source URL, license, and modifications here.
+Source page: https://commons.wikimedia.org/wiki/File%3AFluorescence_microscopy_of_the_oral_cancer_cells.jpg
+
+Downloaded URL: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fluorescence_microscopy_of_the_oral_cancer_cells.jpg/1920px-Fluorescence_microscopy_of_the_oral_cancer_cells.jpg
+
+Original URL: https://upload.wikimedia.org/wikipedia/commons/0/09/Fluorescence_microscopy_of_the_oral_cancer_cells.jpg
+
+Thumbnail URL: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fluorescence_microscopy_of_the_oral_cancer_cells.jpg/1920px-Fluorescence_microscopy_of_the_oral_cancer_cells.jpg
+
+Artist: Korinna
+
+Credit: Own work
+
+License: CC BY 4.0
+
+Original dimensions: 4096 x 3072
+
+Review status: needs human review before commercial use.

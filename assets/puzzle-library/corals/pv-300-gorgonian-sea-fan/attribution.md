@@ -1,3 +1,19 @@
 # Attribution for Gorgonian Sea Fan
 
-Pending. Use the fetch script or manually select a public-domain/Creative-Commons image and record author, source URL, license, and modifications here.
+Source page: https://commons.wikimedia.org/wiki/File%3ABriareum_Asbestinum_Corky_Sea_Finger_and_Skeletal_Axis_Gorgonia_Flabellum_Venus_Fan_Venus_Sea_Fan_West_Indian_Sea_Fan_Purple_Gorgonian_Seafan_Fragment_on_Peterson_Beach_of_Grand_Bahama.jpg
+
+Downloaded URL: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Briareum_Asbestinum_Corky_Sea_Finger_and_Skeletal_Axis_Gorgonia_Flabellum_Venus_Fan_Venus_Sea_Fan_West_Indian_Sea_Fan_Purple_Gorgonian_Seafan_Fragment_on_Peterson_Beach_of_Grand_Bahama.jpg/1920px-thumbnail.jpg
+
+Original URL: https://upload.wikimedia.org/wikipedia/commons/c/ca/Briareum_Asbestinum_Corky_Sea_Finger_and_Skeletal_Axis_Gorgonia_Flabellum_Venus_Fan_Venus_Sea_Fan_West_Indian_Sea_Fan_Purple_Gorgonian_Seafan_Fragment_on_Peterson_Beach_of_Grand_Bahama.jpg
+
+Thumbnail URL: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Briareum_Asbestinum_Corky_Sea_Finger_and_Skeletal_Axis_Gorgonia_Flabellum_Venus_Fan_Venus_Sea_Fan_West_Indian_Sea_Fan_Purple_Gorgonian_Seafan_Fragment_on_Peterson_Beach_of_Grand_Bahama.jpg/1920px-thumbnail.jpg
+
+Artist: EgorovaSvetlana
+
+Credit: Own work
+
+License: CC BY-SA 4.0
+
+Original dimensions: 4320 x 3240
+
+Review status: needs human review before commercial use.
