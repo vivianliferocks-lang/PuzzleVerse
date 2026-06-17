@@ -1,0 +1,50 @@
+{
+  "id": "pv-275-glass-squid",
+  "levelNumber": 275,
+  "title": "Glass Squid",
+  "theme": "Deep Sea Creatures",
+  "category": "deep_sea",
+  "subtype": "deep-sea squid",
+  "educationalFact": "Glass Squid is connected with transparent body.",
+  "contextFact": "Important context: camouflage.",
+  "pieces": 290,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/deep_sea/pv-275-glass-squid/placeholder.svg",
+  "localImage": "assets/puzzle-library/deep_sea/pv-275-glass-squid/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Glass%20Squid",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Glass Squid?",
+      "a": [
+        "Deep Sea Creatures",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Glass Squid is especially connected with what?",
+      "a": [
+        "transparent body",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Glass Squid?",
+      "a": [
+        "camouflage",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

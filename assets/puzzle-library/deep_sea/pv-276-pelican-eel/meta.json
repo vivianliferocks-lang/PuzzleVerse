@@ -1,0 +1,50 @@
+{
+  "id": "pv-276-pelican-eel",
+  "levelNumber": 276,
+  "title": "Pelican Eel",
+  "theme": "Deep Sea Creatures",
+  "category": "deep_sea",
+  "subtype": "deep-sea fish",
+  "educationalFact": "Pelican Eel is connected with expandable mouth.",
+  "contextFact": "Important context: deep waters.",
+  "pieces": 291,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/deep_sea/pv-276-pelican-eel/placeholder.svg",
+  "localImage": "assets/puzzle-library/deep_sea/pv-276-pelican-eel/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Pelican%20Eel",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Pelican Eel?",
+      "a": [
+        "Deep Sea Creatures",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Pelican Eel is especially connected with what?",
+      "a": [
+        "expandable mouth",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Pelican Eel?",
+      "a": [
+        "deep waters",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

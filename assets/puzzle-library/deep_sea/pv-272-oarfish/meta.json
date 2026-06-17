@@ -1,0 +1,50 @@
+{
+  "id": "pv-272-oarfish",
+  "levelNumber": 272,
+  "title": "Oarfish",
+  "theme": "Deep Sea Creatures",
+  "category": "deep_sea",
+  "subtype": "deep pelagic fish",
+  "educationalFact": "Oarfish is connected with long ribbon body.",
+  "contextFact": "Important context: rare surface sightings.",
+  "pieces": 286,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/deep_sea/pv-272-oarfish/placeholder.svg",
+  "localImage": "assets/puzzle-library/deep_sea/pv-272-oarfish/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Oarfish",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Oarfish?",
+      "a": [
+        "Deep Sea Creatures",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Oarfish is especially connected with what?",
+      "a": [
+        "long ribbon body",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Oarfish?",
+      "a": [
+        "rare surface sightings",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

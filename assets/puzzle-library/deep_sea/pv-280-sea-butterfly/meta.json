@@ -1,0 +1,50 @@
+{
+  "id": "pv-280-sea-butterfly",
+  "levelNumber": 280,
+  "title": "Sea Butterfly",
+  "theme": "Deep Sea Creatures",
+  "category": "deep_sea",
+  "subtype": "pelagic snail",
+  "educationalFact": "Sea Butterfly is connected with swimming foot.",
+  "contextFact": "Important context: plankton.",
+  "pieces": 295,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/deep_sea/pv-280-sea-butterfly/placeholder.svg",
+  "localImage": "assets/puzzle-library/deep_sea/pv-280-sea-butterfly/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Sea%20Butterfly",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Sea Butterfly?",
+      "a": [
+        "Deep Sea Creatures",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Sea Butterfly is especially connected with what?",
+      "a": [
+        "swimming foot",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Sea Butterfly?",
+      "a": [
+        "plankton",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

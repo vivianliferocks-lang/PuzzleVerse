@@ -1,0 +1,50 @@
+{
+  "id": "pv-281-bristlemouth",
+  "levelNumber": 281,
+  "title": "Bristlemouth",
+  "theme": "Deep Sea Creatures",
+  "category": "deep_sea",
+  "subtype": "deep-sea fish",
+  "educationalFact": "Bristlemouth is connected with very abundant.",
+  "contextFact": "Important context: mesopelagic zone.",
+  "pieces": 296,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/deep_sea/pv-281-bristlemouth/placeholder.svg",
+  "localImage": "assets/puzzle-library/deep_sea/pv-281-bristlemouth/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Bristlemouth",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Bristlemouth?",
+      "a": [
+        "Deep Sea Creatures",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Bristlemouth is especially connected with what?",
+      "a": [
+        "very abundant",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Bristlemouth?",
+      "a": [
+        "mesopelagic zone",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pv-282-tripod-fish",
+  "levelNumber": 282,
+  "title": "Tripod Fish",
+  "theme": "Deep Sea Creatures",
+  "category": "deep_sea",
+  "subtype": "deep-sea fish",
+  "educationalFact": "Tripod Fish is connected with stands on fin rays.",
+  "contextFact": "Important context: seafloor.",
+  "pieces": 297,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/deep_sea/pv-282-tripod-fish/placeholder.svg",
+  "localImage": "assets/puzzle-library/deep_sea/pv-282-tripod-fish/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Tripod%20Fish",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Tripod Fish?",
+      "a": [
+        "Deep Sea Creatures",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Tripod Fish is especially connected with what?",
+      "a": [
+        "stands on fin rays",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Tripod Fish?",
+      "a": [
+        "seafloor",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

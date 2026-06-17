@@ -1,0 +1,50 @@
+{
+  "id": "pv-285-hydrothermal-vent-shrimp",
+  "levelNumber": 285,
+  "title": "Hydrothermal Vent Shrimp",
+  "theme": "Deep Sea Creatures",
+  "category": "deep_sea",
+  "subtype": "vent crustacean",
+  "educationalFact": "Hydrothermal Vent Shrimp is connected with heat-tolerant habitat.",
+  "contextFact": "Important context: vents.",
+  "pieces": 300,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/deep_sea/pv-285-hydrothermal-vent-shrimp/placeholder.svg",
+  "localImage": "assets/puzzle-library/deep_sea/pv-285-hydrothermal-vent-shrimp/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Hydrothermal%20Vent%20Shrimp",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Hydrothermal Vent Shrimp?",
+      "a": [
+        "Deep Sea Creatures",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Hydrothermal Vent Shrimp is especially connected with what?",
+      "a": [
+        "heat-tolerant habitat",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Hydrothermal Vent Shrimp?",
+      "a": [
+        "vents",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

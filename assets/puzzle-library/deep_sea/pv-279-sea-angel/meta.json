@@ -1,0 +1,50 @@
+{
+  "id": "pv-279-sea-angel",
+  "levelNumber": 279,
+  "title": "Sea Angel",
+  "theme": "Deep Sea Creatures",
+  "category": "deep_sea",
+  "subtype": "pelagic snail",
+  "educationalFact": "Sea Angel is connected with wing-like foot.",
+  "contextFact": "Important context: cold waters.",
+  "pieces": 294,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/deep_sea/pv-279-sea-angel/placeholder.svg",
+  "localImage": "assets/puzzle-library/deep_sea/pv-279-sea-angel/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Sea%20Angel",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Sea Angel?",
+      "a": [
+        "Deep Sea Creatures",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Sea Angel is especially connected with what?",
+      "a": [
+        "wing-like foot",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Sea Angel?",
+      "a": [
+        "cold waters",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

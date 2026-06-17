@@ -1,0 +1,50 @@
+{
+  "id": "pv-284-deep-sea-coral",
+  "levelNumber": 284,
+  "title": "Deep-Sea Coral",
+  "theme": "Deep Sea Creatures",
+  "category": "deep_sea",
+  "subtype": "cold-water coral",
+  "educationalFact": "Deep-Sea Coral is connected with reef-like habitats.",
+  "contextFact": "Important context: deep sea.",
+  "pieces": 299,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/deep_sea/pv-284-deep-sea-coral/placeholder.svg",
+  "localImage": "assets/puzzle-library/deep_sea/pv-284-deep-sea-coral/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Deep-Sea%20Coral",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Deep-Sea Coral?",
+      "a": [
+        "Deep Sea Creatures",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Deep-Sea Coral is especially connected with what?",
+      "a": [
+        "reef-like habitats",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Deep-Sea Coral?",
+      "a": [
+        "deep sea",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

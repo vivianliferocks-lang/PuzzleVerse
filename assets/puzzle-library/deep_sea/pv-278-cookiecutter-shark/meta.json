@@ -1,0 +1,50 @@
+{
+  "id": "pv-278-cookiecutter-shark",
+  "levelNumber": 278,
+  "title": "Cookiecutter Shark",
+  "theme": "Deep Sea Creatures",
+  "category": "deep_sea",
+  "subtype": "small shark",
+  "educationalFact": "Cookiecutter Shark is connected with round bite marks.",
+  "contextFact": "Important context: parasitic feeding.",
+  "pieces": 293,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/deep_sea/pv-278-cookiecutter-shark/placeholder.svg",
+  "localImage": "assets/puzzle-library/deep_sea/pv-278-cookiecutter-shark/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Cookiecutter%20Shark",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Cookiecutter Shark?",
+      "a": [
+        "Deep Sea Creatures",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Cookiecutter Shark is especially connected with what?",
+      "a": [
+        "round bite marks",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Cookiecutter Shark?",
+      "a": [
+        "parasitic feeding",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

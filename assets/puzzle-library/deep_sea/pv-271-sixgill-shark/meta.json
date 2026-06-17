@@ -1,0 +1,50 @@
+{
+  "id": "pv-271-sixgill-shark",
+  "levelNumber": 271,
+  "title": "Sixgill Shark",
+  "theme": "Deep Sea Creatures",
+  "category": "deep_sea",
+  "subtype": "deep-water shark",
+  "educationalFact": "Sixgill Shark is connected with six gill slits.",
+  "contextFact": "Important context: deep slopes.",
+  "pieces": 285,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/deep_sea/pv-271-sixgill-shark/placeholder.svg",
+  "localImage": "assets/puzzle-library/deep_sea/pv-271-sixgill-shark/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Sixgill%20Shark",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Sixgill Shark?",
+      "a": [
+        "Deep Sea Creatures",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Sixgill Shark is especially connected with what?",
+      "a": [
+        "six gill slits",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Sixgill Shark?",
+      "a": [
+        "deep slopes",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}
