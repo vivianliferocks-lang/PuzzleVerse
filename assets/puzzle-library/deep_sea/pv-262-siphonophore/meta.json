@@ -1,0 +1,50 @@
+{
+  "id": "pv-262-siphonophore",
+  "levelNumber": 262,
+  "title": "Siphonophore",
+  "theme": "Deep Sea Creatures",
+  "category": "deep_sea",
+  "subtype": "colonial animal",
+  "educationalFact": "Siphonophore is connected with long drifting colony.",
+  "contextFact": "Important context: open ocean.",
+  "pieces": 276,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/deep_sea/pv-262-siphonophore/placeholder.svg",
+  "localImage": "assets/puzzle-library/deep_sea/pv-262-siphonophore/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Siphonophore",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Siphonophore?",
+      "a": [
+        "Deep Sea Creatures",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Siphonophore is especially connected with what?",
+      "a": [
+        "long drifting colony",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Siphonophore?",
+      "a": [
+        "open ocean",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

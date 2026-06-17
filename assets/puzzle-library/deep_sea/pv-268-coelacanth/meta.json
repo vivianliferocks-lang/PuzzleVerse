@@ -1,0 +1,50 @@
+{
+  "id": "pv-268-coelacanth",
+  "levelNumber": 268,
+  "title": "Coelacanth",
+  "theme": "Deep Sea Creatures",
+  "category": "deep_sea",
+  "subtype": "deep fish",
+  "educationalFact": "Coelacanth is connected with ancient lineage.",
+  "contextFact": "Important context: lobe-finned fish.",
+  "pieces": 282,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/deep_sea/pv-268-coelacanth/placeholder.svg",
+  "localImage": "assets/puzzle-library/deep_sea/pv-268-coelacanth/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Coelacanth",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Coelacanth?",
+      "a": [
+        "Deep Sea Creatures",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Coelacanth is especially connected with what?",
+      "a": [
+        "ancient lineage",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Coelacanth?",
+      "a": [
+        "lobe-finned fish",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

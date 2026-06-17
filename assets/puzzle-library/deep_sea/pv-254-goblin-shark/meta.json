@@ -1,0 +1,50 @@
+{
+  "id": "pv-254-goblin-shark",
+  "levelNumber": 254,
+  "title": "Goblin Shark",
+  "theme": "Deep Sea Creatures",
+  "category": "deep_sea",
+  "subtype": "deep-sea shark",
+  "educationalFact": "Goblin Shark is connected with protruding jaws.",
+  "contextFact": "Important context: slope waters.",
+  "pieces": 268,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/deep_sea/pv-254-goblin-shark/placeholder.svg",
+  "localImage": "assets/puzzle-library/deep_sea/pv-254-goblin-shark/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Goblin%20Shark",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Goblin Shark?",
+      "a": [
+        "Deep Sea Creatures",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Goblin Shark is especially connected with what?",
+      "a": [
+        "protruding jaws",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Goblin Shark?",
+      "a": [
+        "slope waters",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

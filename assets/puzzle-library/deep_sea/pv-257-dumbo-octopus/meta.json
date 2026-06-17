@@ -1,0 +1,50 @@
+{
+  "id": "pv-257-dumbo-octopus",
+  "levelNumber": 257,
+  "title": "Dumbo Octopus",
+  "theme": "Deep Sea Creatures",
+  "category": "deep_sea",
+  "subtype": "deep-sea octopus",
+  "educationalFact": "Dumbo Octopus is connected with ear-like fins.",
+  "contextFact": "Important context: deep seafloor.",
+  "pieces": 271,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/deep_sea/pv-257-dumbo-octopus/placeholder.svg",
+  "localImage": "assets/puzzle-library/deep_sea/pv-257-dumbo-octopus/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Dumbo%20Octopus",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Dumbo Octopus?",
+      "a": [
+        "Deep Sea Creatures",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Dumbo Octopus is especially connected with what?",
+      "a": [
+        "ear-like fins",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Dumbo Octopus?",
+      "a": [
+        "deep seafloor",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pv-269-frilled-shark",
+  "levelNumber": 269,
+  "title": "Frilled Shark",
+  "theme": "Deep Sea Creatures",
+  "category": "deep_sea",
+  "subtype": "deep-sea shark",
+  "educationalFact": "Frilled Shark is connected with eel-like body.",
+  "contextFact": "Important context: ancient-looking.",
+  "pieces": 283,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/deep_sea/pv-269-frilled-shark/placeholder.svg",
+  "localImage": "assets/puzzle-library/deep_sea/pv-269-frilled-shark/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Frilled%20Shark",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Frilled Shark?",
+      "a": [
+        "Deep Sea Creatures",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Frilled Shark is especially connected with what?",
+      "a": [
+        "eel-like body",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Frilled Shark?",
+      "a": [
+        "ancient-looking",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

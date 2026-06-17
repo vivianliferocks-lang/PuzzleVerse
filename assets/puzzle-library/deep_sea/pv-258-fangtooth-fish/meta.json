@@ -1,0 +1,50 @@
+{
+  "id": "pv-258-fangtooth-fish",
+  "levelNumber": 258,
+  "title": "Fangtooth Fish",
+  "theme": "Deep Sea Creatures",
+  "category": "deep_sea",
+  "subtype": "deep-sea fish",
+  "educationalFact": "Fangtooth Fish is connected with large teeth.",
+  "contextFact": "Important context: deep waters.",
+  "pieces": 272,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/deep_sea/pv-258-fangtooth-fish/placeholder.svg",
+  "localImage": "assets/puzzle-library/deep_sea/pv-258-fangtooth-fish/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Fangtooth%20Fish",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Fangtooth Fish?",
+      "a": [
+        "Deep Sea Creatures",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Fangtooth Fish is especially connected with what?",
+      "a": [
+        "large teeth",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Fangtooth Fish?",
+      "a": [
+        "deep waters",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pv-261-lanternfish",
+  "levelNumber": 261,
+  "title": "Lanternfish",
+  "theme": "Deep Sea Creatures",
+  "category": "deep_sea",
+  "subtype": "deep-sea fish",
+  "educationalFact": "Lanternfish is connected with light organs.",
+  "contextFact": "Important context: daily vertical migration.",
+  "pieces": 275,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/deep_sea/pv-261-lanternfish/placeholder.svg",
+  "localImage": "assets/puzzle-library/deep_sea/pv-261-lanternfish/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Lanternfish",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Lanternfish?",
+      "a": [
+        "Deep Sea Creatures",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Lanternfish is especially connected with what?",
+      "a": [
+        "light organs",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Lanternfish?",
+      "a": [
+        "daily vertical migration",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

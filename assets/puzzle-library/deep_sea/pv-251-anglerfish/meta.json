@@ -1,0 +1,50 @@
+{
+  "id": "pv-251-anglerfish",
+  "levelNumber": 251,
+  "title": "Anglerfish",
+  "theme": "Deep Sea Creatures",
+  "category": "deep_sea",
+  "subtype": "deep-sea fish",
+  "educationalFact": "Anglerfish is connected with bioluminescent lure.",
+  "contextFact": "Important context: dark ocean.",
+  "pieces": 265,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/deep_sea/pv-251-anglerfish/placeholder.svg",
+  "localImage": "assets/puzzle-library/deep_sea/pv-251-anglerfish/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Anglerfish",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Anglerfish?",
+      "a": [
+        "Deep Sea Creatures",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Anglerfish is especially connected with what?",
+      "a": [
+        "bioluminescent lure",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Anglerfish?",
+      "a": [
+        "dark ocean",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

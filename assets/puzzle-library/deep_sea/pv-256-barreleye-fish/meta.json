@@ -1,0 +1,50 @@
+{
+  "id": "pv-256-barreleye-fish",
+  "levelNumber": 256,
+  "title": "Barreleye Fish",
+  "theme": "Deep Sea Creatures",
+  "category": "deep_sea",
+  "subtype": "deep-sea fish",
+  "educationalFact": "Barreleye Fish is connected with transparent head.",
+  "contextFact": "Important context: green tubular eyes.",
+  "pieces": 270,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/deep_sea/pv-256-barreleye-fish/placeholder.svg",
+  "localImage": "assets/puzzle-library/deep_sea/pv-256-barreleye-fish/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Barreleye%20Fish",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Barreleye Fish?",
+      "a": [
+        "Deep Sea Creatures",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Barreleye Fish is especially connected with what?",
+      "a": [
+        "transparent head",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Barreleye Fish?",
+      "a": [
+        "green tubular eyes",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

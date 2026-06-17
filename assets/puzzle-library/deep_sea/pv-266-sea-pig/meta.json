@@ -1,0 +1,50 @@
+{
+  "id": "pv-266-sea-pig",
+  "levelNumber": 266,
+  "title": "Sea Pig",
+  "theme": "Deep Sea Creatures",
+  "category": "deep_sea",
+  "subtype": "deep-sea sea cucumber",
+  "educationalFact": "Sea Pig is connected with inflated body.",
+  "contextFact": "Important context: abyssal plains.",
+  "pieces": 280,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/deep_sea/pv-266-sea-pig/placeholder.svg",
+  "localImage": "assets/puzzle-library/deep_sea/pv-266-sea-pig/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Sea%20Pig",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Sea Pig?",
+      "a": [
+        "Deep Sea Creatures",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Sea Pig is especially connected with what?",
+      "a": [
+        "inflated body",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Sea Pig?",
+      "a": [
+        "abyssal plains",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

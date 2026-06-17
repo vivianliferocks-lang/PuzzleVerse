@@ -1,0 +1,50 @@
+{
+  "id": "pv-270-megamouth-shark",
+  "levelNumber": 270,
+  "title": "Megamouth Shark",
+  "theme": "Deep Sea Creatures",
+  "category": "deep_sea",
+  "subtype": "deep-sea shark",
+  "educationalFact": "Megamouth Shark is connected with filter feeding.",
+  "contextFact": "Important context: rare sightings.",
+  "pieces": 284,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/deep_sea/pv-270-megamouth-shark/placeholder.svg",
+  "localImage": "assets/puzzle-library/deep_sea/pv-270-megamouth-shark/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Megamouth%20Shark",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Megamouth Shark?",
+      "a": [
+        "Deep Sea Creatures",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Megamouth Shark is especially connected with what?",
+      "a": [
+        "filter feeding",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Megamouth Shark?",
+      "a": [
+        "rare sightings",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

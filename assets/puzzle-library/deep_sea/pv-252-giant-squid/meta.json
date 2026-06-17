@@ -1,0 +1,50 @@
+{
+  "id": "pv-252-giant-squid",
+  "levelNumber": 252,
+  "title": "Giant Squid",
+  "theme": "Deep Sea Creatures",
+  "category": "deep_sea",
+  "subtype": "deep-sea cephalopod",
+  "educationalFact": "Giant Squid is connected with large eyes.",
+  "contextFact": "Important context: deep ocean.",
+  "pieces": 266,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/deep_sea/pv-252-giant-squid/placeholder.svg",
+  "localImage": "assets/puzzle-library/deep_sea/pv-252-giant-squid/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Giant%20Squid",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Giant Squid?",
+      "a": [
+        "Deep Sea Creatures",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Giant Squid is especially connected with what?",
+      "a": [
+        "large eyes",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Giant Squid?",
+      "a": [
+        "deep ocean",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}
