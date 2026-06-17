@@ -1,9 +1,4 @@
-/*
-  PuzzleVerse Educational Content Pack.
-  Generated from data_manifest.downloaded.json.
-  Review image attribution before commercial release.
-*/
-window.PUZZLEVERSE_LEVELS = [
+[
   {
     "id": "pv-001-taj-mahal",
     "levelNumber": 1,
@@ -25004,11 +24999,4 @@ window.PUZZLEVERSE_LEVELS = [
       }
     ]
   }
-];
-
-window.PUZZLEVERSE_EVENTS = [
-  { title: 'Diwali Lights Challenge', theme: 'Diwali', reward: 'Top 3 win 1,000,000 / 500,000 / 250,000 coins', status: 'Planned' },
-  { title: 'Chinese New Year Puzzle Race', theme: 'Chinese New Year', reward: 'Festival frame + coin rewards', status: 'Planned' },
-  { title: 'Ocean Day Reef Quest', theme: 'Marine Life', reward: 'Coral Guardian badge', status: 'Planned' },
-  { title: 'Dinosaur Discovery Cup', theme: 'Prehistoric Life', reward: 'Fossil Master title', status: 'Planned' }
-];
+]
