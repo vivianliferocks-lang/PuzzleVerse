@@ -1,0 +1,50 @@
+{
+  "id": "pv-292-torch-coral",
+  "levelNumber": 292,
+  "title": "Torch Coral",
+  "theme": "Corals & Reef Life",
+  "category": "corals",
+  "subtype": "large-polyp coral",
+  "educationalFact": "Torch Coral is connected with long flowing tentacles.",
+  "contextFact": "Important context: reef aquarium.",
+  "pieces": 307,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/corals/pv-292-torch-coral/placeholder.svg",
+  "localImage": "assets/puzzle-library/corals/pv-292-torch-coral/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Torch%20Coral",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Torch Coral?",
+      "a": [
+        "Corals & Reef Life",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Torch Coral is especially connected with what?",
+      "a": [
+        "long flowing tentacles",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Torch Coral?",
+      "a": [
+        "reef aquarium",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

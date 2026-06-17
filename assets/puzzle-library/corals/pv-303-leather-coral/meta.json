@@ -1,0 +1,50 @@
+{
+  "id": "pv-303-leather-coral",
+  "levelNumber": 303,
+  "title": "Leather Coral",
+  "theme": "Corals & Reef Life",
+  "category": "corals",
+  "subtype": "soft coral",
+  "educationalFact": "Leather Coral is connected with flexible body.",
+  "contextFact": "Important context: Sarcophyton.",
+  "pieces": 319,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/corals/pv-303-leather-coral/placeholder.svg",
+  "localImage": "assets/puzzle-library/corals/pv-303-leather-coral/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Leather%20Coral",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Leather Coral?",
+      "a": [
+        "Corals & Reef Life",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Leather Coral is especially connected with what?",
+      "a": [
+        "flexible body",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Leather Coral?",
+      "a": [
+        "Sarcophyton",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

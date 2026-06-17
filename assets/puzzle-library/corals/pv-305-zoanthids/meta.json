@@ -1,0 +1,50 @@
+{
+  "id": "pv-305-zoanthids",
+  "levelNumber": 305,
+  "title": "Zoanthids",
+  "theme": "Corals & Reef Life",
+  "category": "corals",
+  "subtype": "colonial polyps",
+  "educationalFact": "Zoanthids is connected with colorful mats.",
+  "contextFact": "Important context: reef aquarium.",
+  "pieces": 321,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/corals/pv-305-zoanthids/placeholder.svg",
+  "localImage": "assets/puzzle-library/corals/pv-305-zoanthids/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Zoanthids",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Zoanthids?",
+      "a": [
+        "Corals & Reef Life",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Zoanthids is especially connected with what?",
+      "a": [
+        "colorful mats",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Zoanthids?",
+      "a": [
+        "reef aquarium",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

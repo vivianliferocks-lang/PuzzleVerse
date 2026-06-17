@@ -1,0 +1,50 @@
+{
+  "id": "pv-299-porites-coral",
+  "levelNumber": 299,
+  "title": "Porites Coral",
+  "theme": "Corals & Reef Life",
+  "category": "corals",
+  "subtype": "massive coral",
+  "educationalFact": "Porites Coral is connected with long-lived colonies.",
+  "contextFact": "Important context: reef framework.",
+  "pieces": 314,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/corals/pv-299-porites-coral/placeholder.svg",
+  "localImage": "assets/puzzle-library/corals/pv-299-porites-coral/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Porites%20Coral",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Porites Coral?",
+      "a": [
+        "Corals & Reef Life",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Porites Coral is especially connected with what?",
+      "a": [
+        "long-lived colonies",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Porites Coral?",
+      "a": [
+        "reef framework",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

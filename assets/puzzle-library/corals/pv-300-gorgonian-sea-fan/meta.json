@@ -1,0 +1,50 @@
+{
+  "id": "pv-300-gorgonian-sea-fan",
+  "levelNumber": 300,
+  "title": "Gorgonian Sea Fan",
+  "theme": "Corals & Reef Life",
+  "category": "corals",
+  "subtype": "soft coral relative",
+  "educationalFact": "Gorgonian Sea Fan is connected with fan-like branches.",
+  "contextFact": "Important context: filter feeding.",
+  "pieces": 316,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/corals/pv-300-gorgonian-sea-fan/placeholder.svg",
+  "localImage": "assets/puzzle-library/corals/pv-300-gorgonian-sea-fan/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Gorgonian%20Sea%20Fan",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Gorgonian Sea Fan?",
+      "a": [
+        "Corals & Reef Life",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Gorgonian Sea Fan is especially connected with what?",
+      "a": [
+        "fan-like branches",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Gorgonian Sea Fan?",
+      "a": [
+        "filter feeding",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

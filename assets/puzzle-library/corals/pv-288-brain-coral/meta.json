@@ -1,0 +1,50 @@
+{
+  "id": "pv-288-brain-coral",
+  "levelNumber": 288,
+  "title": "Brain Coral",
+  "theme": "Corals & Reef Life",
+  "category": "corals",
+  "subtype": "massive coral",
+  "educationalFact": "Brain Coral is connected with grooved brain-like surface.",
+  "contextFact": "Important context: slow growth.",
+  "pieces": 303,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/corals/pv-288-brain-coral/placeholder.svg",
+  "localImage": "assets/puzzle-library/corals/pv-288-brain-coral/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Brain%20Coral",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Brain Coral?",
+      "a": [
+        "Corals & Reef Life",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Brain Coral is especially connected with what?",
+      "a": [
+        "grooved brain-like surface",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Brain Coral?",
+      "a": [
+        "slow growth",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

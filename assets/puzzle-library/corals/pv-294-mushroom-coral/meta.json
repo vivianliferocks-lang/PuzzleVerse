@@ -1,0 +1,50 @@
+{
+  "id": "pv-294-mushroom-coral",
+  "levelNumber": 294,
+  "title": "Mushroom Coral",
+  "theme": "Corals & Reef Life",
+  "category": "corals",
+  "subtype": "solitary coral",
+  "educationalFact": "Mushroom Coral is connected with free-living disc.",
+  "contextFact": "Important context: Fungiidae.",
+  "pieces": 309,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/corals/pv-294-mushroom-coral/placeholder.svg",
+  "localImage": "assets/puzzle-library/corals/pv-294-mushroom-coral/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Mushroom%20Coral",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Mushroom Coral?",
+      "a": [
+        "Corals & Reef Life",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Mushroom Coral is especially connected with what?",
+      "a": [
+        "free-living disc",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Mushroom Coral?",
+      "a": [
+        "Fungiidae",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}
