@@ -1,21 +1,9 @@
-# Attribution for Nikola Tesla
+# Nikola Tesla
 
-Source page: https://commons.wikimedia.org/wiki/File%3ANikola_Tesla%2C_with_his_equipment_EDIT.jpg
-
-Downloaded URL: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nikola_Tesla%2C_with_his_equipment_EDIT.jpg/1920px-Nikola_Tesla%2C_with_his_equipment_EDIT.jpg
-
-Original URL: https://upload.wikimedia.org/wikipedia/commons/e/e9/Nikola_Tesla%2C_with_his_equipment_EDIT.jpg
-
-Thumbnail URL: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nikola_Tesla%2C_with_his_equipment_EDIT.jpg/1920px-Nikola_Tesla%2C_with_his_equipment_EDIT.jpg
-
-Artist: Photographer: Dickenson V. Alley
-
-Restored by Lošmi
-
-Credit: 
-
-License: Public domain
-
-Original dimensions: 7441 x 5619
-
-Review status: needs human review before commercial use.
+- Source: wikidata-P18
+- File: File:N.Tesla.JPG
+- URL: https://upload.wikimedia.org/wikipedia/commons/d/d4/N.Tesla.JPG
+- Artist: Unknown author Unknown author
+- Credit: Downloaded from:  https://historyrat.wordpress.com/2013/01/13/lighting-the-1893-worlds-fair-the-race-to-light-the-world/
+- License: Public domain
+- Warning: none

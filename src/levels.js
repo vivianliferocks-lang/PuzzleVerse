@@ -5373,36 +5373,37 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Mahatma Gandhi?",
+        "q": "Mahatma Gandhi is best known as which kind of historical figure?",
         "a": [
-          "Famous People",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "politician",
+          "scientist",
+          "writer",
+          "political leader"
         ],
         "correct": 0
       },
       {
-        "q": "Mahatma Gandhi is especially connected with what?",
+        "q": "Mahatma Gandhi is most strongly associated with which country?",
         "a": [
-          "nonviolent resistance",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Mahatma Gandhi?",
-        "a": [
+          "British Raj",
           "India",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "China",
+          "Japan"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which statement is true about Mahatma Gandhi?",
+        "a": [
+          "Mohandas Karamchand Gandhi was an Indian lawyer, anti-colonial nationalist and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule, and to later inspire movements for civil rights and freedom across the world",
+          "Mahatma Gandhi is a fictional video game item only.",
+          "Mahatma Gandhi is mainly a type of cooking utensil.",
+          "Mahatma Gandhi is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v4-needs-human-review"
   },
   {
     "id": "pv-109-martin-luther-king-jr",
@@ -5473,36 +5474,37 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Frank Schulenburg / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Abraham Lincoln?",
+        "q": "Abraham Lincoln is best known as which kind of historical figure?",
         "a": [
-          "Famous People",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "politician",
+          "scientist",
+          "writer",
+          "political leader"
         ],
         "correct": 0
       },
       {
-        "q": "Abraham Lincoln is especially connected with what?",
+        "q": "Abraham Lincoln is most strongly associated with which country?",
         "a": [
-          "US Civil War presidency",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "United States",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Abraham Lincoln?",
+        "q": "Which statement is true about Abraham Lincoln?",
         "a": [
-          "emancipation",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Abraham Lincoln was the 16th president of the United States, serving from 1861 until his assassination in 1865",
+          "Abraham Lincoln is a fictional video game item only.",
+          "Abraham Lincoln is mainly a type of cooking utensil.",
+          "Abraham Lincoln is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v4-needs-human-review"
   },
   {
     "id": "pv-111-george-washington",
@@ -5773,39 +5775,40 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "the lost gallery | LAKSMIBAI, RANI OF JHANSI | CC BY 2.0 | wikidata-P18 | File:LAKSMIBAI, RANI OF JHANSI (22140388883).jpg",
     "trivia": [
       {
-        "q": "Which category best matches Rani Lakshmibai?",
+        "q": "Rani Lakshmibai is best known as which kind of historical figure?",
         "a": [
-          "Famous People",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "activist",
+          "scientist",
+          "writer",
+          "political leader"
         ],
         "correct": 0
       },
       {
-        "q": "Rani Lakshmibai is especially connected with what?",
+        "q": "Rani Lakshmibai is most strongly associated with which country?",
         "a": [
-          "1857 rebellion",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Maratha Empire",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Rani Lakshmibai?",
+        "q": "Which statement is true about Rani Lakshmibai?",
         "a": [
-          "Jhansi",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The Rani of Jhansi, also known as Rani Lakshmibai, was one of the leading figures of the Indian Rebellion of 1857",
+          "Rani Lakshmibai is a fictional video game item only.",
+          "Rani Lakshmibai is mainly a type of cooking utensil.",
+          "Rani Lakshmibai is a random road sign."
         ],
         "correct": 0
       }
     ],
     "curationSource": "commons-search",
     "curationScore": 113.0,
-    "curationWarning": ""
+    "curationWarning": "",
+    "triviaStatus": "improved-v4-needs-human-review"
   },
   {
     "id": "pv-117-tipu-sultan",
@@ -5876,39 +5879,40 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Unknown author Unknown author | Cover of   Kautilya Arthashastra  , translated by R. Shamasastry, Bangalore Government Press 1915 | Public domain | wikidata-P18 | File:Chanakya artistic depiction.jpg",
     "trivia": [
       {
-        "q": "Which category best matches Chanakya?",
+        "q": "Chanakya is best known as which kind of historical figure?",
         "a": [
-          "Famous People",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "author",
+          "scientist",
+          "writer",
+          "political leader"
         ],
         "correct": 0
       },
       {
-        "q": "Chanakya is especially connected with what?",
+        "q": "Which place is connected to the life of Chanakya?",
         "a": [
-          "political strategy",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Taxila",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Chanakya?",
+        "q": "Which statement is true about Chanakya?",
         "a": [
-          "Arthashastra",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Chanakya, according to legendary narratives preserved in various traditions dating from the 4th to 11th century CE, was a Brahmin who assisted the first Mauryan emperor Chandragupta in his rise to power and the establishment of the Maurya Empire",
+          "Chanakya is a fictional video game item only.",
+          "Chanakya is mainly a type of cooking utensil.",
+          "Chanakya is a random road sign."
         ],
         "correct": 0
       }
     ],
     "curationSource": "wikidata-P18",
     "curationScore": 138.0,
-    "curationWarning": ""
+    "curationWarning": "",
+    "triviaStatus": "improved-v4-needs-human-review"
   },
   {
     "id": "pv-119-confucius",
@@ -6429,39 +6433,40 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Henry Hering (1814-1893) | NPG x82368  from National Portrait Gallery, London | Public domain | wikidata-P18 | File:Florence Nightingale (H Hering NPG x82368).jpg",
     "trivia": [
       {
-        "q": "Which category best matches Florence Nightingale?",
+        "q": "Florence Nightingale is best known as which kind of historical figure?",
         "a": [
-          "Famous People",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "nurse",
+          "scientist",
+          "writer",
+          "political leader"
         ],
         "correct": 0
       },
       {
-        "q": "Florence Nightingale is especially connected with what?",
+        "q": "Florence Nightingale is most strongly associated with which country?",
         "a": [
-          "modern nursing",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "United Kingdom of Great Britain and Ireland",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Florence Nightingale?",
+        "q": "Which statement is true about Florence Nightingale?",
         "a": [
-          "public health",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Florence Nightingale was an English social reformer, statistician and the founder of modern nursing",
+          "Florence Nightingale is a fictional video game item only.",
+          "Florence Nightingale is mainly a type of cooking utensil.",
+          "Florence Nightingale is a random road sign."
         ],
         "correct": 0
       }
     ],
     "curationSource": "wikipedia-pageimage",
     "curationScore": 140.0,
-    "curationWarning": ""
+    "curationWarning": "",
+    "triviaStatus": "improved-v4-needs-human-review"
   },
   {
     "id": "pv-130-mother-teresa",
@@ -6482,36 +6487,37 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Túrelio | own work (digitized on Kodak- PhotoCD  (16 Base) from  35 mm   photographic film ) | CC BY-SA 2.0 de | wikidata-P18 | File:MotherTeresa 090.jpg",
     "trivia": [
       {
-        "q": "Which category best matches Mother Teresa?",
+        "q": "Mother Teresa is best known as which kind of historical figure?",
         "a": [
-          "Famous People",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "religious sister",
+          "scientist",
+          "writer",
+          "political leader"
         ],
         "correct": 0
       },
       {
-        "q": "Mother Teresa is especially connected with what?",
+        "q": "Mother Teresa is most strongly associated with which country?",
         "a": [
-          "service to poor",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Albania",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Mother Teresa?",
+        "q": "Which statement is true about Mother Teresa?",
         "a": [
-          "Kolkata",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Anjezë Gonxhe Bojaxhiu, better known as Mother Teresa or Saint Mother Teresa of Calcutta, was an Albanian-Indian Catholic nun, founder of the Missionaries of Charity and a Catholic saint.",
+          "Mother Teresa is a fictional video game item only.",
+          "Mother Teresa is mainly a type of cooking utensil.",
+          "Mother Teresa is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v4-needs-human-review"
   },
   {
     "id": "pv-131-rabindranath-tagore",
@@ -6532,36 +6538,37 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Georges Chevalier | https://collections.albert-kahn.hauts-de-seine.fr/document/proprit-d-albert-kahn-boulogne-france-rabindranth-tagore/617a7a45cf8b8968b3386442?filtrerParThme%5B0%5D=Personnalit%C3%A9&amp;filtrerParDomaine%5B0%5D=Images%20fixes&amp;s=dateDePriseDeVue&amp;so=desc&amp;pos=640&amp;pgn=41 | CC BY 4.0 | wikipedia-pageimage | File:1926 Rabindrath Tagore.jpg",
     "trivia": [
       {
-        "q": "Which category best matches Rabindranath Tagore?",
+        "q": "Rabindranath Tagore is best known as which kind of historical figure?",
         "a": [
-          "Famous People",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "painter",
+          "scientist",
+          "writer",
+          "political leader"
         ],
         "correct": 0
       },
       {
-        "q": "Rabindranath Tagore is especially connected with what?",
+        "q": "Rabindranath Tagore is most strongly associated with which country?",
         "a": [
-          "Gitanjali",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "British Raj",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Rabindranath Tagore?",
+        "q": "Which statement is true about Rabindranath Tagore?",
         "a": [
-          "Nobel Prize",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Rabindranath Tagore, was a Bengali poet, author, playwright, musician, composer, philosopher, social reformer, painter, and one of the foremost figures of the Bengal Renaissance",
+          "Rabindranath Tagore is a fictional video game item only.",
+          "Rabindranath Tagore is mainly a type of cooking utensil.",
+          "Rabindranath Tagore is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v4-needs-human-review"
   },
   {
     "id": "pv-132-william-shakespeare",
