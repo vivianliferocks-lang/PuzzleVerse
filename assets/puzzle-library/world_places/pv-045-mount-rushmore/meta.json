@@ -1,0 +1,50 @@
+{
+  "id": "pv-045-mount-rushmore",
+  "levelNumber": 45,
+  "title": "Mount Rushmore",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "United States",
+  "educationalFact": "Mount Rushmore is connected with presidential sculpture.",
+  "contextFact": "Important context: South Dakota.",
+  "pieces": 50,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-045-mount-rushmore/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-045-mount-rushmore/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Mount%20Rushmore",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Mount Rushmore?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Mount Rushmore is especially connected with what?",
+      "a": [
+        "presidential sculpture",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Mount Rushmore?",
+      "a": [
+        "South Dakota",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

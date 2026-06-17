@@ -1,0 +1,50 @@
+{
+  "id": "pv-039-moai-of-easter-island",
+  "levelNumber": 39,
+  "title": "Moai of Easter Island",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Chile",
+  "educationalFact": "Moai of Easter Island is connected with stone statues.",
+  "contextFact": "Important context: Rapa Nui.",
+  "pieces": 44,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-039-moai-of-easter-island/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-039-moai-of-easter-island/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Moai%20of%20Easter%20Island",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Moai of Easter Island?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Moai of Easter Island is especially connected with what?",
+      "a": [
+        "stone statues",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Moai of Easter Island?",
+      "a": [
+        "Rapa Nui",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

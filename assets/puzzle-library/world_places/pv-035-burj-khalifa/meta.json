@@ -1,0 +1,50 @@
+{
+  "id": "pv-035-burj-khalifa",
+  "levelNumber": 35,
+  "title": "Burj Khalifa",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "United Arab Emirates",
+  "educationalFact": "Burj Khalifa is connected with skyscraper.",
+  "contextFact": "Important context: Dubai.",
+  "pieces": 40,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-035-burj-khalifa/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-035-burj-khalifa/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Burj%20Khalifa",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Burj Khalifa?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Burj Khalifa is especially connected with what?",
+      "a": [
+        "skyscraper",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Burj Khalifa?",
+      "a": [
+        "Dubai",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

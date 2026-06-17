@@ -1,0 +1,50 @@
+{
+  "id": "pv-042-table-mountain",
+  "levelNumber": 42,
+  "title": "Table Mountain",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "South Africa",
+  "educationalFact": "Table Mountain is connected with flat-topped mountain.",
+  "contextFact": "Important context: Cape Town.",
+  "pieces": 47,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-042-table-mountain/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-042-table-mountain/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Table%20Mountain",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Table Mountain?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Table Mountain is especially connected with what?",
+      "a": [
+        "flat-topped mountain",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Table Mountain?",
+      "a": [
+        "Cape Town",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

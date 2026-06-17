@@ -1,0 +1,50 @@
+{
+  "id": "pv-048-red-square",
+  "levelNumber": 48,
+  "title": "Red Square",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Russia",
+  "educationalFact": "Red Square is connected with historic square.",
+  "contextFact": "Important context: Moscow.",
+  "pieces": 53,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-048-red-square/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-048-red-square/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Red%20Square",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Red Square?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Red Square is especially connected with what?",
+      "a": [
+        "historic square",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Red Square?",
+      "a": [
+        "Moscow",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

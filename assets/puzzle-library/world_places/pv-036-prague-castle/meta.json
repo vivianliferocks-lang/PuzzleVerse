@@ -1,0 +1,50 @@
+{
+  "id": "pv-036-prague-castle",
+  "levelNumber": 36,
+  "title": "Prague Castle",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Czech Republic",
+  "educationalFact": "Prague Castle is connected with castle complex.",
+  "contextFact": "Important context: Prague.",
+  "pieces": 41,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-036-prague-castle/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-036-prague-castle/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Prague%20Castle",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Prague Castle?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Prague Castle is especially connected with what?",
+      "a": [
+        "castle complex",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Prague Castle?",
+      "a": [
+        "Prague",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

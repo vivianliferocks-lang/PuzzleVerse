@@ -1,0 +1,50 @@
+{
+  "id": "pv-038-bagan-temples",
+  "levelNumber": 38,
+  "title": "Bagan Temples",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Myanmar",
+  "educationalFact": "Bagan Temples is connected with ancient temple plain.",
+  "contextFact": "Important context: Bagan.",
+  "pieces": 43,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-038-bagan-temples/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-038-bagan-temples/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Bagan%20Temples",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Bagan Temples?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Bagan Temples is especially connected with what?",
+      "a": [
+        "ancient temple plain",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Bagan Temples?",
+      "a": [
+        "Bagan",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pv-032-santorini",
+  "levelNumber": 32,
+  "title": "Santorini",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Greece",
+  "educationalFact": "Santorini is connected with volcanic island.",
+  "contextFact": "Important context: Aegean Sea.",
+  "pieces": 37,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-032-santorini/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-032-santorini/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Santorini",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Santorini?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Santorini is especially connected with what?",
+      "a": [
+        "volcanic island",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Santorini?",
+      "a": [
+        "Aegean Sea",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

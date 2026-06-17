@@ -1,0 +1,50 @@
+{
+  "id": "pv-043-niagara-falls",
+  "levelNumber": 43,
+  "title": "Niagara Falls",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Canada/United States",
+  "educationalFact": "Niagara Falls is connected with waterfall group.",
+  "contextFact": "Important context: Niagara River.",
+  "pieces": 48,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-043-niagara-falls/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-043-niagara-falls/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Niagara%20Falls",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Niagara Falls?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Niagara Falls is especially connected with what?",
+      "a": [
+        "waterfall group",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Niagara Falls?",
+      "a": [
+        "Niagara River",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

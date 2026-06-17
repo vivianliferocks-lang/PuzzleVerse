@@ -1,0 +1,50 @@
+{
+  "id": "pv-033-venice-canals",
+  "levelNumber": 33,
+  "title": "Venice Canals",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Italy",
+  "educationalFact": "Venice Canals is connected with historic canal city.",
+  "contextFact": "Important context: Venice.",
+  "pieces": 38,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-033-venice-canals/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-033-venice-canals/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Venice%20Canals",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Venice Canals?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Venice Canals is especially connected with what?",
+      "a": [
+        "historic canal city",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Venice Canals?",
+      "a": [
+        "Venice",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

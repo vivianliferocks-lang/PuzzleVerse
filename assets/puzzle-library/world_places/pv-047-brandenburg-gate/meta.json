@@ -1,0 +1,50 @@
+{
+  "id": "pv-047-brandenburg-gate",
+  "levelNumber": 47,
+  "title": "Brandenburg Gate",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Germany",
+  "educationalFact": "Brandenburg Gate is connected with neoclassical gate.",
+  "contextFact": "Important context: Berlin.",
+  "pieces": 52,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-047-brandenburg-gate/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-047-brandenburg-gate/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Brandenburg%20Gate",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Brandenburg Gate?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Brandenburg Gate is especially connected with what?",
+      "a": [
+        "neoclassical gate",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Brandenburg Gate?",
+      "a": [
+        "Berlin",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

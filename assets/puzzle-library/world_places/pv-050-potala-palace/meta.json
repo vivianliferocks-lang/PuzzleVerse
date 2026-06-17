@@ -1,0 +1,50 @@
+{
+  "id": "pv-050-potala-palace",
+  "levelNumber": 50,
+  "title": "Potala Palace",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "China",
+  "educationalFact": "Potala Palace is connected with Tibetan palace.",
+  "contextFact": "Important context: Lhasa.",
+  "pieces": 56,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-050-potala-palace/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-050-potala-palace/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Potala%20Palace",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Potala Palace?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Potala Palace is especially connected with what?",
+      "a": [
+        "Tibetan palace",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Potala Palace?",
+      "a": [
+        "Lhasa",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

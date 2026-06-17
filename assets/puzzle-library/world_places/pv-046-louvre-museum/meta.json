@@ -1,0 +1,50 @@
+{
+  "id": "pv-046-louvre-museum",
+  "levelNumber": 46,
+  "title": "Louvre Museum",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "France",
+  "educationalFact": "Louvre Museum is connected with art museum.",
+  "contextFact": "Important context: Paris.",
+  "pieces": 51,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-046-louvre-museum/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-046-louvre-museum/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Louvre%20Museum",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Louvre Museum?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Louvre Museum is especially connected with what?",
+      "a": [
+        "art museum",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Louvre Museum?",
+      "a": [
+        "Paris",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

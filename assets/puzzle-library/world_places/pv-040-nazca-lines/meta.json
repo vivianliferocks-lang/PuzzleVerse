@@ -1,0 +1,50 @@
+{
+  "id": "pv-040-nazca-lines",
+  "levelNumber": 40,
+  "title": "Nazca Lines",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Peru",
+  "educationalFact": "Nazca Lines is connected with geoglyphs.",
+  "contextFact": "Important context: Nazca Desert.",
+  "pieces": 45,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-040-nazca-lines/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-040-nazca-lines/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Nazca%20Lines",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Nazca Lines?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Nazca Lines is especially connected with what?",
+      "a": [
+        "geoglyphs",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Nazca Lines?",
+      "a": [
+        "Nazca Desert",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

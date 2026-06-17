@@ -1,0 +1,50 @@
+{
+  "id": "pv-049-st-basil-cathedral",
+  "levelNumber": 49,
+  "title": "St Basil Cathedral",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Russia",
+  "educationalFact": "St Basil Cathedral is connected with onion-domed cathedral.",
+  "contextFact": "Important context: Moscow.",
+  "pieces": 54,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-049-st-basil-cathedral/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-049-st-basil-cathedral/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=St%20Basil%20Cathedral",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches St Basil Cathedral?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "St Basil Cathedral is especially connected with what?",
+      "a": [
+        "onion-domed cathedral",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to St Basil Cathedral?",
+      "a": [
+        "Moscow",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pv-037-meteora-monasteries",
+  "levelNumber": 37,
+  "title": "Meteora Monasteries",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Greece",
+  "educationalFact": "Meteora Monasteries is connected with cliff monasteries.",
+  "contextFact": "Important context: Thessaly.",
+  "pieces": 42,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-037-meteora-monasteries/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-037-meteora-monasteries/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Meteora%20Monasteries",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Meteora Monasteries?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Meteora Monasteries is especially connected with what?",
+      "a": [
+        "cliff monasteries",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Meteora Monasteries?",
+      "a": [
+        "Thessaly",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

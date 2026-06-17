@@ -1,0 +1,50 @@
+{
+  "id": "pv-034-tower-bridge",
+  "levelNumber": 34,
+  "title": "Tower Bridge",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "United Kingdom",
+  "educationalFact": "Tower Bridge is connected with bascule bridge.",
+  "contextFact": "Important context: London.",
+  "pieces": 39,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-034-tower-bridge/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-034-tower-bridge/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Tower%20Bridge",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Tower Bridge?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Tower Bridge is especially connected with what?",
+      "a": [
+        "bascule bridge",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Tower Bridge?",
+      "a": [
+        "London",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}
