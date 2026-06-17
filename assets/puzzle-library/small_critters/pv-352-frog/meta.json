@@ -1,0 +1,50 @@
+{
+  "id": "pv-352-frog",
+  "levelNumber": 352,
+  "title": "Frog",
+  "theme": "Small Critters",
+  "category": "small_critters",
+  "subtype": "amphibian",
+  "educationalFact": "Frog is connected with metamorphosis.",
+  "contextFact": "Important context: wetlands.",
+  "pieces": 370,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/small_critters/pv-352-frog/placeholder.svg",
+  "localImage": "assets/puzzle-library/small_critters/pv-352-frog/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Frog",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Frog?",
+      "a": [
+        "Small Critters",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Frog is especially connected with what?",
+      "a": [
+        "metamorphosis",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Frog?",
+      "a": [
+        "wetlands",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

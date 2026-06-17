@@ -1,0 +1,50 @@
+{
+  "id": "pv-351-pipefish",
+  "levelNumber": 351,
+  "title": "Pipefish",
+  "theme": "Small Critters",
+  "category": "small_critters",
+  "subtype": "fish",
+  "educationalFact": "Pipefish is connected with long slender body.",
+  "contextFact": "Important context: seagrass.",
+  "pieces": 369,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/small_critters/pv-351-pipefish/placeholder.svg",
+  "localImage": "assets/puzzle-library/small_critters/pv-351-pipefish/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Pipefish",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Pipefish?",
+      "a": [
+        "Small Critters",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Pipefish is especially connected with what?",
+      "a": [
+        "long slender body",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Pipefish?",
+      "a": [
+        "seagrass",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

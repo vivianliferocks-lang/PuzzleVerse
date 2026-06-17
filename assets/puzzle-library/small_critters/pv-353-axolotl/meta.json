@@ -1,0 +1,50 @@
+{
+  "id": "pv-353-axolotl",
+  "levelNumber": 353,
+  "title": "Axolotl",
+  "theme": "Small Critters",
+  "category": "small_critters",
+  "subtype": "amphibian",
+  "educationalFact": "Axolotl is connected with regeneration.",
+  "contextFact": "Important context: Mexico.",
+  "pieces": 371,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/small_critters/pv-353-axolotl/placeholder.svg",
+  "localImage": "assets/puzzle-library/small_critters/pv-353-axolotl/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Axolotl",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Axolotl?",
+      "a": [
+        "Small Critters",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Axolotl is especially connected with what?",
+      "a": [
+        "regeneration",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Axolotl?",
+      "a": [
+        "Mexico",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

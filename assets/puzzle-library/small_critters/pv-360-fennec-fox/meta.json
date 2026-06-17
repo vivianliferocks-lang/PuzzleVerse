@@ -1,0 +1,50 @@
+{
+  "id": "pv-360-fennec-fox",
+  "levelNumber": 360,
+  "title": "Fennec Fox",
+  "theme": "Small Critters",
+  "category": "small_critters",
+  "subtype": "mammal",
+  "educationalFact": "Fennec Fox is connected with large ears.",
+  "contextFact": "Important context: desert.",
+  "pieces": 378,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/small_critters/pv-360-fennec-fox/placeholder.svg",
+  "localImage": "assets/puzzle-library/small_critters/pv-360-fennec-fox/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Fennec%20Fox",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Fennec Fox?",
+      "a": [
+        "Small Critters",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Fennec Fox is especially connected with what?",
+      "a": [
+        "large ears",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Fennec Fox?",
+      "a": [
+        "desert",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}
