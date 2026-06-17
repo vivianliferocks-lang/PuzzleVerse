@@ -1,19 +1,16 @@
-# Attribution for Chanakya
+# Attribution
 
-Source page: https://commons.wikimedia.org/wiki/File%3AGreater_flamingos_at_T_S_Chanakya%2C_Navi_Mumbai_%28March%2C_24%29.jpg
+Puzzle: Chanakya
+Level ID: pv-118-chanakya
 
-Downloaded URL: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Greater_flamingos_at_T_S_Chanakya%2C_Navi_Mumbai_%28March%2C_24%29.jpg/1920px-Greater_flamingos_at_T_S_Chanakya%2C_Navi_Mumbai_%28March%2C_24%29.jpg
+Source: wikidata-P18
+File/title: File:Chanakya artistic depiction.jpg
+Image URL: https://upload.wikimedia.org/wikipedia/commons/c/cd/Chanakya_artistic_depiction.jpg
+Credit/artist: Unknown authorUnknown author
+License: Public domain
+License URL: Check source page
 
-Original URL: https://upload.wikimedia.org/wikipedia/commons/f/f7/Greater_flamingos_at_T_S_Chanakya%2C_Navi_Mumbai_%28March%2C_24%29.jpg
+Curation warning: none
+Curation score: 138.0
 
-Thumbnail URL: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Greater_flamingos_at_T_S_Chanakya%2C_Navi_Mumbai_%28March%2C_24%29.jpg/1920px-Greater_flamingos_at_T_S_Chanakya%2C_Navi_Mumbai_%28March%2C_24%29.jpg
-
-Artist: Rohit Sharma
-
-Credit: Own work
-
-License: CC BY-SA 4.0
-
-Original dimensions: 6000 x 4000
-
-Review status: needs human review before commercial use.
+Review before commercial publishing. Replace if the image is not an accurate match.
