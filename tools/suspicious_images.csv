@@ -1,0 +1,80 @@
+level,id,title,category,image,reasons
+81,pv-081-albert-einstein,Albert Einstein,famous_people,assets/puzzle-library/famous_people/pv-081-albert-einstein/image.jpg,person-image-may-be-place/statue/building
+82,pv-082-marie-curie,Marie Curie,famous_people,assets/puzzle-library/famous_people/pv-082-marie-curie/image.jpg,person-image-may-be-place/statue/building
+83,pv-083-isaac-newton,Isaac Newton,famous_people,assets/puzzle-library/famous_people/pv-083-isaac-newton/image.jpg,person-image-may-be-place/statue/building
+84,pv-084-charles-darwin,Charles Darwin,famous_people,assets/puzzle-library/famous_people/pv-084-charles-darwin/image.jpg,person-image-may-be-place/statue/building
+85,pv-085-ada-lovelace,Ada Lovelace,famous_people,assets/puzzle-library/famous_people/pv-085-ada-lovelace/image.jpg,person-image-may-be-place/statue/building
+86,pv-086-nikola-tesla,Nikola Tesla,famous_people,assets/puzzle-library/famous_people/pv-086-nikola-tesla/image.jpg,person-image-may-be-place/statue/building
+87,pv-087-leonardo-da-vinci,Leonardo da Vinci,famous_people,assets/puzzle-library/famous_people/pv-087-leonardo-da-vinci/image.jpg,person-image-may-be-place/statue/building
+88,pv-088-galileo-galilei,Galileo Galilei,famous_people,assets/puzzle-library/famous_people/pv-088-galileo-galilei/image.jpg,person-image-may-be-place/statue/building
+89,pv-089-katherine-johnson,Katherine Johnson,famous_people,assets/puzzle-library/famous_people/pv-089-katherine-johnson/image.jpg,person-image-may-be-place/statue/building
+90,pv-090-rosalind-franklin,Rosalind Franklin,famous_people,assets/puzzle-library/famous_people/pv-090-rosalind-franklin/image.jpg,person-image-may-be-place/statue/building
+91,pv-091-alan-turing,Alan Turing,famous_people,assets/puzzle-library/famous_people/pv-091-alan-turing/image.jpg,person-image-may-be-place/statue/building
+92,pv-092-srinivasa-ramanujan,Srinivasa Ramanujan,famous_people,assets/puzzle-library/famous_people/pv-092-srinivasa-ramanujan/image.jpg,person-image-may-be-place/statue/building
+93,pv-093-c-v-raman,C V Raman,famous_people,assets/puzzle-library/famous_people/pv-093-c-v-raman/image.jpg,person-image-may-be-place/statue/building
+94,pv-094-a-p-j-abdul-kalam,A P J Abdul Kalam,famous_people,assets/puzzle-library/famous_people/pv-094-a-p-j-abdul-kalam/image.jpg,person-image-may-be-place/statue/building
+95,pv-095-homi-j-bhabha,Homi J Bhabha,famous_people,assets/puzzle-library/famous_people/pv-095-homi-j-bhabha/image.jpg,person-image-may-be-place/statue/building
+96,pv-096-jagadish-chandra-bose,Jagadish Chandra Bose,famous_people,assets/puzzle-library/famous_people/pv-096-jagadish-chandra-bose/image.jpg,person-image-may-be-place/statue/building
+97,pv-097-m-s-swaminathan,M S Swaminathan,famous_people,assets/puzzle-library/famous_people/pv-097-m-s-swaminathan/image.jpg,person-image-may-be-place/statue/building
+98,pv-098-vikram-sarabhai,Vikram Sarabhai,famous_people,assets/puzzle-library/famous_people/pv-098-vikram-sarabhai/image.jpg,person-image-may-be-place/statue/building
+99,pv-099-stephen-hawking,Stephen Hawking,famous_people,assets/puzzle-library/famous_people/pv-099-stephen-hawking/image.jpg,person-image-may-be-place/statue/building
+100,pv-100-jane-goodall,Jane Goodall,famous_people,assets/puzzle-library/famous_people/pv-100-jane-goodall/image.jpg,person-image-may-be-place/statue/building
+101,pv-101-carl-sagan,Carl Sagan,famous_people,assets/puzzle-library/famous_people/pv-101-carl-sagan/image.jpg,person-image-may-be-place/statue/building
+102,pv-102-neil-armstrong,Neil Armstrong,famous_people,assets/puzzle-library/famous_people/pv-102-neil-armstrong/image.jpg,person-image-may-be-place/statue/building
+103,pv-103-yuri-gagarin,Yuri Gagarin,famous_people,assets/puzzle-library/famous_people/pv-103-yuri-gagarin/image.jpg,person-image-may-be-place/statue/building
+104,pv-104-valentina-tereshkova,Valentina Tereshkova,famous_people,assets/puzzle-library/famous_people/pv-104-valentina-tereshkova/image.jpg,person-image-may-be-place/statue/building
+105,pv-105-mae-jemison,Mae Jemison,famous_people,assets/puzzle-library/famous_people/pv-105-mae-jemison/image.jpg,person-image-may-be-place/statue/building
+106,pv-106-wangari-maathai,Wangari Maathai,famous_people,assets/puzzle-library/famous_people/pv-106-wangari-maathai/image.jpg,person-image-may-be-place/statue/building
+107,pv-107-nelson-mandela,Nelson Mandela,famous_people,assets/puzzle-library/famous_people/pv-107-nelson-mandela/image.jpg,person-image-may-be-place/statue/building
+108,pv-108-mahatma-gandhi,Mahatma Gandhi,famous_people,assets/puzzle-library/famous_people/pv-108-mahatma-gandhi/image.jpg,person-image-may-be-place/statue/building
+109,pv-109-martin-luther-king-jr,Martin Luther King Jr,famous_people,assets/puzzle-library/famous_people/pv-109-martin-luther-king-jr/image.jpg,person-image-may-be-place/statue/building
+110,pv-110-abraham-lincoln,Abraham Lincoln,famous_people,assets/puzzle-library/famous_people/pv-110-abraham-lincoln/image.jpg,person-image-may-be-place/statue/building
+111,pv-111-george-washington,George Washington,famous_people,assets/puzzle-library/famous_people/pv-111-george-washington/image.jpg,person-image-may-be-place/statue/building
+112,pv-112-queen-elizabeth-i,Queen Elizabeth I,famous_people,assets/puzzle-library/famous_people/pv-112-queen-elizabeth-i/image.jpg,person-image-may-be-place/statue/building
+113,pv-113-cleopatra,Cleopatra,famous_people,assets/puzzle-library/famous_people/pv-113-cleopatra/image.jpg,person-image-may-be-place/statue/building
+114,pv-114-ashoka,Ashoka,famous_people,assets/puzzle-library/famous_people/pv-114-ashoka/image.jpg,person-image-may-be-place/statue/building
+115,pv-115-akbar,Akbar,famous_people,assets/puzzle-library/famous_people/pv-115-akbar/image.jpg,person-image-may-be-place/statue/building
+116,pv-116-rani-lakshmibai,Rani Lakshmibai,famous_people,assets/puzzle-library/famous_people/pv-116-rani-lakshmibai/image.jpg,person-image-may-be-place/statue/building
+117,pv-117-tipu-sultan,Tipu Sultan,famous_people,assets/puzzle-library/famous_people/pv-117-tipu-sultan/image.jpg,person-image-may-be-place/statue/building
+118,pv-118-chanakya,Chanakya,famous_people,assets/puzzle-library/famous_people/pv-118-chanakya/image.jpg,person-image-may-be-place/statue/building
+119,pv-119-confucius,Confucius,famous_people,assets/puzzle-library/famous_people/pv-119-confucius/image.jpg,person-image-may-be-place/statue/building
+120,pv-120-socrates,Socrates,famous_people,assets/puzzle-library/famous_people/pv-120-socrates/image.jpg,person-image-may-be-place/statue/building
+121,pv-121-aristotle,Aristotle,famous_people,assets/puzzle-library/famous_people/pv-121-aristotle/image.jpg,person-image-may-be-place/statue/building
+122,pv-122-plato,Plato,famous_people,assets/puzzle-library/famous_people/pv-122-plato/image.jpg,person-image-may-be-place/statue/building
+123,pv-123-ibn-sina,Ibn Sina,famous_people,assets/puzzle-library/famous_people/pv-123-ibn-sina/image.jpg,person-image-may-be-place/statue/building
+124,pv-124-ibn-battuta,Ibn Battuta,famous_people,assets/puzzle-library/famous_people/pv-124-ibn-battuta/image.jpg,person-image-may-be-place/statue/building
+125,pv-125-zheng-he,Zheng He,famous_people,assets/puzzle-library/famous_people/pv-125-zheng-he/image.jpg,person-image-may-be-place/statue/building
+126,pv-126-marco-polo,Marco Polo,famous_people,assets/puzzle-library/famous_people/pv-126-marco-polo/image.jpg,person-image-may-be-place/statue/building
+127,pv-127-amelia-earhart,Amelia Earhart,famous_people,assets/puzzle-library/famous_people/pv-127-amelia-earhart/image.jpg,person-image-may-be-place/statue/building
+128,pv-128-wright-brothers,Wright Brothers,famous_people,assets/puzzle-library/famous_people/pv-128-wright-brothers/image.jpg,person-image-may-be-place/statue/building
+129,pv-129-florence-nightingale,Florence Nightingale,famous_people,assets/puzzle-library/famous_people/pv-129-florence-nightingale/image.jpg,person-image-may-be-place/statue/building
+130,pv-130-mother-teresa,Mother Teresa,famous_people,assets/puzzle-library/famous_people/pv-130-mother-teresa/image.jpg,person-image-may-be-place/statue/building
+131,pv-131-rabindranath-tagore,Rabindranath Tagore,famous_people,assets/puzzle-library/famous_people/pv-131-rabindranath-tagore/image.jpg,person-image-may-be-place/statue/building
+132,pv-132-william-shakespeare,William Shakespeare,famous_people,assets/puzzle-library/famous_people/pv-132-william-shakespeare/image.jpg,person-image-may-be-place/statue/building
+133,pv-133-homer,Homer,famous_people,assets/puzzle-library/famous_people/pv-133-homer/image.jpg,person-image-may-be-place/statue/building
+134,pv-134-murasaki-shikibu,Murasaki Shikibu,famous_people,assets/puzzle-library/famous_people/pv-134-murasaki-shikibu/image.jpg,person-image-may-be-place/statue/building
+135,pv-135-frida-kahlo,Frida Kahlo,famous_people,assets/puzzle-library/famous_people/pv-135-frida-kahlo/image.jpg,person-image-may-be-place/statue/building
+136,pv-136-vincent-van-gogh,Vincent van Gogh,famous_people,assets/puzzle-library/famous_people/pv-136-vincent-van-gogh/image.jpg,person-image-may-be-place/statue/building
+137,pv-137-pablo-picasso,Pablo Picasso,famous_people,assets/puzzle-library/famous_people/pv-137-pablo-picasso/image.jpg,person-image-may-be-place/statue/building
+138,pv-138-michelangelo,Michelangelo,famous_people,assets/puzzle-library/famous_people/pv-138-michelangelo/image.jpg,person-image-may-be-place/statue/building
+139,pv-139-raphael,Raphael,famous_people,assets/puzzle-library/famous_people/pv-139-raphael/image.jpg,person-image-may-be-place/statue/building
+140,pv-140-beethoven,Beethoven,famous_people,assets/puzzle-library/famous_people/pv-140-beethoven/image.jpg,person-image-may-be-place/statue/building
+141,pv-141-mozart,Mozart,famous_people,assets/puzzle-library/famous_people/pv-141-mozart/image.jpg,person-image-may-be-place/statue/building
+142,pv-142-tansen,Tansen,famous_people,assets/puzzle-library/famous_people/pv-142-tansen/image.jpg,person-image-may-be-place/statue/building
+143,pv-143-m-s-subbulakshmi,M S Subbulakshmi,famous_people,assets/puzzle-library/famous_people/pv-143-m-s-subbulakshmi/image.jpg,person-image-may-be-place/statue/building
+144,pv-144-lata-mangeshkar,Lata Mangeshkar,famous_people,assets/puzzle-library/famous_people/pv-144-lata-mangeshkar/image.jpg,person-image-may-be-place/statue/building
+145,pv-145-b-r-ambedkar,B R Ambedkar,famous_people,assets/puzzle-library/famous_people/pv-145-b-r-ambedkar/image.jpg,person-image-may-be-place/statue/building
+146,pv-146-savitribai-phule,Savitribai Phule,famous_people,assets/puzzle-library/famous_people/pv-146-savitribai-phule/image.jpg,person-image-may-be-place/statue/building
+147,pv-147-kalpana-chawla,Kalpana Chawla,famous_people,assets/puzzle-library/famous_people/pv-147-kalpana-chawla/image.jpg,person-image-may-be-place/statue/building
+148,pv-148-sunita-williams,Sunita Williams,famous_people,assets/puzzle-library/famous_people/pv-148-sunita-williams/image.jpg,person-image-may-be-place/statue/building
+149,pv-149-mary-anning,Mary Anning,famous_people,assets/puzzle-library/famous_people/pv-149-mary-anning/image.jpg,person-image-may-be-place/statue/building
+150,pv-150-solar-system,Solar System,science_discoveries,assets/puzzle-library/science_discoveries/pv-150-solar-system/image.jpg,image-file-missing
+151,pv-151-milky-way-galaxy,Milky Way Galaxy,science_discoveries,assets/puzzle-library/science_discoveries/pv-151-milky-way-galaxy/image.jpg,image-file-missing
+152,pv-152-black-hole,Black Hole,science_discoveries,assets/puzzle-library/science_discoveries/pv-152-black-hole/image.jpg,image-file-missing
+153,pv-153-nebula,Nebula,science_discoveries,assets/puzzle-library/science_discoveries/pv-153-nebula/image.jpg,image-file-missing
+154,pv-154-supernova,Supernova,science_discoveries,assets/puzzle-library/science_discoveries/pv-154-supernova/image.jpg,image-file-missing
+155,pv-155-international-space-station,International Space Station,science_discoveries,assets/puzzle-library/science_discoveries/pv-155-international-space-station/image.jpg,image-file-missing
+156,pv-156-mars-rover,Mars Rover,science_discoveries,assets/puzzle-library/science_discoveries/pv-156-mars-rover/image.jpg,image-file-missing
+157,pv-157-hubble-space-telescope,Hubble Space Telescope,science_discoveries,assets/puzzle-library/science_discoveries/pv-157-hubble-space-telescope/image.jpg,image-file-missing
+158,pv-158-james-webb-space-telescope,James Webb Space Telescope,science_discoveries,assets/puzzle-library/science_discoveries/pv-158-james-webb-space-telescope/image.jpg,image-file-missing
+181,pv-181-solar-panel,Solar Panel,science_discoveries,assets/puzzle-library/science_discoveries/pv-181-solar-panel/image.jpg,image-file-missing
