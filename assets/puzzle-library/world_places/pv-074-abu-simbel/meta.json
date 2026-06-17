@@ -1,0 +1,50 @@
+{
+  "id": "pv-074-abu-simbel",
+  "levelNumber": 74,
+  "title": "Abu Simbel",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Egypt",
+  "educationalFact": "Abu Simbel is connected with rock temples.",
+  "contextFact": "Important context: Nubia.",
+  "pieces": 80,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/world_places/pv-074-abu-simbel/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-074-abu-simbel/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Abu%20Simbel",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Abu Simbel?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Abu Simbel is especially connected with what?",
+      "a": [
+        "rock temples",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Abu Simbel?",
+      "a": [
+        "Nubia",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

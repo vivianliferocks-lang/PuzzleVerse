@@ -1,0 +1,50 @@
+{
+  "id": "pv-073-luxor-temple",
+  "levelNumber": 73,
+  "title": "Luxor Temple",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Egypt",
+  "educationalFact": "Luxor Temple is connected with ancient temple.",
+  "contextFact": "Important context: Luxor.",
+  "pieces": 79,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-073-luxor-temple/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-073-luxor-temple/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Luxor%20Temple",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Luxor Temple?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Luxor Temple is especially connected with what?",
+      "a": [
+        "ancient temple",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Luxor Temple?",
+      "a": [
+        "Luxor",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

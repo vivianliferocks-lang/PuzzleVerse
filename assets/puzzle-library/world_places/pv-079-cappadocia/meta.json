@@ -1,0 +1,50 @@
+{
+  "id": "pv-079-cappadocia",
+  "levelNumber": 79,
+  "title": "Cappadocia",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Turkey",
+  "educationalFact": "Cappadocia is connected with rock formations.",
+  "contextFact": "Important context: Anatolia.",
+  "pieces": 86,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/world_places/pv-079-cappadocia/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-079-cappadocia/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Cappadocia",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Cappadocia?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Cappadocia is especially connected with what?",
+      "a": [
+        "rock formations",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Cappadocia?",
+      "a": [
+        "Anatolia",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

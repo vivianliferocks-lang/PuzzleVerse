@@ -1,0 +1,50 @@
+{
+  "id": "pv-076-terracotta-army",
+  "levelNumber": 76,
+  "title": "Terracotta Army",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "China",
+  "educationalFact": "Terracotta Army is connected with buried army sculptures.",
+  "contextFact": "Important context: Xi’an.",
+  "pieces": 83,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/world_places/pv-076-terracotta-army/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-076-terracotta-army/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Terracotta%20Army",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Terracotta Army?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Terracotta Army is especially connected with what?",
+      "a": [
+        "buried army sculptures",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Terracotta Army?",
+      "a": [
+        "Xi’an",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

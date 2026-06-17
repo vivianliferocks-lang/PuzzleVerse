@@ -1,0 +1,50 @@
+{
+  "id": "pv-078-tikal",
+  "levelNumber": 78,
+  "title": "Tikal",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Guatemala",
+  "educationalFact": "Tikal is connected with Maya city.",
+  "contextFact": "Important context: rainforest.",
+  "pieces": 85,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/world_places/pv-078-tikal/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-078-tikal/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Tikal",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Tikal?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Tikal is especially connected with what?",
+      "a": [
+        "Maya city",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Tikal?",
+      "a": [
+        "rainforest",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

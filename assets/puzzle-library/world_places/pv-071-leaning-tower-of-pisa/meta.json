@@ -1,0 +1,50 @@
+{
+  "id": "pv-071-leaning-tower-of-pisa",
+  "levelNumber": 71,
+  "title": "Leaning Tower of Pisa",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Italy",
+  "educationalFact": "Leaning Tower of Pisa is connected with tilted bell tower.",
+  "contextFact": "Important context: Pisa.",
+  "pieces": 77,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-071-leaning-tower-of-pisa/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-071-leaning-tower-of-pisa/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Leaning%20Tower%20of%20Pisa",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Leaning Tower of Pisa?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Leaning Tower of Pisa is especially connected with what?",
+      "a": [
+        "tilted bell tower",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Leaning Tower of Pisa?",
+      "a": [
+        "Pisa",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}
