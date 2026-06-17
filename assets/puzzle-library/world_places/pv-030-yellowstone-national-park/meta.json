@@ -1,0 +1,50 @@
+{
+  "id": "pv-030-yellowstone-national-park",
+  "levelNumber": 30,
+  "title": "Yellowstone National Park",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "United States",
+  "educationalFact": "Yellowstone National Park is connected with geothermal park.",
+  "contextFact": "Important context: Wyoming.",
+  "pieces": 35,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-030-yellowstone-national-park/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-030-yellowstone-national-park/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Yellowstone%20National%20Park",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Yellowstone National Park?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Yellowstone National Park is especially connected with what?",
+      "a": [
+        "geothermal park",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Yellowstone National Park?",
+      "a": [
+        "Wyoming",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

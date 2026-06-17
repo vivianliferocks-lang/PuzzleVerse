@@ -1,0 +1,50 @@
+{
+  "id": "pv-013-statue-of-liberty",
+  "levelNumber": 13,
+  "title": "Statue of Liberty",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "United States",
+  "educationalFact": "Statue of Liberty is connected with freedom monument.",
+  "contextFact": "Important context: New York Harbor.",
+  "pieces": 24,
+  "difficulty": "Easy",
+  "image": "assets/puzzle-library/world_places/pv-013-statue-of-liberty/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-013-statue-of-liberty/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Statue%20of%20Liberty",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Statue of Liberty?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Statue of Liberty is especially connected with what?",
+      "a": [
+        "freedom monument",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Statue of Liberty?",
+      "a": [
+        "New York Harbor",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

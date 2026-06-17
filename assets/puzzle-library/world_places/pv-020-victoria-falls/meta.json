@@ -1,0 +1,50 @@
+{
+  "id": "pv-020-victoria-falls",
+  "levelNumber": 20,
+  "title": "Victoria Falls",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Zambia/Zimbabwe",
+  "educationalFact": "Victoria Falls is connected with waterfall.",
+  "contextFact": "Important context: Zambezi River.",
+  "pieces": 42,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-020-victoria-falls/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-020-victoria-falls/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Victoria%20Falls",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Victoria Falls?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Victoria Falls is especially connected with what?",
+      "a": [
+        "waterfall",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Victoria Falls?",
+      "a": [
+        "Zambezi River",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

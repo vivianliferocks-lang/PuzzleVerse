@@ -1,0 +1,50 @@
+{
+  "id": "pv-012-sagrada-familia",
+  "levelNumber": 12,
+  "title": "Sagrada Familia",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Spain",
+  "educationalFact": "Sagrada Familia is connected with large basilica.",
+  "contextFact": "Important context: Barcelona.",
+  "pieces": 20,
+  "difficulty": "Easy",
+  "image": "assets/puzzle-library/world_places/pv-012-sagrada-familia/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-012-sagrada-familia/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Sagrada%20Familia",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Sagrada Familia?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Sagrada Familia is especially connected with what?",
+      "a": [
+        "large basilica",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Sagrada Familia?",
+      "a": [
+        "Barcelona",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pv-023-alhambra",
+  "levelNumber": 23,
+  "title": "Alhambra",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Spain",
+  "educationalFact": "Alhambra is connected with Islamic palace fortress.",
+  "contextFact": "Important context: Granada.",
+  "pieces": 27,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-023-alhambra/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-023-alhambra/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Alhambra",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Alhambra?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Alhambra is especially connected with what?",
+      "a": [
+        "Islamic palace fortress",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Alhambra?",
+      "a": [
+        "Granada",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

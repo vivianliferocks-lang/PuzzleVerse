@@ -1,0 +1,50 @@
+{
+  "id": "pv-027-himeji-castle",
+  "levelNumber": 27,
+  "title": "Himeji Castle",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Japan",
+  "educationalFact": "Himeji Castle is connected with feudal castle.",
+  "contextFact": "Important context: Hyogo.",
+  "pieces": 32,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-027-himeji-castle/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-027-himeji-castle/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Himeji%20Castle",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Himeji Castle?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Himeji Castle is especially connected with what?",
+      "a": [
+        "feudal castle",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Himeji Castle?",
+      "a": [
+        "Hyogo",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

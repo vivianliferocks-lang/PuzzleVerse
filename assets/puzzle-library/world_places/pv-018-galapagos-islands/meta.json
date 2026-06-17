@@ -1,0 +1,50 @@
+{
+  "id": "pv-018-galapagos-islands",
+  "levelNumber": 18,
+  "title": "Galapagos Islands",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Ecuador",
+  "educationalFact": "Galapagos Islands is connected with evolutionary biodiversity.",
+  "contextFact": "Important context: Pacific Ocean.",
+  "pieces": 36,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-018-galapagos-islands/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-018-galapagos-islands/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Galapagos%20Islands",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Galapagos Islands?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Galapagos Islands is especially connected with what?",
+      "a": [
+        "evolutionary biodiversity",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Galapagos Islands?",
+      "a": [
+        "Pacific Ocean",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

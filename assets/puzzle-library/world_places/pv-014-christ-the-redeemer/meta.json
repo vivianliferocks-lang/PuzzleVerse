@@ -1,0 +1,50 @@
+{
+  "id": "pv-014-christ-the-redeemer",
+  "levelNumber": 14,
+  "title": "Christ the Redeemer",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Brazil",
+  "educationalFact": "Christ the Redeemer is connected with Art Deco statue.",
+  "contextFact": "Important context: Rio de Janeiro.",
+  "pieces": 24,
+  "difficulty": "Easy",
+  "image": "assets/puzzle-library/world_places/pv-014-christ-the-redeemer/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-014-christ-the-redeemer/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Christ%20the%20Redeemer",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Christ the Redeemer?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Christ the Redeemer is especially connected with what?",
+      "a": [
+        "Art Deco statue",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Christ the Redeemer?",
+      "a": [
+        "Rio de Janeiro",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

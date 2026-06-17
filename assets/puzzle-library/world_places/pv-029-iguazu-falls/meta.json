@@ -1,0 +1,50 @@
+{
+  "id": "pv-029-iguazu-falls",
+  "levelNumber": 29,
+  "title": "Iguazu Falls",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Argentina/Brazil",
+  "educationalFact": "Iguazu Falls is connected with waterfall system.",
+  "contextFact": "Important context: Iguazu River.",
+  "pieces": 34,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-029-iguazu-falls/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-029-iguazu-falls/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Iguazu%20Falls",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Iguazu Falls?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Iguazu Falls is especially connected with what?",
+      "a": [
+        "waterfall system",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Iguazu Falls?",
+      "a": [
+        "Iguazu River",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

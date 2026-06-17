@@ -1,0 +1,50 @@
+{
+  "id": "pv-025-hagia-sophia",
+  "levelNumber": 25,
+  "title": "Hagia Sophia",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Turkey",
+  "educationalFact": "Hagia Sophia is connected with historic monument.",
+  "contextFact": "Important context: Istanbul.",
+  "pieces": 30,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-025-hagia-sophia/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-025-hagia-sophia/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Hagia%20Sophia",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Hagia Sophia?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Hagia Sophia is especially connected with what?",
+      "a": [
+        "historic monument",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Hagia Sophia?",
+      "a": [
+        "Istanbul",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

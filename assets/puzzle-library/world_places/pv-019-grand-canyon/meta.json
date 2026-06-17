@@ -1,0 +1,50 @@
+{
+  "id": "pv-019-grand-canyon",
+  "levelNumber": 19,
+  "title": "Grand Canyon",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "United States",
+  "educationalFact": "Grand Canyon is connected with river-carved canyon.",
+  "contextFact": "Important context: Arizona.",
+  "pieces": 42,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-019-grand-canyon/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-019-grand-canyon/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Grand%20Canyon",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Grand Canyon?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Grand Canyon is especially connected with what?",
+      "a": [
+        "river-carved canyon",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Grand Canyon?",
+      "a": [
+        "Arizona",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

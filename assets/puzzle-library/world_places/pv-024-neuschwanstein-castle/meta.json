@@ -1,0 +1,50 @@
+{
+  "id": "pv-024-neuschwanstein-castle",
+  "levelNumber": 24,
+  "title": "Neuschwanstein Castle",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Germany",
+  "educationalFact": "Neuschwanstein Castle is connected with romantic castle.",
+  "contextFact": "Important context: Bavaria.",
+  "pieces": 28,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-024-neuschwanstein-castle/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-024-neuschwanstein-castle/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Neuschwanstein%20Castle",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Neuschwanstein Castle?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Neuschwanstein Castle is especially connected with what?",
+      "a": [
+        "romantic castle",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Neuschwanstein Castle?",
+      "a": [
+        "Bavaria",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

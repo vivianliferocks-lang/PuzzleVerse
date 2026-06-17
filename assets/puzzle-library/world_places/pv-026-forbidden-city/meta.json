@@ -1,0 +1,50 @@
+{
+  "id": "pv-026-forbidden-city",
+  "levelNumber": 26,
+  "title": "Forbidden City",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "China",
+  "educationalFact": "Forbidden City is connected with imperial palace.",
+  "contextFact": "Important context: Beijing.",
+  "pieces": 31,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-026-forbidden-city/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-026-forbidden-city/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Forbidden%20City",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Forbidden City?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Forbidden City is especially connected with what?",
+      "a": [
+        "imperial palace",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Forbidden City?",
+      "a": [
+        "Beijing",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

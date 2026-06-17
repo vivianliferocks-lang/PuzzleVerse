@@ -1,0 +1,50 @@
+{
+  "id": "pv-011-acropolis-of-athens",
+  "levelNumber": 11,
+  "title": "Acropolis of Athens",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Greece",
+  "educationalFact": "Acropolis of Athens is connected with ancient citadel.",
+  "contextFact": "Important context: Athens.",
+  "pieces": 20,
+  "difficulty": "Easy",
+  "image": "assets/puzzle-library/world_places/pv-011-acropolis-of-athens/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-011-acropolis-of-athens/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Acropolis%20of%20Athens",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Acropolis of Athens?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Acropolis of Athens is especially connected with what?",
+      "a": [
+        "ancient citadel",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Acropolis of Athens?",
+      "a": [
+        "Athens",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

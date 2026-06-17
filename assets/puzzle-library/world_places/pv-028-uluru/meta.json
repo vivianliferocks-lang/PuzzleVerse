@@ -1,0 +1,50 @@
+{
+  "id": "pv-028-uluru",
+  "levelNumber": 28,
+  "title": "Uluru",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Australia",
+  "educationalFact": "Uluru is connected with sandstone monolith.",
+  "contextFact": "Important context: Northern Territory.",
+  "pieces": 33,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-028-uluru/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-028-uluru/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Uluru",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Uluru?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Uluru is especially connected with what?",
+      "a": [
+        "sandstone monolith",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Uluru?",
+      "a": [
+        "Northern Territory",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

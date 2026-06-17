@@ -1,0 +1,50 @@
+{
+  "id": "pv-022-lalibela-churches",
+  "levelNumber": 22,
+  "title": "Lalibela Churches",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Ethiopia",
+  "educationalFact": "Lalibela Churches is connected with rock-hewn churches.",
+  "contextFact": "Important context: Lalibela.",
+  "pieces": 26,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-022-lalibela-churches/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-022-lalibela-churches/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Lalibela%20Churches",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Lalibela Churches?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Lalibela Churches is especially connected with what?",
+      "a": [
+        "rock-hewn churches",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Lalibela Churches?",
+      "a": [
+        "Lalibela",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pv-015-sydney-opera-house",
+  "levelNumber": 15,
+  "title": "Sydney Opera House",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Australia",
+  "educationalFact": "Sydney Opera House is connected with performing arts center.",
+  "contextFact": "Important context: Sydney.",
+  "pieces": 30,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-015-sydney-opera-house/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-015-sydney-opera-house/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Sydney%20Opera%20House",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Sydney Opera House?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Sydney Opera House is especially connected with what?",
+      "a": [
+        "performing arts center",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Sydney Opera House?",
+      "a": [
+        "Sydney",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

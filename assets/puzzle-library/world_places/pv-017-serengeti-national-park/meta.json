@@ -1,0 +1,50 @@
+{
+  "id": "pv-017-serengeti-national-park",
+  "levelNumber": 17,
+  "title": "Serengeti National Park",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Tanzania",
+  "educationalFact": "Serengeti National Park is connected with savanna ecosystem.",
+  "contextFact": "Important context: wildlife migration.",
+  "pieces": 36,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-017-serengeti-national-park/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-017-serengeti-national-park/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Serengeti%20National%20Park",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Serengeti National Park?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Serengeti National Park is especially connected with what?",
+      "a": [
+        "savanna ecosystem",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Serengeti National Park?",
+      "a": [
+        "wildlife migration",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}
