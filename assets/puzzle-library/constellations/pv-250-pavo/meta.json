@@ -1,0 +1,50 @@
+{
+  "id": "pv-250-pavo",
+  "levelNumber": 250,
+  "title": "Pavo",
+  "theme": "Star Constellations",
+  "category": "constellations",
+  "subtype": "southern sky",
+  "educationalFact": "Pavo is connected with peacock.",
+  "contextFact": "Important context: southern constellation.",
+  "pieces": 264,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/constellations/pv-250-pavo/placeholder.svg",
+  "localImage": "assets/puzzle-library/constellations/pv-250-pavo/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Pavo",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Pavo?",
+      "a": [
+        "Star Constellations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Pavo is especially connected with what?",
+      "a": [
+        "peacock",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Pavo?",
+      "a": [
+        "southern constellation",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

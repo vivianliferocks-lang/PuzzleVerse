@@ -1,0 +1,50 @@
+{
+  "id": "pv-243-bo-tes",
+  "levelNumber": 243,
+  "title": "Boötes",
+  "theme": "Star Constellations",
+  "category": "constellations",
+  "subtype": "northern sky",
+  "educationalFact": "Boötes is connected with herdsman.",
+  "contextFact": "Important context: Arcturus.",
+  "pieces": 256,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/constellations/pv-243-bo-tes/placeholder.svg",
+  "localImage": "assets/puzzle-library/constellations/pv-243-bo-tes/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Boötes",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Boötes?",
+      "a": [
+        "Star Constellations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Boötes is especially connected with what?",
+      "a": [
+        "herdsman",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Boötes?",
+      "a": [
+        "Arcturus",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

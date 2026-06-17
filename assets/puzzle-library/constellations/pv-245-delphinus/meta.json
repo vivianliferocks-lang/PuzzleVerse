@@ -1,0 +1,50 @@
+{
+  "id": "pv-245-delphinus",
+  "levelNumber": 245,
+  "title": "Delphinus",
+  "theme": "Star Constellations",
+  "category": "constellations",
+  "subtype": "northern sky",
+  "educationalFact": "Delphinus is connected with dolphin.",
+  "contextFact": "Important context: small diamond shape.",
+  "pieces": 258,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/constellations/pv-245-delphinus/placeholder.svg",
+  "localImage": "assets/puzzle-library/constellations/pv-245-delphinus/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Delphinus",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Delphinus?",
+      "a": [
+        "Star Constellations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Delphinus is especially connected with what?",
+      "a": [
+        "dolphin",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Delphinus?",
+      "a": [
+        "small diamond shape",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

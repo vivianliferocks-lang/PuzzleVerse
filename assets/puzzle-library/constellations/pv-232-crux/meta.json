@@ -1,0 +1,50 @@
+{
+  "id": "pv-232-crux",
+  "levelNumber": 232,
+  "title": "Crux",
+  "theme": "Star Constellations",
+  "category": "constellations",
+  "subtype": "southern sky",
+  "educationalFact": "Crux is connected with Southern Cross.",
+  "contextFact": "Important context: navigation.",
+  "pieces": 245,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/constellations/pv-232-crux/placeholder.svg",
+  "localImage": "assets/puzzle-library/constellations/pv-232-crux/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Crux",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Crux?",
+      "a": [
+        "Star Constellations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Crux is especially connected with what?",
+      "a": [
+        "Southern Cross",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Crux?",
+      "a": [
+        "navigation",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

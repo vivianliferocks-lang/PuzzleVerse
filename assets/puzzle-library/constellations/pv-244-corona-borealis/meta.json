@@ -1,0 +1,50 @@
+{
+  "id": "pv-244-corona-borealis",
+  "levelNumber": 244,
+  "title": "Corona Borealis",
+  "theme": "Star Constellations",
+  "category": "constellations",
+  "subtype": "northern sky",
+  "educationalFact": "Corona Borealis is connected with northern crown.",
+  "contextFact": "Important context: semicircle of stars.",
+  "pieces": 257,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/constellations/pv-244-corona-borealis/placeholder.svg",
+  "localImage": "assets/puzzle-library/constellations/pv-244-corona-borealis/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Corona%20Borealis",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Corona Borealis?",
+      "a": [
+        "Star Constellations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Corona Borealis is especially connected with what?",
+      "a": [
+        "northern crown",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Corona Borealis?",
+      "a": [
+        "semicircle of stars",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

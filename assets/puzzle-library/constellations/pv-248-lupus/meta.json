@@ -1,0 +1,50 @@
+{
+  "id": "pv-248-lupus",
+  "levelNumber": 248,
+  "title": "Lupus",
+  "theme": "Star Constellations",
+  "category": "constellations",
+  "subtype": "southern sky",
+  "educationalFact": "Lupus is connected with wolf.",
+  "contextFact": "Important context: near Scorpius.",
+  "pieces": 261,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/constellations/pv-248-lupus/placeholder.svg",
+  "localImage": "assets/puzzle-library/constellations/pv-248-lupus/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Lupus",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Lupus?",
+      "a": [
+        "Star Constellations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Lupus is especially connected with what?",
+      "a": [
+        "wolf",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Lupus?",
+      "a": [
+        "near Scorpius",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

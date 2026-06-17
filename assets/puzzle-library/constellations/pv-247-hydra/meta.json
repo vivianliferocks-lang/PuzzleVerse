@@ -1,0 +1,50 @@
+{
+  "id": "pv-247-hydra",
+  "levelNumber": 247,
+  "title": "Hydra",
+  "theme": "Star Constellations",
+  "category": "constellations",
+  "subtype": "equatorial sky",
+  "educationalFact": "Hydra is connected with water snake.",
+  "contextFact": "Important context: largest constellation.",
+  "pieces": 260,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/constellations/pv-247-hydra/placeholder.svg",
+  "localImage": "assets/puzzle-library/constellations/pv-247-hydra/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Hydra",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Hydra?",
+      "a": [
+        "Star Constellations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Hydra is especially connected with what?",
+      "a": [
+        "water snake",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Hydra?",
+      "a": [
+        "largest constellation",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

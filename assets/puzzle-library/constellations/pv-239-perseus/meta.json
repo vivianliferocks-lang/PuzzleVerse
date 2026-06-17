@@ -1,0 +1,50 @@
+{
+  "id": "pv-239-perseus",
+  "levelNumber": 239,
+  "title": "Perseus",
+  "theme": "Star Constellations",
+  "category": "constellations",
+  "subtype": "northern sky",
+  "educationalFact": "Perseus is connected with hero.",
+  "contextFact": "Important context: Algol.",
+  "pieces": 252,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/constellations/pv-239-perseus/placeholder.svg",
+  "localImage": "assets/puzzle-library/constellations/pv-239-perseus/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Perseus",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Perseus?",
+      "a": [
+        "Star Constellations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Perseus is especially connected with what?",
+      "a": [
+        "hero",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Perseus?",
+      "a": [
+        "Algol",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

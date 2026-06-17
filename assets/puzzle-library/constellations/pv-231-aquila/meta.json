@@ -1,0 +1,50 @@
+{
+  "id": "pv-231-aquila",
+  "levelNumber": 231,
+  "title": "Aquila",
+  "theme": "Star Constellations",
+  "category": "constellations",
+  "subtype": "celestial equator",
+  "educationalFact": "Aquila is connected with eagle.",
+  "contextFact": "Important context: Altair.",
+  "pieces": 244,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/constellations/pv-231-aquila/placeholder.svg",
+  "localImage": "assets/puzzle-library/constellations/pv-231-aquila/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Aquila",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Aquila?",
+      "a": [
+        "Star Constellations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Aquila is especially connected with what?",
+      "a": [
+        "eagle",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Aquila?",
+      "a": [
+        "Altair",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

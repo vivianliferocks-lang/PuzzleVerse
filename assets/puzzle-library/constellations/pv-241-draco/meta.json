@@ -1,0 +1,50 @@
+{
+  "id": "pv-241-draco",
+  "levelNumber": 241,
+  "title": "Draco",
+  "theme": "Star Constellations",
+  "category": "constellations",
+  "subtype": "northern sky",
+  "educationalFact": "Draco is connected with dragon.",
+  "contextFact": "Important context: winds around pole.",
+  "pieces": 254,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/constellations/pv-241-draco/placeholder.svg",
+  "localImage": "assets/puzzle-library/constellations/pv-241-draco/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Draco",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Draco?",
+      "a": [
+        "Star Constellations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Draco is especially connected with what?",
+      "a": [
+        "dragon",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Draco?",
+      "a": [
+        "winds around pole",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

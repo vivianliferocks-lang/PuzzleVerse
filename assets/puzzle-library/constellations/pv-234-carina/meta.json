@@ -1,0 +1,50 @@
+{
+  "id": "pv-234-carina",
+  "levelNumber": 234,
+  "title": "Carina",
+  "theme": "Star Constellations",
+  "category": "constellations",
+  "subtype": "southern sky",
+  "educationalFact": "Carina is connected with ship keel.",
+  "contextFact": "Important context: Canopus.",
+  "pieces": 247,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/constellations/pv-234-carina/placeholder.svg",
+  "localImage": "assets/puzzle-library/constellations/pv-234-carina/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Carina",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Carina?",
+      "a": [
+        "Star Constellations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Carina is especially connected with what?",
+      "a": [
+        "ship keel",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Carina?",
+      "a": [
+        "Canopus",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pv-233-centaurus",
+  "levelNumber": 233,
+  "title": "Centaurus",
+  "theme": "Star Constellations",
+  "category": "constellations",
+  "subtype": "southern sky",
+  "educationalFact": "Centaurus is connected with centaur.",
+  "contextFact": "Important context: Alpha Centauri.",
+  "pieces": 246,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/constellations/pv-233-centaurus/placeholder.svg",
+  "localImage": "assets/puzzle-library/constellations/pv-233-centaurus/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Centaurus",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Centaurus?",
+      "a": [
+        "Star Constellations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Centaurus is especially connected with what?",
+      "a": [
+        "centaur",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Centaurus?",
+      "a": [
+        "Alpha Centauri",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

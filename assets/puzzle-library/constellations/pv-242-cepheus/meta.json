@@ -1,0 +1,50 @@
+{
+  "id": "pv-242-cepheus",
+  "levelNumber": 242,
+  "title": "Cepheus",
+  "theme": "Star Constellations",
+  "category": "constellations",
+  "subtype": "northern sky",
+  "educationalFact": "Cepheus is connected with king.",
+  "contextFact": "Important context: house shape.",
+  "pieces": 255,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/constellations/pv-242-cepheus/placeholder.svg",
+  "localImage": "assets/puzzle-library/constellations/pv-242-cepheus/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Cepheus",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Cepheus?",
+      "a": [
+        "Star Constellations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Cepheus is especially connected with what?",
+      "a": [
+        "king",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Cepheus?",
+      "a": [
+        "house shape",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}
