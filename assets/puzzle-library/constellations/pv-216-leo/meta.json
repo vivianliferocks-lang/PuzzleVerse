@@ -1,0 +1,50 @@
+{
+  "id": "pv-216-leo",
+  "levelNumber": 216,
+  "title": "Leo",
+  "theme": "Star Constellations",
+  "category": "constellations",
+  "subtype": "zodiac",
+  "educationalFact": "Leo is connected with lion.",
+  "contextFact": "Important context: Regulus.",
+  "pieces": 228,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/constellations/pv-216-leo/placeholder.svg",
+  "localImage": "assets/puzzle-library/constellations/pv-216-leo/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Leo",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Leo?",
+      "a": [
+        "Star Constellations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Leo is especially connected with what?",
+      "a": [
+        "lion",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Leo?",
+      "a": [
+        "Regulus",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

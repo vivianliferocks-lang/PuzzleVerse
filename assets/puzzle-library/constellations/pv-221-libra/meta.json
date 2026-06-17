@@ -1,0 +1,50 @@
+{
+  "id": "pv-221-libra",
+  "levelNumber": 221,
+  "title": "Libra",
+  "theme": "Star Constellations",
+  "category": "constellations",
+  "subtype": "zodiac",
+  "educationalFact": "Libra is connected with scales.",
+  "contextFact": "Important context: balance.",
+  "pieces": 233,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/constellations/pv-221-libra/placeholder.svg",
+  "localImage": "assets/puzzle-library/constellations/pv-221-libra/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Libra",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Libra?",
+      "a": [
+        "Star Constellations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Libra is especially connected with what?",
+      "a": [
+        "scales",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Libra?",
+      "a": [
+        "balance",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

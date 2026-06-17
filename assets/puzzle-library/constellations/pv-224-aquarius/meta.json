@@ -1,0 +1,50 @@
+{
+  "id": "pv-224-aquarius",
+  "levelNumber": 224,
+  "title": "Aquarius",
+  "theme": "Star Constellations",
+  "category": "constellations",
+  "subtype": "zodiac",
+  "educationalFact": "Aquarius is connected with water bearer.",
+  "contextFact": "Important context: Eta Aquariids radiant.",
+  "pieces": 236,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/constellations/pv-224-aquarius/placeholder.svg",
+  "localImage": "assets/puzzle-library/constellations/pv-224-aquarius/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Aquarius",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Aquarius?",
+      "a": [
+        "Star Constellations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Aquarius is especially connected with what?",
+      "a": [
+        "water bearer",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Aquarius?",
+      "a": [
+        "Eta Aquariids radiant",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

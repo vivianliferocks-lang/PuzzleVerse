@@ -1,0 +1,50 @@
+{
+  "id": "pv-225-pisces",
+  "levelNumber": 225,
+  "title": "Pisces",
+  "theme": "Star Constellations",
+  "category": "constellations",
+  "subtype": "zodiac",
+  "educationalFact": "Pisces is connected with fish.",
+  "contextFact": "Important context: vernal equinox region.",
+  "pieces": 238,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/constellations/pv-225-pisces/placeholder.svg",
+  "localImage": "assets/puzzle-library/constellations/pv-225-pisces/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Pisces",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Pisces?",
+      "a": [
+        "Star Constellations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Pisces is especially connected with what?",
+      "a": [
+        "fish",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Pisces?",
+      "a": [
+        "vernal equinox region",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

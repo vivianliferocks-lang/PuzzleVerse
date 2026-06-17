@@ -1,0 +1,50 @@
+{
+  "id": "pv-214-cassiopeia",
+  "levelNumber": 214,
+  "title": "Cassiopeia",
+  "theme": "Star Constellations",
+  "category": "constellations",
+  "subtype": "northern sky",
+  "educationalFact": "Cassiopeia is connected with W shape.",
+  "contextFact": "Important context: mythological queen.",
+  "pieces": 226,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/constellations/pv-214-cassiopeia/placeholder.svg",
+  "localImage": "assets/puzzle-library/constellations/pv-214-cassiopeia/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Cassiopeia",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Cassiopeia?",
+      "a": [
+        "Star Constellations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Cassiopeia is especially connected with what?",
+      "a": [
+        "W shape",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Cassiopeia?",
+      "a": [
+        "mythological queen",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

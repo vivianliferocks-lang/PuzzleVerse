@@ -1,0 +1,50 @@
+{
+  "id": "pv-219-cancer",
+  "levelNumber": 219,
+  "title": "Cancer",
+  "theme": "Star Constellations",
+  "category": "constellations",
+  "subtype": "zodiac",
+  "educationalFact": "Cancer is connected with crab.",
+  "contextFact": "Important context: Beehive Cluster.",
+  "pieces": 231,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/constellations/pv-219-cancer/placeholder.svg",
+  "localImage": "assets/puzzle-library/constellations/pv-219-cancer/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Cancer",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Cancer?",
+      "a": [
+        "Star Constellations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Cancer is especially connected with what?",
+      "a": [
+        "crab",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Cancer?",
+      "a": [
+        "Beehive Cluster",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

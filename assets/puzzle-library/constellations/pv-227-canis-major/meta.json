@@ -1,0 +1,50 @@
+{
+  "id": "pv-227-canis-major",
+  "levelNumber": 227,
+  "title": "Canis Major",
+  "theme": "Star Constellations",
+  "category": "constellations",
+  "subtype": "southern sky",
+  "educationalFact": "Canis Major is connected with greater dog.",
+  "contextFact": "Important context: Sirius.",
+  "pieces": 240,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/constellations/pv-227-canis-major/placeholder.svg",
+  "localImage": "assets/puzzle-library/constellations/pv-227-canis-major/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Canis%20Major",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Canis Major?",
+      "a": [
+        "Star Constellations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Canis Major is especially connected with what?",
+      "a": [
+        "greater dog",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Canis Major?",
+      "a": [
+        "Sirius",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

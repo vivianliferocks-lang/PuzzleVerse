@@ -1,0 +1,50 @@
+{
+  "id": "pv-220-virgo",
+  "levelNumber": 220,
+  "title": "Virgo",
+  "theme": "Star Constellations",
+  "category": "constellations",
+  "subtype": "zodiac",
+  "educationalFact": "Virgo is connected with maiden.",
+  "contextFact": "Important context: Spica.",
+  "pieces": 232,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/constellations/pv-220-virgo/placeholder.svg",
+  "localImage": "assets/puzzle-library/constellations/pv-220-virgo/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Virgo",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Virgo?",
+      "a": [
+        "Star Constellations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Virgo is especially connected with what?",
+      "a": [
+        "maiden",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Virgo?",
+      "a": [
+        "Spica",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pv-218-gemini",
+  "levelNumber": 218,
+  "title": "Gemini",
+  "theme": "Star Constellations",
+  "category": "constellations",
+  "subtype": "zodiac",
+  "educationalFact": "Gemini is connected with twins.",
+  "contextFact": "Important context: Castor and Pollux.",
+  "pieces": 230,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/constellations/pv-218-gemini/placeholder.svg",
+  "localImage": "assets/puzzle-library/constellations/pv-218-gemini/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Gemini",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Gemini?",
+      "a": [
+        "Star Constellations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Gemini is especially connected with what?",
+      "a": [
+        "twins",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Gemini?",
+      "a": [
+        "Castor and Pollux",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

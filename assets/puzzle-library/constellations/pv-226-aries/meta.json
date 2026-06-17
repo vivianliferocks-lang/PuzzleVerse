@@ -1,0 +1,50 @@
+{
+  "id": "pv-226-aries",
+  "levelNumber": 226,
+  "title": "Aries",
+  "theme": "Star Constellations",
+  "category": "constellations",
+  "subtype": "zodiac",
+  "educationalFact": "Aries is connected with ram.",
+  "contextFact": "Important context: Hamal.",
+  "pieces": 239,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/constellations/pv-226-aries/placeholder.svg",
+  "localImage": "assets/puzzle-library/constellations/pv-226-aries/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Aries",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Aries?",
+      "a": [
+        "Star Constellations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Aries is especially connected with what?",
+      "a": [
+        "ram",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Aries?",
+      "a": [
+        "Hamal",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

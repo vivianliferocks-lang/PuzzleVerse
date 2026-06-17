@@ -1,0 +1,50 @@
+{
+  "id": "pv-228-canis-minor",
+  "levelNumber": 228,
+  "title": "Canis Minor",
+  "theme": "Star Constellations",
+  "category": "constellations",
+  "subtype": "northern sky",
+  "educationalFact": "Canis Minor is connected with lesser dog.",
+  "contextFact": "Important context: Procyon.",
+  "pieces": 241,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/constellations/pv-228-canis-minor/placeholder.svg",
+  "localImage": "assets/puzzle-library/constellations/pv-228-canis-minor/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Canis%20Minor",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Canis Minor?",
+      "a": [
+        "Star Constellations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Canis Minor is especially connected with what?",
+      "a": [
+        "lesser dog",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Canis Minor?",
+      "a": [
+        "Procyon",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

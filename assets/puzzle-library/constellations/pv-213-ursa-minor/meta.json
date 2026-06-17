@@ -1,0 +1,50 @@
+{
+  "id": "pv-213-ursa-minor",
+  "levelNumber": 213,
+  "title": "Ursa Minor",
+  "theme": "Star Constellations",
+  "category": "constellations",
+  "subtype": "northern sky",
+  "educationalFact": "Ursa Minor is connected with little bear.",
+  "contextFact": "Important context: Polaris.",
+  "pieces": 225,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/constellations/pv-213-ursa-minor/placeholder.svg",
+  "localImage": "assets/puzzle-library/constellations/pv-213-ursa-minor/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Ursa%20Minor",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Ursa Minor?",
+      "a": [
+        "Star Constellations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Ursa Minor is especially connected with what?",
+      "a": [
+        "little bear",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Ursa Minor?",
+      "a": [
+        "Polaris",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

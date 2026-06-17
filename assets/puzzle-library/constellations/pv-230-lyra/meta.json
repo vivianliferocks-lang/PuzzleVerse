@@ -1,0 +1,50 @@
+{
+  "id": "pv-230-lyra",
+  "levelNumber": 230,
+  "title": "Lyra",
+  "theme": "Star Constellations",
+  "category": "constellations",
+  "subtype": "northern sky",
+  "educationalFact": "Lyra is connected with lyre.",
+  "contextFact": "Important context: Vega.",
+  "pieces": 243,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/constellations/pv-230-lyra/placeholder.svg",
+  "localImage": "assets/puzzle-library/constellations/pv-230-lyra/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Lyra",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Lyra?",
+      "a": [
+        "Star Constellations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Lyra is especially connected with what?",
+      "a": [
+        "lyre",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Lyra?",
+      "a": [
+        "Vega",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

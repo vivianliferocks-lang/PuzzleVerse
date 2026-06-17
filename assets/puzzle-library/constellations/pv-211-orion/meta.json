@@ -1,0 +1,50 @@
+{
+  "id": "pv-211-orion",
+  "levelNumber": 211,
+  "title": "Orion",
+  "theme": "Star Constellations",
+  "category": "constellations",
+  "subtype": "celestial equator",
+  "educationalFact": "Orion is connected with hunter figure.",
+  "contextFact": "Important context: Betelgeuse and Rigel.",
+  "pieces": 223,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/constellations/pv-211-orion/placeholder.svg",
+  "localImage": "assets/puzzle-library/constellations/pv-211-orion/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Orion",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Orion?",
+      "a": [
+        "Star Constellations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Orion is especially connected with what?",
+      "a": [
+        "hunter figure",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Orion?",
+      "a": [
+        "Betelgeuse and Rigel",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

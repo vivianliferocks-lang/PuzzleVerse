@@ -1,0 +1,50 @@
+{
+  "id": "pv-215-scorpius",
+  "levelNumber": 215,
+  "title": "Scorpius",
+  "theme": "Star Constellations",
+  "category": "constellations",
+  "subtype": "zodiac",
+  "educationalFact": "Scorpius is connected with scorpion.",
+  "contextFact": "Important context: Antares.",
+  "pieces": 227,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/constellations/pv-215-scorpius/placeholder.svg",
+  "localImage": "assets/puzzle-library/constellations/pv-215-scorpius/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Scorpius",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Scorpius?",
+      "a": [
+        "Star Constellations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Scorpius is especially connected with what?",
+      "a": [
+        "scorpion",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Scorpius?",
+      "a": [
+        "Antares",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

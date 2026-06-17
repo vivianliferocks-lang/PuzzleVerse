@@ -1,0 +1,50 @@
+{
+  "id": "pv-222-sagittarius",
+  "levelNumber": 222,
+  "title": "Sagittarius",
+  "theme": "Star Constellations",
+  "category": "constellations",
+  "subtype": "zodiac",
+  "educationalFact": "Sagittarius is connected with archer.",
+  "contextFact": "Important context: Milky Way center direction.",
+  "pieces": 234,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/constellations/pv-222-sagittarius/placeholder.svg",
+  "localImage": "assets/puzzle-library/constellations/pv-222-sagittarius/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Sagittarius",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Sagittarius?",
+      "a": [
+        "Star Constellations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Sagittarius is especially connected with what?",
+      "a": [
+        "archer",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Sagittarius?",
+      "a": [
+        "Milky Way center direction",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

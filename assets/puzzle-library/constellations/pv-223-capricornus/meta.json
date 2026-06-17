@@ -1,0 +1,50 @@
+{
+  "id": "pv-223-capricornus",
+  "levelNumber": 223,
+  "title": "Capricornus",
+  "theme": "Star Constellations",
+  "category": "constellations",
+  "subtype": "zodiac",
+  "educationalFact": "Capricornus is connected with sea-goat.",
+  "contextFact": "Important context: faint constellation.",
+  "pieces": 235,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/constellations/pv-223-capricornus/placeholder.svg",
+  "localImage": "assets/puzzle-library/constellations/pv-223-capricornus/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Capricornus",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Capricornus?",
+      "a": [
+        "Star Constellations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Capricornus is especially connected with what?",
+      "a": [
+        "sea-goat",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Capricornus?",
+      "a": [
+        "faint constellation",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}
