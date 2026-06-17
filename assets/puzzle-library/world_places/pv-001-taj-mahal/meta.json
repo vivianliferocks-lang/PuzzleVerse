@@ -1,0 +1,50 @@
+{
+  "id": "pv-001-taj-mahal",
+  "levelNumber": 1,
+  "title": "Taj Mahal",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "India",
+  "educationalFact": "Taj Mahal is connected with Mughal architecture.",
+  "contextFact": "Important context: Agra.",
+  "pieces": 4,
+  "difficulty": "Easy",
+  "image": "assets/puzzle-library/world_places/pv-001-taj-mahal/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-001-taj-mahal/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Taj%20Mahal",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Taj Mahal?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Taj Mahal is especially connected with what?",
+      "a": [
+        "Mughal architecture",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Taj Mahal?",
+      "a": [
+        "Agra",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

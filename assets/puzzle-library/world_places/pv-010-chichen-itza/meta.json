@@ -1,0 +1,50 @@
+{
+  "id": "pv-010-chichen-itza",
+  "levelNumber": 10,
+  "title": "Chichen Itza",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Mexico",
+  "educationalFact": "Chichen Itza is connected with Maya city.",
+  "contextFact": "Important context: Yucatan.",
+  "pieces": 16,
+  "difficulty": "Easy",
+  "image": "assets/puzzle-library/world_places/pv-010-chichen-itza/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-010-chichen-itza/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Chichen%20Itza",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Chichen Itza?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Chichen Itza is especially connected with what?",
+      "a": [
+        "Maya city",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Chichen Itza?",
+      "a": [
+        "Yucatan",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

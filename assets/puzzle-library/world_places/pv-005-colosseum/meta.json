@@ -1,0 +1,50 @@
+{
+  "id": "pv-005-colosseum",
+  "levelNumber": 5,
+  "title": "Colosseum",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Italy",
+  "educationalFact": "Colosseum is connected with Roman amphitheatre.",
+  "contextFact": "Important context: Rome.",
+  "pieces": 9,
+  "difficulty": "Easy",
+  "image": "assets/puzzle-library/world_places/pv-005-colosseum/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-005-colosseum/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Colosseum",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Colosseum?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Colosseum is especially connected with what?",
+      "a": [
+        "Roman amphitheatre",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Colosseum?",
+      "a": [
+        "Rome",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

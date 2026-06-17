@@ -1,0 +1,50 @@
+{
+  "id": "pv-008-petra",
+  "levelNumber": 8,
+  "title": "Petra",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Jordan",
+  "educationalFact": "Petra is connected with rock-cut city.",
+  "contextFact": "Important context: Nabataean.",
+  "pieces": 12,
+  "difficulty": "Easy",
+  "image": "assets/puzzle-library/world_places/pv-008-petra/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-008-petra/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Petra",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Petra?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Petra is especially connected with what?",
+      "a": [
+        "rock-cut city",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Petra?",
+      "a": [
+        "Nabataean",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pv-007-stonehenge",
+  "levelNumber": 7,
+  "title": "Stonehenge",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "United Kingdom",
+  "educationalFact": "Stonehenge is connected with prehistoric monument.",
+  "contextFact": "Important context: Wiltshire.",
+  "pieces": 12,
+  "difficulty": "Easy",
+  "image": "assets/puzzle-library/world_places/pv-007-stonehenge/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-007-stonehenge/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Stonehenge",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Stonehenge?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Stonehenge is especially connected with what?",
+      "a": [
+        "prehistoric monument",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Stonehenge?",
+      "a": [
+        "Wiltshire",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

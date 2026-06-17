@@ -1,0 +1,50 @@
+{
+  "id": "pv-004-pyramids-of-giza",
+  "levelNumber": 4,
+  "title": "Pyramids of Giza",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Egypt",
+  "educationalFact": "Pyramids of Giza is connected with ancient tombs.",
+  "contextFact": "Important context: Nile region.",
+  "pieces": 6,
+  "difficulty": "Easy",
+  "image": "assets/puzzle-library/world_places/pv-004-pyramids-of-giza/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-004-pyramids-of-giza/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Pyramids%20of%20Giza",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Pyramids of Giza?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Pyramids of Giza is especially connected with what?",
+      "a": [
+        "ancient tombs",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Pyramids of Giza?",
+      "a": [
+        "Nile region",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pv-009-angkor-wat",
+  "levelNumber": 9,
+  "title": "Angkor Wat",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "Cambodia",
+  "educationalFact": "Angkor Wat is connected with temple complex.",
+  "contextFact": "Important context: Khmer Empire.",
+  "pieces": 16,
+  "difficulty": "Easy",
+  "image": "assets/puzzle-library/world_places/pv-009-angkor-wat/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-009-angkor-wat/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Angkor%20Wat",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Angkor Wat?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Angkor Wat is especially connected with what?",
+      "a": [
+        "temple complex",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Angkor Wat?",
+      "a": [
+        "Khmer Empire",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

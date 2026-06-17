@@ -1,0 +1,50 @@
+{
+  "id": "pv-006-eiffel-tower",
+  "levelNumber": 6,
+  "title": "Eiffel Tower",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "France",
+  "educationalFact": "Eiffel Tower is connected with iron lattice tower.",
+  "contextFact": "Important context: Paris.",
+  "pieces": 9,
+  "difficulty": "Easy",
+  "image": "assets/puzzle-library/world_places/pv-006-eiffel-tower/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-006-eiffel-tower/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Eiffel%20Tower",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Eiffel Tower?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Eiffel Tower is especially connected with what?",
+      "a": [
+        "iron lattice tower",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Eiffel Tower?",
+      "a": [
+        "Paris",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}
