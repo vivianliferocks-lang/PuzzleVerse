@@ -1,0 +1,50 @@
+{
+  "id": "pv-446-saber-toothed-cat",
+  "levelNumber": 446,
+  "title": "Saber-Toothed Cat",
+  "theme": "Dinosaurs & Extinct Animals",
+  "category": "dinosaurs_extinct_animals",
+  "subtype": "ice age mammal",
+  "educationalFact": "Saber-Toothed Cat is connected with long canine teeth.",
+  "contextFact": "Important context: Pleistocene.",
+  "pieces": 467,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/dinosaurs_extinct_animals/pv-446-saber-toothed-cat/placeholder.svg",
+  "localImage": "assets/puzzle-library/dinosaurs_extinct_animals/pv-446-saber-toothed-cat/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Saber-Toothed%20Cat",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Saber-Toothed Cat?",
+      "a": [
+        "Dinosaurs & Extinct Animals",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Saber-Toothed Cat is especially connected with what?",
+      "a": [
+        "long canine teeth",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Saber-Toothed Cat?",
+      "a": [
+        "Pleistocene",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

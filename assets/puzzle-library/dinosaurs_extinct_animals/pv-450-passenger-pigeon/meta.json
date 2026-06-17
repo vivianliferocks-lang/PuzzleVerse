@@ -1,0 +1,50 @@
+{
+  "id": "pv-450-passenger-pigeon",
+  "levelNumber": 450,
+  "title": "Passenger Pigeon",
+  "theme": "Dinosaurs & Extinct Animals",
+  "category": "dinosaurs_extinct_animals",
+  "subtype": "extinct bird",
+  "educationalFact": "Passenger Pigeon is connected with vast flocks.",
+  "contextFact": "Important context: North America.",
+  "pieces": 472,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/dinosaurs_extinct_animals/pv-450-passenger-pigeon/placeholder.svg",
+  "localImage": "assets/puzzle-library/dinosaurs_extinct_animals/pv-450-passenger-pigeon/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Passenger%20Pigeon",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Passenger Pigeon?",
+      "a": [
+        "Dinosaurs & Extinct Animals",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Passenger Pigeon is especially connected with what?",
+      "a": [
+        "vast flocks",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Passenger Pigeon?",
+      "a": [
+        "North America",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

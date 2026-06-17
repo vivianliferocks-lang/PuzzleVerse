@@ -1,0 +1,50 @@
+{
+  "id": "pv-449-tasmanian-tiger",
+  "levelNumber": 449,
+  "title": "Tasmanian Tiger",
+  "theme": "Dinosaurs & Extinct Animals",
+  "category": "dinosaurs_extinct_animals",
+  "subtype": "extinct marsupial",
+  "educationalFact": "Tasmanian Tiger is connected with striped back.",
+  "contextFact": "Important context: Tasmania.",
+  "pieces": 470,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/dinosaurs_extinct_animals/pv-449-tasmanian-tiger/placeholder.svg",
+  "localImage": "assets/puzzle-library/dinosaurs_extinct_animals/pv-449-tasmanian-tiger/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Tasmanian%20Tiger",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Tasmanian Tiger?",
+      "a": [
+        "Dinosaurs & Extinct Animals",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Tasmanian Tiger is especially connected with what?",
+      "a": [
+        "striped back",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Tasmanian Tiger?",
+      "a": [
+        "Tasmania",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}
