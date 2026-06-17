@@ -1,0 +1,50 @@
+{
+  "id": "pv-183-computer-chip",
+  "levelNumber": 183,
+  "title": "Computer Chip",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "technology",
+  "educationalFact": "Computer Chip is connected with integrated circuit.",
+  "contextFact": "Important context: computing.",
+  "pieces": 194,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/science_discoveries/pv-183-computer-chip/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-183-computer-chip/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Computer%20Chip",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Computer Chip?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Computer Chip is especially connected with what?",
+      "a": [
+        "integrated circuit",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Computer Chip?",
+      "a": [
+        "computing",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

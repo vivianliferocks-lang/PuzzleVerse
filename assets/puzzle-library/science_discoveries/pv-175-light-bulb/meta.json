@@ -1,0 +1,50 @@
+{
+  "id": "pv-175-light-bulb",
+  "levelNumber": 175,
+  "title": "Light Bulb",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "technology history",
+  "educationalFact": "Light Bulb is connected with electric lighting.",
+  "contextFact": "Important context: invention.",
+  "pieces": 186,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/science_discoveries/pv-175-light-bulb/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-175-light-bulb/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Light%20Bulb",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Light Bulb?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Light Bulb is especially connected with what?",
+      "a": [
+        "electric lighting",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Light Bulb?",
+      "a": [
+        "invention",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

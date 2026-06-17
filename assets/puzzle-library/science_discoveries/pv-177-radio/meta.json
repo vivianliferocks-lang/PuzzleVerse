@@ -1,0 +1,50 @@
+{
+  "id": "pv-177-radio",
+  "levelNumber": 177,
+  "title": "Radio",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "technology history",
+  "educationalFact": "Radio is connected with wireless communication.",
+  "contextFact": "Important context: electromagnetic waves.",
+  "pieces": 188,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/science_discoveries/pv-177-radio/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-177-radio/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Radio",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Radio?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Radio is especially connected with what?",
+      "a": [
+        "wireless communication",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Radio?",
+      "a": [
+        "electromagnetic waves",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

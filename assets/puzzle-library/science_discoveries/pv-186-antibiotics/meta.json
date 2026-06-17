@@ -1,0 +1,50 @@
+{
+  "id": "pv-186-antibiotics",
+  "levelNumber": 186,
+  "title": "Antibiotics",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "medicine",
+  "educationalFact": "Antibiotics is connected with bacterial infection treatment.",
+  "contextFact": "Important context: medical science.",
+  "pieces": 197,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/science_discoveries/pv-186-antibiotics/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-186-antibiotics/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Antibiotics",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Antibiotics?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Antibiotics is especially connected with what?",
+      "a": [
+        "bacterial infection treatment",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Antibiotics?",
+      "a": [
+        "medical science",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

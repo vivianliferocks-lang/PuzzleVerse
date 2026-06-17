@@ -1,0 +1,50 @@
+{
+  "id": "pv-178-airplane",
+  "levelNumber": 178,
+  "title": "Airplane",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "technology history",
+  "educationalFact": "Airplane is connected with powered flight.",
+  "contextFact": "Important context: aviation.",
+  "pieces": 189,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/science_discoveries/pv-178-airplane/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-178-airplane/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Airplane",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Airplane?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Airplane is especially connected with what?",
+      "a": [
+        "powered flight",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Airplane?",
+      "a": [
+        "aviation",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

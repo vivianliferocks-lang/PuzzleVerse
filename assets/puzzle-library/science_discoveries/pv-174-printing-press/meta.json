@@ -1,0 +1,50 @@
+{
+  "id": "pv-174-printing-press",
+  "levelNumber": 174,
+  "title": "Printing Press",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "technology history",
+  "educationalFact": "Printing Press is connected with mass book production.",
+  "contextFact": "Important context: communication.",
+  "pieces": 184,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/science_discoveries/pv-174-printing-press/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-174-printing-press/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Printing%20Press",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Printing Press?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Printing Press is especially connected with what?",
+      "a": [
+        "mass book production",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Printing Press?",
+      "a": [
+        "communication",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

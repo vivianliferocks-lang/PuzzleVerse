@@ -1,0 +1,50 @@
+{
+  "id": "pv-187-x-ray-image",
+  "levelNumber": 187,
+  "title": "X-ray Image",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "medicine",
+  "educationalFact": "X-ray Image is connected with internal imaging.",
+  "contextFact": "Important context: radiation.",
+  "pieces": 198,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/science_discoveries/pv-187-x-ray-image/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-187-x-ray-image/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=X-ray%20Image",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches X-ray Image?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "X-ray Image is especially connected with what?",
+      "a": [
+        "internal imaging",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to X-ray Image?",
+      "a": [
+        "radiation",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pv-184-robot-arm",
+  "levelNumber": 184,
+  "title": "Robot Arm",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "technology",
+  "educationalFact": "Robot Arm is connected with programmable machine.",
+  "contextFact": "Important context: automation.",
+  "pieces": 195,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/science_discoveries/pv-184-robot-arm/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-184-robot-arm/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Robot%20Arm",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Robot Arm?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Robot Arm is especially connected with what?",
+      "a": [
+        "programmable machine",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Robot Arm?",
+      "a": [
+        "automation",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

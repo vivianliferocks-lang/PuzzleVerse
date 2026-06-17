@@ -1,0 +1,50 @@
+{
+  "id": "pv-172-compass",
+  "levelNumber": 172,
+  "title": "Compass",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "navigation tool",
+  "educationalFact": "Compass is connected with magnetic direction.",
+  "contextFact": "Important context: navigation.",
+  "pieces": 182,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/science_discoveries/pv-172-compass/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-172-compass/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Compass",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Compass?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Compass is especially connected with what?",
+      "a": [
+        "magnetic direction",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Compass?",
+      "a": [
+        "navigation",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

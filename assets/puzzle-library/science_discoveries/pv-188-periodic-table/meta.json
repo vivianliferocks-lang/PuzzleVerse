@@ -1,0 +1,50 @@
+{
+  "id": "pv-188-periodic-table",
+  "levelNumber": 188,
+  "title": "Periodic Table",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "chemistry",
+  "educationalFact": "Periodic Table is connected with organizes elements.",
+  "contextFact": "Important context: chemical science.",
+  "pieces": 199,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/science_discoveries/pv-188-periodic-table/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-188-periodic-table/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Periodic%20Table",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Periodic Table?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Periodic Table is especially connected with what?",
+      "a": [
+        "organizes elements",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Periodic Table?",
+      "a": [
+        "chemical science",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

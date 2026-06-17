@@ -1,0 +1,50 @@
+{
+  "id": "pv-182-wind-turbine",
+  "levelNumber": 182,
+  "title": "Wind Turbine",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "technology",
+  "educationalFact": "Wind Turbine is connected with converts wind to electricity.",
+  "contextFact": "Important context: renewable energy.",
+  "pieces": 193,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/science_discoveries/pv-182-wind-turbine/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-182-wind-turbine/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Wind%20Turbine",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Wind Turbine?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Wind Turbine is especially connected with what?",
+      "a": [
+        "converts wind to electricity",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Wind Turbine?",
+      "a": [
+        "renewable energy",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

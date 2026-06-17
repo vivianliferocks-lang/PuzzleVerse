@@ -1,0 +1,50 @@
+{
+  "id": "pv-181-solar-panel",
+  "levelNumber": 181,
+  "title": "Solar Panel",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "technology",
+  "educationalFact": "Solar Panel is connected with converts sunlight to electricity.",
+  "contextFact": "Important context: renewable energy.",
+  "pieces": 192,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/science_discoveries/pv-181-solar-panel/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-181-solar-panel/image.jpg",
+  "sourceProvider": "NASA Image and Video Library",
+  "sourceSearchUrl": "https://images.nasa.gov/search-results?q=Solar%20Panel",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Solar Panel?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Solar Panel is especially connected with what?",
+      "a": [
+        "converts sunlight to electricity",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Solar Panel?",
+      "a": [
+        "renewable energy",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

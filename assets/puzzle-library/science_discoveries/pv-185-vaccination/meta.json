@@ -1,0 +1,50 @@
+{
+  "id": "pv-185-vaccination",
+  "levelNumber": 185,
+  "title": "Vaccination",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "medicine",
+  "educationalFact": "Vaccination is connected with immune protection.",
+  "contextFact": "Important context: public health.",
+  "pieces": 196,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/science_discoveries/pv-185-vaccination/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-185-vaccination/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Vaccination",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Vaccination?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Vaccination is especially connected with what?",
+      "a": [
+        "immune protection",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Vaccination?",
+      "a": [
+        "public health",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

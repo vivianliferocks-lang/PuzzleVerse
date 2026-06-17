@@ -1,0 +1,50 @@
+{
+  "id": "pv-179-rocket",
+  "levelNumber": 179,
+  "title": "Rocket",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "space technology",
+  "educationalFact": "Rocket is connected with launch vehicle.",
+  "contextFact": "Important context: spaceflight.",
+  "pieces": 190,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/science_discoveries/pv-179-rocket/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-179-rocket/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Rocket",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Rocket?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Rocket is especially connected with what?",
+      "a": [
+        "launch vehicle",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Rocket?",
+      "a": [
+        "spaceflight",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

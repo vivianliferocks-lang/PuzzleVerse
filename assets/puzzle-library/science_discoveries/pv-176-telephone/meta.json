@@ -1,0 +1,50 @@
+{
+  "id": "pv-176-telephone",
+  "levelNumber": 176,
+  "title": "Telephone",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "technology history",
+  "educationalFact": "Telephone is connected with voice communication.",
+  "contextFact": "Important context: invention.",
+  "pieces": 187,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/science_discoveries/pv-176-telephone/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-176-telephone/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Telephone",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Telephone?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Telephone is especially connected with what?",
+      "a": [
+        "voice communication",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Telephone?",
+      "a": [
+        "invention",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

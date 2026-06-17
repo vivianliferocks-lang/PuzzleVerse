@@ -1,0 +1,50 @@
+{
+  "id": "pv-189-atom-model",
+  "levelNumber": 189,
+  "title": "Atom Model",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "physics",
+  "educationalFact": "Atom Model is connected with basic matter structure.",
+  "contextFact": "Important context: protons neutrons electrons.",
+  "pieces": 200,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/science_discoveries/pv-189-atom-model/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-189-atom-model/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Atom%20Model",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Atom Model?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Atom Model is especially connected with what?",
+      "a": [
+        "basic matter structure",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Atom Model?",
+      "a": [
+        "protons neutrons electrons",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

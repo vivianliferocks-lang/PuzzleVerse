@@ -1,0 +1,50 @@
+{
+  "id": "pv-173-steam-engine",
+  "levelNumber": 173,
+  "title": "Steam Engine",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "technology history",
+  "educationalFact": "Steam Engine is connected with powered early industry.",
+  "contextFact": "Important context: Industrial Revolution.",
+  "pieces": 183,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/science_discoveries/pv-173-steam-engine/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-173-steam-engine/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Steam%20Engine",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Steam Engine?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Steam Engine is especially connected with what?",
+      "a": [
+        "powered early industry",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Steam Engine?",
+      "a": [
+        "Industrial Revolution",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

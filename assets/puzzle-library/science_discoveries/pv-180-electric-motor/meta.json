@@ -1,0 +1,50 @@
+{
+  "id": "pv-180-electric-motor",
+  "levelNumber": 180,
+  "title": "Electric Motor",
+  "theme": "Science & Discovery",
+  "category": "science_discoveries",
+  "subtype": "technology",
+  "educationalFact": "Electric Motor is connected with converts electricity to motion.",
+  "contextFact": "Important context: engineering.",
+  "pieces": 191,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/science_discoveries/pv-180-electric-motor/placeholder.svg",
+  "localImage": "assets/puzzle-library/science_discoveries/pv-180-electric-motor/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Electric%20Motor",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Electric Motor?",
+      "a": [
+        "Science & Discovery",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Electric Motor is especially connected with what?",
+      "a": [
+        "converts electricity to motion",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Electric Motor?",
+      "a": [
+        "engineering",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}
