@@ -1,0 +1,50 @@
+{
+  "id": "pv-389-flamingo",
+  "levelNumber": 389,
+  "title": "Flamingo",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "bird",
+  "educationalFact": "Flamingo is connected with pink feathers.",
+  "contextFact": "Important context: wetlands.",
+  "pieces": 408,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-389-flamingo/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-389-flamingo/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Flamingo",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Flamingo?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Flamingo is especially connected with what?",
+      "a": [
+        "pink feathers",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Flamingo?",
+      "a": [
+        "wetlands",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

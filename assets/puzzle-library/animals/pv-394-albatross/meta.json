@@ -1,0 +1,50 @@
+{
+  "id": "pv-394-albatross",
+  "levelNumber": 394,
+  "title": "Albatross",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "bird",
+  "educationalFact": "Albatross is connected with long-distance glider.",
+  "contextFact": "Important context: oceans.",
+  "pieces": 413,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-394-albatross/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-394-albatross/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Albatross",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Albatross?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Albatross is especially connected with what?",
+      "a": [
+        "long-distance glider",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Albatross?",
+      "a": [
+        "oceans",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

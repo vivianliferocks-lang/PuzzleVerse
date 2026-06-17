@@ -1,0 +1,50 @@
+{
+  "id": "pv-387-eagle",
+  "levelNumber": 387,
+  "title": "Eagle",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "bird",
+  "educationalFact": "Eagle is connected with sharp vision.",
+  "contextFact": "Important context: skies.",
+  "pieces": 406,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-387-eagle/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-387-eagle/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Eagle",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Eagle?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Eagle is especially connected with what?",
+      "a": [
+        "sharp vision",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Eagle?",
+      "a": [
+        "skies",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

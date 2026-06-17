@@ -1,0 +1,50 @@
+{
+  "id": "pv-397-sea-turtle",
+  "levelNumber": 397,
+  "title": "Sea Turtle",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "reptile",
+  "educationalFact": "Sea Turtle is connected with ocean migration.",
+  "contextFact": "Important context: beaches.",
+  "pieces": 416,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-397-sea-turtle/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-397-sea-turtle/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Sea%20Turtle",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Sea Turtle?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Sea Turtle is especially connected with what?",
+      "a": [
+        "ocean migration",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Sea Turtle?",
+      "a": [
+        "beaches",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

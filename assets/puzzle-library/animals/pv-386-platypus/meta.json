@@ -1,0 +1,50 @@
+{
+  "id": "pv-386-platypus",
+  "levelNumber": 386,
+  "title": "Platypus",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "mammal",
+  "educationalFact": "Platypus is connected with egg-laying mammal.",
+  "contextFact": "Important context: Australia.",
+  "pieces": 405,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-386-platypus/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-386-platypus/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Platypus",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Platypus?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Platypus is especially connected with what?",
+      "a": [
+        "egg-laying mammal",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Platypus?",
+      "a": [
+        "Australia",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

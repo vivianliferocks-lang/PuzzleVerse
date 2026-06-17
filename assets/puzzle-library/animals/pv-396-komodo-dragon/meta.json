@@ -1,0 +1,50 @@
+{
+  "id": "pv-396-komodo-dragon",
+  "levelNumber": 396,
+  "title": "Komodo Dragon",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "reptile",
+  "educationalFact": "Komodo Dragon is connected with largest lizard.",
+  "contextFact": "Important context: Indonesia.",
+  "pieces": 415,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-396-komodo-dragon/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-396-komodo-dragon/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Komodo%20Dragon",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Komodo Dragon?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Komodo Dragon is especially connected with what?",
+      "a": [
+        "largest lizard",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Komodo Dragon?",
+      "a": [
+        "Indonesia",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

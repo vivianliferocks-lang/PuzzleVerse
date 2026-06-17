@@ -1,0 +1,50 @@
+{
+  "id": "pv-398-iguana",
+  "levelNumber": 398,
+  "title": "Iguana",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "reptile",
+  "educationalFact": "Iguana is connected with herbivorous lizard.",
+  "contextFact": "Important context: tropics.",
+  "pieces": 417,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-398-iguana/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-398-iguana/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Iguana",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Iguana?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Iguana is especially connected with what?",
+      "a": [
+        "herbivorous lizard",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Iguana?",
+      "a": [
+        "tropics",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

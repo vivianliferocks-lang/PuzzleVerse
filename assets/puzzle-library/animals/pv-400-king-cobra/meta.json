@@ -1,0 +1,50 @@
+{
+  "id": "pv-400-king-cobra",
+  "levelNumber": 400,
+  "title": "King Cobra",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "reptile",
+  "educationalFact": "King Cobra is connected with venomous snake.",
+  "contextFact": "Important context: South/Southeast Asia.",
+  "pieces": 420,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-400-king-cobra/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-400-king-cobra/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=King%20Cobra",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches King Cobra?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "King Cobra is especially connected with what?",
+      "a": [
+        "venomous snake",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to King Cobra?",
+      "a": [
+        "South/Southeast Asia",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

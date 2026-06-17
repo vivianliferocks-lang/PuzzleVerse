@@ -1,0 +1,50 @@
+{
+  "id": "pv-399-python",
+  "levelNumber": 399,
+  "title": "Python",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "reptile",
+  "educationalFact": "Python is connected with constrictor snake.",
+  "contextFact": "Important context: tropics.",
+  "pieces": 418,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-399-python/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-399-python/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Python",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Python?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Python is especially connected with what?",
+      "a": [
+        "constrictor snake",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Python?",
+      "a": [
+        "tropics",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

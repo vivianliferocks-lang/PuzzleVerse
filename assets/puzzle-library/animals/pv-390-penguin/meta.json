@@ -1,0 +1,50 @@
+{
+  "id": "pv-390-penguin",
+  "levelNumber": 390,
+  "title": "Penguin",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "bird",
+  "educationalFact": "Penguin is connected with flightless swimmer.",
+  "contextFact": "Important context: Southern Hemisphere.",
+  "pieces": 409,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-390-penguin/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-390-penguin/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Penguin",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Penguin?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Penguin is especially connected with what?",
+      "a": [
+        "flightless swimmer",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Penguin?",
+      "a": [
+        "Southern Hemisphere",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}
