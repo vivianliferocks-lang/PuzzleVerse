@@ -1,0 +1,50 @@
+{
+  "id": "pv-318-praying-mantis",
+  "levelNumber": 318,
+  "title": "Praying Mantis",
+  "theme": "Small Critters",
+  "category": "small_critters",
+  "subtype": "insect",
+  "educationalFact": "Praying Mantis is connected with raptorial forelegs.",
+  "contextFact": "Important context: ambush predator.",
+  "pieces": 334,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/small_critters/pv-318-praying-mantis/placeholder.svg",
+  "localImage": "assets/puzzle-library/small_critters/pv-318-praying-mantis/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Praying%20Mantis",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Praying Mantis?",
+      "a": [
+        "Small Critters",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Praying Mantis is especially connected with what?",
+      "a": [
+        "raptorial forelegs",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Praying Mantis?",
+      "a": [
+        "ambush predator",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pv-324-leafcutter-ant",
+  "levelNumber": 324,
+  "title": "Leafcutter Ant",
+  "theme": "Small Critters",
+  "category": "small_critters",
+  "subtype": "insect",
+  "educationalFact": "Leafcutter Ant is connected with fungus farming.",
+  "contextFact": "Important context: colonies.",
+  "pieces": 340,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/small_critters/pv-324-leafcutter-ant/placeholder.svg",
+  "localImage": "assets/puzzle-library/small_critters/pv-324-leafcutter-ant/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Leafcutter%20Ant",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Leafcutter Ant?",
+      "a": [
+        "Small Critters",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Leafcutter Ant is especially connected with what?",
+      "a": [
+        "fungus farming",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Leafcutter Ant?",
+      "a": [
+        "colonies",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

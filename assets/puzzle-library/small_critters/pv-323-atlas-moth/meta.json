@@ -1,0 +1,50 @@
+{
+  "id": "pv-323-atlas-moth",
+  "levelNumber": 323,
+  "title": "Atlas Moth",
+  "theme": "Small Critters",
+  "category": "small_critters",
+  "subtype": "insect",
+  "educationalFact": "Atlas Moth is connected with large wingspan.",
+  "contextFact": "Important context: tropical forests.",
+  "pieces": 339,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/small_critters/pv-323-atlas-moth/placeholder.svg",
+  "localImage": "assets/puzzle-library/small_critters/pv-323-atlas-moth/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Atlas%20Moth",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Atlas Moth?",
+      "a": [
+        "Small Critters",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Atlas Moth is especially connected with what?",
+      "a": [
+        "large wingspan",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Atlas Moth?",
+      "a": [
+        "tropical forests",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

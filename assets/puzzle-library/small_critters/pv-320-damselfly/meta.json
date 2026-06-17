@@ -1,0 +1,50 @@
+{
+  "id": "pv-320-damselfly",
+  "levelNumber": 320,
+  "title": "Damselfly",
+  "theme": "Small Critters",
+  "category": "small_critters",
+  "subtype": "insect",
+  "educationalFact": "Damselfly is connected with delicate wings.",
+  "contextFact": "Important context: freshwater.",
+  "pieces": 336,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/small_critters/pv-320-damselfly/placeholder.svg",
+  "localImage": "assets/puzzle-library/small_critters/pv-320-damselfly/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Damselfly",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Damselfly?",
+      "a": [
+        "Small Critters",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Damselfly is especially connected with what?",
+      "a": [
+        "delicate wings",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Damselfly?",
+      "a": [
+        "freshwater",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

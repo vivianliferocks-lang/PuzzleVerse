@@ -1,0 +1,50 @@
+{
+  "id": "pv-317-ladybird-beetle",
+  "levelNumber": 317,
+  "title": "Ladybird Beetle",
+  "theme": "Small Critters",
+  "category": "small_critters",
+  "subtype": "insect",
+  "educationalFact": "Ladybird Beetle is connected with aphid predator.",
+  "contextFact": "Important context: gardens.",
+  "pieces": 333,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/small_critters/pv-317-ladybird-beetle/placeholder.svg",
+  "localImage": "assets/puzzle-library/small_critters/pv-317-ladybird-beetle/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Ladybird%20Beetle",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Ladybird Beetle?",
+      "a": [
+        "Small Critters",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Ladybird Beetle is especially connected with what?",
+      "a": [
+        "aphid predator",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Ladybird Beetle?",
+      "a": [
+        "gardens",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

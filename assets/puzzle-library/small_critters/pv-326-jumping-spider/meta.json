@@ -1,0 +1,50 @@
+{
+  "id": "pv-326-jumping-spider",
+  "levelNumber": 326,
+  "title": "Jumping Spider",
+  "theme": "Small Critters",
+  "category": "small_critters",
+  "subtype": "arachnid",
+  "educationalFact": "Jumping Spider is connected with excellent vision.",
+  "contextFact": "Important context: active hunting.",
+  "pieces": 343,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/small_critters/pv-326-jumping-spider/placeholder.svg",
+  "localImage": "assets/puzzle-library/small_critters/pv-326-jumping-spider/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Jumping%20Spider",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Jumping Spider?",
+      "a": [
+        "Small Critters",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Jumping Spider is especially connected with what?",
+      "a": [
+        "excellent vision",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Jumping Spider?",
+      "a": [
+        "active hunting",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

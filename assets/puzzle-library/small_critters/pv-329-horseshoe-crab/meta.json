@@ -1,0 +1,50 @@
+{
+  "id": "pv-329-horseshoe-crab",
+  "levelNumber": 329,
+  "title": "Horseshoe Crab",
+  "theme": "Small Critters",
+  "category": "small_critters",
+  "subtype": "marine arthropod",
+  "educationalFact": "Horseshoe Crab is connected with ancient lineage.",
+  "contextFact": "Important context: shorelines.",
+  "pieces": 346,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/small_critters/pv-329-horseshoe-crab/placeholder.svg",
+  "localImage": "assets/puzzle-library/small_critters/pv-329-horseshoe-crab/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Horseshoe%20Crab",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Horseshoe Crab?",
+      "a": [
+        "Small Critters",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Horseshoe Crab is especially connected with what?",
+      "a": [
+        "ancient lineage",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Horseshoe Crab?",
+      "a": [
+        "shorelines",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

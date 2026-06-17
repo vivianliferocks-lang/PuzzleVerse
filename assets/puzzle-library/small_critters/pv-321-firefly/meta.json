@@ -1,0 +1,50 @@
+{
+  "id": "pv-321-firefly",
+  "levelNumber": 321,
+  "title": "Firefly",
+  "theme": "Small Critters",
+  "category": "small_critters",
+  "subtype": "insect",
+  "educationalFact": "Firefly is connected with bioluminescent signals.",
+  "contextFact": "Important context: night.",
+  "pieces": 337,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/small_critters/pv-321-firefly/placeholder.svg",
+  "localImage": "assets/puzzle-library/small_critters/pv-321-firefly/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Firefly",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Firefly?",
+      "a": [
+        "Small Critters",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Firefly is especially connected with what?",
+      "a": [
+        "bioluminescent signals",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Firefly?",
+      "a": [
+        "night",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

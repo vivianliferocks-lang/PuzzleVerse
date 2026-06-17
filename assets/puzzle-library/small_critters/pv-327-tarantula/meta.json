@@ -1,0 +1,50 @@
+{
+  "id": "pv-327-tarantula",
+  "levelNumber": 327,
+  "title": "Tarantula",
+  "theme": "Small Critters",
+  "category": "small_critters",
+  "subtype": "arachnid",
+  "educationalFact": "Tarantula is connected with large hairy body.",
+  "contextFact": "Important context: burrows.",
+  "pieces": 344,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/small_critters/pv-327-tarantula/placeholder.svg",
+  "localImage": "assets/puzzle-library/small_critters/pv-327-tarantula/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Tarantula",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Tarantula?",
+      "a": [
+        "Small Critters",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Tarantula is especially connected with what?",
+      "a": [
+        "large hairy body",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Tarantula?",
+      "a": [
+        "burrows",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

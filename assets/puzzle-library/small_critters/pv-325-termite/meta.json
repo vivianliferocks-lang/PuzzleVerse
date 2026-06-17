@@ -1,0 +1,50 @@
+{
+  "id": "pv-325-termite",
+  "levelNumber": 325,
+  "title": "Termite",
+  "theme": "Small Critters",
+  "category": "small_critters",
+  "subtype": "insect",
+  "educationalFact": "Termite is connected with wood digestion.",
+  "contextFact": "Important context: social colonies.",
+  "pieces": 342,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/small_critters/pv-325-termite/placeholder.svg",
+  "localImage": "assets/puzzle-library/small_critters/pv-325-termite/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Termite",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Termite?",
+      "a": [
+        "Small Critters",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Termite is especially connected with what?",
+      "a": [
+        "wood digestion",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Termite?",
+      "a": [
+        "social colonies",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}
