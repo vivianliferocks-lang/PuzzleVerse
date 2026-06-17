@@ -1,0 +1,50 @@
+{
+  "id": "pv-202-mammatus-cloud",
+  "levelNumber": 202,
+  "title": "Mammatus Cloud",
+  "theme": "Cloud Types & Weather",
+  "category": "clouds",
+  "subtype": "special cloud",
+  "educationalFact": "Mammatus Cloud is connected with pouch-like formations.",
+  "contextFact": "Important context: storm outflow.",
+  "pieces": 214,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/clouds/pv-202-mammatus-cloud/placeholder.svg",
+  "localImage": "assets/puzzle-library/clouds/pv-202-mammatus-cloud/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Mammatus%20Cloud",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Mammatus Cloud?",
+      "a": [
+        "Cloud Types & Weather",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Mammatus Cloud is especially connected with what?",
+      "a": [
+        "pouch-like formations",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Mammatus Cloud?",
+      "a": [
+        "storm outflow",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

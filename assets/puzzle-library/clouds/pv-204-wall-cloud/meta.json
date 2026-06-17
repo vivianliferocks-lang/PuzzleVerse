@@ -1,0 +1,50 @@
+{
+  "id": "pv-204-wall-cloud",
+  "levelNumber": 204,
+  "title": "Wall Cloud",
+  "theme": "Cloud Types & Weather",
+  "category": "clouds",
+  "subtype": "storm cloud",
+  "educationalFact": "Wall Cloud is connected with lowering below storm.",
+  "contextFact": "Important context: severe weather.",
+  "pieces": 216,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/clouds/pv-204-wall-cloud/placeholder.svg",
+  "localImage": "assets/puzzle-library/clouds/pv-204-wall-cloud/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Wall%20Cloud",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Wall Cloud?",
+      "a": [
+        "Cloud Types & Weather",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Wall Cloud is especially connected with what?",
+      "a": [
+        "lowering below storm",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Wall Cloud?",
+      "a": [
+        "severe weather",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

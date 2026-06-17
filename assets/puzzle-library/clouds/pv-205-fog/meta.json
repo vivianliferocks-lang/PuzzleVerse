@@ -1,0 +1,50 @@
+{
+  "id": "pv-205-fog",
+  "levelNumber": 205,
+  "title": "Fog",
+  "theme": "Cloud Types & Weather",
+  "category": "clouds",
+  "subtype": "surface cloud",
+  "educationalFact": "Fog is connected with cloud at ground level.",
+  "contextFact": "Important context: low visibility.",
+  "pieces": 217,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/clouds/pv-205-fog/placeholder.svg",
+  "localImage": "assets/puzzle-library/clouds/pv-205-fog/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Fog",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Fog?",
+      "a": [
+        "Cloud Types & Weather",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Fog is especially connected with what?",
+      "a": [
+        "cloud at ground level",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Fog?",
+      "a": [
+        "low visibility",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

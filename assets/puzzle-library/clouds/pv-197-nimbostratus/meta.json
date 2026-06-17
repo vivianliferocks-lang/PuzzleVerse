@@ -1,0 +1,50 @@
+{
+  "id": "pv-197-nimbostratus",
+  "levelNumber": 197,
+  "title": "Nimbostratus",
+  "theme": "Cloud Types & Weather",
+  "category": "clouds",
+  "subtype": "rain cloud",
+  "educationalFact": "Nimbostratus is connected with thick rain layers.",
+  "contextFact": "Important context: steady rain.",
+  "pieces": 208,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/clouds/pv-197-nimbostratus/placeholder.svg",
+  "localImage": "assets/puzzle-library/clouds/pv-197-nimbostratus/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Nimbostratus",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Nimbostratus?",
+      "a": [
+        "Cloud Types & Weather",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Nimbostratus is especially connected with what?",
+      "a": [
+        "thick rain layers",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Nimbostratus?",
+      "a": [
+        "steady rain",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

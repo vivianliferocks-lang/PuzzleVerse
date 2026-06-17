@@ -1,0 +1,50 @@
+{
+  "id": "pv-203-shelf-cloud",
+  "levelNumber": 203,
+  "title": "Shelf Cloud",
+  "theme": "Cloud Types & Weather",
+  "category": "clouds",
+  "subtype": "storm cloud",
+  "educationalFact": "Shelf Cloud is connected with wedge-shaped front.",
+  "contextFact": "Important context: gust front.",
+  "pieces": 215,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/clouds/pv-203-shelf-cloud/placeholder.svg",
+  "localImage": "assets/puzzle-library/clouds/pv-203-shelf-cloud/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Shelf%20Cloud",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Shelf Cloud?",
+      "a": [
+        "Cloud Types & Weather",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Shelf Cloud is especially connected with what?",
+      "a": [
+        "wedge-shaped front",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Shelf Cloud?",
+      "a": [
+        "gust front",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

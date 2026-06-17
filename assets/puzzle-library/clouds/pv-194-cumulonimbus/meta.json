@@ -1,0 +1,50 @@
+{
+  "id": "pv-194-cumulonimbus",
+  "levelNumber": 194,
+  "title": "Cumulonimbus",
+  "theme": "Cloud Types & Weather",
+  "category": "clouds",
+  "subtype": "towering cloud",
+  "educationalFact": "Cumulonimbus is connected with thunderstorms.",
+  "contextFact": "Important context: heavy rain.",
+  "pieces": 205,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/clouds/pv-194-cumulonimbus/placeholder.svg",
+  "localImage": "assets/puzzle-library/clouds/pv-194-cumulonimbus/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Cumulonimbus",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Cumulonimbus?",
+      "a": [
+        "Cloud Types & Weather",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Cumulonimbus is especially connected with what?",
+      "a": [
+        "thunderstorms",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Cumulonimbus?",
+      "a": [
+        "heavy rain",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pv-208-contrail",
+  "levelNumber": 208,
+  "title": "Contrail",
+  "theme": "Cloud Types & Weather",
+  "category": "clouds",
+  "subtype": "human-made cloud",
+  "educationalFact": "Contrail is connected with aircraft condensation trail.",
+  "contextFact": "Important context: ice crystals.",
+  "pieces": 220,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/clouds/pv-208-contrail/placeholder.svg",
+  "localImage": "assets/puzzle-library/clouds/pv-208-contrail/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Contrail",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Contrail?",
+      "a": [
+        "Cloud Types & Weather",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Contrail is especially connected with what?",
+      "a": [
+        "aircraft condensation trail",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Contrail?",
+      "a": [
+        "ice crystals",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

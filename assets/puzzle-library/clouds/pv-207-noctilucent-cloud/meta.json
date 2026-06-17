@@ -1,0 +1,50 @@
+{
+  "id": "pv-207-noctilucent-cloud",
+  "levelNumber": 207,
+  "title": "Noctilucent Cloud",
+  "theme": "Cloud Types & Weather",
+  "category": "clouds",
+  "subtype": "upper atmosphere cloud",
+  "educationalFact": "Noctilucent Cloud is connected with night-shining cloud.",
+  "contextFact": "Important context: mesosphere.",
+  "pieces": 219,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/clouds/pv-207-noctilucent-cloud/placeholder.svg",
+  "localImage": "assets/puzzle-library/clouds/pv-207-noctilucent-cloud/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Noctilucent%20Cloud",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Noctilucent Cloud?",
+      "a": [
+        "Cloud Types & Weather",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Noctilucent Cloud is especially connected with what?",
+      "a": [
+        "night-shining cloud",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Noctilucent Cloud?",
+      "a": [
+        "mesosphere",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

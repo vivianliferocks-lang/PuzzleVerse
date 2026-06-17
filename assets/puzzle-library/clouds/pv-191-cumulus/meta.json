@@ -1,0 +1,50 @@
+{
+  "id": "pv-191-cumulus",
+  "levelNumber": 191,
+  "title": "Cumulus",
+  "theme": "Cloud Types & Weather",
+  "category": "clouds",
+  "subtype": "low cloud",
+  "educationalFact": "Cumulus is connected with puffy cotton-like clouds.",
+  "contextFact": "Important context: fair weather.",
+  "pieces": 202,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/clouds/pv-191-cumulus/placeholder.svg",
+  "localImage": "assets/puzzle-library/clouds/pv-191-cumulus/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Cumulus",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Cumulus?",
+      "a": [
+        "Cloud Types & Weather",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Cumulus is especially connected with what?",
+      "a": [
+        "puffy cotton-like clouds",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Cumulus?",
+      "a": [
+        "fair weather",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

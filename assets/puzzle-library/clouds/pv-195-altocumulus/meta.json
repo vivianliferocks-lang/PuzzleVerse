@@ -1,0 +1,50 @@
+{
+  "id": "pv-195-altocumulus",
+  "levelNumber": 195,
+  "title": "Altocumulus",
+  "theme": "Cloud Types & Weather",
+  "category": "clouds",
+  "subtype": "middle cloud",
+  "educationalFact": "Altocumulus is connected with patchy rounded clouds.",
+  "contextFact": "Important context: mackerel sky.",
+  "pieces": 206,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/clouds/pv-195-altocumulus/placeholder.svg",
+  "localImage": "assets/puzzle-library/clouds/pv-195-altocumulus/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Altocumulus",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Altocumulus?",
+      "a": [
+        "Cloud Types & Weather",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Altocumulus is especially connected with what?",
+      "a": [
+        "patchy rounded clouds",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Altocumulus?",
+      "a": [
+        "mackerel sky",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

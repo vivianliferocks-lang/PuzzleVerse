@@ -1,0 +1,50 @@
+{
+  "id": "pv-199-cirrostratus",
+  "levelNumber": 199,
+  "title": "Cirrostratus",
+  "theme": "Cloud Types & Weather",
+  "category": "clouds",
+  "subtype": "high cloud",
+  "educationalFact": "Cirrostratus is connected with thin veil cloud.",
+  "contextFact": "Important context: halo effect.",
+  "pieces": 210,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/clouds/pv-199-cirrostratus/placeholder.svg",
+  "localImage": "assets/puzzle-library/clouds/pv-199-cirrostratus/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Cirrostratus",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Cirrostratus?",
+      "a": [
+        "Cloud Types & Weather",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Cirrostratus is especially connected with what?",
+      "a": [
+        "thin veil cloud",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Cirrostratus?",
+      "a": [
+        "halo effect",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

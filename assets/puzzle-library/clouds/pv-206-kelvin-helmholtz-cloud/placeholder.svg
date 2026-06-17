@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8338ec"/><stop offset="1" stop-color="#111827"/></linearGradient></defs>
+  <rect width="1200" height="800" fill="url(#g)"/>
+  <circle cx="960" cy="120" r="180" fill="rgba(255,255,255,0.12)"/>
+  <circle cx="180" cy="720" r="220" fill="rgba(255,255,255,0.08)"/>
+  <path d="M80 120h1040v560H80z" fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="8" stroke-dasharray="28 18"/>
+  <text x="600" y="345" text-anchor="middle" font-size="62" font-family="Arial, sans-serif" fill="white" font-weight="700">Kelvin-Helmholtz Cloud</text>
+  <text x="600" y="420" text-anchor="middle" font-size="34" font-family="Arial, sans-serif" fill="rgba(255,255,255,0.86)">Cloud Types &amp; Weather</text>
+  <text x="600" y="500" text-anchor="middle" font-size="26" font-family="Arial, sans-serif" fill="rgba(255,255,255,0.72)">Open educational image slot</text>
+</svg>

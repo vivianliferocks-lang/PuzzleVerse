@@ -1,0 +1,50 @@
+{
+  "id": "pv-206-kelvin-helmholtz-cloud",
+  "levelNumber": 206,
+  "title": "Kelvin-Helmholtz Cloud",
+  "theme": "Cloud Types & Weather",
+  "category": "clouds",
+  "subtype": "wave cloud",
+  "educationalFact": "Kelvin-Helmholtz Cloud is connected with ocean-wave appearance.",
+  "contextFact": "Important context: wind shear.",
+  "pieces": 218,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/clouds/pv-206-kelvin-helmholtz-cloud/placeholder.svg",
+  "localImage": "assets/puzzle-library/clouds/pv-206-kelvin-helmholtz-cloud/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Kelvin-Helmholtz%20Cloud",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Kelvin-Helmholtz Cloud?",
+      "a": [
+        "Cloud Types & Weather",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Kelvin-Helmholtz Cloud is especially connected with what?",
+      "a": [
+        "ocean-wave appearance",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Kelvin-Helmholtz Cloud?",
+      "a": [
+        "wind shear",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

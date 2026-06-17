@@ -1,0 +1,50 @@
+{
+  "id": "pv-209-pileus-cloud",
+  "levelNumber": 209,
+  "title": "Pileus Cloud",
+  "theme": "Cloud Types & Weather",
+  "category": "clouds",
+  "subtype": "cap cloud",
+  "educationalFact": "Pileus Cloud is connected with cap over growing cloud.",
+  "contextFact": "Important context: rapid uplift.",
+  "pieces": 221,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/clouds/pv-209-pileus-cloud/placeholder.svg",
+  "localImage": "assets/puzzle-library/clouds/pv-209-pileus-cloud/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Pileus%20Cloud",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Pileus Cloud?",
+      "a": [
+        "Cloud Types & Weather",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Pileus Cloud is especially connected with what?",
+      "a": [
+        "cap over growing cloud",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Pileus Cloud?",
+      "a": [
+        "rapid uplift",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

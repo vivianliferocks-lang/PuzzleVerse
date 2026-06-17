@@ -1,0 +1,50 @@
+{
+  "id": "pv-193-cirrus",
+  "levelNumber": 193,
+  "title": "Cirrus",
+  "theme": "Cloud Types & Weather",
+  "category": "clouds",
+  "subtype": "high cloud",
+  "educationalFact": "Cirrus is connected with thin wispy ice clouds.",
+  "contextFact": "Important context: weather change.",
+  "pieces": 204,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/clouds/pv-193-cirrus/placeholder.svg",
+  "localImage": "assets/puzzle-library/clouds/pv-193-cirrus/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Cirrus",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Cirrus?",
+      "a": [
+        "Cloud Types & Weather",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Cirrus is especially connected with what?",
+      "a": [
+        "thin wispy ice clouds",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Cirrus?",
+      "a": [
+        "weather change",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

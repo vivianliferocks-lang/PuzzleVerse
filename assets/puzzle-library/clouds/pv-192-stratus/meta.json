@@ -1,0 +1,50 @@
+{
+  "id": "pv-192-stratus",
+  "levelNumber": 192,
+  "title": "Stratus",
+  "theme": "Cloud Types & Weather",
+  "category": "clouds",
+  "subtype": "low cloud",
+  "educationalFact": "Stratus is connected with blanket-like layers.",
+  "contextFact": "Important context: overcast sky.",
+  "pieces": 203,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/clouds/pv-192-stratus/placeholder.svg",
+  "localImage": "assets/puzzle-library/clouds/pv-192-stratus/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Stratus",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Stratus?",
+      "a": [
+        "Cloud Types & Weather",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Stratus is especially connected with what?",
+      "a": [
+        "blanket-like layers",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Stratus?",
+      "a": [
+        "overcast sky",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

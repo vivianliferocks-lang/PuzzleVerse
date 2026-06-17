@@ -1,0 +1,50 @@
+{
+  "id": "pv-200-cirrocumulus",
+  "levelNumber": 200,
+  "title": "Cirrocumulus",
+  "theme": "Cloud Types & Weather",
+  "category": "clouds",
+  "subtype": "high cloud",
+  "educationalFact": "Cirrocumulus is connected with tiny rippled clouds.",
+  "contextFact": "Important context: ice crystals.",
+  "pieces": 212,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/clouds/pv-200-cirrocumulus/placeholder.svg",
+  "localImage": "assets/puzzle-library/clouds/pv-200-cirrocumulus/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Cirrocumulus",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Cirrocumulus?",
+      "a": [
+        "Cloud Types & Weather",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Cirrocumulus is especially connected with what?",
+      "a": [
+        "tiny rippled clouds",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Cirrocumulus?",
+      "a": [
+        "ice crystals",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

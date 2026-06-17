@@ -1,0 +1,50 @@
+{
+  "id": "pv-201-lenticular-cloud",
+  "levelNumber": 201,
+  "title": "Lenticular Cloud",
+  "theme": "Cloud Types & Weather",
+  "category": "clouds",
+  "subtype": "special cloud",
+  "educationalFact": "Lenticular Cloud is connected with lens-shaped cloud.",
+  "contextFact": "Important context: mountain waves.",
+  "pieces": 213,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/clouds/pv-201-lenticular-cloud/placeholder.svg",
+  "localImage": "assets/puzzle-library/clouds/pv-201-lenticular-cloud/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Lenticular%20Cloud",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Lenticular Cloud?",
+      "a": [
+        "Cloud Types & Weather",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Lenticular Cloud is especially connected with what?",
+      "a": [
+        "lens-shaped cloud",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Lenticular Cloud?",
+      "a": [
+        "mountain waves",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

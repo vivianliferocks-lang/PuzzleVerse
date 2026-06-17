@@ -1,0 +1,50 @@
+{
+  "id": "pv-196-altostratus",
+  "levelNumber": 196,
+  "title": "Altostratus",
+  "theme": "Cloud Types & Weather",
+  "category": "clouds",
+  "subtype": "middle cloud",
+  "educationalFact": "Altostratus is connected with gray sheet cloud.",
+  "contextFact": "Important context: sun dimming.",
+  "pieces": 207,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/clouds/pv-196-altostratus/placeholder.svg",
+  "localImage": "assets/puzzle-library/clouds/pv-196-altostratus/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Altostratus",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Altostratus?",
+      "a": [
+        "Cloud Types & Weather",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Altostratus is especially connected with what?",
+      "a": [
+        "gray sheet cloud",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Altostratus?",
+      "a": [
+        "sun dimming",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

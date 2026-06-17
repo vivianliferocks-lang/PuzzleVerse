@@ -1,0 +1,50 @@
+{
+  "id": "pv-198-stratocumulus",
+  "levelNumber": 198,
+  "title": "Stratocumulus",
+  "theme": "Cloud Types & Weather",
+  "category": "clouds",
+  "subtype": "low cloud",
+  "educationalFact": "Stratocumulus is connected with lumpy layered clouds.",
+  "contextFact": "Important context: cool weather.",
+  "pieces": 209,
+  "difficulty": "Expert",
+  "image": "assets/puzzle-library/clouds/pv-198-stratocumulus/placeholder.svg",
+  "localImage": "assets/puzzle-library/clouds/pv-198-stratocumulus/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Stratocumulus",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Stratocumulus?",
+      "a": [
+        "Cloud Types & Weather",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Stratocumulus is especially connected with what?",
+      "a": [
+        "lumpy layered clouds",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Stratocumulus?",
+      "a": [
+        "cool weather",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}
