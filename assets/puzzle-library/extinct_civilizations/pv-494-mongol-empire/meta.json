@@ -1,0 +1,50 @@
+{
+  "id": "pv-494-mongol-empire",
+  "levelNumber": 494,
+  "title": "Mongol Empire",
+  "theme": "Ancient & Extinct Civilizations",
+  "category": "extinct_civilizations",
+  "subtype": "Eurasia",
+  "educationalFact": "Mongol Empire is connected with vast land empire.",
+  "contextFact": "Important context: steppe expansion.",
+  "pieces": 500,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/extinct_civilizations/pv-494-mongol-empire/placeholder.svg",
+  "localImage": "assets/puzzle-library/extinct_civilizations/pv-494-mongol-empire/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Mongol%20Empire",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Mongol Empire?",
+      "a": [
+        "Ancient & Extinct Civilizations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Mongol Empire is especially connected with what?",
+      "a": [
+        "vast land empire",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Mongol Empire?",
+      "a": [
+        "steppe expansion",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

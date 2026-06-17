@@ -1,0 +1,50 @@
+{
+  "id": "pv-484-inca-empire",
+  "levelNumber": 484,
+  "title": "Inca Empire",
+  "theme": "Ancient & Extinct Civilizations",
+  "category": "extinct_civilizations",
+  "subtype": "Andes",
+  "educationalFact": "Inca Empire is connected with road networks.",
+  "contextFact": "Important context: Cusco.",
+  "pieces": 500,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/extinct_civilizations/pv-484-inca-empire/placeholder.svg",
+  "localImage": "assets/puzzle-library/extinct_civilizations/pv-484-inca-empire/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Inca%20Empire",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Inca Empire?",
+      "a": [
+        "Ancient & Extinct Civilizations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Inca Empire is especially connected with what?",
+      "a": [
+        "road networks",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Inca Empire?",
+      "a": [
+        "Cusco",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

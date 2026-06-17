@@ -1,0 +1,50 @@
+{
+  "id": "pv-498-benin-kingdom",
+  "levelNumber": 498,
+  "title": "Benin Kingdom",
+  "theme": "Ancient & Extinct Civilizations",
+  "category": "extinct_civilizations",
+  "subtype": "West Africa",
+  "educationalFact": "Benin Kingdom is connected with bronze art.",
+  "contextFact": "Important context: Edo region.",
+  "pieces": 500,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/extinct_civilizations/pv-498-benin-kingdom/placeholder.svg",
+  "localImage": "assets/puzzle-library/extinct_civilizations/pv-498-benin-kingdom/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Benin%20Kingdom",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Benin Kingdom?",
+      "a": [
+        "Ancient & Extinct Civilizations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Benin Kingdom is especially connected with what?",
+      "a": [
+        "bronze art",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Benin Kingdom?",
+      "a": [
+        "Edo region",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

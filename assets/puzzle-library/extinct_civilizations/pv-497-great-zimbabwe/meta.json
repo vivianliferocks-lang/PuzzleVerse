@@ -1,0 +1,50 @@
+{
+  "id": "pv-497-great-zimbabwe",
+  "levelNumber": 497,
+  "title": "Great Zimbabwe",
+  "theme": "Ancient & Extinct Civilizations",
+  "category": "extinct_civilizations",
+  "subtype": "Southern Africa",
+  "educationalFact": "Great Zimbabwe is connected with stone city.",
+  "contextFact": "Important context: trade networks.",
+  "pieces": 500,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/extinct_civilizations/pv-497-great-zimbabwe/placeholder.svg",
+  "localImage": "assets/puzzle-library/extinct_civilizations/pv-497-great-zimbabwe/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Great%20Zimbabwe",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Great Zimbabwe?",
+      "a": [
+        "Ancient & Extinct Civilizations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Great Zimbabwe is especially connected with what?",
+      "a": [
+        "stone city",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Great Zimbabwe?",
+      "a": [
+        "trade networks",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

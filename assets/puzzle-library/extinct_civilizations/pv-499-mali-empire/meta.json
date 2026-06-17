@@ -1,0 +1,50 @@
+{
+  "id": "pv-499-mali-empire",
+  "levelNumber": 499,
+  "title": "Mali Empire",
+  "theme": "Ancient & Extinct Civilizations",
+  "category": "extinct_civilizations",
+  "subtype": "West Africa",
+  "educationalFact": "Mali Empire is connected with gold trade and learning.",
+  "contextFact": "Important context: Timbuktu.",
+  "pieces": 500,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/extinct_civilizations/pv-499-mali-empire/placeholder.svg",
+  "localImage": "assets/puzzle-library/extinct_civilizations/pv-499-mali-empire/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Mali%20Empire",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Mali Empire?",
+      "a": [
+        "Ancient & Extinct Civilizations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Mali Empire is especially connected with what?",
+      "a": [
+        "gold trade and learning",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Mali Empire?",
+      "a": [
+        "Timbuktu",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

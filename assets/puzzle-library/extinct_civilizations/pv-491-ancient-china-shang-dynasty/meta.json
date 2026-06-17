@@ -1,0 +1,50 @@
+{
+  "id": "pv-491-ancient-china-shang-dynasty",
+  "levelNumber": 491,
+  "title": "Ancient China Shang Dynasty",
+  "theme": "Ancient & Extinct Civilizations",
+  "category": "extinct_civilizations",
+  "subtype": "China",
+  "educationalFact": "Ancient China Shang Dynasty is connected with oracle bones.",
+  "contextFact": "Important context: Bronze Age.",
+  "pieces": 500,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/extinct_civilizations/pv-491-ancient-china-shang-dynasty/placeholder.svg",
+  "localImage": "assets/puzzle-library/extinct_civilizations/pv-491-ancient-china-shang-dynasty/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Ancient%20China%20Shang%20Dynasty",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Ancient China Shang Dynasty?",
+      "a": [
+        "Ancient & Extinct Civilizations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Ancient China Shang Dynasty is especially connected with what?",
+      "a": [
+        "oracle bones",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Ancient China Shang Dynasty?",
+      "a": [
+        "Bronze Age",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

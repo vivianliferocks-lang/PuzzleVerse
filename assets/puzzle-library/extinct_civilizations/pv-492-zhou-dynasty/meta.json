@@ -1,0 +1,50 @@
+{
+  "id": "pv-492-zhou-dynasty",
+  "levelNumber": 492,
+  "title": "Zhou Dynasty",
+  "theme": "Ancient & Extinct Civilizations",
+  "category": "extinct_civilizations",
+  "subtype": "China",
+  "educationalFact": "Zhou Dynasty is connected with Mandate of Heaven.",
+  "contextFact": "Important context: ancient China.",
+  "pieces": 500,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/extinct_civilizations/pv-492-zhou-dynasty/placeholder.svg",
+  "localImage": "assets/puzzle-library/extinct_civilizations/pv-492-zhou-dynasty/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Zhou%20Dynasty",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Zhou Dynasty?",
+      "a": [
+        "Ancient & Extinct Civilizations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Zhou Dynasty is especially connected with what?",
+      "a": [
+        "Mandate of Heaven",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Zhou Dynasty?",
+      "a": [
+        "ancient China",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}
