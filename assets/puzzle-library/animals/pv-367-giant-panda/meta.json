@@ -1,0 +1,50 @@
+{
+  "id": "pv-367-giant-panda",
+  "levelNumber": 367,
+  "title": "Giant Panda",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "mammal",
+  "educationalFact": "Giant Panda is connected with bamboo diet.",
+  "contextFact": "Important context: China.",
+  "pieces": 385,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-367-giant-panda/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-367-giant-panda/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Giant%20Panda",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Giant Panda?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Giant Panda is especially connected with what?",
+      "a": [
+        "bamboo diet",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Giant Panda?",
+      "a": [
+        "China",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

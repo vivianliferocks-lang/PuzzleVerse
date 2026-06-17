@@ -1,0 +1,50 @@
+{
+  "id": "pv-373-koala",
+  "levelNumber": 373,
+  "title": "Koala",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "mammal",
+  "educationalFact": "Koala is connected with eucalyptus diet.",
+  "contextFact": "Important context: Australia.",
+  "pieces": 391,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-373-koala/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-373-koala/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Koala",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Koala?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Koala is especially connected with what?",
+      "a": [
+        "eucalyptus diet",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Koala?",
+      "a": [
+        "Australia",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

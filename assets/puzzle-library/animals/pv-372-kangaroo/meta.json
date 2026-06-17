@@ -1,0 +1,50 @@
+{
+  "id": "pv-372-kangaroo",
+  "levelNumber": 372,
+  "title": "Kangaroo",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "mammal",
+  "educationalFact": "Kangaroo is connected with marsupial hopping.",
+  "contextFact": "Important context: Australia.",
+  "pieces": 390,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-372-kangaroo/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-372-kangaroo/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Kangaroo",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Kangaroo?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Kangaroo is especially connected with what?",
+      "a": [
+        "marsupial hopping",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Kangaroo?",
+      "a": [
+        "Australia",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

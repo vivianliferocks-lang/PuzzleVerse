@@ -1,0 +1,50 @@
+{
+  "id": "pv-363-lion",
+  "levelNumber": 363,
+  "title": "Lion",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "mammal",
+  "educationalFact": "Lion is connected with social big cat.",
+  "contextFact": "Important context: prides.",
+  "pieces": 381,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-363-lion/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-363-lion/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Lion",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Lion?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Lion is especially connected with what?",
+      "a": [
+        "social big cat",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Lion?",
+      "a": [
+        "prides",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

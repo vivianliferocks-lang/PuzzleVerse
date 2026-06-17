@@ -1,0 +1,50 @@
+{
+  "id": "pv-384-meerkat",
+  "levelNumber": 384,
+  "title": "Meerkat",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "mammal",
+  "educationalFact": "Meerkat is connected with sentinel behavior.",
+  "contextFact": "Important context: desert.",
+  "pieces": 403,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-384-meerkat/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-384-meerkat/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Meerkat",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Meerkat?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Meerkat is especially connected with what?",
+      "a": [
+        "sentinel behavior",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Meerkat?",
+      "a": [
+        "desert",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

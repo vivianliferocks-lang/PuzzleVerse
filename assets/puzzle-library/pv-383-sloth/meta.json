@@ -1,0 +1,50 @@
+{
+  "id": "pv-383-sloth",
+  "levelNumber": 383,
+  "title": "Sloth",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "mammal",
+  "educationalFact": "Sloth is connected with slow tree life.",
+  "contextFact": "Important context: rainforest.",
+  "pieces": 402,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-383-sloth/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-383-sloth/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Sloth",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Sloth?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Sloth is especially connected with what?",
+      "a": [
+        "slow tree life",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Sloth?",
+      "a": [
+        "rainforest",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

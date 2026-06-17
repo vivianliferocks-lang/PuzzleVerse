@@ -1,0 +1,50 @@
+{
+  "id": "pv-370-dolphin",
+  "levelNumber": 370,
+  "title": "Dolphin",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "mammal",
+  "educationalFact": "Dolphin is connected with echolocation.",
+  "contextFact": "Important context: ocean.",
+  "pieces": 388,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-370-dolphin/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-370-dolphin/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Dolphin",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Dolphin?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Dolphin is especially connected with what?",
+      "a": [
+        "echolocation",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Dolphin?",
+      "a": [
+        "ocean",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

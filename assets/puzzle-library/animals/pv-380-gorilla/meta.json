@@ -1,0 +1,50 @@
+{
+  "id": "pv-380-gorilla",
+  "levelNumber": 380,
+  "title": "Gorilla",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "mammal",
+  "educationalFact": "Gorilla is connected with great ape.",
+  "contextFact": "Important context: African forests.",
+  "pieces": 399,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-380-gorilla/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-380-gorilla/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Gorilla",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Gorilla?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Gorilla is especially connected with what?",
+      "a": [
+        "great ape",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Gorilla?",
+      "a": [
+        "African forests",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

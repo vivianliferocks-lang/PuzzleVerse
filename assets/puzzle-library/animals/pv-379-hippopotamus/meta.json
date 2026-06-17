@@ -1,0 +1,50 @@
+{
+  "id": "pv-379-hippopotamus",
+  "levelNumber": 379,
+  "title": "Hippopotamus",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "mammal",
+  "educationalFact": "Hippopotamus is connected with semi-aquatic herbivore.",
+  "contextFact": "Important context: rivers.",
+  "pieces": 398,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-379-hippopotamus/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-379-hippopotamus/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Hippopotamus",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Hippopotamus?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Hippopotamus is especially connected with what?",
+      "a": [
+        "semi-aquatic herbivore",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Hippopotamus?",
+      "a": [
+        "rivers",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

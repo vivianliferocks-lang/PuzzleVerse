@@ -1,0 +1,50 @@
+{
+  "id": "pv-378-rhinoceros",
+  "levelNumber": 378,
+  "title": "Rhinoceros",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "mammal",
+  "educationalFact": "Rhinoceros is connected with horned herbivore.",
+  "contextFact": "Important context: Africa/Asia.",
+  "pieces": 397,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-378-rhinoceros/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-378-rhinoceros/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Rhinoceros",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Rhinoceros?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Rhinoceros is especially connected with what?",
+      "a": [
+        "horned herbivore",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Rhinoceros?",
+      "a": [
+        "Africa/Asia",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

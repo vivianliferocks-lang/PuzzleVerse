@@ -1,0 +1,50 @@
+{
+  "id": "pv-377-brown-bear",
+  "levelNumber": 377,
+  "title": "Brown Bear",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "mammal",
+  "educationalFact": "Brown Bear is connected with omnivore.",
+  "contextFact": "Important context: forests.",
+  "pieces": 396,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-377-brown-bear/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-377-brown-bear/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Brown%20Bear",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Brown Bear?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Brown Bear is especially connected with what?",
+      "a": [
+        "omnivore",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Brown Bear?",
+      "a": [
+        "forests",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

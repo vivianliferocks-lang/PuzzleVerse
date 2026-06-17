@@ -1,0 +1,50 @@
+{
+  "id": "pv-362-bengal-tiger",
+  "levelNumber": 362,
+  "title": "Bengal Tiger",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "mammal",
+  "educationalFact": "Bengal Tiger is connected with striped big cat.",
+  "contextFact": "Important context: forests.",
+  "pieces": 380,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-362-bengal-tiger/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-362-bengal-tiger/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Bengal%20Tiger",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Bengal Tiger?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Bengal Tiger is especially connected with what?",
+      "a": [
+        "striped big cat",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Bengal Tiger?",
+      "a": [
+        "forests",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

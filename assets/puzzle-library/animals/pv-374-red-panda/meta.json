@@ -1,0 +1,50 @@
+{
+  "id": "pv-374-red-panda",
+  "levelNumber": 374,
+  "title": "Red Panda",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "mammal",
+  "educationalFact": "Red Panda is connected with tree-dwelling carnivoran.",
+  "contextFact": "Important context: Himalayas.",
+  "pieces": 392,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-374-red-panda/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-374-red-panda/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Red%20Panda",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Red Panda?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Red Panda is especially connected with what?",
+      "a": [
+        "tree-dwelling carnivoran",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Red Panda?",
+      "a": [
+        "Himalayas",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

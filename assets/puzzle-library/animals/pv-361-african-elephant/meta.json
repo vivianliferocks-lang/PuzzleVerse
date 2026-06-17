@@ -1,0 +1,50 @@
+{
+  "id": "pv-361-african-elephant",
+  "levelNumber": 361,
+  "title": "African Elephant",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "mammal",
+  "educationalFact": "African Elephant is connected with largest land animal.",
+  "contextFact": "Important context: savanna.",
+  "pieces": 379,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-361-african-elephant/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-361-african-elephant/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=African%20Elephant",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches African Elephant?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "African Elephant is especially connected with what?",
+      "a": [
+        "largest land animal",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to African Elephant?",
+      "a": [
+        "savanna",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

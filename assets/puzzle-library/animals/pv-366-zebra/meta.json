@@ -1,0 +1,50 @@
+{
+  "id": "pv-366-zebra",
+  "levelNumber": 366,
+  "title": "Zebra",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "mammal",
+  "educationalFact": "Zebra is connected with black-and-white stripes.",
+  "contextFact": "Important context: grasslands.",
+  "pieces": 384,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-366-zebra/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-366-zebra/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Zebra",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Zebra?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Zebra is especially connected with what?",
+      "a": [
+        "black-and-white stripes",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Zebra?",
+      "a": [
+        "grasslands",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

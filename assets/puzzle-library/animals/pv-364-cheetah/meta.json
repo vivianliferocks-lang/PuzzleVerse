@@ -1,0 +1,50 @@
+{
+  "id": "pv-364-cheetah",
+  "levelNumber": 364,
+  "title": "Cheetah",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "mammal",
+  "educationalFact": "Cheetah is connected with fastest land animal.",
+  "contextFact": "Important context: grasslands.",
+  "pieces": 382,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-364-cheetah/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-364-cheetah/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Cheetah",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Cheetah?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Cheetah is especially connected with what?",
+      "a": [
+        "fastest land animal",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Cheetah?",
+      "a": [
+        "grasslands",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pv-375-snow-leopard",
+  "levelNumber": 375,
+  "title": "Snow Leopard",
+  "theme": "Animals Around the World",
+  "category": "animals",
+  "subtype": "mammal",
+  "educationalFact": "Snow Leopard is connected with mountain cat.",
+  "contextFact": "Important context: Central Asia.",
+  "pieces": 394,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/animals/pv-375-snow-leopard/placeholder.svg",
+  "localImage": "assets/puzzle-library/animals/pv-375-snow-leopard/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Snow%20Leopard",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Snow Leopard?",
+      "a": [
+        "Animals Around the World",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Snow Leopard is especially connected with what?",
+      "a": [
+        "mountain cat",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Snow Leopard?",
+      "a": [
+        "Central Asia",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}
