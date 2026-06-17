@@ -1,0 +1,50 @@
+{
+  "id": "pv-067-rani-ki-vav",
+  "levelNumber": 67,
+  "title": "Rani ki Vav",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "India",
+  "educationalFact": "Rani ki Vav is connected with stepwell.",
+  "contextFact": "Important context: Gujarat.",
+  "pieces": 73,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-067-rani-ki-vav/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-067-rani-ki-vav/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Rani%20ki%20Vav",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Rani ki Vav?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Rani ki Vav is especially connected with what?",
+      "a": [
+        "stepwell",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Rani ki Vav?",
+      "a": [
+        "Gujarat",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

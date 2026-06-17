@@ -1,0 +1,50 @@
+{
+  "id": "pv-064-mehrangarh-fort",
+  "levelNumber": 64,
+  "title": "Mehrangarh Fort",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "India",
+  "educationalFact": "Mehrangarh Fort is connected with fortress.",
+  "contextFact": "Important context: Jodhpur.",
+  "pieces": 70,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-064-mehrangarh-fort/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-064-mehrangarh-fort/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Mehrangarh%20Fort",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Mehrangarh Fort?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Mehrangarh Fort is especially connected with what?",
+      "a": [
+        "fortress",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Mehrangarh Fort?",
+      "a": [
+        "Jodhpur",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

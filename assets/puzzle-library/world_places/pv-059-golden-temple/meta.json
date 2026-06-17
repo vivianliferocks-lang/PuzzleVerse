@@ -1,0 +1,50 @@
+{
+  "id": "pv-059-golden-temple",
+  "levelNumber": 59,
+  "title": "Golden Temple",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "India",
+  "educationalFact": "Golden Temple is connected with Sikh shrine.",
+  "contextFact": "Important context: Amritsar.",
+  "pieces": 65,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-059-golden-temple/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-059-golden-temple/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Golden%20Temple",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Golden Temple?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Golden Temple is especially connected with what?",
+      "a": [
+        "Sikh shrine",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Golden Temple?",
+      "a": [
+        "Amritsar",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

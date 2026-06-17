@@ -1,0 +1,50 @@
+{
+  "id": "pv-066-mahabalipuram-shore-temple",
+  "levelNumber": 66,
+  "title": "Mahabalipuram Shore Temple",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "India",
+  "educationalFact": "Mahabalipuram Shore Temple is connected with Pallava temple.",
+  "contextFact": "Important context: Tamil Nadu.",
+  "pieces": 72,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-066-mahabalipuram-shore-temple/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-066-mahabalipuram-shore-temple/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Mahabalipuram%20Shore%20Temple",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Mahabalipuram Shore Temple?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Mahabalipuram Shore Temple is especially connected with what?",
+      "a": [
+        "Pallava temple",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Mahabalipuram Shore Temple?",
+      "a": [
+        "Tamil Nadu",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

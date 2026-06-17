@@ -1,0 +1,50 @@
+{
+  "id": "pv-060-gateway-of-india",
+  "levelNumber": 60,
+  "title": "Gateway of India",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "India",
+  "educationalFact": "Gateway of India is connected with arch monument.",
+  "contextFact": "Important context: Mumbai.",
+  "pieces": 66,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-060-gateway-of-india/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-060-gateway-of-india/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Gateway%20of%20India",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Gateway of India?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Gateway of India is especially connected with what?",
+      "a": [
+        "arch monument",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Gateway of India?",
+      "a": [
+        "Mumbai",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

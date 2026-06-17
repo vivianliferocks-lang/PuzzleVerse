@@ -1,0 +1,50 @@
+{
+  "id": "pv-062-humayun-tomb",
+  "levelNumber": 62,
+  "title": "Humayun Tomb",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "India",
+  "educationalFact": "Humayun Tomb is connected with Mughal tomb.",
+  "contextFact": "Important context: Delhi.",
+  "pieces": 68,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-062-humayun-tomb/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-062-humayun-tomb/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Humayun%20Tomb",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Humayun Tomb?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Humayun Tomb is especially connected with what?",
+      "a": [
+        "Mughal tomb",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Humayun Tomb?",
+      "a": [
+        "Delhi",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

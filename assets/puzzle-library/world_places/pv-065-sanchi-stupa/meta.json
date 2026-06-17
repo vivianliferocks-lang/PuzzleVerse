@@ -1,0 +1,50 @@
+{
+  "id": "pv-065-sanchi-stupa",
+  "levelNumber": 65,
+  "title": "Sanchi Stupa",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "India",
+  "educationalFact": "Sanchi Stupa is connected with Buddhist stupa.",
+  "contextFact": "Important context: Madhya Pradesh.",
+  "pieces": 71,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-065-sanchi-stupa/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-065-sanchi-stupa/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Sanchi%20Stupa",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Sanchi Stupa?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Sanchi Stupa is especially connected with what?",
+      "a": [
+        "Buddhist stupa",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Sanchi Stupa?",
+      "a": [
+        "Madhya Pradesh",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

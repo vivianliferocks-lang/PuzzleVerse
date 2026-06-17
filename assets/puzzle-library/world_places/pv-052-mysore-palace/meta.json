@@ -1,0 +1,50 @@
+{
+  "id": "pv-052-mysore-palace",
+  "levelNumber": 52,
+  "title": "Mysore Palace",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "India",
+  "educationalFact": "Mysore Palace is connected with royal palace.",
+  "contextFact": "Important context: Mysuru.",
+  "pieces": 58,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-052-mysore-palace/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-052-mysore-palace/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Mysore%20Palace",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Mysore Palace?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Mysore Palace is especially connected with what?",
+      "a": [
+        "royal palace",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Mysore Palace?",
+      "a": [
+        "Mysuru",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

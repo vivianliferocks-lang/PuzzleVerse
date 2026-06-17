@@ -1,0 +1,50 @@
+{
+  "id": "pv-069-nalanda-ruins",
+  "levelNumber": 69,
+  "title": "Nalanda Ruins",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "India",
+  "educationalFact": "Nalanda Ruins is connected with ancient university.",
+  "contextFact": "Important context: Bihar.",
+  "pieces": 75,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-069-nalanda-ruins/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-069-nalanda-ruins/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Nalanda%20Ruins",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Nalanda Ruins?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Nalanda Ruins is especially connected with what?",
+      "a": [
+        "ancient university",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Nalanda Ruins?",
+      "a": [
+        "Bihar",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pv-055-qutub-minar",
+  "levelNumber": 55,
+  "title": "Qutub Minar",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "India",
+  "educationalFact": "Qutub Minar is connected with victory tower.",
+  "contextFact": "Important context: Delhi.",
+  "pieces": 61,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-055-qutub-minar/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-055-qutub-minar/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Qutub%20Minar",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Qutub Minar?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Qutub Minar is especially connected with what?",
+      "a": [
+        "victory tower",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Qutub Minar?",
+      "a": [
+        "Delhi",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

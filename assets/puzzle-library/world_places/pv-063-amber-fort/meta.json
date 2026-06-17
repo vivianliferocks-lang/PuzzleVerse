@@ -1,0 +1,50 @@
+{
+  "id": "pv-063-amber-fort",
+  "levelNumber": 63,
+  "title": "Amber Fort",
+  "theme": "World Places & Monuments",
+  "category": "world_places",
+  "subtype": "India",
+  "educationalFact": "Amber Fort is connected with hill fort.",
+  "contextFact": "Important context: Jaipur.",
+  "pieces": 69,
+  "difficulty": "Medium",
+  "image": "assets/puzzle-library/world_places/pv-063-amber-fort/placeholder.svg",
+  "localImage": "assets/puzzle-library/world_places/pv-063-amber-fort/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Amber%20Fort",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Amber Fort?",
+      "a": [
+        "World Places & Monuments",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Amber Fort is especially connected with what?",
+      "a": [
+        "hill fort",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Amber Fort?",
+      "a": [
+        "Jaipur",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}
