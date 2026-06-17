@@ -5767,10 +5767,10 @@ window.PUZZLEVERSE_LEVELS = [
     "difficulty": "Hard",
     "image": "assets/puzzle-library/famous_people/pv-116-rani-lakshmibai/image.jpg",
     "localImage": "assets/puzzle-library/famous_people/pv-116-rani-lakshmibai/image.jpg",
-    "sourceProvider": "Wikimedia Commons",
+    "sourceProvider": "Wikimedia Commons / Wikipedia",
     "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Rani%20Lakshmibai",
-    "licenseStatus": "downloaded-needs-human-review",
-    "credit": "Pinakpani / Wikimedia Commons / CC BY-SA 4.0",
+    "licenseStatus": "downloaded-needs-attribution-review",
+    "credit": "Raunak agrawal29",
     "trivia": [
       {
         "q": "Which category best matches Rani Lakshmibai?",
@@ -5802,7 +5802,10 @@ window.PUZZLEVERSE_LEVELS = [
         ],
         "correct": 0
       }
-    ]
+    ],
+    "curationSource": "commons-search",
+    "curationScore": 113.0,
+    "curationWarning": ""
   },
   {
     "id": "pv-117-tipu-sultan",
@@ -5867,10 +5870,10 @@ window.PUZZLEVERSE_LEVELS = [
     "difficulty": "Hard",
     "image": "assets/puzzle-library/famous_people/pv-118-chanakya/image.jpg",
     "localImage": "assets/puzzle-library/famous_people/pv-118-chanakya/image.jpg",
-    "sourceProvider": "Wikimedia Commons",
+    "sourceProvider": "Wikimedia Commons / Wikipedia",
     "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Chanakya",
-    "licenseStatus": "downloaded-needs-human-review",
-    "credit": "Rohit Sharma / Wikimedia Commons / CC BY-SA 4.0",
+    "licenseStatus": "downloaded-needs-attribution-review",
+    "credit": "Unknown authorUnknown author",
     "trivia": [
       {
         "q": "Which category best matches Chanakya?",
@@ -5902,7 +5905,10 @@ window.PUZZLEVERSE_LEVELS = [
         ],
         "correct": 0
       }
-    ]
+    ],
+    "curationSource": "wikidata-P18",
+    "curationScore": 138.0,
+    "curationWarning": ""
   },
   {
     "id": "pv-119-confucius",
@@ -6417,10 +6423,10 @@ window.PUZZLEVERSE_LEVELS = [
     "difficulty": "Hard",
     "image": "assets/puzzle-library/famous_people/pv-129-florence-nightingale/image.jpg",
     "localImage": "assets/puzzle-library/famous_people/pv-129-florence-nightingale/image.jpg",
-    "sourceProvider": "Wikimedia Commons",
+    "sourceProvider": "Wikimedia Commons / Wikipedia",
     "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Florence%20Nightingale",
-    "licenseStatus": "downloaded-needs-human-review",
-    "credit": "Acediscovery / Wikimedia Commons / CC BY 4.0",
+    "licenseStatus": "downloaded-needs-attribution-review",
+    "credit": "Wikimedia Commons / Wikipedia contributor",
     "trivia": [
       {
         "q": "Which category best matches Florence Nightingale?",
@@ -6452,7 +6458,10 @@ window.PUZZLEVERSE_LEVELS = [
         ],
         "correct": 0
       }
-    ]
+    ],
+    "curationSource": "wikipedia-pageimage",
+    "curationScore": 140.0,
+    "curationWarning": ""
   },
   {
     "id": "pv-130-mother-teresa",

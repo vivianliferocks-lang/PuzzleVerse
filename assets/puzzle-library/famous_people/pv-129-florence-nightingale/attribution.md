@@ -1,19 +1,16 @@
-# Attribution for Florence Nightingale
+# Attribution
 
-Source page: https://commons.wikimedia.org/wiki/File%3AFlorence-Nightingale-Statue-Nightingale-Nursing-Home-Derby.jpg
+Puzzle: Florence Nightingale
+Level ID: pv-129-florence-nightingale
 
-Downloaded URL: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Florence-Nightingale-Statue-Nightingale-Nursing-Home-Derby.jpg/1920px-Florence-Nightingale-Statue-Nightingale-Nursing-Home-Derby.jpg
+Source: wikipedia-pageimage
+File/title: Florence Nightingale
+Image URL: https://upload.wikimedia.org/wikipedia/commons/a/ab/Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg
+Credit/artist: Wikimedia Commons / Wikipedia contributor
+License: Check source page
+License URL: Check source page
 
-Original URL: https://upload.wikimedia.org/wikipedia/commons/f/f0/Florence-Nightingale-Statue-Nightingale-Nursing-Home-Derby.jpg
+Curation warning: none
+Curation score: 140.0
 
-Thumbnail URL: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Florence-Nightingale-Statue-Nightingale-Nursing-Home-Derby.jpg/1920px-Florence-Nightingale-Statue-Nightingale-Nursing-Home-Derby.jpg
-
-Artist: Acediscovery
-
-Credit: Own work
-
-License: CC BY 4.0
-
-Original dimensions: 6000 x 7260
-
-Review status: needs human review before commercial use.
+Review before commercial publishing. Replace if the image is not an accurate match.
