@@ -1,0 +1,50 @@
+{
+  "id": "pv-466-babylonian-civilization",
+  "levelNumber": 466,
+  "title": "Babylonian Civilization",
+  "theme": "Ancient & Extinct Civilizations",
+  "category": "extinct_civilizations",
+  "subtype": "Mesopotamia",
+  "educationalFact": "Babylonian Civilization is connected with law codes and astronomy.",
+  "contextFact": "Important context: Babylon.",
+  "pieces": 488,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/extinct_civilizations/pv-466-babylonian-civilization/placeholder.svg",
+  "localImage": "assets/puzzle-library/extinct_civilizations/pv-466-babylonian-civilization/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Babylonian%20Civilization",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Babylonian Civilization?",
+      "a": [
+        "Ancient & Extinct Civilizations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Babylonian Civilization is especially connected with what?",
+      "a": [
+        "law codes and astronomy",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Babylonian Civilization?",
+      "a": [
+        "Babylon",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

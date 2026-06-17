@@ -1,0 +1,50 @@
+{
+  "id": "pv-474-phoenician-civilization",
+  "levelNumber": 474,
+  "title": "Phoenician Civilization",
+  "theme": "Ancient & Extinct Civilizations",
+  "category": "extinct_civilizations",
+  "subtype": "Levant",
+  "educationalFact": "Phoenician Civilization is connected with seafaring and alphabet.",
+  "contextFact": "Important context: Mediterranean trade.",
+  "pieces": 496,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/extinct_civilizations/pv-474-phoenician-civilization/placeholder.svg",
+  "localImage": "assets/puzzle-library/extinct_civilizations/pv-474-phoenician-civilization/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Phoenician%20Civilization",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Phoenician Civilization?",
+      "a": [
+        "Ancient & Extinct Civilizations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Phoenician Civilization is especially connected with what?",
+      "a": [
+        "seafaring and alphabet",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Phoenician Civilization?",
+      "a": [
+        "Mediterranean trade",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

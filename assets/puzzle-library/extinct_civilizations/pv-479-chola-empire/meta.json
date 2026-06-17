@@ -1,0 +1,50 @@
+{
+  "id": "pv-479-chola-empire",
+  "levelNumber": 479,
+  "title": "Chola Empire",
+  "theme": "Ancient & Extinct Civilizations",
+  "category": "extinct_civilizations",
+  "subtype": "South India",
+  "educationalFact": "Chola Empire is connected with temples and naval trade.",
+  "contextFact": "Important context: Tamil region.",
+  "pieces": 500,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/extinct_civilizations/pv-479-chola-empire/placeholder.svg",
+  "localImage": "assets/puzzle-library/extinct_civilizations/pv-479-chola-empire/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Chola%20Empire",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Chola Empire?",
+      "a": [
+        "Ancient & Extinct Civilizations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Chola Empire is especially connected with what?",
+      "a": [
+        "temples and naval trade",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Chola Empire?",
+      "a": [
+        "Tamil region",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

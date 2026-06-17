@@ -1,0 +1,50 @@
+{
+  "id": "pv-473-etruscan-civilization",
+  "levelNumber": 473,
+  "title": "Etruscan Civilization",
+  "theme": "Ancient & Extinct Civilizations",
+  "category": "extinct_civilizations",
+  "subtype": "Italy",
+  "educationalFact": "Etruscan Civilization is connected with pre-Roman culture.",
+  "contextFact": "Important context: Tuscany.",
+  "pieces": 495,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/extinct_civilizations/pv-473-etruscan-civilization/placeholder.svg",
+  "localImage": "assets/puzzle-library/extinct_civilizations/pv-473-etruscan-civilization/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Etruscan%20Civilization",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Etruscan Civilization?",
+      "a": [
+        "Ancient & Extinct Civilizations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Etruscan Civilization is especially connected with what?",
+      "a": [
+        "pre-Roman culture",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Etruscan Civilization?",
+      "a": [
+        "Tuscany",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

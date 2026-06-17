@@ -1,0 +1,50 @@
+{
+  "id": "pv-471-ancient-greece",
+  "levelNumber": 471,
+  "title": "Ancient Greece",
+  "theme": "Ancient & Extinct Civilizations",
+  "category": "extinct_civilizations",
+  "subtype": "Mediterranean",
+  "educationalFact": "Ancient Greece is connected with philosophy and city-states.",
+  "contextFact": "Important context: polis.",
+  "pieces": 493,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/extinct_civilizations/pv-471-ancient-greece/placeholder.svg",
+  "localImage": "assets/puzzle-library/extinct_civilizations/pv-471-ancient-greece/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Ancient%20Greece",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Ancient Greece?",
+      "a": [
+        "Ancient & Extinct Civilizations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Ancient Greece is especially connected with what?",
+      "a": [
+        "philosophy and city-states",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Ancient Greece?",
+      "a": [
+        "polis",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

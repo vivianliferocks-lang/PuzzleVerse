@@ -1,0 +1,50 @@
+{
+  "id": "pv-463-mesopotamia",
+  "levelNumber": 463,
+  "title": "Mesopotamia",
+  "theme": "Ancient & Extinct Civilizations",
+  "category": "extinct_civilizations",
+  "subtype": "West Asia",
+  "educationalFact": "Mesopotamia is connected with early writing and cities.",
+  "contextFact": "Important context: Tigris-Euphrates.",
+  "pieces": 485,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/extinct_civilizations/pv-463-mesopotamia/placeholder.svg",
+  "localImage": "assets/puzzle-library/extinct_civilizations/pv-463-mesopotamia/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Mesopotamia",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Mesopotamia?",
+      "a": [
+        "Ancient & Extinct Civilizations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Mesopotamia is especially connected with what?",
+      "a": [
+        "early writing and cities",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Mesopotamia?",
+      "a": [
+        "Tigris-Euphrates",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

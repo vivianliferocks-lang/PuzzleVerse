@@ -1,0 +1,50 @@
+{
+  "id": "pv-467-assyrian-empire",
+  "levelNumber": 467,
+  "title": "Assyrian Empire",
+  "theme": "Ancient & Extinct Civilizations",
+  "category": "extinct_civilizations",
+  "subtype": "Mesopotamia",
+  "educationalFact": "Assyrian Empire is connected with military and administration.",
+  "contextFact": "Important context: Nineveh.",
+  "pieces": 489,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/extinct_civilizations/pv-467-assyrian-empire/placeholder.svg",
+  "localImage": "assets/puzzle-library/extinct_civilizations/pv-467-assyrian-empire/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Assyrian%20Empire",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Assyrian Empire?",
+      "a": [
+        "Ancient & Extinct Civilizations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Assyrian Empire is especially connected with what?",
+      "a": [
+        "military and administration",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Assyrian Empire?",
+      "a": [
+        "Nineveh",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

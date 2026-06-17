@@ -1,0 +1,50 @@
+{
+  "id": "pv-478-gupta-empire",
+  "levelNumber": 478,
+  "title": "Gupta Empire",
+  "theme": "Ancient & Extinct Civilizations",
+  "category": "extinct_civilizations",
+  "subtype": "India",
+  "educationalFact": "Gupta Empire is connected with classical science and art.",
+  "contextFact": "Important context: Golden Age.",
+  "pieces": 500,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/extinct_civilizations/pv-478-gupta-empire/placeholder.svg",
+  "localImage": "assets/puzzle-library/extinct_civilizations/pv-478-gupta-empire/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Gupta%20Empire",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Gupta Empire?",
+      "a": [
+        "Ancient & Extinct Civilizations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Gupta Empire is especially connected with what?",
+      "a": [
+        "classical science and art",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Gupta Empire?",
+      "a": [
+        "Golden Age",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

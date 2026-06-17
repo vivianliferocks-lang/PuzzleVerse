@@ -1,0 +1,50 @@
+{
+  "id": "pv-476-persian-achaemenid-empire",
+  "levelNumber": 476,
+  "title": "Persian Achaemenid Empire",
+  "theme": "Ancient & Extinct Civilizations",
+  "category": "extinct_civilizations",
+  "subtype": "Iran",
+  "educationalFact": "Persian Achaemenid Empire is connected with imperial roads and administration.",
+  "contextFact": "Important context: Persepolis.",
+  "pieces": 499,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/extinct_civilizations/pv-476-persian-achaemenid-empire/placeholder.svg",
+  "localImage": "assets/puzzle-library/extinct_civilizations/pv-476-persian-achaemenid-empire/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Persian%20Achaemenid%20Empire",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Persian Achaemenid Empire?",
+      "a": [
+        "Ancient & Extinct Civilizations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Persian Achaemenid Empire is especially connected with what?",
+      "a": [
+        "imperial roads and administration",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Persian Achaemenid Empire?",
+      "a": [
+        "Persepolis",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

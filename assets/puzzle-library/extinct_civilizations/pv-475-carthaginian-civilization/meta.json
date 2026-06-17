@@ -1,0 +1,50 @@
+{
+  "id": "pv-475-carthaginian-civilization",
+  "levelNumber": 475,
+  "title": "Carthaginian Civilization",
+  "theme": "Ancient & Extinct Civilizations",
+  "category": "extinct_civilizations",
+  "subtype": "North Africa",
+  "educationalFact": "Carthaginian Civilization is connected with maritime trade.",
+  "contextFact": "Important context: Carthage.",
+  "pieces": 498,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/extinct_civilizations/pv-475-carthaginian-civilization/placeholder.svg",
+  "localImage": "assets/puzzle-library/extinct_civilizations/pv-475-carthaginian-civilization/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Carthaginian%20Civilization",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Carthaginian Civilization?",
+      "a": [
+        "Ancient & Extinct Civilizations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Carthaginian Civilization is especially connected with what?",
+      "a": [
+        "maritime trade",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Carthaginian Civilization?",
+      "a": [
+        "Carthage",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

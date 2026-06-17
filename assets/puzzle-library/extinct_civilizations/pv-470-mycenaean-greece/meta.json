@@ -1,0 +1,50 @@
+{
+  "id": "pv-470-mycenaean-greece",
+  "levelNumber": 470,
+  "title": "Mycenaean Greece",
+  "theme": "Ancient & Extinct Civilizations",
+  "category": "extinct_civilizations",
+  "subtype": "Greece",
+  "educationalFact": "Mycenaean Greece is connected with fortified palaces.",
+  "contextFact": "Important context: Bronze Age.",
+  "pieces": 492,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/extinct_civilizations/pv-470-mycenaean-greece/placeholder.svg",
+  "localImage": "assets/puzzle-library/extinct_civilizations/pv-470-mycenaean-greece/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Mycenaean%20Greece",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Mycenaean Greece?",
+      "a": [
+        "Ancient & Extinct Civilizations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Mycenaean Greece is especially connected with what?",
+      "a": [
+        "fortified palaces",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Mycenaean Greece?",
+      "a": [
+        "Bronze Age",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pv-469-minoan-civilization",
+  "levelNumber": 469,
+  "title": "Minoan Civilization",
+  "theme": "Ancient & Extinct Civilizations",
+  "category": "extinct_civilizations",
+  "subtype": "Crete",
+  "educationalFact": "Minoan Civilization is connected with palaces and maritime trade.",
+  "contextFact": "Important context: Knossos.",
+  "pieces": 491,
+  "difficulty": "Master",
+  "image": "assets/puzzle-library/extinct_civilizations/pv-469-minoan-civilization/placeholder.svg",
+  "localImage": "assets/puzzle-library/extinct_civilizations/pv-469-minoan-civilization/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Minoan%20Civilization",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Minoan Civilization?",
+      "a": [
+        "Ancient & Extinct Civilizations",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Minoan Civilization is especially connected with what?",
+      "a": [
+        "palaces and maritime trade",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Minoan Civilization?",
+      "a": [
+        "Knossos",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}
