@@ -1,0 +1,50 @@
+{
+  "id": "pv-094-a-p-j-abdul-kalam",
+  "levelNumber": 94,
+  "title": "A P J Abdul Kalam",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "aerospace science",
+  "educationalFact": "A P J Abdul Kalam is connected with Indian space and missile work.",
+  "contextFact": "Important context: People’s President.",
+  "pieces": 101,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-094-a-p-j-abdul-kalam/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-094-a-p-j-abdul-kalam/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=A%20P%20J%20Abdul%20Kalam",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches A P J Abdul Kalam?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "A P J Abdul Kalam is especially connected with what?",
+      "a": [
+        "Indian space and missile work",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to A P J Abdul Kalam?",
+      "a": [
+        "People’s President",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

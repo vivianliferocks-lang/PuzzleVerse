@@ -1,0 +1,50 @@
+{
+  "id": "pv-085-ada-lovelace",
+  "levelNumber": 85,
+  "title": "Ada Lovelace",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "computing",
+  "educationalFact": "Ada Lovelace is connected with early algorithm.",
+  "contextFact": "Important context: analytical engine.",
+  "pieces": 92,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-085-ada-lovelace/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-085-ada-lovelace/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Ada%20Lovelace",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Ada Lovelace?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Ada Lovelace is especially connected with what?",
+      "a": [
+        "early algorithm",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Ada Lovelace?",
+      "a": [
+        "analytical engine",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

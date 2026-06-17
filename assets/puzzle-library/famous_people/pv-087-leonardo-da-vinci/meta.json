@@ -1,0 +1,50 @@
+{
+  "id": "pv-087-leonardo-da-vinci",
+  "levelNumber": 87,
+  "title": "Leonardo da Vinci",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "art and science",
+  "educationalFact": "Leonardo da Vinci is connected with Mona Lisa.",
+  "contextFact": "Important context: Renaissance.",
+  "pieces": 94,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-087-leonardo-da-vinci/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-087-leonardo-da-vinci/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Leonardo%20da%20Vinci",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Leonardo da Vinci?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Leonardo da Vinci is especially connected with what?",
+      "a": [
+        "Mona Lisa",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Leonardo da Vinci?",
+      "a": [
+        "Renaissance",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

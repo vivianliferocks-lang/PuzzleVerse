@@ -1,0 +1,50 @@
+{
+  "id": "pv-099-stephen-hawking",
+  "levelNumber": 99,
+  "title": "Stephen Hawking",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "cosmology",
+  "educationalFact": "Stephen Hawking is connected with black holes.",
+  "contextFact": "Important context: popular science.",
+  "pieces": 106,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-099-stephen-hawking/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-099-stephen-hawking/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Stephen%20Hawking",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Stephen Hawking?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Stephen Hawking is especially connected with what?",
+      "a": [
+        "black holes",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Stephen Hawking?",
+      "a": [
+        "popular science",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

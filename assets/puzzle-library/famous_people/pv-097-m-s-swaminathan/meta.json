@@ -1,0 +1,50 @@
+{
+  "id": "pv-097-m-s-swaminathan",
+  "levelNumber": 97,
+  "title": "M S Swaminathan",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "agriculture",
+  "educationalFact": "M S Swaminathan is connected with Green Revolution in India.",
+  "contextFact": "Important context: food security.",
+  "pieces": 104,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-097-m-s-swaminathan/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-097-m-s-swaminathan/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=M%20S%20Swaminathan",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches M S Swaminathan?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "M S Swaminathan is especially connected with what?",
+      "a": [
+        "Green Revolution in India",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to M S Swaminathan?",
+      "a": [
+        "food security",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

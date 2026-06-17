@@ -1,0 +1,50 @@
+{
+  "id": "pv-083-isaac-newton",
+  "levelNumber": 83,
+  "title": "Isaac Newton",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "physics and mathematics",
+  "educationalFact": "Isaac Newton is connected with laws of motion.",
+  "contextFact": "Important context: gravity.",
+  "pieces": 90,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-083-isaac-newton/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-083-isaac-newton/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Isaac%20Newton",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Isaac Newton?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Isaac Newton is especially connected with what?",
+      "a": [
+        "laws of motion",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Isaac Newton?",
+      "a": [
+        "gravity",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

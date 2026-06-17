@@ -1,0 +1,50 @@
+{
+  "id": "pv-093-c-v-raman",
+  "levelNumber": 93,
+  "title": "C V Raman",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "physics",
+  "educationalFact": "C V Raman is connected with Raman effect.",
+  "contextFact": "Important context: Nobel Prize.",
+  "pieces": 100,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-093-c-v-raman/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-093-c-v-raman/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=C%20V%20Raman",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches C V Raman?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "C V Raman is especially connected with what?",
+      "a": [
+        "Raman effect",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to C V Raman?",
+      "a": [
+        "Nobel Prize",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

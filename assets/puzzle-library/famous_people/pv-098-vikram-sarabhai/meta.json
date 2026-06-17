@@ -1,0 +1,50 @@
+{
+  "id": "pv-098-vikram-sarabhai",
+  "levelNumber": 98,
+  "title": "Vikram Sarabhai",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "space science",
+  "educationalFact": "Vikram Sarabhai is connected with Indian space programme.",
+  "contextFact": "Important context: ISRO vision.",
+  "pieces": 105,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-098-vikram-sarabhai/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-098-vikram-sarabhai/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Vikram%20Sarabhai",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Vikram Sarabhai?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Vikram Sarabhai is especially connected with what?",
+      "a": [
+        "Indian space programme",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Vikram Sarabhai?",
+      "a": [
+        "ISRO vision",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

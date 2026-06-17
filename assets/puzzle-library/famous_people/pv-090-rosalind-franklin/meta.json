@@ -1,0 +1,50 @@
+{
+  "id": "pv-090-rosalind-franklin",
+  "levelNumber": 90,
+  "title": "Rosalind Franklin",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "chemistry",
+  "educationalFact": "Rosalind Franklin is connected with DNA imaging.",
+  "contextFact": "Important context: Photo 51.",
+  "pieces": 97,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-090-rosalind-franklin/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-090-rosalind-franklin/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Rosalind%20Franklin",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Rosalind Franklin?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Rosalind Franklin is especially connected with what?",
+      "a": [
+        "DNA imaging",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Rosalind Franklin?",
+      "a": [
+        "Photo 51",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

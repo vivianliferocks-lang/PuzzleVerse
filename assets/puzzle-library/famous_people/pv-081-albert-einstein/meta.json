@@ -1,0 +1,50 @@
+{
+  "id": "pv-081-albert-einstein",
+  "levelNumber": 81,
+  "title": "Albert Einstein",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "physics",
+  "educationalFact": "Albert Einstein is connected with relativity.",
+  "contextFact": "Important context: Nobel Prize.",
+  "pieces": 88,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-081-albert-einstein/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-081-albert-einstein/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Albert%20Einstein",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Albert Einstein?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Albert Einstein is especially connected with what?",
+      "a": [
+        "relativity",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Albert Einstein?",
+      "a": [
+        "Nobel Prize",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

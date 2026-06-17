@@ -1,0 +1,50 @@
+{
+  "id": "pv-095-homi-j-bhabha",
+  "levelNumber": 95,
+  "title": "Homi J Bhabha",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "nuclear science",
+  "educationalFact": "Homi J Bhabha is connected with Indian atomic energy.",
+  "contextFact": "Important context: research leadership.",
+  "pieces": 102,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-095-homi-j-bhabha/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-095-homi-j-bhabha/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Homi%20J%20Bhabha",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Homi J Bhabha?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Homi J Bhabha is especially connected with what?",
+      "a": [
+        "Indian atomic energy",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Homi J Bhabha?",
+      "a": [
+        "research leadership",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

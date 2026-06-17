@@ -1,0 +1,50 @@
+{
+  "id": "pv-089-katherine-johnson",
+  "levelNumber": 89,
+  "title": "Katherine Johnson",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "mathematics",
+  "educationalFact": "Katherine Johnson is connected with NASA orbital calculations.",
+  "contextFact": "Important context: spaceflight.",
+  "pieces": 96,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-089-katherine-johnson/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-089-katherine-johnson/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Katherine%20Johnson",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Katherine Johnson?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Katherine Johnson is especially connected with what?",
+      "a": [
+        "NASA orbital calculations",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Katherine Johnson?",
+      "a": [
+        "spaceflight",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

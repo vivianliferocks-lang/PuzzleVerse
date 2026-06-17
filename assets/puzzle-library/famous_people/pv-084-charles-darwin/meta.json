@@ -1,0 +1,50 @@
+{
+  "id": "pv-084-charles-darwin",
+  "levelNumber": 84,
+  "title": "Charles Darwin",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "biology",
+  "educationalFact": "Charles Darwin is connected with evolution by natural selection.",
+  "contextFact": "Important context: On the Origin of Species.",
+  "pieces": 91,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-084-charles-darwin/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-084-charles-darwin/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Charles%20Darwin",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Charles Darwin?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Charles Darwin is especially connected with what?",
+      "a": [
+        "evolution by natural selection",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Charles Darwin?",
+      "a": [
+        "On the Origin of Species",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pv-091-alan-turing",
+  "levelNumber": 91,
+  "title": "Alan Turing",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "computing",
+  "educationalFact": "Alan Turing is connected with codebreaking and computation.",
+  "contextFact": "Important context: Turing machine.",
+  "pieces": 98,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-091-alan-turing/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-091-alan-turing/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Alan%20Turing",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Alan Turing?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Alan Turing is especially connected with what?",
+      "a": [
+        "codebreaking and computation",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Alan Turing?",
+      "a": [
+        "Turing machine",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pv-100-jane-goodall",
+  "levelNumber": 100,
+  "title": "Jane Goodall",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "primatology",
+  "educationalFact": "Jane Goodall is connected with chimpanzee research.",
+  "contextFact": "Important context: conservation.",
+  "pieces": 108,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-100-jane-goodall/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-100-jane-goodall/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Jane%20Goodall",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Jane Goodall?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Jane Goodall is especially connected with what?",
+      "a": [
+        "chimpanzee research",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Jane Goodall?",
+      "a": [
+        "conservation",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

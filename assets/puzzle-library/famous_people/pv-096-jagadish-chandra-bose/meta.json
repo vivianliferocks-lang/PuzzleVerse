@@ -1,0 +1,50 @@
+{
+  "id": "pv-096-jagadish-chandra-bose",
+  "levelNumber": 96,
+  "title": "Jagadish Chandra Bose",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "science",
+  "educationalFact": "Jagadish Chandra Bose is connected with plant physiology and radio science.",
+  "contextFact": "Important context: pioneer experiments.",
+  "pieces": 103,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-096-jagadish-chandra-bose/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-096-jagadish-chandra-bose/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Jagadish%20Chandra%20Bose",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Jagadish Chandra Bose?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Jagadish Chandra Bose is especially connected with what?",
+      "a": [
+        "plant physiology and radio science",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Jagadish Chandra Bose?",
+      "a": [
+        "pioneer experiments",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

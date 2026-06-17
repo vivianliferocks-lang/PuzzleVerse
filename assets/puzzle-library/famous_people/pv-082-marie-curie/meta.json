@@ -1,0 +1,50 @@
+{
+  "id": "pv-082-marie-curie",
+  "levelNumber": 82,
+  "title": "Marie Curie",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "chemistry and physics",
+  "educationalFact": "Marie Curie is connected with radioactivity.",
+  "contextFact": "Important context: two Nobel Prizes.",
+  "pieces": 89,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-082-marie-curie/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-082-marie-curie/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Marie%20Curie",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Marie Curie?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Marie Curie is especially connected with what?",
+      "a": [
+        "radioactivity",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Marie Curie?",
+      "a": [
+        "two Nobel Prizes",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}

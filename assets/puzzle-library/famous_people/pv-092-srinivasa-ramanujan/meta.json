@@ -1,0 +1,50 @@
+{
+  "id": "pv-092-srinivasa-ramanujan",
+  "levelNumber": 92,
+  "title": "Srinivasa Ramanujan",
+  "theme": "Famous People",
+  "category": "famous_people",
+  "subtype": "mathematics",
+  "educationalFact": "Srinivasa Ramanujan is connected with number theory.",
+  "contextFact": "Important context: infinite series.",
+  "pieces": 99,
+  "difficulty": "Hard",
+  "image": "assets/puzzle-library/famous_people/pv-092-srinivasa-ramanujan/placeholder.svg",
+  "localImage": "assets/puzzle-library/famous_people/pv-092-srinivasa-ramanujan/image.jpg",
+  "sourceProvider": "Wikimedia Commons",
+  "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Srinivasa%20Ramanujan",
+  "licenseStatus": "pending-download-check",
+  "credit": "Pending asset download and attribution verification",
+  "trivia": [
+    {
+      "q": "Which category best matches Srinivasa Ramanujan?",
+      "a": [
+        "Famous People",
+        "Sports Stadium",
+        "Cooking Method",
+        "Musical Instrument"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Srinivasa Ramanujan is especially connected with what?",
+      "a": [
+        "number theory",
+        "modern shopping malls",
+        "video game consoles",
+        "random road signs"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What important context is linked to Srinivasa Ramanujan?",
+      "a": [
+        "infinite series",
+        "a fictional city only",
+        "a cooking recipe",
+        "a car model"
+      ],
+      "correct": 0
+    }
+  ]
+}
