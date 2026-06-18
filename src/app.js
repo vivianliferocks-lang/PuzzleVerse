@@ -194,6 +194,13 @@ function buildBoard(game) {
       const maxWidth = 780;
       const targetBoardBase = Math.min(maxWidth, Math.max(300, Math.floor(window.innerWidth * 0.55)));
       const targetBoardHeight = Math.min(560, Math.max(260, Math.floor(window.innerHeight * 0.58)));
+      const aspectSafeScale = Math.min(
+        targetBoardBase / preview.naturalWidth,
+        targetBoardHeight / preview.naturalHeight,
+        1
+      );
+      const displayWidth = Math.max(220, Math.round(preview.naturalWidth * aspectSafeScale));
+      const displayHeight = Math.max(180, Math.round(preview.naturalHeight * aspectSafeScale));
       if (!window.PVJigsaw || !window.PVJigsaw.buildLayout) {
         board.innerHTML = '<div class="panel" style="padding:20px;color:#9b1c1c;background:#fff3f3;"><strong>Jigsaw engine did not load.</strong><br>Check that <code>src/jigsawEngine.js</code> exists and that index.html loads it before app.js.</div>';
         resolve();
@@ -207,13 +214,16 @@ function buildBoard(game) {
         maxWidth: targetBoardBase,
         maxHeight: targetBoardHeight,
         naturalWidth: preview.naturalWidth,
-        naturalHeight: preview.naturalHeight
+        naturalHeight: preview.naturalHeight,
+        displayWidth,
+        displayHeight
       });
       game.layout = layout;
       board.innerHTML = '';
       tray.innerHTML = '';
       board.style.width = `${layout.boardWidth}px`;
       board.style.height = `${layout.boardHeight}px`;
+      board.style.margin = '0 auto';
       board.style.setProperty('--board-bg', `url("${game.image}")`);
       board.style.setProperty('--board-bg-size', `${layout.fullW}px ${layout.fullH}px`);
       board.style.setProperty('--board-bg-position', `${layout.pad}px ${layout.pad}px`);
@@ -226,6 +236,7 @@ function buildBoard(game) {
         ghost.style.top = `${spec.snapY}px`;
         ghost.style.width = `${spec.outerW}px`;
         ghost.style.height = `${spec.outerH}px`;
+        ghost.innerHTML = spec.slotSvg || '';
         board.appendChild(ghost);
 
         const piece = document.createElement('div');

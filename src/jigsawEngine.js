@@ -57,17 +57,16 @@
   function edgeTop(type, x, y, w, t, rng){
     if(type === 0) return `L ${x+w} ${y}`;
     const d = type === 1 ? -1 : 1;
-    const a = 0.30 + rng()*0.035;
-    const b = 0.38 + rng()*0.018;
+    const s = 0.34 + (rng()-0.5)*0.04;
+    const e = 0.66 + (rng()-0.5)*0.04;
     const c = 0.50 + (rng()-0.5)*0.035;
-    const e = 0.62 + rng()*0.018;
-    const f = 0.70 - rng()*0.035;
+    const r = t * (0.88 + rng()*0.10);
     return [
-      `L ${x+w*a} ${y}`,
-      `C ${x+w*(a+0.03)} ${y} ${x+w*(b-0.025)} ${y+d*t*0.10} ${x+w*b} ${y+d*t*0.24}`,
-      `C ${x+w*(b+0.02)} ${y+d*t*0.48} ${x+w*(c-0.14)} ${y+d*t*0.86} ${x+w*c} ${y+d*t*0.88}`,
-      `C ${x+w*(c+0.14)} ${y+d*t*0.86} ${x+w*(e-0.02)} ${y+d*t*0.48} ${x+w*e} ${y+d*t*0.24}`,
-      `C ${x+w*(e+0.025)} ${y+d*t*0.10} ${x+w*(f-0.03)} ${y} ${x+w*f} ${y}`,
+      `L ${x+w*s} ${y}`,
+      `C ${x+w*(s+0.035)} ${y} ${x+w*(s+0.055)} ${y+d*r*0.20} ${x+w*(s+0.085)} ${y+d*r*0.30}`,
+      `C ${x+w*(s+0.13)} ${y+d*r*0.50} ${x+w*(c-0.15)} ${y+d*r*0.92} ${x+w*c} ${y+d*r*0.94}`,
+      `C ${x+w*(c+0.15)} ${y+d*r*0.92} ${x+w*(e-0.13)} ${y+d*r*0.50} ${x+w*(e-0.085)} ${y+d*r*0.30}`,
+      `C ${x+w*(e-0.055)} ${y+d*r*0.20} ${x+w*(e-0.035)} ${y} ${x+w*e} ${y}`,
       `L ${x+w} ${y}`
     ].join(' ');
   }
@@ -75,17 +74,16 @@
   function edgeRight(type, x, y, h, t, rng){
     if(type === 0) return `L ${x} ${y+h}`;
     const d = type === 1 ? 1 : -1;
-    const a = 0.30 + rng()*0.035;
-    const b = 0.38 + rng()*0.018;
+    const s = 0.34 + (rng()-0.5)*0.04;
+    const e = 0.66 + (rng()-0.5)*0.04;
     const c = 0.50 + (rng()-0.5)*0.035;
-    const e = 0.62 + rng()*0.018;
-    const f = 0.70 - rng()*0.035;
+    const r = t * (0.88 + rng()*0.10);
     return [
-      `L ${x} ${y+h*a}`,
-      `C ${x} ${y+h*(a+0.03)} ${x+d*t*0.10} ${y+h*(b-0.025)} ${x+d*t*0.24} ${y+h*b}`,
-      `C ${x+d*t*0.48} ${y+h*(b+0.02)} ${x+d*t*0.86} ${y+h*(c-0.14)} ${x+d*t*0.88} ${y+h*c}`,
-      `C ${x+d*t*0.86} ${y+h*(c+0.14)} ${x+d*t*0.48} ${y+h*(e-0.02)} ${x+d*t*0.24} ${y+h*e}`,
-      `C ${x+d*t*0.10} ${y+h*(e+0.025)} ${x} ${y+h*(f-0.03)} ${x} ${y+h*f}`,
+      `L ${x} ${y+h*s}`,
+      `C ${x} ${y+h*(s+0.035)} ${x+d*r*0.20} ${y+h*(s+0.055)} ${x+d*r*0.30} ${y+h*(s+0.085)}`,
+      `C ${x+d*r*0.50} ${y+h*(s+0.13)} ${x+d*r*0.92} ${y+h*(c-0.15)} ${x+d*r*0.94} ${y+h*c}`,
+      `C ${x+d*r*0.92} ${y+h*(c+0.15)} ${x+d*r*0.50} ${y+h*(e-0.13)} ${x+d*r*0.30} ${y+h*(e-0.085)}`,
+      `C ${x+d*r*0.20} ${y+h*(e-0.055)} ${x} ${y+h*(e-0.035)} ${x} ${y+h*e}`,
       `L ${x} ${y+h}`
     ].join(' ');
   }
@@ -93,17 +91,16 @@
   function edgeBottom(type, x, y, w, t, rng){
     if(type === 0) return `L ${x-w} ${y}`;
     const d = type === 1 ? 1 : -1;
-    const a = 0.30 + rng()*0.035;
-    const b = 0.38 + rng()*0.018;
+    const s = 0.34 + (rng()-0.5)*0.04;
+    const e = 0.66 + (rng()-0.5)*0.04;
     const c = 0.50 + (rng()-0.5)*0.035;
-    const e = 0.62 + rng()*0.018;
-    const f = 0.70 - rng()*0.035;
+    const r = t * (0.88 + rng()*0.10);
     return [
-      `L ${x-w*a} ${y}`,
-      `C ${x-w*(a+0.03)} ${y} ${x-w*(b-0.025)} ${y+d*t*0.10} ${x-w*b} ${y+d*t*0.24}`,
-      `C ${x-w*(b+0.02)} ${y+d*t*0.48} ${x-w*(c-0.14)} ${y+d*t*0.86} ${x-w*c} ${y+d*t*0.88}`,
-      `C ${x-w*(c+0.14)} ${y+d*t*0.86} ${x-w*(e-0.02)} ${y+d*t*0.48} ${x-w*e} ${y+d*t*0.24}`,
-      `C ${x-w*(e+0.025)} ${y+d*t*0.10} ${x-w*(f-0.03)} ${y} ${x-w*f} ${y}`,
+      `L ${x-w*s} ${y}`,
+      `C ${x-w*(s+0.035)} ${y} ${x-w*(s+0.055)} ${y+d*r*0.20} ${x-w*(s+0.085)} ${y+d*r*0.30}`,
+      `C ${x-w*(s+0.13)} ${y+d*r*0.50} ${x-w*(c-0.15)} ${y+d*r*0.92} ${x-w*c} ${y+d*r*0.94}`,
+      `C ${x-w*(c+0.15)} ${y+d*r*0.92} ${x-w*(e-0.13)} ${y+d*r*0.50} ${x-w*(e-0.085)} ${y+d*r*0.30}`,
+      `C ${x-w*(e-0.055)} ${y+d*r*0.20} ${x-w*(e-0.035)} ${y} ${x-w*e} ${y}`,
       `L ${x-w} ${y}`
     ].join(' ');
   }
@@ -111,17 +108,16 @@
   function edgeLeft(type, x, y, h, t, rng){
     if(type === 0) return `L ${x} ${y-h}`;
     const d = type === 1 ? -1 : 1;
-    const a = 0.30 + rng()*0.035;
-    const b = 0.38 + rng()*0.018;
+    const s = 0.34 + (rng()-0.5)*0.04;
+    const e = 0.66 + (rng()-0.5)*0.04;
     const c = 0.50 + (rng()-0.5)*0.035;
-    const e = 0.62 + rng()*0.018;
-    const f = 0.70 - rng()*0.035;
+    const r = t * (0.88 + rng()*0.10);
     return [
-      `L ${x} ${y-h*a}`,
-      `C ${x} ${y-h*(a+0.03)} ${x+d*t*0.10} ${y-h*(b-0.025)} ${x+d*t*0.24} ${y-h*b}`,
-      `C ${x+d*t*0.48} ${y-h*(b+0.02)} ${x+d*t*0.86} ${y-h*(c-0.14)} ${x+d*t*0.88} ${y-h*c}`,
-      `C ${x+d*t*0.86} ${y-h*(c+0.14)} ${x+d*t*0.48} ${y-h*(e-0.02)} ${x+d*t*0.24} ${y-h*e}`,
-      `C ${x+d*t*0.10} ${y-h*(e+0.025)} ${x} ${y-h*(f-0.03)} ${x} ${y-h*f}`,
+      `L ${x} ${y-h*s}`,
+      `C ${x} ${y-h*(s+0.035)} ${x+d*r*0.20} ${y-h*(s+0.055)} ${x+d*r*0.30} ${y-h*(s+0.085)}`,
+      `C ${x+d*r*0.50} ${y-h*(s+0.13)} ${x+d*r*0.92} ${y-h*(c-0.15)} ${x+d*r*0.94} ${y-h*c}`,
+      `C ${x+d*r*0.92} ${y-h*(c+0.15)} ${x+d*r*0.50} ${y-h*(e-0.13)} ${x+d*r*0.30} ${y-h*(e-0.085)}`,
+      `C ${x+d*r*0.20} ${y-h*(e-0.055)} ${x} ${y-h*(e-0.035)} ${x} ${y-h*e}`,
       `L ${x} ${y-h}`
     ].join(' ');
   }
@@ -129,7 +125,7 @@
   function createPiecePath(tileW, tileH, pad, edges, rng){
     const x = pad, y = pad;
     const w = tileW, h = tileH;
-    const tab = Math.max(12, Math.round(Math.min(tileW, tileH) * 0.28));
+    const tab = Math.max(14, Math.round(Math.min(tileW, tileH) * 0.26));
     const path = [
       `M ${x} ${y}`,
       edgeTop(edges.top, x, y, w, tab, rng),
@@ -141,11 +137,15 @@
     return { path, outerW: tileW + pad*2, outerH: tileH + pad*2 };
   }
 
+  function escapeImage(src){
+    return String(src).replace(/&/g, '&amp;').replace(/"/g, '&quot;');
+  }
+
   function svgForPiece(spec){
     const idBase = safeId(spec.id);
     const clipId = `clip-${idBase}`;
     const patternId = `pattern-${idBase}`;
-    const escapedImage = String(spec.imageSrc).replace(/&/g, '&amp;').replace(/"/g, '&quot;');
+    const escapedImage = escapeImage(spec.imageSrc);
     return `
       <svg class="piece-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${spec.outerW} ${spec.outerH}" width="${spec.outerW}" height="${spec.outerH}">
         <defs>
@@ -154,9 +154,16 @@
             <image href="${escapedImage}" x="0" y="0" width="${spec.fullW}" height="${spec.fullH}" preserveAspectRatio="none"/>
           </pattern>
         </defs>
-        <path d="${spec.path}" fill="#eef3ff" stroke="rgba(30,42,90,0.18)" stroke-width="1.2"/>
-        <path d="${spec.path}" fill="url(#${patternId})" stroke="rgba(18,28,65,0.42)" stroke-width="1.25"/>
-        <path d="${spec.path}" fill="none" stroke="rgba(255,255,255,0.68)" stroke-width="0.75"/>
+        <path d="${spec.path}" fill="#eef3ff" stroke="rgba(30,42,90,0.18)" stroke-width="1.1"/>
+        <path d="${spec.path}" fill="url(#${patternId})" stroke="rgba(18,28,65,0.46)" stroke-width="1.35"/>
+        <path d="${spec.path}" fill="none" stroke="rgba(255,255,255,0.72)" stroke-width="0.75"/>
+      </svg>`;
+  }
+
+  function slotSvgForPiece(spec){
+    return `
+      <svg class="slot-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${spec.outerW} ${spec.outerH}" width="${spec.outerW}" height="${spec.outerH}">
+        <path d="${spec.path}" fill="rgba(255,255,255,0.04)" stroke="rgba(78,96,150,0.28)" stroke-width="1.1" stroke-dasharray="5 5"/>
       </svg>`;
   }
 
@@ -170,14 +177,16 @@
     const maxW = Number(opts.maxWidth || 780);
     const maxH = Number(opts.maxHeight || 560);
 
-    let fullW = maxW;
-    let fullH = fullW / imageAspect;
-    if (fullH > maxH) {
-      fullH = maxH;
-      fullW = fullH * imageAspect;
+    let fullW = Number(opts.displayWidth || 0);
+    let fullH = Number(opts.displayHeight || 0);
+
+    if (!(fullW > 0 && fullH > 0)) {
+      const scale = Math.min(maxW / naturalW, maxH / naturalH, 1);
+      fullW = Math.round(naturalW * scale);
+      fullH = Math.round(naturalH * scale);
     }
 
-    fullW = Math.max(260, Math.round(fullW));
+    fullW = Math.max(220, Math.round(fullW));
     fullH = Math.max(180, Math.round(fullH));
 
     const grid = calculateGrid(pieceCount, imageAspect);
@@ -214,6 +223,7 @@
         fullH
       };
       spec.svg = svgForPiece(spec);
+      spec.slotSvg = slotSvgForPiece(spec);
       return spec;
     });
 
@@ -227,5 +237,5 @@
   }
 
   window.PVJigsaw = { buildLayout, calculateGrid, hashString };
-  console.log('PuzzleVerse jigsaw engine V1.2 loaded');
+  console.log('PuzzleVerse classic jigsaw engine V1.3 loaded');
 })();

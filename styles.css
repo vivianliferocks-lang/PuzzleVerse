@@ -43,3 +43,43 @@
 #pieceTray .piece.jigsaw-piece {
   margin: 4px;
 }
+
+
+/* Jigsaw V1.3: actual jigsaw guide outlines instead of rounded slot rectangles */
+.jigsaw-slot {
+  position: absolute;
+  border: none !important;
+  border-radius: 0 !important;
+  background: transparent !important;
+  pointer-events: none;
+}
+.slot-svg {
+  display: block;
+  overflow: visible;
+  opacity: 0.95;
+}
+#puzzleBoard::after {
+  opacity: 0.09 !important;
+}
+.piece.jigsaw-piece {
+  filter: drop-shadow(0 5px 9px rgba(18, 25, 60, 0.20));
+}
+.piece.jigsaw-piece.locked {
+  filter: drop-shadow(0 2px 3px rgba(18, 25, 60, 0.12));
+}
+
+
+/* Jigsaw V1.4: preserve original image ratio strictly */
+.board-wrap {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+#puzzleBoard {
+  flex: 0 0 auto;
+}
+#puzzleBoard::after {
+  background-size: var(--board-bg-size) !important;
+  background-position: var(--board-bg-position) !important;
+  background-repeat: no-repeat !important;
+}
