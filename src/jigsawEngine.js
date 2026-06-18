@@ -21,22 +21,20 @@
     };
   }
 
-  function calculateGrid(pieceCount) {
+  function calculateGrid(pieceCount, aspectRatio) {
     pieceCount = Math.max(4, Number(pieceCount || 4));
-    let best = { cols: pieceCount, rows: 1, score: Infinity };
-    for (let rows = 1; rows <= Math.sqrt(pieceCount); rows++) {
-      if (pieceCount % rows !== 0) continue;
-      const cols = pieceCount / rows;
-      const aspect = cols / rows;
-      const score = Math.abs(aspect - 1.45);
-      if (score < best.score) best = { cols, rows, score };
+    aspectRatio = Number(aspectRatio || 1.45);
+    let best = { cols: pieceCount, rows: 1, total: pieceCount, score: Infinity };
+
+    for (let rows = 1; rows <= Math.ceil(Math.sqrt(pieceCount)) + 10; rows++) {
+      const cols = Math.ceil(pieceCount / rows);
+      const total = rows * cols;
+      const fillPenalty = (total - pieceCount) * 0.42;
+      const gridAspect = cols / rows;
+      const score = Math.abs(gridAspect - aspectRatio) + fillPenalty;
+      if (score < best.score) best = { cols, rows, total, score };
     }
-    if (best.score === Infinity) {
-      const cols = Math.ceil(Math.sqrt(pieceCount));
-      const rows = Math.ceil(pieceCount / cols);
-      return { cols, rows, total: cols * rows };
-    }
-    return { cols: best.cols, rows: best.rows, total: best.cols * best.rows };
+    return best;
   }
 
   function complement(v){ return v === 1 ? -1 : v === -1 ? 1 : 0; }
@@ -56,67 +54,91 @@
     return pieces;
   }
 
-  function topEdge(type, x, y, w, tab){
+  function edgeTop(type, x, y, w, t, rng){
     if(type === 0) return `L ${x+w} ${y}`;
     const d = type === 1 ? -1 : 1;
+    const a = 0.30 + rng()*0.035;
+    const b = 0.38 + rng()*0.018;
+    const c = 0.50 + (rng()-0.5)*0.035;
+    const e = 0.62 + rng()*0.018;
+    const f = 0.70 - rng()*0.035;
     return [
-      `L ${x+w*.28} ${y}`,
-      `C ${x+w*.34} ${y} ${x+w*.36} ${y+d*tab*.20} ${x+w*.41} ${y+d*tab*.28}`,
-      `C ${x+w*.48} ${y+d*tab*.92} ${x+w*.52} ${y+d*tab*.92} ${x+w*.59} ${y+d*tab*.28}`,
-      `C ${x+w*.64} ${y+d*tab*.20} ${x+w*.66} ${y} ${x+w*.72} ${y}`,
+      `L ${x+w*a} ${y}`,
+      `C ${x+w*(a+0.03)} ${y} ${x+w*(b-0.025)} ${y+d*t*0.10} ${x+w*b} ${y+d*t*0.24}`,
+      `C ${x+w*(b+0.02)} ${y+d*t*0.48} ${x+w*(c-0.14)} ${y+d*t*0.86} ${x+w*c} ${y+d*t*0.88}`,
+      `C ${x+w*(c+0.14)} ${y+d*t*0.86} ${x+w*(e-0.02)} ${y+d*t*0.48} ${x+w*e} ${y+d*t*0.24}`,
+      `C ${x+w*(e+0.025)} ${y+d*t*0.10} ${x+w*(f-0.03)} ${y} ${x+w*f} ${y}`,
       `L ${x+w} ${y}`
     ].join(' ');
   }
 
-  function rightEdge(type, x, y, h, tab){
+  function edgeRight(type, x, y, h, t, rng){
     if(type === 0) return `L ${x} ${y+h}`;
     const d = type === 1 ? 1 : -1;
+    const a = 0.30 + rng()*0.035;
+    const b = 0.38 + rng()*0.018;
+    const c = 0.50 + (rng()-0.5)*0.035;
+    const e = 0.62 + rng()*0.018;
+    const f = 0.70 - rng()*0.035;
     return [
-      `L ${x} ${y+h*.28}`,
-      `C ${x} ${y+h*.34} ${x+d*tab*.20} ${y+h*.36} ${x+d*tab*.28} ${y+h*.41}`,
-      `C ${x+d*tab*.92} ${y+h*.48} ${x+d*tab*.92} ${y+h*.52} ${x+d*tab*.28} ${y+h*.59}`,
-      `C ${x+d*tab*.20} ${y+h*.64} ${x} ${y+h*.66} ${x} ${y+h*.72}`,
+      `L ${x} ${y+h*a}`,
+      `C ${x} ${y+h*(a+0.03)} ${x+d*t*0.10} ${y+h*(b-0.025)} ${x+d*t*0.24} ${y+h*b}`,
+      `C ${x+d*t*0.48} ${y+h*(b+0.02)} ${x+d*t*0.86} ${y+h*(c-0.14)} ${x+d*t*0.88} ${y+h*c}`,
+      `C ${x+d*t*0.86} ${y+h*(c+0.14)} ${x+d*t*0.48} ${y+h*(e-0.02)} ${x+d*t*0.24} ${y+h*e}`,
+      `C ${x+d*t*0.10} ${y+h*(e+0.025)} ${x} ${y+h*(f-0.03)} ${x} ${y+h*f}`,
       `L ${x} ${y+h}`
     ].join(' ');
   }
 
-  function bottomEdge(type, x, y, w, tab){
+  function edgeBottom(type, x, y, w, t, rng){
     if(type === 0) return `L ${x-w} ${y}`;
     const d = type === 1 ? 1 : -1;
+    const a = 0.30 + rng()*0.035;
+    const b = 0.38 + rng()*0.018;
+    const c = 0.50 + (rng()-0.5)*0.035;
+    const e = 0.62 + rng()*0.018;
+    const f = 0.70 - rng()*0.035;
     return [
-      `L ${x-w*.28} ${y}`,
-      `C ${x-w*.34} ${y} ${x-w*.36} ${y+d*tab*.20} ${x-w*.41} ${y+d*tab*.28}`,
-      `C ${x-w*.48} ${y+d*tab*.92} ${x-w*.52} ${y+d*tab*.92} ${x-w*.59} ${y+d*tab*.28}`,
-      `C ${x-w*.64} ${y+d*tab*.20} ${x-w*.66} ${y} ${x-w*.72} ${y}`,
+      `L ${x-w*a} ${y}`,
+      `C ${x-w*(a+0.03)} ${y} ${x-w*(b-0.025)} ${y+d*t*0.10} ${x-w*b} ${y+d*t*0.24}`,
+      `C ${x-w*(b+0.02)} ${y+d*t*0.48} ${x-w*(c-0.14)} ${y+d*t*0.86} ${x-w*c} ${y+d*t*0.88}`,
+      `C ${x-w*(c+0.14)} ${y+d*t*0.86} ${x-w*(e-0.02)} ${y+d*t*0.48} ${x-w*e} ${y+d*t*0.24}`,
+      `C ${x-w*(e+0.025)} ${y+d*t*0.10} ${x-w*(f-0.03)} ${y} ${x-w*f} ${y}`,
       `L ${x-w} ${y}`
     ].join(' ');
   }
 
-  function leftEdge(type, x, y, h, tab){
+  function edgeLeft(type, x, y, h, t, rng){
     if(type === 0) return `L ${x} ${y-h}`;
     const d = type === 1 ? -1 : 1;
+    const a = 0.30 + rng()*0.035;
+    const b = 0.38 + rng()*0.018;
+    const c = 0.50 + (rng()-0.5)*0.035;
+    const e = 0.62 + rng()*0.018;
+    const f = 0.70 - rng()*0.035;
     return [
-      `L ${x} ${y-h*.28}`,
-      `C ${x} ${y-h*.34} ${x+d*tab*.20} ${y-h*.36} ${x+d*tab*.28} ${y-h*.41}`,
-      `C ${x+d*tab*.92} ${y-h*.48} ${x+d*tab*.92} ${y-h*.52} ${x+d*tab*.28} ${y-h*.59}`,
-      `C ${x+d*tab*.20} ${y-h*.64} ${x} ${y-h*.66} ${x} ${y-h*.72}`,
+      `L ${x} ${y-h*a}`,
+      `C ${x} ${y-h*(a+0.03)} ${x+d*t*0.10} ${y-h*(b-0.025)} ${x+d*t*0.24} ${y-h*b}`,
+      `C ${x+d*t*0.48} ${y-h*(b+0.02)} ${x+d*t*0.86} ${y-h*(c-0.14)} ${x+d*t*0.88} ${y-h*c}`,
+      `C ${x+d*t*0.86} ${y-h*(c+0.14)} ${x+d*t*0.48} ${y-h*(e-0.02)} ${x+d*t*0.24} ${y-h*e}`,
+      `C ${x+d*t*0.10} ${y-h*(e+0.025)} ${x} ${y-h*(f-0.03)} ${x} ${y-h*f}`,
       `L ${x} ${y-h}`
     ].join(' ');
   }
 
-  function createPiecePath(tileW, tileH, pad, edges){
+  function createPiecePath(tileW, tileH, pad, edges, rng){
     const x = pad, y = pad;
     const w = tileW, h = tileH;
-    const tab = Math.max(12, Math.round(Math.min(tileW, tileH) * 0.22));
+    const tab = Math.max(12, Math.round(Math.min(tileW, tileH) * 0.28));
     const path = [
       `M ${x} ${y}`,
-      topEdge(edges.top, x, y, w, tab),
-      rightEdge(edges.right, x+w, y, h, tab),
-      bottomEdge(edges.bottom, x+w, y+h, w, tab),
-      leftEdge(edges.left, x, y+h, h, tab),
+      edgeTop(edges.top, x, y, w, tab, rng),
+      edgeRight(edges.right, x+w, y, h, tab, rng),
+      edgeBottom(edges.bottom, x+w, y+h, w, tab, rng),
+      edgeLeft(edges.left, x, y+h, h, tab, rng),
       'Z'
     ].join(' ');
-    return { path, tab, outerW: tileW + pad*2, outerH: tileH + pad*2 };
+    return { path, outerW: tileW + pad*2, outerH: tileH + pad*2 };
   }
 
   function svgForPiece(spec){
@@ -132,29 +154,46 @@
             <image href="${escapedImage}" x="0" y="0" width="${spec.fullW}" height="${spec.fullH}" preserveAspectRatio="none"/>
           </pattern>
         </defs>
-        <path d="${spec.path}" fill="#eef3ff" stroke="rgba(30,42,90,0.24)" stroke-width="1.3"/>
-        <path d="${spec.path}" fill="url(#${patternId})" stroke="rgba(25,31,70,0.35)" stroke-width="1.3"/>
-        <path d="${spec.path}" fill="none" stroke="rgba(255,255,255,0.6)" stroke-width="0.75"/>
+        <path d="${spec.path}" fill="#eef3ff" stroke="rgba(30,42,90,0.18)" stroke-width="1.2"/>
+        <path d="${spec.path}" fill="url(#${patternId})" stroke="rgba(18,28,65,0.42)" stroke-width="1.25"/>
+        <path d="${spec.path}" fill="none" stroke="rgba(255,255,255,0.68)" stroke-width="0.75"/>
       </svg>`;
   }
 
   function buildLayout(opts){
     const pieceCount = Number(opts.pieceCount || 9);
     const puzzleId = safeId(opts.puzzleId || 'puzzle');
-    const boardWidthBase = Number(opts.maxWidth || 760);
-    const grid = calculateGrid(pieceCount);
-    const cols = grid.cols, rows = grid.rows;
-    const tileW = Math.max(64, Math.floor(boardWidthBase / cols));
-    const tileH = Math.max(58, Math.floor(tileW * 0.78));
+    const naturalW = Math.max(1, Number(opts.naturalWidth || 1600));
+    const naturalH = Math.max(1, Number(opts.naturalHeight || 1000));
+    const imageAspect = naturalW / naturalH;
+
+    const maxW = Number(opts.maxWidth || 780);
+    const maxH = Number(opts.maxHeight || 560);
+
+    let fullW = maxW;
+    let fullH = fullW / imageAspect;
+    if (fullH > maxH) {
+      fullH = maxH;
+      fullW = fullH * imageAspect;
+    }
+
+    fullW = Math.max(260, Math.round(fullW));
+    fullH = Math.max(180, Math.round(fullH));
+
+    const grid = calculateGrid(pieceCount, imageAspect);
+    const cols = grid.cols;
+    const rows = grid.rows;
+    const tileW = fullW / cols;
+    const tileH = fullH / rows;
+
     const seed = hashString(`${puzzleId}-${pieceCount}`);
     const rng = seeded(seed);
     const edgeMap = generateEdgeMap(rows, cols, rng);
-    const pad = Math.round(Math.min(tileW, tileH) * 0.25);
-    const fullW = tileW * cols;
-    const fullH = tileH * rows;
+    const pad = Math.round(Math.min(tileW, tileH) * 0.30);
 
     const pieces = edgeMap.slice(0, pieceCount).map(edge => {
-      const p = createPiecePath(tileW, tileH, pad, edge);
+      const localRng = seeded(seed + edge.index * 8191);
+      const p = createPiecePath(tileW, tileH, pad, edge, localRng);
       const spec = {
         id: `${puzzleId}-${edge.index}`,
         index: edge.index,
@@ -188,5 +227,5 @@
   }
 
   window.PVJigsaw = { buildLayout, calculateGrid, hashString };
-  console.log('PuzzleVerse jigsaw engine loaded');
+  console.log('PuzzleVerse jigsaw engine V1.2 loaded');
 })();

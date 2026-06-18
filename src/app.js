@@ -191,9 +191,9 @@ function buildBoard(game) {
     const tray = $('pieceTray');
     const preview = new Image();
     preview.onload = () => {
-      const maxWidth = 760;
-      const targetBoardBase = Math.min(maxWidth, Math.max(280, Math.floor(window.innerWidth * 0.52)));
-      const aspect = preview.naturalHeight / preview.naturalWidth;
+      const maxWidth = 780;
+      const targetBoardBase = Math.min(maxWidth, Math.max(300, Math.floor(window.innerWidth * 0.55)));
+      const targetBoardHeight = Math.min(560, Math.max(260, Math.floor(window.innerHeight * 0.58)));
       if (!window.PVJigsaw || !window.PVJigsaw.buildLayout) {
         board.innerHTML = '<div class="panel" style="padding:20px;color:#9b1c1c;background:#fff3f3;"><strong>Jigsaw engine did not load.</strong><br>Check that <code>src/jigsawEngine.js</code> exists and that index.html loads it before app.js.</div>';
         resolve();
@@ -204,7 +204,10 @@ function buildBoard(game) {
         pieceCount: game.pieces,
         puzzleId: game.id,
         imageSrc: game.image,
-        maxWidth: targetBoardBase
+        maxWidth: targetBoardBase,
+        maxHeight: targetBoardHeight,
+        naturalWidth: preview.naturalWidth,
+        naturalHeight: preview.naturalHeight
       });
       game.layout = layout;
       board.innerHTML = '';
