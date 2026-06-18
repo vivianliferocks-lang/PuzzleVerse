@@ -1,5 +1,7 @@
 const STORAGE_KEY = 'puzzleverse.save.v1';
 const COSTS = { 10: 1000, 20: 5000, 30: 10000, 50: 25000, 75: 50000, 100: 100000, 150: 200000, 250: 400000, 500: 1000000 };
+const PLACEHOLDER_IMAGE = 'assets/puzzle-placeholder.svg';
+
 const state = {
   player: { name: 'Guest Creator', avatar: '🧩', level: 1, coins: 2500, solved: 0, currentLevel: 1 },
   customPuzzles: [],
@@ -20,12 +22,20 @@ function load() {
     state.leaderboards = data.leaderboards || {};
   } catch (err) { console.warn('Save ignored', err); }
 }
+
 function $(id) { return document.getElementById(id); }
 function fmtTime(sec) { const m = Math.floor(sec / 60).toString().padStart(2, '0'); const s = Math.floor(sec % 60).toString().padStart(2, '0'); return `${m}:${s}`; }
 function clamp(n, a, b) { return Math.max(a, Math.min(b, n)); }
 function shuffle(arr) { for (let i = arr.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [arr[i], arr[j]] = [arr[j], arr[i]]; } return arr; }
 function uid(prefix='pv') { return `${prefix}-${Date.now().toString(36)}-${Math.random().toString(36).slice(2, 8)}`; }
 function seeded(seed) { let x = seed % 2147483647; return () => (x = x * 48271 % 2147483647) / 2147483647; }
+function safeText(value) { return String(value ?? '').replace(/[&<>"]/g, ch => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[ch])); }
+
+function getPuzzleImage(level) {
+  const candidates = [level?.localImage, level?.imageUrl, level?.thumbnail, level?.image];
+  const usable = candidates.find(src => src && typeof src === 'string' && !src.includes('placeholder.svg'));
+  return usable || level?.image || PLACEHOLDER_IMAGE;
+}
 
 function renderChrome() {
   $('playerName').textContent = state.player.name;
@@ -55,12 +65,13 @@ function renderLevels() {
     const locked = level.levelNumber > state.player.level;
     const card = document.createElement('article');
     card.className = 'level-card';
+    const cardImage = getPuzzleImage(level);
     card.innerHTML = `
-      <img src="${level.image}" alt="${level.title}" loading="lazy" crossorigin="anonymous" />
+      <img src="${cardImage}" alt="${safeText(level.title)}" loading="lazy" crossorigin="anonymous" onerror="this.onerror=null;this.src='${PLACEHOLDER_IMAGE}';" />
       <div class="card-body">
         <div class="card-row"><strong>Level ${level.levelNumber}</strong><span class="pill">${level.pieces} pcs</span></div>
-        <h3>${level.title}</h3>
-        <p>${level.theme} · ${level.difficulty}</p>
+        <h3>${safeText(level.title)}</h3>
+        <p>${safeText(level.theme)} · ${safeText(level.difficulty)}</p>
         <button class="${locked ? 'ghost-btn' : 'primary-btn'}" ${locked ? 'disabled' : ''}>${locked ? 'Locked' : 'Play'}</button>
       </div>`;
     card.querySelector('button').addEventListener('click', () => startPuzzle(level, 'adventure'));
@@ -81,10 +92,10 @@ function renderLevels() {
 function renderEvents() {
   const list = $('eventList');
   list.innerHTML = '';
-  window.PUZZLEVERSE_EVENTS.forEach(ev => {
+  (window.PUZZLEVERSE_EVENTS || []).forEach(ev => {
     const div = document.createElement('article');
     div.className = 'event-card';
-    div.innerHTML = `<div class="card-body"><span class="eyebrow">${ev.theme}</span><h3>${ev.title}</h3><p>Reward: ${ev.reward}</p><p>Status: ${ev.status}</p><button class="secondary-btn">Preview Event Rules</button></div>`;
+    div.innerHTML = `<div class="card-body"><span class="eyebrow">${safeText(ev.theme)}</span><h3>${safeText(ev.title)}</h3><p>Reward: ${safeText(ev.reward)}</p><p>Status: ${safeText(ev.status)}</p><button class="secondary-btn">Preview Event Rules</button></div>`;
     div.querySelector('button').addEventListener('click', () => alert(`${ev.title}\n\nPrototype rules:\n• Solve event puzzles as fast as possible.\n• Fewer hints improve ranking.\n• Top 3 win large coin rewards.\n• Top 100 receive profile cosmetics.`));
     list.appendChild(div);
   });
@@ -105,12 +116,12 @@ function renderPortal() {
     const card = document.createElement('article');
     card.className = 'portal-card';
     card.innerHTML = `
-      <img src="${p.image}" alt="${p.title}" />
+      <img src="${p.image}" alt="${safeText(p.title)}" onerror="this.onerror=null;this.src='${PLACEHOLDER_IMAGE}';" />
       <div class="card-body">
-        <div class="card-row"><strong>${p.pieces} pcs</strong><span class="pill">${p.difficulty}</span></div>
-        <h3>${p.title}</h3>
-        <p>By ${p.creator} · Unlock ${cost.toLocaleString('en-IN')} coins</p>
-        <p class="small-muted">Best: ${best ? `${best.name} · ${fmtTime(best.time)}` : 'No record yet'}</p>
+        <div class="card-row"><strong>${p.pieces} pcs</strong><span class="pill">${safeText(p.difficulty)}</span></div>
+        <h3>${safeText(p.title)}</h3>
+        <p>By ${safeText(p.creator)} · Unlock ${cost.toLocaleString('en-IN')} coins</p>
+        <p class="small-muted">Best: ${best ? `${safeText(best.name)} · ${fmtTime(best.time)}` : 'No record yet'}</p>
         <button class="primary-btn">${unlocked ? 'Play' : 'Unlock & Play'}</button>
       </div>`;
     card.querySelector('button').addEventListener('click', () => {
@@ -138,7 +149,7 @@ function renderProfile() {
   state.customPuzzles.forEach(p => {
     const card = document.createElement('article');
     card.className = 'portal-card';
-    card.innerHTML = `<img src="${p.image}" alt="${p.title}" /><div class="card-body"><h3>${p.title}</h3><p>${p.pieces} pieces · ${p.visibility}</p><div class="card-row"><button class="primary-btn play">Play</button><button class="ghost-btn del">Delete</button></div></div>`;
+    card.innerHTML = `<img src="${p.image}" alt="${safeText(p.title)}" onerror="this.onerror=null;this.src='${PLACEHOLDER_IMAGE}';" /><div class="card-body"><h3>${safeText(p.title)}</h3><p>${p.pieces} pieces · ${safeText(p.visibility)}</p><div class="card-row"><button class="primary-btn play">Play</button><button class="ghost-btn del">Delete</button></div></div>`;
     card.querySelector('.play').onclick = () => startPuzzle(p, 'custom-owner');
     card.querySelector('.del').onclick = () => { if(confirm('Delete this custom puzzle slot?')) { state.customPuzzles = state.customPuzzles.filter(x => x.id !== p.id); save(); renderProfile(); renderChrome(); } };
     list.appendChild(card);
@@ -147,11 +158,13 @@ function renderProfile() {
 
 async function startPuzzle(level, mode) {
   setScreen('gameScreen');
+  const image = getPuzzleImage(level);
+  const levelIndex = (window.ALL_LEVELS || []).findIndex(l => l.id === level.id);
   const game = {
     id: level.id,
     mode,
     title: level.title,
-    image: level.image,
+    image,
     pieces: Number(level.pieces),
     trivia: level.trivia || [],
     hints: 10,
@@ -161,12 +174,16 @@ async function startPuzzle(level, mode) {
     timer: null,
     asked: new Set(),
     zoom: 1,
-    seed: [...level.id].reduce((a,c)=>a+c.charCodeAt(0), 0) + level.pieces
+    seed: [...String(level.id)].reduce((a,c)=>a+c.charCodeAt(0), 0) + Number(level.pieces || 0),
+    levelNumber: level.levelNumber || (mode === 'adventure' && levelIndex >= 0 ? levelIndex + 1 : null),
+    creator: level.creator,
+    visibility: level.visibility
   };
+  if (state.activeGame?.timer) clearInterval(state.activeGame.timer);
   state.activeGame = game;
   $('gameTitle').textContent = level.title;
   $('hintCount').textContent = game.hints;
-  $('hintImage').src = level.image;
+  $('hintImage').src = image;
   await buildBoard(game);
   updateHUD();
   clearInterval(game.timer);
@@ -210,7 +227,9 @@ function buildBoard(game) {
       board.style.setProperty('--img-h', `${tileH * rows}px`);
       const rng = seeded(game.seed);
       const pieces = [];
-      for (let i = 0; i < Math.min(game.pieces, cols * rows); i++) {
+      const totalPieces = Math.min(game.pieces, cols * rows);
+      game.pieces = totalPieces;
+      for (let i = 0; i < totalPieces; i++) {
         const col = i % cols;
         const row = Math.floor(i / cols);
         const slot = document.createElement('div');
@@ -300,6 +319,7 @@ function showTrivia(t) {
   answers.innerHTML = '';
   t.a.forEach((answer, idx) => {
     const btn = document.createElement('button');
+    btn.type = 'button';
     btn.textContent = answer;
     btn.onclick = () => {
       if (idx === t.correct) { state.player.coins += 50; alert('+50 coins! Correct.'); }
@@ -318,24 +338,42 @@ function updateHUD() {
   $('gameMeta').textContent = `${game.pieces} pieces · ${fmtTime(elapsed)} · ${pct}% complete`;
   $('hintCount').textContent = game.hints;
 }
+
 function completePuzzle() {
   const game = state.activeGame;
-  clearInterval(game.timer);
+  if (!game) return;
+  if (game.timer) clearInterval(game.timer);
+  game.timer = null;
   const elapsed = Math.round((Date.now() - game.startedAt) / 1000);
   const base = Math.max(30, Math.floor(game.pieces * 8));
   const speedBonus = Math.max(0, Math.floor(game.pieces * 12 - elapsed));
   const reward = game.mode === 'adventure' ? base + speedBonus : Math.floor(base * 0.25);
   state.player.coins += reward;
   state.player.solved += 1;
-  if (game.mode === 'adventure') state.player.level = Math.max(state.player.level, Math.min(500, state.player.level + 1));
+
+  if (game.mode === 'adventure') {
+    const completedNumber = getCompletedLevelNumber(game);
+    const nextNumber = Math.min(500, completedNumber + 1);
+    state.player.level = Math.max(state.player.level, nextNumber);
+    state.player.currentLevel = nextNumber;
+  }
+
   if (!state.leaderboards[game.id]) state.leaderboards[game.id] = [];
   state.leaderboards[game.id].push({ name: state.player.name, time: elapsed, date: new Date().toISOString() });
   state.leaderboards[game.id].sort((a,b)=>a.time-b.time);
   state.leaderboards[game.id] = state.leaderboards[game.id].slice(0, 10);
-  save(); renderChrome(); renderLevels();
+
+  save();
+  renderChrome();
+  renderLevels();
   setTimeout(() => openCompletionDialog(game, elapsed, reward), 100);
 }
 
+function getCompletedLevelNumber(game) {
+  if (Number(game.levelNumber)) return Number(game.levelNumber);
+  const idx = (window.ALL_LEVELS || []).findIndex(l => l.id === game.id);
+  return idx >= 0 ? idx + 1 : Math.max(1, Number(state.player.currentLevel || state.player.level || 1));
+}
 
 function ensureCompletionDialog() {
   let dlg = $('completeDialog');
@@ -346,10 +384,18 @@ function ensureCompletionDialog() {
   dlg.innerHTML = `
     <h2>🎉 Puzzle Complete!</h2>
     <p id="completeSummary"></p>
+    <div id="customSharePanel" class="answer-grid" style="display:none; margin-bottom: 14px;">
+      <button id="publishPortalBtn" type="button" class="primary-btn">Publish to World Portal</button>
+      <button id="nativeShareBtn" type="button" class="secondary-btn">Share Result</button>
+      <button id="whatsappShareBtn" type="button" class="secondary-btn">WhatsApp</button>
+      <button id="twitterShareBtn" type="button" class="secondary-btn">X / Twitter</button>
+      <button id="facebookShareBtn" type="button" class="secondary-btn">Facebook</button>
+      <button id="copyShareBtn" type="button" class="ghost-btn">Copy Share Text</button>
+    </div>
     <div class="answer-grid">
-      <button id="completeNext" class="primary-btn">Next Puzzle</button>
-      <button id="completeReplay" class="secondary-btn">Replay</button>
-      <button id="completeMenu" class="ghost-btn">Back to Menu</button>
+      <button id="completeNext" type="button" class="primary-btn">Next Puzzle</button>
+      <button id="completeReplay" type="button" class="secondary-btn">Replay</button>
+      <button id="completeMenu" type="button" class="ghost-btn">Back to Menu</button>
     </div>
   `;
   document.body.appendChild(dlg);
@@ -360,30 +406,96 @@ function openCompletionDialog(game, elapsed, reward) {
   const dlg = ensureCompletionDialog();
   $('completeSummary').textContent = `Time: ${fmtTime(elapsed)} · Reward: ${reward.toLocaleString('en-IN')} coins`;
 
+  const isAdventure = game.mode === 'adventure';
+  const isCustom = game.mode === 'custom-owner' || game.mode === 'custom-play';
+  $('customSharePanel').style.display = isCustom ? 'grid' : 'none';
+
   const nextBtn = $('completeNext');
   const replayBtn = $('completeReplay');
   const menuBtn = $('completeMenu');
 
-  nextBtn.style.display = game.mode === 'adventure' ? 'inline-flex' : 'none';
+  nextBtn.style.display = isAdventure ? 'inline-flex' : 'none';
   nextBtn.onclick = () => {
-    dlg.close();
-    const nextLevel = window.ALL_LEVELS[state.player.level - 1] || window.ALL_LEVELS[0];
+    const nextLevel = getNextAdventureLevel(game);
+    if (!nextLevel) return alert('No next level found. Return to menu and select a level.');
+    if (dlg.open) dlg.close();
     startPuzzle(nextLevel, 'adventure');
   };
 
   replayBtn.onclick = () => {
-    dlg.close();
+    if (dlg.open) dlg.close();
     const current = (window.ALL_LEVELS || []).find(l => l.id === game.id) || state.customPuzzles.find(p => p.id === game.id);
     if (current) startPuzzle(current, game.mode);
     else setScreen('adventureScreen');
   };
 
   menuBtn.onclick = () => {
-    dlg.close();
-    setScreen('adventureScreen');
+    if (dlg.open) dlg.close();
+    setScreen(isCustom ? 'profileScreen' : 'adventureScreen');
   };
 
-  dlg.showModal();
+  if (isCustom) setupCustomShareButtons(game, elapsed);
+  if (!dlg.open) dlg.showModal();
+}
+
+function getNextAdventureLevel(game) {
+  const levels = window.ALL_LEVELS || [];
+  const completed = getCompletedLevelNumber(game);
+  const nextNumber = completed + 1;
+  return levels.find(l => Number(l.levelNumber) === nextNumber) || levels[nextNumber - 1] || null;
+}
+
+function setupCustomShareButtons(game, elapsed) {
+  $('publishPortalBtn').onclick = () => publishCustomPuzzle(game);
+  $('nativeShareBtn').onclick = () => shareResultNative(game, elapsed);
+  $('whatsappShareBtn').onclick = () => openShareUrl('whatsapp', game, elapsed);
+  $('twitterShareBtn').onclick = () => openShareUrl('twitter', game, elapsed);
+  $('facebookShareBtn').onclick = () => openShareUrl('facebook', game, elapsed);
+  $('copyShareBtn').onclick = () => copyShareText(game, elapsed);
+}
+
+function publishCustomPuzzle(game) {
+  const puzzle = state.customPuzzles.find(p => p.id === game.id);
+  if (!puzzle) return alert('Only the creator can publish this puzzle from this device in the current prototype.');
+  puzzle.visibility = 'public';
+  puzzle.publishedAt = new Date().toISOString();
+  save();
+  renderPortal();
+  renderProfile();
+  alert('Published to the local World Portal prototype. Production version will publish this to the server for global players.');
+}
+
+function shareText(game, elapsed) {
+  return `I solved "${game.title}" in ${fmtTime(elapsed)} on PuzzleVerse. Can you beat my time?`;
+}
+function sharePageUrl() {
+  return location.origin && location.origin !== 'null' ? `${location.origin}${location.pathname}` : 'https://vivianliferocks-lang.github.io/PuzzleVerse/';
+}
+async function shareResultNative(game, elapsed) {
+  const data = { title: 'PuzzleVerse Challenge', text: shareText(game, elapsed), url: sharePageUrl() };
+  if (navigator.share) {
+    try { await navigator.share(data); return; } catch (err) { console.warn('Native share cancelled/failed', err); }
+  }
+  copyShareText(game, elapsed);
+}
+function openShareUrl(network, game, elapsed) {
+  const url = encodeURIComponent(sharePageUrl());
+  const text = encodeURIComponent(shareText(game, elapsed));
+  const links = {
+    whatsapp: `https://wa.me/?text=${text}%20${url}`,
+    twitter: `https://twitter.com/intent/tweet?text=${text}&url=${url}`,
+    facebook: `https://www.facebook.com/sharer/sharer.php?u=${url}`
+  };
+  window.open(links[network], '_blank', 'noopener,noreferrer');
+}
+async function copyShareText(game, elapsed) {
+  const text = `${shareText(game, elapsed)} ${sharePageUrl()}`;
+  try {
+    await navigator.clipboard.writeText(text);
+    alert('Share text copied. Paste it on Instagram, Facebook, WhatsApp, or anywhere else.');
+  } catch (err) {
+    prompt('Copy this share text:', text);
+  }
 }
 
 function handleCustomSubmit(e) {
@@ -403,14 +515,15 @@ function handleCustomSubmit(e) {
       title: $('customTitle').value.trim() || 'Untitled Puzzle',
       pieces,
       image: reader.result,
+      localImage: reader.result,
       visibility: $('customVisibility').value,
       creator: state.player.name,
       difficulty: pieces < 30 ? 'Easy' : pieces < 75 ? 'Medium' : 'Hard',
       createdAt: new Date().toISOString()
     };
     state.customPuzzles.push(p);
-    save(); renderChrome(); renderProfile();
-    alert('Custom puzzle generated. Starting it now.');
+    save(); renderChrome(); renderProfile(); renderPortal();
+    alert('Custom puzzle generated. Starting it now. Complete it to publish or share your result.');
     startPuzzle(p, 'custom-owner');
   };
   reader.readAsDataURL(file);
