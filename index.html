@@ -4,23 +4,17 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>PuzzleVerse</title>
-  <link rel="stylesheet" href="styles.css?v=jigsaw1" />
+  <link rel="stylesheet" href="styles.css?v=header-logo-pro2" />
+  <link rel="icon" href="assets/branding/puzzleverse-icon.svg" type="image/svg+xml" />
 </head>
 <body>
   <header class="topbar">
-    <div class="brand">
-      <div class="logo-mark">🧩</div>
-      <div>
-        <h1>PuzzleVerse</h1>
-        <p>Learn the world, one puzzle at a time.</p>
-      </div>
+    <div class="brand brand-logo-wrap">
+      <img src="assets/branding/puzzleverse-logo.svg?v=pro2" alt="PuzzleVerse" class="brand-logo-full" />
     </div>
     <div class="player-strip">
       <button id="avatarBtn" class="avatar-btn">🧩</button>
-      <div>
-        <strong id="playerName">Guest Creator</strong>
-        <p>Level <span id="playerLevel">1</span> · <span id="coinBalance">0</span> coins</p>
-      </div>
+      <div><strong id="playerName">Guest Creator</strong><p><span id="authLabel">Guest</span> · Level <span id="playerLevel">1</span> · <span id="coinBalance">0</span> coins</p></div>
     </div>
   </header>
 
@@ -29,158 +23,49 @@
     <button class="tab" data-screen="creatorScreen">Create</button>
     <button class="tab" data-screen="portalScreen">World Portal</button>
     <button class="tab" data-screen="eventsScreen">Events</button>
+    <button class="tab" data-screen="storeScreen">Store</button>
     <button class="tab" data-screen="profileScreen">Profile</button>
   </nav>
 
   <main>
     <section id="adventureScreen" class="screen active-screen">
-      <div class="hero panel">
-        <div>
-          <span class="eyebrow">Educational Puzzle Adventure</span>
-          <h2>500 levels of places, people, science, nature, space, oceans, and history.</h2>
-          <p>Solve puzzles, answer trivia at 25%, 50%, and 75%, earn coins, and unlock creation tools.</p>
-        </div>
-        <button id="startCurrentLevel" class="primary-btn">Continue Adventure</button>
-      </div>
+      <div class="hero panel"><div><span class="eyebrow">Educational Puzzle Adventure</span><h2>500 levels of places, people, science, nature, space, oceans, and history.</h2><p>Solve classic jigsaw puzzles, answer subject-specific trivia, earn coins, and unlock creator tools.</p></div><button id="startCurrentLevel" class="primary-btn">Continue Adventure</button></div>
       <div id="levelGrid" class="level-grid"></div>
     </section>
 
     <section id="creatorScreen" class="screen">
-      <div class="panel">
-        <span class="eyebrow">Creator Mode</span>
-        <h2>Create a custom jigsaw challenge</h2>
-        <p>Custom puzzles unlock after Level 20 in production. This prototype keeps it open for testing.</p>
+      <div class="panel"><span class="eyebrow">Creator Mode</span><h2>Create a custom jigsaw challenge</h2><p>Upload your own image, choose pieces, solve it, then publish or share your score. Production mode should moderate uploads server-side with AI safety checks.</p>
         <form id="customForm" class="creator-form">
-          <label>
-            Puzzle title
-            <input id="customTitle" type="text" placeholder="My custom challenge" />
-          </label>
-          <label>
-            Upload image
-            <input id="customImage" type="file" accept="image/*" required />
-          </label>
-          <label>
-            Pieces
-            <select id="customPieces">
-              <option value="10">10 pieces · 1,000 coins</option>
-              <option value="20">20 pieces · 5,000 coins</option>
-              <option value="30">30 pieces · 10,000 coins</option>
-              <option value="50">50 pieces · 25,000 coins</option>
-              <option value="75">75 pieces · 50,000 coins</option>
-              <option value="100">100 pieces · 100,000 coins</option>
-              <option value="150">150 pieces · 200,000 coins</option>
-              <option value="250">250 pieces · 400,000 coins</option>
-              <option value="500">500 pieces · 1,000,000 coins</option>
-            </select>
-          </label>
-          <label>
-            Visibility
-            <select id="customVisibility">
-              <option value="private">Private / Friends only</option>
-              <option value="public">Public World Portal</option>
-            </select>
-          </label>
+          <label>Puzzle title<input id="customTitle" type="text" placeholder="My custom challenge" /></label>
+          <label>Upload image<input id="customImage" type="file" accept="image/*" required /></label>
+          <label>Pieces<select id="customPieces"><option value="10">10 pieces · 1,000 coins</option><option value="20">20 pieces · 5,000 coins</option><option value="30">30 pieces · 10,000 coins</option><option value="50">50 pieces · 25,000 coins</option><option value="75">75 pieces · 50,000 coins</option><option value="100">100 pieces · 100,000 coins</option><option value="150">150 pieces · 200,000 coins</option><option value="250">250 pieces · 400,000 coins</option><option value="500">500 pieces · 1,000,000 coins</option></select></label>
+          <label>Visibility<select id="customVisibility"><option value="private">Private / Friends only</option><option value="public">Public World Portal</option></select></label>
           <button class="primary-btn" type="submit">Build Custom Puzzle</button>
-        </form>
-      </div>
+        </form></div>
     </section>
 
-    <section id="portalScreen" class="screen">
-      <div class="panel">
-        <span class="eyebrow">World Portal</span>
-        <h2>Creator puzzles</h2>
-        <p>Public custom puzzles appear here. Production build will connect this to a real server leaderboard.</p>
-      </div>
-      <div id="portalList" class="portal-list"></div>
-    </section>
-
-    <section id="eventsScreen" class="screen">
-      <div class="panel">
-        <span class="eyebrow">Seasonal Tournaments</span>
-        <h2>Festival and education events</h2>
-        <p>Diwali, Chinese New Year, Halloween, Eid, Christmas, science week, ocean day, and more.</p>
-      </div>
-      <div id="eventList" class="event-list"></div>
-    </section>
+    <section id="portalScreen" class="screen"><div class="panel"><span class="eyebrow">World Portal</span><h2>Creator puzzles</h2><p>Public custom puzzles appear here. Production build will connect this to a real server leaderboard and creator economy.</p></div><div id="portalList" class="portal-list"></div></section>
+    <section id="eventsScreen" class="screen"><div class="panel"><span class="eyebrow">Seasonal Tournaments</span><h2>Festival and education events</h2><p>Diwali, Chinese New Year, Halloween, Eid, Christmas, Science Week, Ocean Day, and more.</p></div><div id="eventList" class="event-list"></div></section>
+    <section id="storeScreen" class="screen"><div class="panel"><span class="eyebrow">PuzzleVerse Store</span><h2>Coins, creator tools, hints, and avatar cosmetics</h2><p>This prototype simulates purchases with local coins. Production can connect these to Google Play Billing.</p></div><div id="storeList" class="store-grid"></div></section>
 
     <section id="profileScreen" class="screen">
-      <div class="panel">
-        <span class="eyebrow">Player Profile</span>
-        <h2 id="profileName">🧩 Guest Creator</h2>
-        <p id="profileStats"></p>
-        <p>Active custom puzzles: <strong id="activePuzzleCount">0 / 10</strong></p>
-        <button id="resetSave" class="ghost-btn">Reset Local Prototype Data</button>
-      </div>
+      <div class="panel profile-panel"><div id="profileAvatarBig" class="profile-avatar-big">🧩</div><div><span class="eyebrow">Player Profile</span><h2 id="profileName">🧩 Guest Creator</h2><p id="profileStats"></p><p>Email: <strong id="profileEmail">Guest mode</strong></p><p>Active custom puzzles: <strong id="activePuzzleCount">0 / 10</strong></p><div class="button-row"><button id="openAvatarEditor" class="secondary-btn">Edit Avatar</button><button id="resetSave" class="ghost-btn">Reset Local Prototype Data</button></div></div></div>
       <div id="profilePuzzles" class="portal-list"></div>
     </section>
 
     <section id="gameScreen" class="screen">
-      <div class="game-top panel">
-        <div>
-          <button id="backToMenu" class="ghost-btn">← Menu</button>
-          <h2 id="gameTitle">Puzzle</h2>
-          <p id="gameMeta">0 pieces · 00:00 · 0% complete</p>
-        </div>
-        <div class="game-actions">
-          <button id="hintBtn" class="secondary-btn">Hint (<span id="hintCount">10</span>)</button>
-          <button id="shuffleBtn" class="secondary-btn">Shuffle Tray</button>
-          <button id="zoomOut" class="ghost-btn">−</button>
-          <span id="zoomLabel" class="pill">100%</span>
-          <button id="zoomIn" class="ghost-btn">+</button>
-        </div>
-      </div>
-      <div class="game-layout">
-        <div class="board-wrap">
-          <div id="puzzleBoard"></div>
-        </div>
-        <aside class="tray-wrap">
-          <h3>Piece Tray</h3>
-          <p class="small-muted">Drag pieces onto the board. Correct placement snaps and locks.</p>
-          <div id="pieceTray"></div>
-        </aside>
-      </div>
+      <div class="game-top panel"><div><button id="backToMenu" class="ghost-btn">← Menu</button><h2 id="gameTitle">Puzzle</h2><p id="gameMeta">0 pieces · 00:00 · 0% complete</p></div><div class="game-actions"><button id="hintBtn" class="secondary-btn">Hint (<span id="hintCount">10</span>)</button><button id="shuffleBtn" class="secondary-btn">Shuffle Tray</button><button id="zoomOut" class="ghost-btn">−</button><span id="zoomLabel" class="pill">100%</span><button id="zoomIn" class="ghost-btn">+</button></div></div>
+      <div class="game-layout"><div class="board-wrap"><div id="puzzleBoard"></div></div><aside class="tray-wrap"><h3>Piece Tray</h3><p class="small-muted">Drag pieces onto the board. Correct placement snaps and locks.</p><div id="pieceTray"></div></aside></div>
     </section>
   </main>
 
-  <dialog id="hintDialog" class="modal">
-    <h2>Hint Preview</h2>
-    <p>Use this image to understand what you are building.</p>
-    <img id="hintImage" src="assets/puzzle-placeholder.svg" alt="Hint image" class="hint-image" />
-    <button id="closeHint" class="primary-btn">Close</button>
-  </dialog>
+  <dialog id="hintDialog" class="modal"><h2>Hint Preview</h2><p>Use this image to understand what you are building.</p><img id="hintImage" src="assets/puzzle-placeholder.svg" alt="Hint image" class="hint-image" /><button id="closeHint" class="primary-btn">Close</button></dialog>
+  <dialog id="triviaDialog" class="modal"><h2>Trivia Gate</h2><p id="triviaQuestion"></p><div id="triviaAnswers" class="answer-grid"></div></dialog>
+  <dialog id="avatarDialog" class="modal"><h2>Edit profile and avatar</h2><label>Display name<input id="nameInput" type="text" /></label><label>Avatar emoji<select id="avatarInput"><option>🧩</option><option>🚀</option><option>🐬</option><option>🦖</option><option>🏛️</option><option>🌍</option><option>🔬</option><option>⭐</option><option>🧠</option><option>🐼</option><option>🦉</option><option>🐢</option><option>🦁</option><option>🐙</option><option>🪐</option><option>🎨</option></select></label><label>Upload profile picture<input id="avatarImageInput" type="file" accept="image/*" /></label><div class="button-row"><button id="saveAvatar" class="primary-btn">Save Profile</button><button id="removeAvatarImage" class="ghost-btn">Remove Photo</button></div></dialog>
 
-  <dialog id="triviaDialog" class="modal">
-    <h2>Trivia Gate</h2>
-    <p id="triviaQuestion"></p>
-    <div id="triviaAnswers" class="answer-grid"></div>
-  </dialog>
-
-  <dialog id="avatarDialog" class="modal">
-    <h2>Edit profile</h2>
-    <label>
-      Display name
-      <input id="nameInput" type="text" />
-    </label>
-    <label>
-      Avatar emoji
-      <select id="avatarInput">
-        <option>🧩</option>
-        <option>🚀</option>
-        <option>🐬</option>
-        <option>🦖</option>
-        <option>🏛️</option>
-        <option>🌍</option>
-        <option>🔬</option>
-        <option>⭐</option>
-        <option>🧠</option>
-        <option>🐼</option>
-      </select>
-    </label>
-    <button id="saveAvatar" class="primary-btn">Save Profile</button>
-  </dialog>
-
-  <script src="src/levels.js?v=jigsaw1"></script>
-  <script src="src/jigsawEngine.js?v=jigsaw1"></script>
-  <script src="src/app.js?v=jigsaw1"></script>
+  <script src="src/levels.js?v=header-logo-pro2"></script>
+  <script src="src/jigsawEngine.js?v=header-logo-pro2"></script>
+  <script src="src/app.js?v=header-logo-pro2"></script>
+  <script src="src/productLayer.js?v=header-logo-pro2"></script>
 </body>
 </html>
