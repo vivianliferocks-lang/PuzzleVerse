@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-label="PuzzleVerse wordmark">
+  <defs>
+    <linearGradient id="word" x1="20" y1="50" x2="770" y2="130" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F8FBFF"/>
+      <stop offset=".52" stop-color="#DDEAFF"/>
+      <stop offset="1" stop-color="#81E8FF"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="535" y1="40" x2="860" y2="140" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#DFFF77"/>
+      <stop offset="1" stop-color="#00C9FF"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-35%" width="125%" height="180%">
+      <feDropShadow dx="0" dy="7" stdDeviation="5" flood-color="#020722" flood-opacity=".6"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="12" flood-color="#236DFF" flood-opacity=".22"/>
+    </filter>
+  </defs>
+  <rect width="900" height="180" rx="32" fill="#07112F"/>
+  <g filter="url(#shadow)">
+    <text x="46" y="112" font-family="Trebuchet MS, Segoe UI, Arial, sans-serif" font-size="86" font-weight="900" letter-spacing="-4" fill="url(#word)">Puzzle</text>
+    <text x="344" y="112" font-family="Trebuchet MS, Segoe UI, Arial, sans-serif" font-size="86" font-weight="900" letter-spacing="-4" fill="url(#accent)">Verse</text>
+  </g>
+  <path d="M654 52 C699 29 760 30 813 58" fill="none" stroke="#DFFF77" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="821" cy="61" r="7" fill="#DFFF77"/>
+  <path d="M638 132 C714 156 794 146 858 108" fill="none" stroke="#55E8FF" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="630" cy="129" r="7" fill="#55E8FF"/>
+</svg>

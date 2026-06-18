@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="PuzzleVerse logo">
+  <defs>
+    <linearGradient id="pv-bg" x1="80" y1="30" x2="310" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6F5CFF"/>
+      <stop offset="0.55" stop-color="#236DFF"/>
+      <stop offset="1" stop-color="#00C9FF"/>
+    </linearGradient>
+    <linearGradient id="pv-piece" x1="122" y1="82" x2="270" y2="245" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#D7FF72"/>
+      <stop offset="0.48" stop-color="#A8F05B"/>
+      <stop offset="1" stop-color="#30D98B"/>
+    </linearGradient>
+    <linearGradient id="pv-word" x1="382" y1="110" x2="895" y2="230" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F8FBFF"/>
+      <stop offset="0.46" stop-color="#E5EEFF"/>
+      <stop offset="1" stop-color="#AFE9FF"/>
+    </linearGradient>
+    <linearGradient id="pv-accent" x1="900" y1="80" x2="1120" y2="230" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#D7FF72"/>
+      <stop offset="1" stop-color="#00C9FF"/>
+    </linearGradient>
+    <radialGradient id="pv-glow" cx="50%" cy="45%" r="65%">
+      <stop offset="0" stop-color="#7CEBFF" stop-opacity="0.95"/>
+      <stop offset="0.48" stop-color="#6F5CFF" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#020722" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="170%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#020722" flood-opacity="0.55"/>
+    </filter>
+    <filter id="titleShadow" x="-8%" y="-20%" width="120%" height="160%">
+      <feDropShadow dx="0" dy="6" stdDeviation="5" flood-color="#020722" flood-opacity="0.65"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="10" flood-color="#236DFF" flood-opacity="0.25"/>
+    </filter>
+    <filter id="innerGlow" x="-25%" y="-25%" width="150%" height="150%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="5" result="blur"/>
+      <feOffset dy="2"/>
+      <feComposite in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .35 0"/>
+      <feComposite in2="SourceGraphic" operator="over"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="44" fill="#07112F"/>
+  <ellipse cx="197" cy="174" rx="230" ry="145" fill="url(#pv-glow)" opacity="0.62"/>
+  <ellipse cx="710" cy="177" rx="480" ry="118" fill="#10235D" opacity="0.42"/>
+  <path d="M355 282 C505 226 702 234 1145 252" fill="none" stroke="#55E8FF" stroke-opacity="0.14" stroke-width="2"/>
+  <path d="M370 85 C520 130 725 105 1125 75" fill="none" stroke="#D7FF72" stroke-opacity="0.12" stroke-width="2"/>
+
+  <g filter="url(#softShadow)">
+    <rect x="72" y="54" width="244" height="244" rx="64" fill="url(#pv-bg)"/>
+    <rect x="83" y="65" width="222" height="222" rx="54" fill="none" stroke="rgba(255,255,255,0.28)" stroke-width="3"/>
+    <circle cx="260" cy="95" r="5" fill="#D7FF72" opacity="0.9"/>
+    <circle cx="122" cy="266" r="4" fill="#9DEBFF" opacity="0.9"/>
+    <path d="M105 202 C132 244 183 276 248 260 C292 249 316 222 326 184" fill="none" stroke="#BFEFFF" stroke-opacity="0.28" stroke-width="5" stroke-linecap="round"/>
+    <path d="M122 133
+             C151 104 189 104 218 133
+             L239 154
+             C221 168 218 190 231 203
+             C244 216 267 213 280 195
+             L303 218
+             C332 247 332 285 303 314
+             C274 343 236 343 207 314
+             L184 291
+             C202 278 205 255 192 242
+             C179 229 156 232 143 250
+             L122 229
+             C93 200 93 162 122 133Z"
+          transform="translate(-8 -49) scale(0.98)"
+          fill="url(#pv-piece)" filter="url(#innerGlow)"/>
+    <path d="M122 133
+             C151 104 189 104 218 133
+             L239 154
+             C221 168 218 190 231 203
+             C244 216 267 213 280 195
+             L303 218
+             C332 247 332 285 303 314
+             C274 343 236 343 207 314
+             L184 291
+             C202 278 205 255 192 242
+             C179 229 156 232 143 250
+             L122 229
+             C93 200 93 162 122 133Z"
+          transform="translate(-8 -49) scale(0.98)"
+          fill="none" stroke="#F6FFD8" stroke-opacity="0.62" stroke-width="5"/>
+  </g>
+
+  <g filter="url(#titleShadow)">
+    <text x="370" y="174"
+          font-family="Trebuchet MS, Segoe UI, Arial, sans-serif"
+          font-size="92"
+          font-weight="900"
+          letter-spacing="-4"
+          fill="url(#pv-word)">Puzzle</text>
+    <text x="688" y="174"
+          font-family="Trebuchet MS, Segoe UI, Arial, sans-serif"
+          font-size="92"
+          font-weight="900"
+          letter-spacing="-4"
+          fill="url(#pv-accent)">Verse</text>
+  </g>
+
+  <path d="M905 110 C950 76 1025 72 1087 105" fill="none" stroke="#D7FF72" stroke-width="4" stroke-linecap="round" opacity="0.72"/>
+  <circle cx="1095" cy="109" r="8" fill="#D7FF72"/>
+  <path d="M887 205 C960 238 1053 228 1122 188" fill="none" stroke="#55E8FF" stroke-width="4" stroke-linecap="round" opacity="0.72"/>
+  <circle cx="880" cy="202" r="7" fill="#55E8FF"/>
+
+  <text x="376" y="229"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="27"
+        font-weight="700"
+        letter-spacing="3.4"
+        fill="#9FB5E8">BUILD • SOLVE • CHALLENGE THE WORLD</text>
+</svg>

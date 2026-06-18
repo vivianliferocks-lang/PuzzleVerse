@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="PuzzleVerse app icon">
+  <defs>
+    <linearGradient id="bg" x1="78" y1="58" x2="426" y2="442" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#755DFF"/>
+      <stop offset="0.55" stop-color="#236DFF"/>
+      <stop offset="1" stop-color="#00C9FF"/>
+    </linearGradient>
+    <linearGradient id="piece" x1="132" y1="110" x2="378" y2="396" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#DFFF77"/>
+      <stop offset="0.52" stop-color="#A8F05B"/>
+      <stop offset="1" stop-color="#30D98B"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="70%">
+      <stop offset="0" stop-color="#7CEBFF" stop-opacity=".95"/>
+      <stop offset=".52" stop-color="#6F5CFF" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#020722" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-25%" y="-25%" width="150%" height="160%">
+      <feDropShadow dx="0" dy="22" stdDeviation="18" flood-color="#020722" flood-opacity=".48"/>
+    </filter>
+  </defs>
+  <rect x="34" y="34" width="444" height="444" rx="116" fill="url(#bg)"/>
+  <rect x="49" y="49" width="414" height="414" rx="101" fill="none" stroke="rgba(255,255,255,.26)" stroke-width="7"/>
+  <ellipse cx="256" cy="244" rx="210" ry="185" fill="url(#glow)" opacity=".65"/>
+  <path d="M95 318 C156 397 277 431 395 346" fill="none" stroke="#BFEFFF" stroke-opacity=".32" stroke-width="12" stroke-linecap="round"/>
+  <path d="M106 184
+           C155 135 219 135 268 184
+           L302 218
+           C273 241 268 279 290 301
+           C312 323 350 318 373 289
+           L412 328
+           C461 377 461 441 412 490
+           C363 539 299 539 250 490
+           L211 451
+           C240 428 245 390 223 368
+           C201 346 163 351 140 380
+           L106 346
+           C57 297 57 233 106 184Z"
+        transform="translate(0 -78) scale(.98)"
+        fill="url(#piece)" filter="url(#shadow)"/>
+  <path d="M106 184
+           C155 135 219 135 268 184
+           L302 218
+           C273 241 268 279 290 301
+           C312 323 350 318 373 289
+           L412 328
+           C461 377 461 441 412 490
+           C363 539 299 539 250 490
+           L211 451
+           C240 428 245 390 223 368
+           C201 346 163 351 140 380
+           L106 346
+           C57 297 57 233 106 184Z"
+        transform="translate(0 -78) scale(.98)"
+        fill="none" stroke="#F8FFD4" stroke-width="10" stroke-opacity=".72"/>
+  <circle cx="404" cy="112" r="10" fill="#DFFF77"/>
+  <circle cx="113" cy="405" r="8" fill="#79F3FF"/>
+</svg>
