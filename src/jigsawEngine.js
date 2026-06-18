@@ -1,4 +1,8 @@
 (function(){
+  function safeId(str){
+    return String(str || 'pv').replace(/[^a-zA-Z0-9_-]/g, '-');
+  }
+
   function hashString(str){
     let h = 2166136261;
     for(let i=0;i<str.length;i++){
@@ -18,12 +22,13 @@
   }
 
   function calculateGrid(pieceCount) {
+    pieceCount = Math.max(4, Number(pieceCount || 4));
     let best = { cols: pieceCount, rows: 1, score: Infinity };
     for (let rows = 1; rows <= Math.sqrt(pieceCount); rows++) {
       if (pieceCount % rows !== 0) continue;
       const cols = pieceCount / rows;
       const aspect = cols / rows;
-      const score = Math.abs(aspect - 1.5);
+      const score = Math.abs(aspect - 1.45);
       if (score < best.score) best = { cols, rows, score };
     }
     if (best.score === Infinity) {
@@ -51,120 +56,116 @@
     return pieces;
   }
 
-  function edgePath(side, type, x, y, w, h, tab, neck, variance){
-    const v1 = variance * 0.5;
-    if(side === 'top'){
-      if(type === 0) return `L ${x+w} ${y}`;
-      const dir = type === 1 ? -1 : 1;
-      return [
-        `L ${x + w*0.28} ${y}`,
-        `C ${x + w*(0.36-v1)} ${y}, ${x + w*(0.40-v1)} ${y + dir*tab*0.18}, ${x + w*(0.42-v1)} ${y + dir*tab*0.35}`,
-        `C ${x + w*(0.46-v1)} ${y + dir*tab*0.92}, ${x + w*(0.54+v1)} ${y + dir*tab*0.92}, ${x + w*(0.58+v1)} ${y + dir*tab*0.35}`,
-        `C ${x + w*(0.60+v1)} ${y + dir*tab*0.18}, ${x + w*(0.64+v1)} ${y}, ${x + w*0.72} ${y}`,
-        `L ${x + w} ${y}`
-      ].join(' ');
-    }
-    if(side === 'right'){
-      if(type === 0) return `L ${x} ${y+h}`;
-      const dir = type === 1 ? 1 : -1;
-      return [
-        `L ${x} ${y + h*0.28}`,
-        `C ${x} ${y + h*(0.36-v1)}, ${x + dir*tab*0.18} ${y + h*(0.40-v1)}, ${x + dir*tab*0.35} ${y + h*(0.42-v1)}`,
-        `C ${x + dir*tab*0.92} ${y + h*(0.46-v1)}, ${x + dir*tab*0.92} ${y + h*(0.54+v1)}, ${x + dir*tab*0.35} ${y + h*(0.58+v1)}`,
-        `C ${x + dir*tab*0.18} ${y + h*(0.60+v1)}, ${x} ${y + h*(0.64+v1)}, ${x} ${y + h*0.72}`,
-        `L ${x} ${y + h}`
-      ].join(' ');
-    }
-    if(side === 'bottom'){
-      if(type === 0) return `L ${x-w} ${y}`;
-      const dir = type === 1 ? 1 : -1;
-      return [
-        `L ${x - w*0.28} ${y}`,
-        `C ${x - w*(0.36-v1)} ${y}, ${x - w*(0.40-v1)} ${y + dir*tab*0.18}, ${x - w*(0.42-v1)} ${y + dir*tab*0.35}`,
-        `C ${x - w*(0.46-v1)} ${y + dir*tab*0.92}, ${x - w*(0.54+v1)} ${y + dir*tab*0.92}, ${x - w*(0.58+v1)} ${y + dir*tab*0.35}`,
-        `C ${x - w*(0.60+v1)} ${y + dir*tab*0.18}, ${x - w*(0.64+v1)} ${y}, ${x - w*0.72} ${y}`,
-        `L ${x - w} ${y}`
-      ].join(' ');
-    }
-    if(type === 0) return `L ${x} ${y-h}`;
-    const dir = type === 1 ? -1 : 1;
+  function topEdge(type, x, y, w, tab){
+    if(type === 0) return `L ${x+w} ${y}`;
+    const d = type === 1 ? -1 : 1;
     return [
-      `L ${x} ${y - h*0.28}`,
-      `C ${x} ${y - h*(0.36-v1)}, ${x + dir*tab*0.18} ${y - h*(0.40-v1)}, ${x + dir*tab*0.35} ${y - h*(0.42-v1)}`,
-      `C ${x + dir*tab*0.92} ${y - h*(0.46-v1)}, ${x + dir*tab*0.92} ${y - h*(0.54+v1)}, ${x + dir*tab*0.35} ${y - h*(0.58+v1)}`,
-      `C ${x + dir*tab*0.18} ${y - h*(0.60+v1)}, ${x} ${y - h*(0.64+v1)}, ${x} ${y - h*0.72}`,
-      `L ${x} ${y - h}`
+      `L ${x+w*.28} ${y}`,
+      `C ${x+w*.34} ${y} ${x+w*.36} ${y+d*tab*.20} ${x+w*.41} ${y+d*tab*.28}`,
+      `C ${x+w*.48} ${y+d*tab*.92} ${x+w*.52} ${y+d*tab*.92} ${x+w*.59} ${y+d*tab*.28}`,
+      `C ${x+w*.64} ${y+d*tab*.20} ${x+w*.66} ${y} ${x+w*.72} ${y}`,
+      `L ${x+w} ${y}`
     ].join(' ');
   }
 
-  function createPiecePath(tileW, tileH, pad, edges, rng){
+  function rightEdge(type, x, y, h, tab){
+    if(type === 0) return `L ${x} ${y+h}`;
+    const d = type === 1 ? 1 : -1;
+    return [
+      `L ${x} ${y+h*.28}`,
+      `C ${x} ${y+h*.34} ${x+d*tab*.20} ${y+h*.36} ${x+d*tab*.28} ${y+h*.41}`,
+      `C ${x+d*tab*.92} ${y+h*.48} ${x+d*tab*.92} ${y+h*.52} ${x+d*tab*.28} ${y+h*.59}`,
+      `C ${x+d*tab*.20} ${y+h*.64} ${x} ${y+h*.66} ${x} ${y+h*.72}`,
+      `L ${x} ${y+h}`
+    ].join(' ');
+  }
+
+  function bottomEdge(type, x, y, w, tab){
+    if(type === 0) return `L ${x-w} ${y}`;
+    const d = type === 1 ? 1 : -1;
+    return [
+      `L ${x-w*.28} ${y}`,
+      `C ${x-w*.34} ${y} ${x-w*.36} ${y+d*tab*.20} ${x-w*.41} ${y+d*tab*.28}`,
+      `C ${x-w*.48} ${y+d*tab*.92} ${x-w*.52} ${y+d*tab*.92} ${x-w*.59} ${y+d*tab*.28}`,
+      `C ${x-w*.64} ${y+d*tab*.20} ${x-w*.66} ${y} ${x-w*.72} ${y}`,
+      `L ${x-w} ${y}`
+    ].join(' ');
+  }
+
+  function leftEdge(type, x, y, h, tab){
+    if(type === 0) return `L ${x} ${y-h}`;
+    const d = type === 1 ? -1 : 1;
+    return [
+      `L ${x} ${y-h*.28}`,
+      `C ${x} ${y-h*.34} ${x+d*tab*.20} ${y-h*.36} ${x+d*tab*.28} ${y-h*.41}`,
+      `C ${x+d*tab*.92} ${y-h*.48} ${x+d*tab*.92} ${y-h*.52} ${x+d*tab*.28} ${y-h*.59}`,
+      `C ${x+d*tab*.20} ${y-h*.64} ${x} ${y-h*.66} ${x} ${y-h*.72}`,
+      `L ${x} ${y-h}`
+    ].join(' ');
+  }
+
+  function createPiecePath(tileW, tileH, pad, edges){
     const x = pad, y = pad;
     const w = tileW, h = tileH;
-    const tab = Math.max(10, Math.round(Math.min(tileW, tileH) * 0.22));
-    const variance = 0.16 + rng()*0.08;
+    const tab = Math.max(12, Math.round(Math.min(tileW, tileH) * 0.22));
     const path = [
       `M ${x} ${y}`,
-      edgePath('top', edges.top, x, y, w, h, tab, tab*0.45, variance),
-      edgePath('right', edges.right, x+w, y, w, h, tab, tab*0.45, variance),
-      edgePath('bottom', edges.bottom, x+w, y+h, w, h, tab, tab*0.45, variance),
-      edgePath('left', edges.left, x, y+h, w, h, tab, tab*0.45, variance),
+      topEdge(edges.top, x, y, w, tab),
+      rightEdge(edges.right, x+w, y, h, tab),
+      bottomEdge(edges.bottom, x+w, y+h, w, tab),
+      leftEdge(edges.left, x, y+h, h, tab),
       'Z'
     ].join(' ');
     return { path, tab, outerW: tileW + pad*2, outerH: tileH + pad*2 };
   }
 
   function svgForPiece(spec){
-    const clipId = `clip-${spec.id}`;
-    const imgId = `img-${spec.id}`;
+    const idBase = safeId(spec.id);
+    const clipId = `clip-${idBase}`;
+    const patternId = `pattern-${idBase}`;
+    const escapedImage = String(spec.imageSrc).replace(/&/g, '&amp;').replace(/"/g, '&quot;');
     return `
-      <svg class="piece-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${spec.outerW} ${spec.outerH}" width="${spec.outerW}" height="${spec.outerH}" aria-hidden="true">
+      <svg class="piece-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${spec.outerW} ${spec.outerH}" width="${spec.outerW}" height="${spec.outerH}">
         <defs>
-          <clipPath id="${clipId}"><path d="${spec.path}"/></clipPath>
-          <filter id="shadow-${spec.id}" x="-30%" y="-30%" width="160%" height="160%">
-            <feDropShadow dx="0" dy="1.4" stdDeviation="1.8" flood-color="rgba(0,0,0,0.28)"/>
-          </filter>
+          <clipPath id="${clipId}" clipPathUnits="userSpaceOnUse"><path d="${spec.path}"/></clipPath>
+          <pattern id="${patternId}" patternUnits="userSpaceOnUse" x="${spec.imageX}" y="${spec.imageY}" width="${spec.fullW}" height="${spec.fullH}">
+            <image href="${escapedImage}" x="0" y="0" width="${spec.fullW}" height="${spec.fullH}" preserveAspectRatio="none"/>
+          </pattern>
         </defs>
-        <path d="${spec.path}" fill="#ffffff" stroke="rgba(0,0,0,0.18)" stroke-width="1.25" filter="url(#shadow-${spec.id})"/>
-        <image id="${imgId}" href="${spec.imageSrc}" x="${spec.imageX}" y="${spec.imageY}" width="${spec.fullW}" height="${spec.fullH}" preserveAspectRatio="none" clip-path="url(#${clipId})"/>
-        <path d="${spec.path}" fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="0.8"/>
+        <path d="${spec.path}" fill="#eef3ff" stroke="rgba(30,42,90,0.24)" stroke-width="1.3"/>
+        <path d="${spec.path}" fill="url(#${patternId})" stroke="rgba(25,31,70,0.35)" stroke-width="1.3"/>
+        <path d="${spec.path}" fill="none" stroke="rgba(255,255,255,0.6)" stroke-width="0.75"/>
       </svg>`;
   }
 
   function buildLayout(opts){
     const pieceCount = Number(opts.pieceCount || 9);
-    const puzzleId = String(opts.puzzleId || 'puzzle');
+    const puzzleId = safeId(opts.puzzleId || 'puzzle');
     const boardWidthBase = Number(opts.maxWidth || 760);
     const grid = calculateGrid(pieceCount);
     const cols = grid.cols, rows = grid.rows;
-    const tileW = Math.max(56, Math.floor(boardWidthBase / cols));
-    const tileH = Math.max(56, Math.floor(tileW * 0.78));
+    const tileW = Math.max(64, Math.floor(boardWidthBase / cols));
+    const tileH = Math.max(58, Math.floor(tileW * 0.78));
     const seed = hashString(`${puzzleId}-${pieceCount}`);
     const rng = seeded(seed);
     const edgeMap = generateEdgeMap(rows, cols, rng);
-    const pad = Math.round(Math.min(tileW, tileH) * 0.24);
+    const pad = Math.round(Math.min(tileW, tileH) * 0.25);
     const fullW = tileW * cols;
     const fullH = tileH * rows;
 
     const pieces = edgeMap.slice(0, pieceCount).map(edge => {
-      const localRng = seeded(seed + edge.index * 7919);
-      const p = createPiecePath(tileW, tileH, pad, edge, localRng);
+      const p = createPiecePath(tileW, tileH, pad, edge);
       const spec = {
         id: `${puzzleId}-${edge.index}`,
         index: edge.index,
         row: edge.row,
         col: edge.col,
-        top: edge.top,
-        right: edge.right,
-        bottom: edge.bottom,
-        left: edge.left,
         tileW,
         tileH,
         pad,
         path: p.path,
         outerW: p.outerW,
         outerH: p.outerH,
-        boardX: edge.col * tileW,
-        boardY: edge.row * tileH,
         snapX: edge.col * tileW,
         snapY: edge.row * tileH,
         imageSrc: opts.imageSrc,
@@ -187,4 +188,5 @@
   }
 
   window.PVJigsaw = { buildLayout, calculateGrid, hashString };
+  console.log('PuzzleVerse jigsaw engine loaded');
 })();
