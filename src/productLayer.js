@@ -85,7 +85,29 @@
   }
 
   function showLogin(){
-    if(localStorage.getItem('puzzleverse.login.seen')) return;
+    const s = getState();
+
+    // Old builds used localStorage "puzzleverse.login.seen", which can hide the login forever.
+    // This build ignores that old flag. Login appears on app start unless the player is actually
+    // signed in with email/social login, or they chose Guest for this current browser session.
+    const hasRealLogin = !!(
+      s &&
+      s.auth &&
+      s.auth.loggedIn &&
+      s.auth.mode !== 'guest' &&
+      (s.auth.email || s.auth.provider)
+    );
+
+    const dismissedThisSession = sessionStorage.getItem('puzzleverse.login.dismissed') === '1';
+
+    if(hasRealLogin || dismissedThisSession) {
+      updateAvatarVisuals();
+      return;
+    }
+
+    const existing = $('loginOverlay');
+    if(existing) existing.remove();
+
     const wrap = document.createElement('section');
     wrap.id = 'loginOverlay';
     wrap.className = 'login-screen active';
@@ -122,22 +144,37 @@
 
     $('pvGoogleBtn').onclick = () => firebaseSignIn('Google');
     $('pvFacebookBtn').onclick = () => firebaseSignIn('Facebook');
-    $('pvGuestBtn').onclick = () => { localStorage.setItem('puzzleverse.login.seen','1'); wrap.remove(); };
-    $('pvLoginForm').onsubmit = e => {
-      e.preventDefault();
-      const s = getState();
-      if(s){
-        s.auth = s.auth || {};
-        s.auth.email = $('pvLoginEmail').value.trim();
-        s.auth.mode = 'email';
-        s.auth.provider = 'Email';
-        s.auth.loggedIn = true;
-        const name = $('pvLoginName').value.trim();
-        if(name) s.player.name = name;
+
+    $('pvGuestBtn').onclick = () => {
+      // Guest is a session-only dismissal so the first login page returns after browser restart.
+      sessionStorage.setItem('puzzleverse.login.dismissed','1');
+      wrap.remove();
+      const st = getState();
+      if(st) {
+        st.auth = st.auth || {};
+        st.auth.mode = 'guest';
+        st.auth.loggedIn = false;
+        st.auth.provider = '';
         saveState();
         renderBase();
       }
-      localStorage.setItem('puzzleverse.login.seen','1');
+    };
+
+    $('pvLoginForm').onsubmit = e => {
+      e.preventDefault();
+      const st = getState();
+      if(st){
+        st.auth = st.auth || {};
+        st.auth.email = $('pvLoginEmail').value.trim();
+        st.auth.mode = 'email';
+        st.auth.provider = 'Email';
+        st.auth.loggedIn = true;
+        const name = $('pvLoginName').value.trim();
+        if(name) st.player.name = name;
+        saveState();
+        renderBase();
+      }
+      sessionStorage.setItem('puzzleverse.login.dismissed','1');
       wrap.remove();
     };
   }
@@ -201,6 +238,30 @@
     if($('openAvatarEditor')) $('openAvatarEditor').onclick = () => $('avatarBtn').click();
   }
 
+
+  function addAccountControls(){
+    const profilePanel = document.querySelector('#profileScreen .profile-panel .button-row');
+    if(!profilePanel || $('switchAccountBtn')) return;
+    const btn = document.createElement('button');
+    btn.id = 'switchAccountBtn';
+    btn.className = 'secondary-btn';
+    btn.textContent = 'Switch / Login';
+    btn.onclick = () => {
+      const st = getState();
+      if(st) {
+        st.auth = st.auth || {};
+        st.auth.loggedIn = false;
+        st.auth.mode = 'guest';
+        st.auth.provider = '';
+        saveState();
+      }
+      sessionStorage.removeItem('puzzleverse.login.dismissed');
+      localStorage.removeItem('puzzleverse.login.seen');
+      showLogin();
+    };
+    profilePanel.prepend(btn);
+  }
+
   const oldSet = window.setScreen || ((typeof setScreen === 'function') ? setScreen : null);
   if(oldSet){
     window.setScreen = function(id){
@@ -214,6 +275,7 @@
     renderStore();
     enhanceAvatarDialog();
     updateAvatarVisuals();
+    addAccountControls();
     showLogin();
   }, 150);
 })();
