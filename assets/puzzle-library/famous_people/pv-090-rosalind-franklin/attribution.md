@@ -1,19 +1,9 @@
-# Attribution for Rosalind Franklin
+# Rosalind Franklin
 
-Source page: https://commons.wikimedia.org/wiki/File%3AROSALIND_FRANKLIN_5695.jpg
-
-Downloaded URL: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ROSALIND_FRANKLIN_5695.jpg/1920px-ROSALIND_FRANKLIN_5695.jpg
-
-Original URL: https://upload.wikimedia.org/wikipedia/commons/2/2a/ROSALIND_FRANKLIN_5695.jpg
-
-Thumbnail URL: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ROSALIND_FRANKLIN_5695.jpg/1920px-ROSALIND_FRANKLIN_5695.jpg
-
-Artist: Ein Dahmer
-
-Credit: Own work
-
-License: CC BY-SA 4.0
-
-Original dimensions: 5472 x 3648
-
-Review status: needs human review before commercial use.
+- Source: wikidata-P18
+- File: File:ExoMars prototype rover 6 (cropped).jpg
+- URL: https://upload.wikimedia.org/wikipedia/commons/0/02/ExoMars_prototype_rover_6_%28cropped%29.jpg
+- Artist: Photograph by  Mike Peel  ( www.mikepeel.net ). Crop by PhilipTerryGraham.
+- Credit: Cropped from  File:ExoMars prototype rover 6.jpg
+- License: CC BY-SA 4.0
+- Warning: none

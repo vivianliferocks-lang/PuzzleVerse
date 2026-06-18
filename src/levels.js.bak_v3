@@ -5769,8 +5769,8 @@ window.PUZZLEVERSE_LEVELS = [
     "localImage": "assets/puzzle-library/famous_people/pv-116-rani-lakshmibai/image.jpg",
     "sourceProvider": "Wikimedia Commons / Wikipedia",
     "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Rani%20Lakshmibai",
-    "licenseStatus": "downloaded-needs-attribution-review",
-    "credit": "Raunak agrawal29",
+    "licenseStatus": "smart-curated-v3-review-needed",
+    "credit": "the lost gallery | LAKSMIBAI, RANI OF JHANSI | CC BY 2.0 | wikidata-P18 | File:LAKSMIBAI, RANI OF JHANSI (22140388883).jpg",
     "trivia": [
       {
         "q": "Which category best matches Rani Lakshmibai?",
@@ -5872,8 +5872,8 @@ window.PUZZLEVERSE_LEVELS = [
     "localImage": "assets/puzzle-library/famous_people/pv-118-chanakya/image.jpg",
     "sourceProvider": "Wikimedia Commons / Wikipedia",
     "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Chanakya",
-    "licenseStatus": "downloaded-needs-attribution-review",
-    "credit": "Unknown authorUnknown author",
+    "licenseStatus": "smart-curated-v3-review-needed",
+    "credit": "Unknown author Unknown author | Cover of   Kautilya Arthashastra  , translated by R. Shamasastry, Bangalore Government Press 1915 | Public domain | wikidata-P18 | File:Chanakya artistic depiction.jpg",
     "trivia": [
       {
         "q": "Which category best matches Chanakya?",
@@ -6425,8 +6425,8 @@ window.PUZZLEVERSE_LEVELS = [
     "localImage": "assets/puzzle-library/famous_people/pv-129-florence-nightingale/image.jpg",
     "sourceProvider": "Wikimedia Commons / Wikipedia",
     "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Florence%20Nightingale",
-    "licenseStatus": "downloaded-needs-attribution-review",
-    "credit": "Wikimedia Commons / Wikipedia contributor",
+    "licenseStatus": "smart-curated-v3-review-needed",
+    "credit": "Henry Hering (1814-1893) | NPG x82368  from National Portrait Gallery, London | Public domain | wikidata-P18 | File:Florence Nightingale (H Hering NPG x82368).jpg",
     "trivia": [
       {
         "q": "Which category best matches Florence Nightingale?",
@@ -6478,8 +6478,8 @@ window.PUZZLEVERSE_LEVELS = [
     "localImage": "assets/puzzle-library/famous_people/pv-130-mother-teresa/image.jpg",
     "sourceProvider": "Wikimedia Commons",
     "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Mother%20Teresa",
-    "licenseStatus": "downloaded-needs-human-review",
-    "credit": "Istiakuddin Ahmed / Wikimedia Commons / CC BY-SA 4.0",
+    "licenseStatus": "smart-curated-v3-review-needed",
+    "credit": "Túrelio | own work (digitized on Kodak- PhotoCD  (16 Base) from  35 mm   photographic film ) | CC BY-SA 2.0 de | wikidata-P18 | File:MotherTeresa 090.jpg",
     "trivia": [
       {
         "q": "Which category best matches Mother Teresa?",
@@ -6528,8 +6528,8 @@ window.PUZZLEVERSE_LEVELS = [
     "localImage": "assets/puzzle-library/famous_people/pv-131-rabindranath-tagore/image.jpg",
     "sourceProvider": "Wikimedia Commons",
     "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Rabindranath%20Tagore",
-    "licenseStatus": "downloaded-needs-human-review",
-    "credit": "Ganesh Mohan T / Wikimedia Commons / CC BY-SA 4.0",
+    "licenseStatus": "smart-curated-v3-review-needed",
+    "credit": "Georges Chevalier | https://collections.albert-kahn.hauts-de-seine.fr/document/proprit-d-albert-kahn-boulogne-france-rabindranth-tagore/617a7a45cf8b8968b3386442?filtrerParThme%5B0%5D=Personnalit%C3%A9&amp;filtrerParDomaine%5B0%5D=Images%20fixes&amp;s=dateDePriseDeVue&amp;so=desc&amp;pos=640&amp;pgn=41 | CC BY 4.0 | wikipedia-pageimage | File:1926 Rabindrath Tagore.jpg",
     "trivia": [
       {
         "q": "Which category best matches Rabindranath Tagore?",

@@ -23,36 +23,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Muhammad Mahdi Karim, Stitching assisted by Benh / Wikimedia Commons / GFDL 1.2",
     "trivia": [
       {
-        "q": "Which category best matches Taj Mahal?",
+        "q": "Which statement is true about Taj Mahal?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, Uttar Pradesh, India.",
+          "Taj Mahal is only a fictional mobile-game item.",
+          "Taj Mahal is mainly a cooking utensil.",
+          "Taj Mahal is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Taj Mahal is especially connected with what?",
+        "q": "What type of place is Taj Mahal?",
         "a": [
-          "Mughal architecture",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "album",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Taj Mahal?",
+        "q": "Which statement is true about Taj Mahal?",
         "a": [
-          "Agra",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, Uttar Pradesh, India.",
+          "Taj Mahal is only a fictional mobile-game item.",
+          "Taj Mahal is mainly a cooking utensil.",
+          "Taj Mahal is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-002-great-wall-of-china",
@@ -73,36 +75,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "CEphoto, Uwe Aranas / Wikimedia Commons / CC BY-SA 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Great Wall of China?",
+        "q": "In which country is Great Wall of China located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "People's Republic of China",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Great Wall of China is especially connected with what?",
+        "q": "What type of place is Great Wall of China?",
         "a": [
-          "ancient fortification",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "tourist attraction",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Great Wall of China?",
+        "q": "Which region or city is connected to Great Wall of China?",
         "a": [
-          "long wall",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Hebei",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-003-machu-picchu",
@@ -123,36 +127,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Martin St-Amant (S23678) / Wikimedia Commons / CC BY-SA 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Machu Picchu?",
+        "q": "In which country is Machu Picchu located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Peru",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Machu Picchu is especially connected with what?",
+        "q": "What type of place is Machu Picchu?",
         "a": [
-          "Inca citadel",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "ancient city",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Machu Picchu?",
+        "q": "Which region or city is connected to Machu Picchu?",
         "a": [
-          "Andes",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Urubamba Province",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-004-pyramids-of-giza",
@@ -173,36 +179,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "kallerna / Wikimedia Commons / CC BY-SA 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Pyramids of Giza?",
+        "q": "In which country is Pyramids of Giza located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Egypt",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Pyramids of Giza is especially connected with what?",
+        "q": "What type of place is Pyramids of Giza?",
         "a": [
-          "ancient tombs",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Ancient Egyptian necropolis",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Pyramids of Giza?",
+        "q": "Which region or city is connected to Pyramids of Giza?",
         "a": [
-          "Nile region",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Giza Governorate",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-005-colosseum",
@@ -223,36 +231,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Wilfredor / Wikimedia Commons / CC0",
     "trivia": [
       {
-        "q": "Which category best matches Colosseum?",
+        "q": "In which country is Colosseum located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Italy",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Colosseum is especially connected with what?",
+        "q": "What type of place is Colosseum?",
         "a": [
           "Roman amphitheatre",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Colosseum?",
+        "q": "Which region or city is connected to Colosseum?",
         "a": [
-          "Rome",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Roma Capitale",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-006-eiffel-tower",
@@ -273,36 +283,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Julie Anne Workman / Wikimedia Commons / CC BY-SA 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Eiffel Tower?",
+        "q": "In which country is Eiffel Tower located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "France",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Eiffel Tower is especially connected with what?",
+        "q": "What type of place is Eiffel Tower?",
         "a": [
-          "iron lattice tower",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "lattice tower",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Eiffel Tower?",
+        "q": "Which region or city is connected to Eiffel Tower?",
         "a": [
-          "Paris",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "7th arrondissement of Paris",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-007-stonehenge",
@@ -323,36 +335,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Stonehenge?",
+        "q": "In which country is Stonehenge located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "United Kingdom",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Stonehenge is especially connected with what?",
+        "q": "What type of place is Stonehenge?",
         "a": [
-          "prehistoric monument",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "tourist attraction",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Stonehenge?",
+        "q": "Which region or city is connected to Stonehenge?",
         "a": [
-          "Wiltshire",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Amesbury",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-008-petra",
@@ -373,36 +387,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Berthold Werner / Wikimedia Commons / CC BY 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Petra?",
+        "q": "Which statement is true about Petra?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Petra, originally known to its inhabitants as Raqmu, is an ancient city and archaeological site in southern Jordan.",
+          "Petra is only a fictional mobile-game item.",
+          "Petra is mainly a cooking utensil.",
+          "Petra is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Petra is especially connected with what?",
+        "q": "What type of place is Petra?",
         "a": [
-          "rock-cut city",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "female given name",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Petra?",
+        "q": "Which statement is true about Petra?",
         "a": [
-          "Nabataean",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Petra, originally known to its inhabitants as Raqmu, is an ancient city and archaeological site in southern Jordan.",
+          "Petra is only a fictional mobile-game item.",
+          "Petra is mainly a cooking utensil.",
+          "Petra is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-009-angkor-wat",
@@ -423,36 +439,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Satdeep Gill / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Angkor Wat?",
+        "q": "In which country is Angkor Wat located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Cambodia",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Angkor Wat is especially connected with what?",
+        "q": "What type of place is Angkor Wat?",
         "a": [
-          "temple complex",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Buddhist temple",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Angkor Wat?",
+        "q": "Which region or city is connected to Angkor Wat?",
         "a": [
-          "Khmer Empire",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Siem Reap Province",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-010-chichen-itza",
@@ -473,36 +491,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Daniel Schwen / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Chichen Itza?",
+        "q": "In which country is Chichen Itza located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Mexico",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Chichen Itza is especially connected with what?",
+        "q": "What type of place is Chichen Itza?",
         "a": [
-          "Maya city",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "ancient city",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Chichen Itza?",
+        "q": "Which region or city is connected to Chichen Itza?",
         "a": [
-          "Yucatan",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Yucatán",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-011-acropolis-of-athens",
@@ -523,36 +543,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Giles Laurent / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Acropolis of Athens?",
+        "q": "In which country is Acropolis of Athens located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Greece",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Acropolis of Athens is especially connected with what?",
+        "q": "What type of place is Acropolis of Athens?",
         "a": [
-          "ancient citadel",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "acropolis",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Acropolis of Athens?",
+        "q": "Which region or city is connected to Acropolis of Athens?",
         "a": [
-          "Athens",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Athens Municipality",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-012-sagrada-familia",
@@ -573,36 +595,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Didier Descouens / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Sagrada Familia?",
+        "q": "In which country is Sagrada Familia located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Spain",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Sagrada Familia is especially connected with what?",
+        "q": "What type of place is Sagrada Familia?",
         "a": [
-          "large basilica",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "minor basilica",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Sagrada Familia?",
+        "q": "Which region or city is connected to Sagrada Familia?",
         "a": [
-          "Barcelona",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Sagrada Família",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-013-statue-of-liberty",
@@ -623,36 +647,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "銀河市長 / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Statue of Liberty?",
+        "q": "In which country is Statue of Liberty located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "United States",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Statue of Liberty is especially connected with what?",
+        "q": "What type of place is Statue of Liberty?",
         "a": [
-          "freedom monument",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "part of UNESCO World Heritage Site",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Statue of Liberty?",
+        "q": "Which region or city is connected to Statue of Liberty?",
         "a": [
-          "New York Harbor",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "New York City",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-014-christ-the-redeemer",
@@ -673,36 +699,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Wilfredor / Wikimedia Commons / CC0",
     "trivia": [
       {
-        "q": "Which category best matches Christ the Redeemer?",
+        "q": "In which country is Christ the Redeemer located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Brazil",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Christ the Redeemer is especially connected with what?",
+        "q": "What type of place is Christ the Redeemer?",
         "a": [
-          "Art Deco statue",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "colossal statue of Jesus",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Christ the Redeemer?",
+        "q": "Which region or city is connected to Christ the Redeemer?",
         "a": [
-          "Rio de Janeiro",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Alto da Boa Vista",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-015-sydney-opera-house",
@@ -723,36 +751,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Dietmar Rabich / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Sydney Opera House?",
+        "q": "In which country is Sydney Opera House located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Australia",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Sydney Opera House is especially connected with what?",
+        "q": "What type of place is Sydney Opera House?",
         "a": [
-          "performing arts center",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "opera house",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Sydney Opera House?",
+        "q": "Which region or city is connected to Sydney Opera House?",
         "a": [
-          "Sydney",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "City of Sydney",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-016-mount-fuji",
@@ -773,36 +803,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Romain Guy from San Francisco, USA / Wikimedia Commons / CC0",
     "trivia": [
       {
-        "q": "Which category best matches Mount Fuji?",
+        "q": "In which country is Mount Fuji located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Japan",
+          "India",
+          "China",
+          "Egypt"
         ],
         "correct": 0
       },
       {
-        "q": "Mount Fuji is especially connected with what?",
+        "q": "What type of place is Mount Fuji?",
         "a": [
-          "volcanic mountain",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Volcano",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Mount Fuji?",
+        "q": "Which region or city is connected to Mount Fuji?",
         "a": [
-          "Honshu",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Shizuoka Prefecture",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-017-serengeti-national-park",
@@ -823,36 +855,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Giles Laurent / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Serengeti National Park?",
+        "q": "In which country is Serengeti National Park located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Tanzania",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Serengeti National Park is especially connected with what?",
+        "q": "What type of place is Serengeti National Park?",
         "a": [
-          "savanna ecosystem",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "transboundary protected area",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Serengeti National Park?",
+        "q": "Which region or city is connected to Serengeti National Park?",
         "a": [
-          "wildlife migration",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Mara Region",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-018-galapagos-islands",
@@ -873,36 +907,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Galapagos Islands?",
+        "q": "In which country is Galapagos Islands located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Ecuador",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Galapagos Islands is especially connected with what?",
+        "q": "What type of place is Galapagos Islands?",
         "a": [
-          "evolutionary biodiversity",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "archipelago",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Galapagos Islands?",
+        "q": "Which region or city is connected to Galapagos Islands?",
         "a": [
-          "Pacific Ocean",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Galápagos Province",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-019-grand-canyon",
@@ -923,36 +959,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Krigore / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Grand Canyon?",
+        "q": "In which country is Grand Canyon located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "United States",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Grand Canyon is especially connected with what?",
+        "q": "What type of place is Grand Canyon?",
         "a": [
-          "river-carved canyon",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "university",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Grand Canyon?",
+        "q": "Which region or city is connected to Grand Canyon?",
         "a": [
-          "Arizona",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Phoenix",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-020-victoria-falls",
@@ -973,36 +1011,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Victoria Falls?",
+        "q": "In which country is Victoria Falls located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Zambia",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Victoria Falls is especially connected with what?",
+        "q": "What type of place is Victoria Falls?",
         "a": [
           "waterfall",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Victoria Falls?",
+        "q": "Which region or city is connected to Victoria Falls?",
         "a": [
-          "Zambezi River",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Southern Province",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-021-borobudur",
@@ -1023,36 +1063,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "CEphoto, Uwe Aranas / Wikimedia Commons / CC BY-SA 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Borobudur?",
+        "q": "In which country is Borobudur located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Indonesia",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Borobudur is especially connected with what?",
+        "q": "What type of place is Borobudur?",
         "a": [
-          "Buddhist temple",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "kecamatan",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Borobudur?",
+        "q": "Which region or city is connected to Borobudur?",
         "a": [
-          "Java",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Magelang",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-022-lalibela-churches",
@@ -1073,36 +1115,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Thomas Fuhrmann / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Lalibela Churches?",
+        "q": "Which statement is true about Lalibela Churches?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Lalibela Churches is an important place connected with geography, culture, or history.",
+          "Lalibela Churches is only a fictional mobile-game item.",
+          "Lalibela Churches is mainly a cooking utensil.",
+          "Lalibela Churches is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Lalibela Churches is especially connected with what?",
+        "q": "What makes Lalibela Churches useful as an educational puzzle image?",
         "a": [
-          "rock-hewn churches",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It represents a real place with cultural, historic, or geographic value",
+          "It is only a random brand logo",
+          "It is only a cooking recipe",
+          "It is only a fictional phone model"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Lalibela Churches?",
+        "q": "Which statement is true about Lalibela Churches?",
         "a": [
-          "Lalibela",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Lalibela Churches is an important place connected with geography, culture, or history.",
+          "Lalibela Churches is only a fictional mobile-game item.",
+          "Lalibela Churches is mainly a cooking utensil.",
+          "Lalibela Churches is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-023-alhambra",
@@ -1123,36 +1167,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Ввласенко / Wikimedia Commons / CC BY-SA 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Alhambra?",
+        "q": "Which statement is true about Alhambra?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "The Alhambra is a palatine city and fortress complex located in Granada, Spain.",
+          "Alhambra is only a fictional mobile-game item.",
+          "Alhambra is mainly a cooking utensil.",
+          "Alhambra is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Alhambra is especially connected with what?",
+        "q": "What type of place is Alhambra?",
         "a": [
-          "Islamic palace fortress",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "family name",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Alhambra?",
+        "q": "Which statement is true about Alhambra?",
         "a": [
-          "Granada",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The Alhambra is a palatine city and fortress complex located in Granada, Spain.",
+          "Alhambra is only a fictional mobile-game item.",
+          "Alhambra is mainly a cooking utensil.",
+          "Alhambra is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-024-neuschwanstein-castle",
@@ -1173,36 +1219,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Wilfredor / Wikimedia Commons / CC0",
     "trivia": [
       {
-        "q": "Which category best matches Neuschwanstein Castle?",
+        "q": "In which country is Neuschwanstein Castle located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Germany",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Neuschwanstein Castle is especially connected with what?",
+        "q": "What type of place is Neuschwanstein Castle?",
         "a": [
-          "romantic castle",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "palace",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Neuschwanstein Castle?",
+        "q": "Which region or city is connected to Neuschwanstein Castle?",
         "a": [
-          "Bavaria",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Schwangau",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-025-hagia-sophia",
@@ -1223,36 +1271,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Arild Vågen / Wikimedia Commons / CC BY-SA 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Hagia Sophia?",
+        "q": "In which country is Hagia Sophia located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Turkey",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Hagia Sophia is especially connected with what?",
+        "q": "What type of place is Hagia Sophia?",
         "a": [
-          "historic monument",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "minor basilica",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Hagia Sophia?",
+        "q": "Which region or city is connected to Hagia Sophia?",
         "a": [
-          "Istanbul",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Fatih",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-026-forbidden-city",
@@ -1273,36 +1323,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Reinhold Möller Ermell / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Forbidden City?",
+        "q": "In which country is Forbidden City located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "People's Republic of China",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Forbidden City is especially connected with what?",
+        "q": "What type of place is Forbidden City?",
         "a": [
-          "imperial palace",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "palace",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Forbidden City?",
+        "q": "Which region or city is connected to Forbidden City?",
         "a": [
-          "Beijing",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Donghuamen Subdistrict",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-027-himeji-castle",
@@ -1323,36 +1375,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "DimiTalen / Wikimedia Commons / CC0",
     "trivia": [
       {
-        "q": "Which category best matches Himeji Castle?",
+        "q": "In which country is Himeji Castle located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Japan",
+          "India",
+          "China",
+          "Egypt"
         ],
         "correct": 0
       },
       {
-        "q": "Himeji Castle is especially connected with what?",
+        "q": "What type of place is Himeji Castle?",
         "a": [
-          "feudal castle",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Japanese castle",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Himeji Castle?",
+        "q": "Which region or city is connected to Himeji Castle?",
         "a": [
-          "Hyogo",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Himeji",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-028-uluru",
@@ -1373,36 +1427,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Dietmar Rabich / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Uluru?",
+        "q": "In which country is Uluru located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Australia",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Uluru is especially connected with what?",
+        "q": "What type of place is Uluru?",
         "a": [
-          "sandstone monolith",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "inselberg",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Uluru?",
+        "q": "Which region or city is connected to Uluru?",
         "a": [
           "Northern Territory",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-029-iguazu-falls",
@@ -1423,36 +1479,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "W. Bulach / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Iguazu Falls?",
+        "q": "In which country is Iguazu Falls located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Argentina",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Iguazu Falls is especially connected with what?",
+        "q": "What type of place is Iguazu Falls?",
         "a": [
-          "waterfall system",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "waterfall",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Iguazu Falls?",
+        "q": "Which region or city is connected to Iguazu Falls?",
         "a": [
-          "Iguazu River",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Misiones Province",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-030-yellowstone-national-park",
@@ -1473,36 +1531,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Heinrich C. Berann / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Yellowstone National Park?",
+        "q": "In which country is Yellowstone National Park located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "United States",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Yellowstone National Park is especially connected with what?",
+        "q": "What type of place is Yellowstone National Park?",
         "a": [
-          "geothermal park",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "National Park of the United States",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Yellowstone National Park?",
+        "q": "Which region or city is connected to Yellowstone National Park?",
         "a": [
           "Wyoming",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-031-banff-national-park",
@@ -1523,36 +1583,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Sergey Pesterev / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Banff National Park?",
+        "q": "In which country is Banff National Park located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Canada",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Banff National Park is especially connected with what?",
+        "q": "What type of place is Banff National Park?",
         "a": [
-          "mountain park",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "national park of Canada",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Banff National Park?",
+        "q": "Which region or city is connected to Banff National Park?",
         "a": [
-          "Rocky Mountains",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Improvement District No. 09 (Banff National Park)",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-032-santorini",
@@ -1573,36 +1635,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Giles Laurent / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Santorini?",
+        "q": "In which country is Santorini located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Greece",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Santorini is especially connected with what?",
+        "q": "What type of place is Santorini?",
         "a": [
-          "volcanic island",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "island",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Santorini?",
+        "q": "Which region or city is connected to Santorini?",
         "a": [
-          "Aegean Sea",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Thira Municipality",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-033-venice-canals",
@@ -1623,36 +1687,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Didier Descouens / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Venice Canals?",
+        "q": "Which statement is true about Venice Canals?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "The Venice Canal Historic District is embedded in the residential Venice suburb of Los Angeles, California.",
+          "Venice Canals is only a fictional mobile-game item.",
+          "Venice Canals is mainly a cooking utensil.",
+          "Venice Canals is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Venice Canals is especially connected with what?",
+        "q": "What makes Venice Canals useful as an educational puzzle image?",
         "a": [
-          "historic canal city",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It represents a real place with cultural, historic, or geographic value",
+          "It is only a random brand logo",
+          "It is only a cooking recipe",
+          "It is only a fictional phone model"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Venice Canals?",
+        "q": "Which statement is true about Venice Canals?",
         "a": [
-          "Venice",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The Venice Canal Historic District is embedded in the residential Venice suburb of Los Angeles, California.",
+          "Venice Canals is only a fictional mobile-game item.",
+          "Venice Canals is mainly a cooking utensil.",
+          "Venice Canals is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-034-tower-bridge",
@@ -1673,36 +1739,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Colin / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Tower Bridge?",
+        "q": "In which country is Tower Bridge located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "United Kingdom",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Tower Bridge is especially connected with what?",
+        "q": "What type of place is Tower Bridge?",
         "a": [
           "bascule bridge",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Tower Bridge?",
+        "q": "Which region or city is connected to Tower Bridge?",
         "a": [
-          "London",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "London Borough of Tower Hamlets",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-035-burj-khalifa",
@@ -1723,36 +1791,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Jpbowen / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Burj Khalifa?",
+        "q": "In which country is Burj Khalifa located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "United Arab Emirates",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Burj Khalifa is especially connected with what?",
+        "q": "What type of place is Burj Khalifa?",
         "a": [
           "skyscraper",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Burj Khalifa?",
+        "q": "Which region or city is connected to Burj Khalifa?",
         "a": [
           "Dubai",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-036-prague-castle",
@@ -1773,36 +1843,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Prague Castle?",
+        "q": "In which country is Prague Castle located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Czech Republic",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Prague Castle is especially connected with what?",
+        "q": "What type of place is Prague Castle?",
         "a": [
-          "castle complex",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "castle",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Prague Castle?",
+        "q": "Which region or city is connected to Prague Castle?",
         "a": [
-          "Prague",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Hradčany",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-037-meteora-monasteries",
@@ -1823,36 +1895,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Stathis floros / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Meteora Monasteries?",
+        "q": "In which country is Meteora Monasteries located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Greece",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Meteora Monasteries is especially connected with what?",
+        "q": "What type of place is Meteora Monasteries?",
         "a": [
-          "cliff monasteries",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "monastic community",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Meteora Monasteries?",
+        "q": "Which region or city is connected to Meteora Monasteries?",
         "a": [
-          "Thessaly",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Meteora Municipality",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-038-bagan-temples",
@@ -1873,36 +1947,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Jakub Hałun / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Bagan Temples?",
+        "q": "Which statement is true about Bagan Temples?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Bagan Temples is an important place connected with geography, culture, or history.",
+          "Bagan Temples is only a fictional mobile-game item.",
+          "Bagan Temples is mainly a cooking utensil.",
+          "Bagan Temples is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Bagan Temples is especially connected with what?",
+        "q": "What makes Bagan Temples useful as an educational puzzle image?",
         "a": [
-          "ancient temple plain",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It represents a real place with cultural, historic, or geographic value",
+          "It is only a random brand logo",
+          "It is only a cooking recipe",
+          "It is only a fictional phone model"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Bagan Temples?",
+        "q": "Which statement is true about Bagan Temples?",
         "a": [
-          "Bagan",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Bagan Temples is an important place connected with geography, culture, or history.",
+          "Bagan Temples is only a fictional mobile-game item.",
+          "Bagan Temples is mainly a cooking utensil.",
+          "Bagan Temples is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-039-moai-of-easter-island",
@@ -1923,36 +1999,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Dennis G. Jarvis / Wikimedia Commons / CC BY-SA 2.0",
     "trivia": [
       {
-        "q": "Which category best matches Moai of Easter Island?",
+        "q": "Which statement is true about Moai of Easter Island?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Moai of Easter Island is an important place connected with geography, culture, or history.",
+          "Moai of Easter Island is only a fictional mobile-game item.",
+          "Moai of Easter Island is mainly a cooking utensil.",
+          "Moai of Easter Island is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Moai of Easter Island is especially connected with what?",
+        "q": "What makes Moai of Easter Island useful as an educational puzzle image?",
         "a": [
-          "stone statues",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It represents a real place with cultural, historic, or geographic value",
+          "It is only a random brand logo",
+          "It is only a cooking recipe",
+          "It is only a fictional phone model"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Moai of Easter Island?",
+        "q": "Which statement is true about Moai of Easter Island?",
         "a": [
-          "Rapa Nui",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Moai of Easter Island is an important place connected with geography, culture, or history.",
+          "Moai of Easter Island is only a fictional mobile-game item.",
+          "Moai of Easter Island is mainly a cooking utensil.",
+          "Moai of Easter Island is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-040-nazca-lines",
@@ -1973,36 +2051,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Nazca Lines?",
+        "q": "In which country is Nazca Lines located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Peru",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Nazca Lines is especially connected with what?",
+        "q": "What type of place is Nazca Lines?",
         "a": [
-          "geoglyphs",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "geoglyph",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Nazca Lines?",
+        "q": "Which region or city is connected to Nazca Lines?",
         "a": [
-          "Nazca Desert",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Ica Department",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-041-mount-kilimanjaro",
@@ -2023,36 +2103,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Altezzatravel / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Mount Kilimanjaro?",
-        "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Mount Kilimanjaro is especially connected with what?",
-        "a": [
-          "highest African mountain",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Mount Kilimanjaro?",
+        "q": "In which country is Mount Kilimanjaro located?",
         "a": [
           "Tanzania",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "India",
+          "China",
+          "Japan"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What type of place is Mount Kilimanjaro?",
+        "a": [
+          "massif",
+          "ancient monument",
+          "religious site",
+          "fortress"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which region or city is connected to Mount Kilimanjaro?",
+        "a": [
+          "Kilimanjaro Region",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-042-table-mountain",
@@ -2073,36 +2155,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Dietmar Rabich / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Table Mountain?",
+        "q": "In which country is Table Mountain located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "South Africa",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Table Mountain is especially connected with what?",
+        "q": "What type of place is Table Mountain?",
         "a": [
-          "flat-topped mountain",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "mountain",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Table Mountain?",
+        "q": "Which region or city is connected to Table Mountain?",
         "a": [
-          "Cape Town",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "City of Cape Town",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-043-niagara-falls",
@@ -2123,36 +2207,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Maksimsokolov / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Niagara Falls?",
+        "q": "In which country is Niagara Falls located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Canada",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Niagara Falls is especially connected with what?",
+        "q": "What type of place is Niagara Falls?",
         "a": [
-          "waterfall group",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "city",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Niagara Falls?",
+        "q": "Which region or city is connected to Niagara Falls?",
         "a": [
-          "Niagara River",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Regional Municipality of Niagara",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-044-golden-gate-bridge",
@@ -2173,36 +2259,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Daniel L. Lu (user:dllu)\n\n\nCamera location37° 49′ 39.52″ N, 122° 29′ 56.17″ W View this and other nearby images on: OpenStreetMap 37.827644; -122.498935 / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Golden Gate Bridge?",
+        "q": "In which country is Golden Gate Bridge located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "United States",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Golden Gate Bridge is especially connected with what?",
+        "q": "What type of place is Golden Gate Bridge?",
         "a": [
           "suspension bridge",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Golden Gate Bridge?",
+        "q": "Which region or city is connected to Golden Gate Bridge?",
         "a": [
-          "San Francisco",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Marin County",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-045-mount-rushmore",
@@ -2223,36 +2311,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Thomas Wolf, www.foto-tw.de / Wikimedia Commons / CC BY-SA 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Mount Rushmore?",
+        "q": "In which country is Mount Rushmore located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "United States",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Mount Rushmore is especially connected with what?",
+        "q": "What type of place is Mount Rushmore?",
         "a": [
-          "presidential sculpture",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "mountain",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Mount Rushmore?",
+        "q": "Which region or city is connected to Mount Rushmore?",
         "a": [
-          "South Dakota",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Pennington County",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-046-louvre-museum",
@@ -2273,36 +2363,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Benh LIEU SONG (Flickr) / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Louvre Museum?",
+        "q": "In which country is Louvre Museum located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "France",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Louvre Museum is especially connected with what?",
+        "q": "What type of place is Louvre Museum?",
         "a": [
           "art museum",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Louvre Museum?",
+        "q": "Which region or city is connected to Louvre Museum?",
         "a": [
-          "Paris",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Saint-Germain-l'Auxerrois",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-047-brandenburg-gate",
@@ -2323,36 +2415,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Norbert Nagel / Wikimedia Commons / CC BY-SA 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Brandenburg Gate?",
+        "q": "In which country is Brandenburg Gate located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Germany",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Brandenburg Gate is especially connected with what?",
+        "q": "What type of place is Brandenburg Gate?",
         "a": [
-          "neoclassical gate",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "triumphal arch",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Brandenburg Gate?",
+        "q": "Which region or city is connected to Brandenburg Gate?",
         "a": [
           "Berlin",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-048-red-square",
@@ -2373,36 +2467,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "MBH / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Red Square?",
+        "q": "In which country is Red Square located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Russia",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Red Square is especially connected with what?",
+        "q": "What type of place is Red Square?",
         "a": [
-          "historic square",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "square",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Red Square?",
+        "q": "Which region or city is connected to Red Square?",
         "a": [
           "Moscow",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-049-st-basil-cathedral",
@@ -2423,36 +2519,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Юрий Д.К. / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches St Basil Cathedral?",
+        "q": "Which statement is true about St Basil Cathedral?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "The Cathedral of Vasily the Blessed, commonly known as Saint Basil's Cathedral, is a Russian Orthodox church on Red Square in the historic centre of Moscow.",
+          "St Basil Cathedral is only a fictional mobile-game item.",
+          "St Basil Cathedral is mainly a cooking utensil.",
+          "St Basil Cathedral is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "St Basil Cathedral is especially connected with what?",
+        "q": "What makes St Basil Cathedral useful as an educational puzzle image?",
         "a": [
-          "onion-domed cathedral",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It represents a real place with cultural, historic, or geographic value",
+          "It is only a random brand logo",
+          "It is only a cooking recipe",
+          "It is only a fictional phone model"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to St Basil Cathedral?",
+        "q": "Which statement is true about St Basil Cathedral?",
         "a": [
-          "Moscow",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The Cathedral of Vasily the Blessed, commonly known as Saint Basil's Cathedral, is a Russian Orthodox church on Red Square in the historic centre of Moscow.",
+          "St Basil Cathedral is only a fictional mobile-game item.",
+          "St Basil Cathedral is mainly a cooking utensil.",
+          "St Basil Cathedral is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-050-potala-palace",
@@ -2473,36 +2571,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Fumikas Sagisavas / Wikimedia Commons / CC0",
     "trivia": [
       {
-        "q": "Which category best matches Potala Palace?",
+        "q": "In which country is Potala Palace located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Tibet",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Potala Palace is especially connected with what?",
+        "q": "What type of place is Potala Palace?",
         "a": [
-          "Tibetan palace",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "palace",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Potala Palace?",
+        "q": "Which region or city is connected to Potala Palace?",
         "a": [
-          "Lhasa",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Lhasa District",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-051-leshan-giant-buddha",
@@ -2523,36 +2623,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Calistemon / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Leshan Giant Buddha?",
+        "q": "In which country is Leshan Giant Buddha located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "People's Republic of China",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Leshan Giant Buddha is especially connected with what?",
+        "q": "What type of place is Leshan Giant Buddha?",
         "a": [
-          "stone Buddha statue",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "daibutsu",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Leshan Giant Buddha?",
+        "q": "Which region or city is connected to Leshan Giant Buddha?",
         "a": [
-          "Sichuan",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Shizhong District",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-052-mysore-palace",
@@ -2573,36 +2675,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Sumit Surai / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Mysore Palace?",
+        "q": "In which country is Mysore Palace located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "India",
+          "China",
+          "Japan",
+          "Egypt"
         ],
         "correct": 0
       },
       {
-        "q": "Mysore Palace is especially connected with what?",
+        "q": "What type of place is Mysore Palace?",
         "a": [
-          "royal palace",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "palace",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Mysore Palace?",
+        "q": "Which region or city is connected to Mysore Palace?",
         "a": [
-          "Mysuru",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Mysore",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-053-hampi-ruins",
@@ -2623,36 +2727,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Ingo Mehling / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Hampi Ruins?",
+        "q": "In which country is Hampi Ruins located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "India",
+          "China",
+          "Japan",
+          "Egypt"
         ],
         "correct": 0
       },
       {
-        "q": "Hampi Ruins is especially connected with what?",
+        "q": "What type of place is Hampi Ruins?",
         "a": [
-          "Vijayanagara ruins",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Hindu temple",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Hampi Ruins?",
+        "q": "Which region or city is connected to Hampi Ruins?",
         "a": [
-          "Karnataka",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Vijayanagara District",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-054-konark-sun-temple",
@@ -2673,36 +2779,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Subhrajyoti07 / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Konark Sun Temple?",
+        "q": "In which country is Konark Sun Temple located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "India",
+          "China",
+          "Japan",
+          "Egypt"
         ],
         "correct": 0
       },
       {
-        "q": "Konark Sun Temple is especially connected with what?",
+        "q": "What type of place is Konark Sun Temple?",
         "a": [
-          "sun temple",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Hindu temple",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Konark Sun Temple?",
+        "q": "Which region or city is connected to Konark Sun Temple?",
         "a": [
-          "Odisha",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Puri district",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-055-qutub-minar",
@@ -2723,36 +2831,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Syed Sajidul Islam / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Qutub Minar?",
+        "q": "In which country is Qutub Minar located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "India",
+          "China",
+          "Japan",
+          "Egypt"
         ],
         "correct": 0
       },
       {
-        "q": "Qutub Minar is especially connected with what?",
+        "q": "What type of place is Qutub Minar?",
         "a": [
-          "victory tower",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "minaret",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Qutub Minar?",
+        "q": "Which region or city is connected to Qutub Minar?",
         "a": [
           "Delhi",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-056-ajanta-caves",
@@ -2773,36 +2883,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Marcin Białek / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Ajanta Caves?",
+        "q": "In which country is Ajanta Caves located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "India",
+          "China",
+          "Japan",
+          "Egypt"
         ],
         "correct": 0
       },
       {
-        "q": "Ajanta Caves is especially connected with what?",
+        "q": "What type of place is Ajanta Caves?",
         "a": [
-          "Buddhist cave art",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "grotto",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Ajanta Caves?",
+        "q": "Which region or city is connected to Ajanta Caves?",
         "a": [
-          "Maharashtra",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Aurangabad district",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-057-ellora-caves",
@@ -2823,36 +2935,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Amitbalani / Wikimedia Commons / CC0",
     "trivia": [
       {
-        "q": "Which category best matches Ellora Caves?",
+        "q": "In which country is Ellora Caves located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "India",
+          "China",
+          "Japan",
+          "Egypt"
         ],
         "correct": 0
       },
       {
-        "q": "Ellora Caves is especially connected with what?",
+        "q": "What type of place is Ellora Caves?",
         "a": [
-          "rock-cut caves",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "archaeological site",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Ellora Caves?",
+        "q": "Which region or city is connected to Ellora Caves?",
         "a": [
-          "Maharashtra",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Aurangabad district",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-058-meenakshi-temple",
@@ -2873,36 +2987,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "MADHURANTHAKAN JAGADEESAN / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Meenakshi Temple?",
+        "q": "In which country is Meenakshi Temple located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "India",
+          "China",
+          "Japan",
+          "Egypt"
         ],
         "correct": 0
       },
       {
-        "q": "Meenakshi Temple is especially connected with what?",
+        "q": "What type of place is Meenakshi Temple?",
         "a": [
-          "Dravidian temple",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Hindu temple",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Meenakshi Temple?",
+        "q": "Which region or city is connected to Meenakshi Temple?",
         "a": [
           "Madurai",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-059-golden-temple",
@@ -2923,36 +3039,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Moheen Reeyad / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Golden Temple?",
+        "q": "In which country is Golden Temple located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "India",
+          "China",
+          "Japan",
+          "Egypt"
         ],
         "correct": 0
       },
       {
-        "q": "Golden Temple is especially connected with what?",
+        "q": "What type of place is Golden Temple?",
         "a": [
-          "Sikh shrine",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "architectural structure",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Golden Temple?",
+        "q": "Which region or city is connected to Golden Temple?",
         "a": [
           "Amritsar",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-060-gateway-of-india",
@@ -2973,36 +3091,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Ganesh Mohan T / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Gateway of India?",
+        "q": "In which country is Gateway of India located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "India",
+          "China",
+          "Japan",
+          "Egypt"
         ],
         "correct": 0
       },
       {
-        "q": "Gateway of India is especially connected with what?",
+        "q": "What type of place is Gateway of India?",
         "a": [
-          "arch monument",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "triumphal arch",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Gateway of India?",
+        "q": "Which region or city is connected to Gateway of India?",
         "a": [
-          "Mumbai",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Mumbai City district",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-061-charminar",
@@ -3023,36 +3143,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Photocurry / Wikimedia Commons / CC0",
     "trivia": [
       {
-        "q": "Which category best matches Charminar?",
+        "q": "In which country is Charminar located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "India",
+          "China",
+          "Japan",
+          "Egypt"
         ],
         "correct": 0
       },
       {
-        "q": "Charminar is especially connected with what?",
+        "q": "What type of place is Charminar?",
         "a": [
-          "historic mosque monument",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "monument",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Charminar?",
+        "q": "Which region or city is connected to Charminar?",
         "a": [
           "Hyderabad",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-062-humayun-tomb",
@@ -3073,36 +3195,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Naveen R Gowda / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Humayun Tomb?",
+        "q": "Which statement is true about Humayun Tomb?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Humayun Tomb is an important place connected with geography, culture, or history.",
+          "Humayun Tomb is only a fictional mobile-game item.",
+          "Humayun Tomb is mainly a cooking utensil.",
+          "Humayun Tomb is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Humayun Tomb is especially connected with what?",
+        "q": "What makes Humayun Tomb useful as an educational puzzle image?",
         "a": [
-          "Mughal tomb",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It represents a real place with cultural, historic, or geographic value",
+          "It is only a random brand logo",
+          "It is only a cooking recipe",
+          "It is only a fictional phone model"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Humayun Tomb?",
+        "q": "Which statement is true about Humayun Tomb?",
         "a": [
-          "Delhi",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Humayun Tomb is an important place connected with geography, culture, or history.",
+          "Humayun Tomb is only a fictional mobile-game item.",
+          "Humayun Tomb is mainly a cooking utensil.",
+          "Humayun Tomb is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-063-amber-fort",
@@ -3123,36 +3247,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Jakub Hałun / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Amber Fort?",
+        "q": "In which country is Amber Fort located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "India",
+          "China",
+          "Japan",
+          "Egypt"
         ],
         "correct": 0
       },
       {
-        "q": "Amber Fort is especially connected with what?",
+        "q": "What type of place is Amber Fort?",
         "a": [
-          "hill fort",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "palace",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Amber Fort?",
+        "q": "Which region or city is connected to Amber Fort?",
         "a": [
-          "Jaipur",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Jaipur district",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-064-mehrangarh-fort",
@@ -3173,36 +3299,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Jakub Hałun / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Mehrangarh Fort?",
+        "q": "In which country is Mehrangarh Fort located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "India",
+          "China",
+          "Japan",
+          "Egypt"
         ],
         "correct": 0
       },
       {
-        "q": "Mehrangarh Fort is especially connected with what?",
+        "q": "What type of place is Mehrangarh Fort?",
         "a": [
-          "fortress",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "fort",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Mehrangarh Fort?",
+        "q": "Which region or city is connected to Mehrangarh Fort?",
         "a": [
           "Jodhpur",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-065-sanchi-stupa",
@@ -3223,36 +3351,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Bernard Gagnon / Wikimedia Commons / CC BY-SA 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Sanchi Stupa?",
+        "q": "In which country is Sanchi Stupa located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "India",
+          "China",
+          "Japan",
+          "Egypt"
         ],
         "correct": 0
       },
       {
-        "q": "Sanchi Stupa is especially connected with what?",
+        "q": "What type of place is Sanchi Stupa?",
         "a": [
-          "Buddhist stupa",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "group",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Sanchi Stupa?",
+        "q": "Which region or city is connected to Sanchi Stupa?",
         "a": [
-          "Madhya Pradesh",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Raisen district",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-066-mahabalipuram-shore-temple",
@@ -3273,36 +3403,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Rainer Halama / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Mahabalipuram Shore Temple?",
+        "q": "Which statement is true about Mahabalipuram Shore Temple?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Mahabalipuram Shore Temple is an important place connected with geography, culture, or history.",
+          "Mahabalipuram Shore Temple is only a fictional mobile-game item.",
+          "Mahabalipuram Shore Temple is mainly a cooking utensil.",
+          "Mahabalipuram Shore Temple is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Mahabalipuram Shore Temple is especially connected with what?",
+        "q": "What makes Mahabalipuram Shore Temple useful as an educational puzzle image?",
         "a": [
-          "Pallava temple",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It represents a real place with cultural, historic, or geographic value",
+          "It is only a random brand logo",
+          "It is only a cooking recipe",
+          "It is only a fictional phone model"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Mahabalipuram Shore Temple?",
+        "q": "Which statement is true about Mahabalipuram Shore Temple?",
         "a": [
-          "Tamil Nadu",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Mahabalipuram Shore Temple is an important place connected with geography, culture, or history.",
+          "Mahabalipuram Shore Temple is only a fictional mobile-game item.",
+          "Mahabalipuram Shore Temple is mainly a cooking utensil.",
+          "Mahabalipuram Shore Temple is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-067-rani-ki-vav",
@@ -3323,36 +3455,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Snehrashmi / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Rani ki Vav?",
+        "q": "In which country is Rani ki Vav located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "India",
+          "China",
+          "Japan",
+          "Egypt"
         ],
         "correct": 0
       },
       {
-        "q": "Rani ki Vav is especially connected with what?",
+        "q": "What type of place is Rani ki Vav?",
         "a": [
           "stepwell",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Rani ki Vav?",
+        "q": "Which region or city is connected to Rani ki Vav?",
         "a": [
-          "Gujarat",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Patan Taluka",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-068-khajuraho-temples",
@@ -3373,36 +3507,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Marcin Białek / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Khajuraho Temples?",
+        "q": "In which country is Khajuraho Temples located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "India",
+          "China",
+          "Japan",
+          "Egypt"
         ],
         "correct": 0
       },
       {
-        "q": "Khajuraho Temples is especially connected with what?",
+        "q": "What type of place is Khajuraho Temples?",
         "a": [
-          "temple group",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "group",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Khajuraho Temples?",
+        "q": "Which region or city is connected to Khajuraho Temples?",
         "a": [
-          "Madhya Pradesh",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Khajuraho",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-069-nalanda-ruins",
@@ -3423,36 +3559,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Sumitsurai / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Nalanda Ruins?",
+        "q": "Which statement is true about Nalanda Ruins?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Nalanda Ruins is an important place connected with geography, culture, or history.",
+          "Nalanda Ruins is only a fictional mobile-game item.",
+          "Nalanda Ruins is mainly a cooking utensil.",
+          "Nalanda Ruins is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Nalanda Ruins is especially connected with what?",
+        "q": "What makes Nalanda Ruins useful as an educational puzzle image?",
         "a": [
-          "ancient university",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It represents a real place with cultural, historic, or geographic value",
+          "It is only a random brand logo",
+          "It is only a cooking recipe",
+          "It is only a fictional phone model"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Nalanda Ruins?",
+        "q": "Which statement is true about Nalanda Ruins?",
         "a": [
-          "Bihar",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Nalanda Ruins is an important place connected with geography, culture, or history.",
+          "Nalanda Ruins is only a fictional mobile-game item.",
+          "Nalanda Ruins is mainly a cooking utensil.",
+          "Nalanda Ruins is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-070-brihadeeswarar-temple",
@@ -3473,36 +3611,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Vengolis / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Brihadeeswarar Temple?",
+        "q": "In which country is Brihadeeswarar Temple located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "India",
+          "China",
+          "Japan",
+          "Egypt"
         ],
         "correct": 0
       },
       {
-        "q": "Brihadeeswarar Temple is especially connected with what?",
+        "q": "What type of place is Brihadeeswarar Temple?",
         "a": [
-          "Chola temple",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "structure fire",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Brihadeeswarar Temple?",
+        "q": "Which statement is true about Brihadeeswarar Temple?",
         "a": [
-          "Thanjavur",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "It is one of the largest Hindu temples and an exemplar of Tamil architecture.",
+          "Brihadeeswarar Temple is only a fictional mobile-game item.",
+          "Brihadeeswarar Temple is mainly a cooking utensil.",
+          "Brihadeeswarar Temple is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-071-leaning-tower-of-pisa",
@@ -3523,36 +3663,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "PaestumPaestum / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Leaning Tower of Pisa?",
+        "q": "In which country is Leaning Tower of Pisa located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Italy",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Leaning Tower of Pisa is especially connected with what?",
+        "q": "What type of place is Leaning Tower of Pisa?",
         "a": [
-          "tilted bell tower",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "tourist attraction",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Leaning Tower of Pisa?",
+        "q": "Which region or city is connected to Leaning Tower of Pisa?",
         "a": [
           "Pisa",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-072-sphinx-of-giza",
@@ -3573,36 +3715,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Maison Bonfils (Beirut, Lebanon), photographers : Félix (1831-1885), his wife, Lydie (1837-1918) and his son, Adrien (1861-1929). Most possible done by Félix / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Sphinx of Giza?",
+        "q": "Which statement is true about Sphinx of Giza?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "The Great Sphinx of Giza is a limestone statue of a reclining sphinx, a mythical creature with the head of a human and the body of a lion.",
+          "Sphinx of Giza is only a fictional mobile-game item.",
+          "Sphinx of Giza is mainly a cooking utensil.",
+          "Sphinx of Giza is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Sphinx of Giza is especially connected with what?",
+        "q": "What makes Sphinx of Giza useful as an educational puzzle image?",
         "a": [
-          "limestone statue",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It represents a real place with cultural, historic, or geographic value",
+          "It is only a random brand logo",
+          "It is only a cooking recipe",
+          "It is only a fictional phone model"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Sphinx of Giza?",
+        "q": "Which statement is true about Sphinx of Giza?",
         "a": [
-          "Giza",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The Great Sphinx of Giza is a limestone statue of a reclining sphinx, a mythical creature with the head of a human and the body of a lion.",
+          "Sphinx of Giza is only a fictional mobile-game item.",
+          "Sphinx of Giza is mainly a cooking utensil.",
+          "Sphinx of Giza is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-073-luxor-temple",
@@ -3623,36 +3767,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Luxor Temple?",
+        "q": "In which country is Luxor Temple located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Egypt",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Luxor Temple is especially connected with what?",
+        "q": "What type of place is Luxor Temple?",
         "a": [
-          "ancient temple",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Egyptian temple",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Luxor Temple?",
+        "q": "Which region or city is connected to Luxor Temple?",
         "a": [
           "Luxor",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-074-abu-simbel",
@@ -3673,36 +3819,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Abu Simbel?",
+        "q": "In which country is Abu Simbel located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Egypt",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Abu Simbel is especially connected with what?",
+        "q": "What type of place is Abu Simbel?",
         "a": [
-          "rock temples",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "archaeological site",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Abu Simbel?",
+        "q": "Which region or city is connected to Abu Simbel?",
         "a": [
-          "Nubia",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Aswan Governorate",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-075-temple-of-heaven",
@@ -3723,36 +3871,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Maros M r a z (Maros) / Wikimedia Commons / CC BY-SA 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Temple of Heaven?",
+        "q": "In which country is Temple of Heaven located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "People's Republic of China",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Temple of Heaven is especially connected with what?",
+        "q": "What type of place is Temple of Heaven?",
         "a": [
-          "imperial temple",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "temple",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Temple of Heaven?",
+        "q": "Which region or city is connected to Temple of Heaven?",
         "a": [
-          "Beijing",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Tiantan Subdistrict",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-076-terracotta-army",
@@ -3773,36 +3923,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "沈澄心 / Wikimedia Commons / CC0",
     "trivia": [
       {
-        "q": "Which category best matches Terracotta Army?",
+        "q": "In which country is Terracotta Army located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "People's Republic of China",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Terracotta Army is especially connected with what?",
+        "q": "What type of place is Terracotta Army?",
         "a": [
-          "buried army sculptures",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "military museum",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Terracotta Army?",
+        "q": "Which statement is true about Terracotta Army?",
         "a": [
-          "Xi’an",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The Terracotta Army is a collection of terracotta sculptures depicting the armies of Qin Shi Huang, the first emperor of China.",
+          "Terracotta Army is only a fictional mobile-game item.",
+          "Terracotta Army is mainly a cooking utensil.",
+          "Terracotta Army is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-077-pompeii",
@@ -3823,36 +3975,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Karl Bryullov / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Pompeii?",
+        "q": "In which country is Pompeii located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Italy",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Pompeii is especially connected with what?",
+        "q": "What type of place is Pompeii?",
         "a": [
-          "Roman city ruins",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "archaeological site",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Pompeii?",
+        "q": "Which region or city is connected to Pompeii?",
         "a": [
-          "Campania",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Pompei",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-078-tikal",
@@ -3873,36 +4027,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Infrogmation / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Tikal?",
+        "q": "Which statement is true about Tikal?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Tikal is the ruin of an ancient city, which was likely to have been called Yax Mutal, found in a rainforest in Guatemala.",
+          "Tikal is only a fictional mobile-game item.",
+          "Tikal is mainly a cooking utensil.",
+          "Tikal is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Tikal is especially connected with what?",
+        "q": "What type of place is Tikal?",
         "a": [
-          "Maya city",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "family name",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Tikal?",
+        "q": "Which statement is true about Tikal?",
         "a": [
-          "rainforest",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Tikal is the ruin of an ancient city, which was likely to have been called Yax Mutal, found in a rainforest in Guatemala.",
+          "Tikal is only a fictional mobile-game item.",
+          "Tikal is mainly a cooking utensil.",
+          "Tikal is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-079-cappadocia",
@@ -3923,36 +4079,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Benh LIEU SONG / Wikimedia Commons / CC BY-SA 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Cappadocia?",
+        "q": "In which country is Cappadocia located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Turkey",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Cappadocia is especially connected with what?",
+        "q": "What type of place is Cappadocia?",
         "a": [
-          "rock formations",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "region",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Cappadocia?",
+        "q": "Which region or city is connected to Cappadocia?",
         "a": [
-          "Anatolia",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Central Anatolia Region",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-080-chefchaouen",
@@ -3973,36 +4131,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Sergey Pesterev / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Chefchaouen?",
+        "q": "In which country is Chefchaouen located?",
         "a": [
-          "World Places & Monuments",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Morocco",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       },
       {
-        "q": "Chefchaouen is especially connected with what?",
+        "q": "What type of place is Chefchaouen?",
         "a": [
-          "blue-painted city",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "city",
+          "ancient monument",
+          "religious site",
+          "fortress"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Chefchaouen?",
+        "q": "Which region or city is connected to Chefchaouen?",
         "a": [
-          "Rif Mountains",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Chefchaouen Province",
+          "India",
+          "China",
+          "Japan"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-081-albert-einstein",
@@ -4019,8 +4179,8 @@ window.PUZZLEVERSE_LEVELS = [
     "localImage": "assets/puzzle-library/famous_people/pv-081-albert-einstein/image.jpg",
     "sourceProvider": "Wikimedia Commons",
     "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Albert%20Einstein",
-    "licenseStatus": "downloaded-needs-human-review",
-    "credit": "Smithsonian Institution, Photographer: unknown Restored by: Bammesk / Wikimedia Commons / No restrictions",
+    "licenseStatus": "smart-curated-v3-review-needed",
+    "credit": "Ferdinand Schmutzer    /   Adam Cuerden | http://www.bhm.ch/de/news_04a.cfm?bid=4&amp;jahr=2006    [   dead link   ]  ,  archived copy  ( image ) | Public domain | wikidata-P18 | File:Einstein 1921 by F Schmutzer - restoration.jpg",
     "trivia": [
       {
         "q": "Which category best matches Albert Einstein?",
@@ -4069,8 +4229,8 @@ window.PUZZLEVERSE_LEVELS = [
     "localImage": "assets/puzzle-library/famous_people/pv-082-marie-curie/image.jpg",
     "sourceProvider": "Wikimedia Commons",
     "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Marie%20Curie",
-    "licenseStatus": "downloaded-needs-human-review",
-    "credit": "Sofia Gisberg, uploaded and retouched by Jebulon / Wikimedia Commons / Public domain",
+    "licenseStatus": "smart-curated-v3-review-needed",
+    "credit": "Benjamin Couprie | Benjamin Couprie | Public domain | wikipedia-image-list | File:1911 Solvay conference.jpg",
     "trivia": [
       {
         "q": "Which category best matches Marie Curie?",
@@ -4119,8 +4279,8 @@ window.PUZZLEVERSE_LEVELS = [
     "localImage": "assets/puzzle-library/famous_people/pv-083-isaac-newton/image.jpg",
     "sourceProvider": "Wikimedia Commons",
     "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Isaac%20Newton",
-    "licenseStatus": "downloaded-needs-human-review",
-    "credit": "Isaac Newton / Wikimedia Commons / Public domain",
+    "licenseStatus": "smart-curated-v3-review-needed",
+    "credit": "James Thronill after Sir Godfrey Kneller | http://www.newton.cam.ac.uk/art/portrait.html | Public domain | wikidata-P18 | File:GodfreyKneller-IsaacNewton-1689.jpg",
     "trivia": [
       {
         "q": "Which category best matches Isaac Newton?",
@@ -4169,8 +4329,8 @@ window.PUZZLEVERSE_LEVELS = [
     "localImage": "assets/puzzle-library/famous_people/pv-084-charles-darwin/image.jpg",
     "sourceProvider": "Wikimedia Commons",
     "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Charles%20Darwin",
-    "licenseStatus": "downloaded-needs-human-review",
-    "credit": "Dietmar Rabich / Wikimedia Commons / CC BY-SA 4.0",
+    "licenseStatus": "smart-curated-v3-review-needed",
+    "credit": "Herbert Rose Barraud | https://www.taringa.net/+info/charles-darwin-argentina-fue-y-sera-una_136c2o | Public domain | wikidata-P18 | File:Charles Darwin portrait.jpg",
     "trivia": [
       {
         "q": "Which category best matches Charles Darwin?",
@@ -4219,8 +4379,8 @@ window.PUZZLEVERSE_LEVELS = [
     "localImage": "assets/puzzle-library/famous_people/pv-085-ada-lovelace/image.jpg",
     "sourceProvider": "Wikimedia Commons",
     "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Ada%20Lovelace",
-    "licenseStatus": "downloaded-needs-human-review",
-    "credit": "Margaret Sarah Carpenter / Wikimedia Commons / Public domain",
+    "licenseStatus": "smart-curated-v3-review-needed",
+    "credit": "Margaret Sarah Carpenter | Government Art Collection | Public domain | wikidata-P18 | File:Ada Lovelace.jpg",
     "trivia": [
       {
         "q": "Which category best matches Ada Lovelace?",
@@ -4269,8 +4429,8 @@ window.PUZZLEVERSE_LEVELS = [
     "localImage": "assets/puzzle-library/famous_people/pv-086-nikola-tesla/image.jpg",
     "sourceProvider": "Wikimedia Commons",
     "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Nikola%20Tesla",
-    "licenseStatus": "downloaded-needs-human-review",
-    "credit": "Photographer: Dickenson V. Alley\n\nRestored by Lošmi / Wikimedia Commons / Public domain",
+    "licenseStatus": "smart-curated-v3-review-needed",
+    "credit": "Unknown author Unknown author | Downloaded from:  https://historyrat.wordpress.com/2013/01/13/lighting-the-1893-worlds-fair-the-race-to-light-the-world/ | Public domain | wikidata-P18 | File:N.Tesla.JPG",
     "trivia": [
       {
         "q": "Which category best matches Nikola Tesla?",
@@ -4315,12 +4475,12 @@ window.PUZZLEVERSE_LEVELS = [
     "contextFact": "Important context: Renaissance.",
     "pieces": 94,
     "difficulty": "Hard",
-    "image": "assets/puzzle-library/famous_people/pv-087-leonardo-da-vinci/image.jpg",
-    "localImage": "assets/puzzle-library/famous_people/pv-087-leonardo-da-vinci/image.jpg",
+    "image": "assets/puzzle-library/famous_people/pv-087-leonardo-da-vinci/image.png",
+    "localImage": "assets/puzzle-library/famous_people/pv-087-leonardo-da-vinci/image.png",
     "sourceProvider": "Wikimedia Commons",
     "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Leonardo%20da%20Vinci",
-    "licenseStatus": "downloaded-needs-human-review",
-    "credit": "Leonardo da Vinci / Wikimedia Commons / Public domain",
+    "licenseStatus": "smart-curated-v3-review-needed",
+    "credit": "Attributed to   Francesco Melzi | File:Francesco_Molzi_-_Portrait_of_Leonardo_-_WGA14795.jpg | Public domain | wikidata-P18 | File:Francesco Melzi - Portrait of Leonardo.png",
     "trivia": [
       {
         "q": "Which category best matches Leonardo da Vinci?",
@@ -4369,8 +4529,8 @@ window.PUZZLEVERSE_LEVELS = [
     "localImage": "assets/puzzle-library/famous_people/pv-088-galileo-galilei/image.jpg",
     "sourceProvider": "Wikimedia Commons",
     "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Galileo%20Galilei",
-    "licenseStatus": "downloaded-needs-human-review",
-    "credit": "This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons / CC BY-SA 3.0",
+    "licenseStatus": "smart-curated-v3-review-needed",
+    "credit": "Justus Sustermans | http://www.nmm.ac.uk/mag/pages/mnuExplore/PaintingDetail.cfm?ID=BHC2700  (originally;  archive ); see also  http://collections.rmg.co.uk/collections/objects/14174.html | Public domain | wikidata-P18 | File:Galileo.arp.300pix.jpg",
     "trivia": [
       {
         "q": "Which category best matches Galileo Galilei?",
@@ -4419,8 +4579,8 @@ window.PUZZLEVERSE_LEVELS = [
     "localImage": "assets/puzzle-library/famous_people/pv-089-katherine-johnson/image.jpg",
     "sourceProvider": "Wikimedia Commons",
     "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Katherine%20Johnson",
-    "licenseStatus": "downloaded-needs-human-review",
-    "credit": "Aubrey Gemignani / Wikimedia Commons / Public domain",
+    "licenseStatus": "smart-curated-v3-review-needed",
+    "credit": "NASA | https://crgis.ndc.nasa.gov/historic/File:1983-L-04373.jpg | Public domain | wikidata-P18 | File:Katherine Johnson 1983.jpg",
     "trivia": [
       {
         "q": "Which category best matches Katherine Johnson?",
@@ -4469,8 +4629,8 @@ window.PUZZLEVERSE_LEVELS = [
     "localImage": "assets/puzzle-library/famous_people/pv-090-rosalind-franklin/image.jpg",
     "sourceProvider": "Wikimedia Commons",
     "sourceSearchUrl": "https://commons.wikimedia.org/w/index.php?search=Rosalind%20Franklin",
-    "licenseStatus": "downloaded-needs-human-review",
-    "credit": "Ein Dahmer / Wikimedia Commons / CC BY-SA 4.0",
+    "licenseStatus": "smart-curated-v3-review-needed",
+    "credit": "Photograph by  Mike Peel  ( www.mikepeel.net ). Crop by PhilipTerryGraham. | Cropped from  File:ExoMars prototype rover 6.jpg | CC BY-SA 4.0 | wikidata-P18 | File:ExoMars prototype rover 6 (cropped).jpg",
     "trivia": [
       {
         "q": "Which category best matches Rosalind Franklin?",
@@ -5373,37 +5533,36 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Mahatma Gandhi is best known as which kind of historical figure?",
+        "q": "Which category best matches Mahatma Gandhi?",
         "a": [
-          "politician",
-          "scientist",
-          "writer",
-          "political leader"
+          "Famous People",
+          "Sports Stadium",
+          "Cooking Method",
+          "Musical Instrument"
         ],
         "correct": 0
       },
       {
-        "q": "Mahatma Gandhi is most strongly associated with which country?",
+        "q": "Mahatma Gandhi is especially connected with what?",
         "a": [
-          "British Raj",
+          "nonviolent resistance",
+          "modern shopping malls",
+          "video game consoles",
+          "random road signs"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What important context is linked to Mahatma Gandhi?",
+        "a": [
           "India",
-          "China",
-          "Japan"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Which statement is true about Mahatma Gandhi?",
-        "a": [
-          "Mohandas Karamchand Gandhi was an Indian lawyer, anti-colonial nationalist and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule, and to later inspire movements for civil rights and freedom across the world",
-          "Mahatma Gandhi is a fictional video game item only.",
-          "Mahatma Gandhi is mainly a type of cooking utensil.",
-          "Mahatma Gandhi is a random road sign."
+          "a fictional city only",
+          "a cooking recipe",
+          "a car model"
         ],
         "correct": 0
       }
-    ],
-    "triviaStatus": "improved-v4-needs-human-review"
+    ]
   },
   {
     "id": "pv-109-martin-luther-king-jr",
@@ -5474,37 +5633,36 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Frank Schulenburg / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Abraham Lincoln is best known as which kind of historical figure?",
+        "q": "Which category best matches Abraham Lincoln?",
         "a": [
-          "politician",
-          "scientist",
-          "writer",
-          "political leader"
+          "Famous People",
+          "Sports Stadium",
+          "Cooking Method",
+          "Musical Instrument"
         ],
         "correct": 0
       },
       {
-        "q": "Abraham Lincoln is most strongly associated with which country?",
+        "q": "Abraham Lincoln is especially connected with what?",
         "a": [
-          "United States",
-          "India",
-          "China",
-          "Japan"
+          "US Civil War presidency",
+          "modern shopping malls",
+          "video game consoles",
+          "random road signs"
         ],
         "correct": 0
       },
       {
-        "q": "Which statement is true about Abraham Lincoln?",
+        "q": "What important context is linked to Abraham Lincoln?",
         "a": [
-          "Abraham Lincoln was the 16th president of the United States, serving from 1861 until his assassination in 1865",
-          "Abraham Lincoln is a fictional video game item only.",
-          "Abraham Lincoln is mainly a type of cooking utensil.",
-          "Abraham Lincoln is a random road sign."
+          "emancipation",
+          "a fictional city only",
+          "a cooking recipe",
+          "a car model"
         ],
         "correct": 0
       }
-    ],
-    "triviaStatus": "improved-v4-needs-human-review"
+    ]
   },
   {
     "id": "pv-111-george-washington",
@@ -5775,40 +5933,39 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "the lost gallery | LAKSMIBAI, RANI OF JHANSI | CC BY 2.0 | wikidata-P18 | File:LAKSMIBAI, RANI OF JHANSI (22140388883).jpg",
     "trivia": [
       {
-        "q": "Rani Lakshmibai is best known as which kind of historical figure?",
+        "q": "Which category best matches Rani Lakshmibai?",
         "a": [
-          "activist",
-          "scientist",
-          "writer",
-          "political leader"
+          "Famous People",
+          "Sports Stadium",
+          "Cooking Method",
+          "Musical Instrument"
         ],
         "correct": 0
       },
       {
-        "q": "Rani Lakshmibai is most strongly associated with which country?",
+        "q": "Rani Lakshmibai is especially connected with what?",
         "a": [
-          "Maratha Empire",
-          "India",
-          "China",
-          "Japan"
+          "1857 rebellion",
+          "modern shopping malls",
+          "video game consoles",
+          "random road signs"
         ],
         "correct": 0
       },
       {
-        "q": "Which statement is true about Rani Lakshmibai?",
+        "q": "What important context is linked to Rani Lakshmibai?",
         "a": [
-          "The Rani of Jhansi, also known as Rani Lakshmibai, was one of the leading figures of the Indian Rebellion of 1857",
-          "Rani Lakshmibai is a fictional video game item only.",
-          "Rani Lakshmibai is mainly a type of cooking utensil.",
-          "Rani Lakshmibai is a random road sign."
+          "Jhansi",
+          "a fictional city only",
+          "a cooking recipe",
+          "a car model"
         ],
         "correct": 0
       }
     ],
     "curationSource": "commons-search",
     "curationScore": 113.0,
-    "curationWarning": "",
-    "triviaStatus": "improved-v4-needs-human-review"
+    "curationWarning": ""
   },
   {
     "id": "pv-117-tipu-sultan",
@@ -5879,40 +6036,39 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Unknown author Unknown author | Cover of   Kautilya Arthashastra  , translated by R. Shamasastry, Bangalore Government Press 1915 | Public domain | wikidata-P18 | File:Chanakya artistic depiction.jpg",
     "trivia": [
       {
-        "q": "Chanakya is best known as which kind of historical figure?",
+        "q": "Which category best matches Chanakya?",
         "a": [
-          "author",
-          "scientist",
-          "writer",
-          "political leader"
+          "Famous People",
+          "Sports Stadium",
+          "Cooking Method",
+          "Musical Instrument"
         ],
         "correct": 0
       },
       {
-        "q": "Which place is connected to the life of Chanakya?",
+        "q": "Chanakya is especially connected with what?",
         "a": [
-          "Taxila",
-          "India",
-          "China",
-          "Japan"
+          "political strategy",
+          "modern shopping malls",
+          "video game consoles",
+          "random road signs"
         ],
         "correct": 0
       },
       {
-        "q": "Which statement is true about Chanakya?",
+        "q": "What important context is linked to Chanakya?",
         "a": [
-          "Chanakya, according to legendary narratives preserved in various traditions dating from the 4th to 11th century CE, was a Brahmin who assisted the first Mauryan emperor Chandragupta in his rise to power and the establishment of the Maurya Empire",
-          "Chanakya is a fictional video game item only.",
-          "Chanakya is mainly a type of cooking utensil.",
-          "Chanakya is a random road sign."
+          "Arthashastra",
+          "a fictional city only",
+          "a cooking recipe",
+          "a car model"
         ],
         "correct": 0
       }
     ],
     "curationSource": "wikidata-P18",
     "curationScore": 138.0,
-    "curationWarning": "",
-    "triviaStatus": "improved-v4-needs-human-review"
+    "curationWarning": ""
   },
   {
     "id": "pv-119-confucius",
@@ -6433,40 +6589,39 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Henry Hering (1814-1893) | NPG x82368  from National Portrait Gallery, London | Public domain | wikidata-P18 | File:Florence Nightingale (H Hering NPG x82368).jpg",
     "trivia": [
       {
-        "q": "Florence Nightingale is best known as which kind of historical figure?",
+        "q": "Which category best matches Florence Nightingale?",
         "a": [
-          "nurse",
-          "scientist",
-          "writer",
-          "political leader"
+          "Famous People",
+          "Sports Stadium",
+          "Cooking Method",
+          "Musical Instrument"
         ],
         "correct": 0
       },
       {
-        "q": "Florence Nightingale is most strongly associated with which country?",
+        "q": "Florence Nightingale is especially connected with what?",
         "a": [
-          "United Kingdom of Great Britain and Ireland",
-          "India",
-          "China",
-          "Japan"
+          "modern nursing",
+          "modern shopping malls",
+          "video game consoles",
+          "random road signs"
         ],
         "correct": 0
       },
       {
-        "q": "Which statement is true about Florence Nightingale?",
+        "q": "What important context is linked to Florence Nightingale?",
         "a": [
-          "Florence Nightingale was an English social reformer, statistician and the founder of modern nursing",
-          "Florence Nightingale is a fictional video game item only.",
-          "Florence Nightingale is mainly a type of cooking utensil.",
-          "Florence Nightingale is a random road sign."
+          "public health",
+          "a fictional city only",
+          "a cooking recipe",
+          "a car model"
         ],
         "correct": 0
       }
     ],
     "curationSource": "wikipedia-pageimage",
     "curationScore": 140.0,
-    "curationWarning": "",
-    "triviaStatus": "improved-v4-needs-human-review"
+    "curationWarning": ""
   },
   {
     "id": "pv-130-mother-teresa",
@@ -6487,37 +6642,36 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Túrelio | own work (digitized on Kodak- PhotoCD  (16 Base) from  35 mm   photographic film ) | CC BY-SA 2.0 de | wikidata-P18 | File:MotherTeresa 090.jpg",
     "trivia": [
       {
-        "q": "Mother Teresa is best known as which kind of historical figure?",
+        "q": "Which category best matches Mother Teresa?",
         "a": [
-          "religious sister",
-          "scientist",
-          "writer",
-          "political leader"
+          "Famous People",
+          "Sports Stadium",
+          "Cooking Method",
+          "Musical Instrument"
         ],
         "correct": 0
       },
       {
-        "q": "Mother Teresa is most strongly associated with which country?",
+        "q": "Mother Teresa is especially connected with what?",
         "a": [
-          "Albania",
-          "India",
-          "China",
-          "Japan"
+          "service to poor",
+          "modern shopping malls",
+          "video game consoles",
+          "random road signs"
         ],
         "correct": 0
       },
       {
-        "q": "Which statement is true about Mother Teresa?",
+        "q": "What important context is linked to Mother Teresa?",
         "a": [
-          "Anjezë Gonxhe Bojaxhiu, better known as Mother Teresa or Saint Mother Teresa of Calcutta, was an Albanian-Indian Catholic nun, founder of the Missionaries of Charity and a Catholic saint.",
-          "Mother Teresa is a fictional video game item only.",
-          "Mother Teresa is mainly a type of cooking utensil.",
-          "Mother Teresa is a random road sign."
+          "Kolkata",
+          "a fictional city only",
+          "a cooking recipe",
+          "a car model"
         ],
         "correct": 0
       }
-    ],
-    "triviaStatus": "improved-v4-needs-human-review"
+    ]
   },
   {
     "id": "pv-131-rabindranath-tagore",
@@ -6538,37 +6692,36 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Georges Chevalier | https://collections.albert-kahn.hauts-de-seine.fr/document/proprit-d-albert-kahn-boulogne-france-rabindranth-tagore/617a7a45cf8b8968b3386442?filtrerParThme%5B0%5D=Personnalit%C3%A9&amp;filtrerParDomaine%5B0%5D=Images%20fixes&amp;s=dateDePriseDeVue&amp;so=desc&amp;pos=640&amp;pgn=41 | CC BY 4.0 | wikipedia-pageimage | File:1926 Rabindrath Tagore.jpg",
     "trivia": [
       {
-        "q": "Rabindranath Tagore is best known as which kind of historical figure?",
+        "q": "Which category best matches Rabindranath Tagore?",
         "a": [
-          "painter",
-          "scientist",
-          "writer",
-          "political leader"
+          "Famous People",
+          "Sports Stadium",
+          "Cooking Method",
+          "Musical Instrument"
         ],
         "correct": 0
       },
       {
-        "q": "Rabindranath Tagore is most strongly associated with which country?",
+        "q": "Rabindranath Tagore is especially connected with what?",
         "a": [
-          "British Raj",
-          "India",
-          "China",
-          "Japan"
+          "Gitanjali",
+          "modern shopping malls",
+          "video game consoles",
+          "random road signs"
         ],
         "correct": 0
       },
       {
-        "q": "Which statement is true about Rabindranath Tagore?",
+        "q": "What important context is linked to Rabindranath Tagore?",
         "a": [
-          "Rabindranath Tagore, was a Bengali poet, author, playwright, musician, composer, philosopher, social reformer, painter, and one of the foremost figures of the Bengal Renaissance",
-          "Rabindranath Tagore is a fictional video game item only.",
-          "Rabindranath Tagore is mainly a type of cooking utensil.",
-          "Rabindranath Tagore is a random road sign."
+          "Nobel Prize",
+          "a fictional city only",
+          "a cooking recipe",
+          "a car model"
         ],
         "correct": 0
       }
-    ],
-    "triviaStatus": "improved-v4-needs-human-review"
+    ]
   },
   {
     "id": "pv-132-william-shakespeare",
@@ -7489,36 +7642,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Pending asset download and attribution verification",
     "trivia": [
       {
-        "q": "Which category best matches Solar System?",
+        "q": "Which statement is true about Solar System?",
+        "a": [
+          "The Solar System is the gravitationally bound system of the Sun and the masses that orbit it, most prominently its eight planets, of which Earth is one.",
+          "Solar System is only a fictional mobile-game item.",
+          "Solar System is mainly a cooking utensil.",
+          "Solar System is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What kind of scientific topic is Solar System?",
+        "a": [
+          "planetary system",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Solar System belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Solar System is especially connected with what?",
-        "a": [
-          "planets orbiting the Sun",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Solar System?",
-        "a": [
-          "space science",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-151-milky-way-galaxy",
@@ -7539,36 +7694,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Pending asset download and attribution verification",
     "trivia": [
       {
-        "q": "Which category best matches Milky Way Galaxy?",
+        "q": "Which statement is true about Milky Way Galaxy?",
+        "a": [
+          "The Milky Way or Milky Way Galaxy is the galaxy that includes the Solar System, with the name describing the galaxy's appearance from Earth: a hazy band of light seen in the night sky formed from stars in other arms of t",
+          "Milky Way Galaxy is only a fictional mobile-game item.",
+          "Milky Way Galaxy is mainly a cooking utensil.",
+          "Milky Way Galaxy is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What kind of scientific topic is Milky Way Galaxy?",
+        "a": [
+          "barred spiral galaxy",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Milky Way Galaxy belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Milky Way Galaxy is especially connected with what?",
-        "a": [
-          "our home galaxy",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Milky Way Galaxy?",
-        "a": [
-          "barred spiral galaxy",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-152-black-hole",
@@ -7589,36 +7746,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Pending asset download and attribution verification",
     "trivia": [
       {
-        "q": "Which category best matches Black Hole?",
+        "q": "Which statement is true about Black Hole?",
+        "a": [
+          "A black hole is an astronomical body so compact that its gravity prevents anything, including light, from escaping.",
+          "Black Hole is only a fictional mobile-game item.",
+          "Black Hole is mainly a cooking utensil.",
+          "Black Hole is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What kind of scientific topic is Black Hole?",
+        "a": [
+          "astronomical object type",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Black Hole belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Black Hole is especially connected with what?",
-        "a": [
-          "gravity so strong light cannot escape",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Black Hole?",
-        "a": [
-          "relativity",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-153-nebula",
@@ -7639,36 +7798,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Pending asset download and attribution verification",
     "trivia": [
       {
-        "q": "Which category best matches Nebula?",
+        "q": "Which statement is true about Nebula?",
+        "a": [
+          "A nebula is a distinct luminescent part of interstellar medium, which can consist of ionized, neutral, or molecular hydrogen and also cosmic dust.",
+          "Nebula is only a fictional mobile-game item.",
+          "Nebula is mainly a cooking utensil.",
+          "Nebula is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What kind of scientific topic is Nebula?",
+        "a": [
+          "taxon",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Nebula belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Nebula is especially connected with what?",
-        "a": [
-          "cloud of gas and dust",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Nebula?",
-        "a": [
-          "star formation",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-154-supernova",
@@ -7689,36 +7850,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Pending asset download and attribution verification",
     "trivia": [
       {
-        "q": "Which category best matches Supernova?",
+        "q": "Which statement is true about Supernova?",
+        "a": [
+          "A supernova is a powerful and luminous explosion of a star.",
+          "Supernova is only a fictional mobile-game item.",
+          "Supernova is mainly a cooking utensil.",
+          "Supernova is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What kind of scientific topic is Supernova?",
+        "a": [
+          "astronomical object type",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Supernova belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Supernova is especially connected with what?",
-        "a": [
-          "stellar explosion",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Supernova?",
-        "a": [
-          "element creation",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-155-international-space-station",
@@ -7739,36 +7902,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Pending asset download and attribution verification",
     "trivia": [
       {
-        "q": "Which category best matches International Space Station?",
+        "q": "Which statement is true about International Space Station?",
+        "a": [
+          "The International Space Station (ISS) is a space station in low Earth orbit (LEO).",
+          "International Space Station is only a fictional mobile-game item.",
+          "International Space Station is mainly a cooking utensil.",
+          "International Space Station is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What kind of scientific topic is International Space Station?",
+        "a": [
+          "international space station",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does International Space Station belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "International Space Station is especially connected with what?",
-        "a": [
-          "orbiting laboratory",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to International Space Station?",
-        "a": [
-          "microgravity",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-156-mars-rover",
@@ -7789,36 +7954,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Pending asset download and attribution verification",
     "trivia": [
       {
-        "q": "Which category best matches Mars Rover?",
+        "q": "Which statement is true about Mars Rover?",
+        "a": [
+          "A Mars rover is a remote-controlled motor vehicle designed to travel on the surface of Mars.",
+          "Mars Rover is only a fictional mobile-game item.",
+          "Mars Rover is mainly a cooking utensil.",
+          "Mars Rover is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which larger science idea is connected with Mars Rover?",
+        "a": [
+          "rover",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Mars Rover belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Mars Rover is especially connected with what?",
-        "a": [
-          "robotic planet explorer",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Mars Rover?",
-        "a": [
-          "Mars",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-157-hubble-space-telescope",
@@ -7839,36 +8006,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Pending asset download and attribution verification",
     "trivia": [
       {
-        "q": "Which category best matches Hubble Space Telescope?",
+        "q": "Which statement is true about Hubble Space Telescope?",
+        "a": [
+          "The Hubble Space Telescope is a space telescope that was launched into low Earth orbit in 1990 and remains in operation.",
+          "Hubble Space Telescope is only a fictional mobile-game item.",
+          "Hubble Space Telescope is mainly a cooking utensil.",
+          "Hubble Space Telescope is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What kind of scientific topic is Hubble Space Telescope?",
+        "a": [
+          "space telescope",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Hubble Space Telescope belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Hubble Space Telescope is especially connected with what?",
-        "a": [
-          "space observatory",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Hubble Space Telescope?",
-        "a": [
-          "deep-space images",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-158-james-webb-space-telescope",
@@ -7889,36 +8058,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Pending asset download and attribution verification",
     "trivia": [
       {
-        "q": "Which category best matches James Webb Space Telescope?",
+        "q": "Which statement is true about James Webb Space Telescope?",
+        "a": [
+          "The James Webb Space Telescope (JWST) is a space telescope designed to conduct infrared astronomy.",
+          "James Webb Space Telescope is only a fictional mobile-game item.",
+          "James Webb Space Telescope is mainly a cooking utensil.",
+          "James Webb Space Telescope is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What kind of scientific topic is James Webb Space Telescope?",
+        "a": [
+          "space telescope",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does James Webb Space Telescope belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "James Webb Space Telescope is especially connected with what?",
-        "a": [
-          "infrared space telescope",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to James Webb Space Telescope?",
-        "a": [
-          "early galaxies",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-159-dna-double-helix",
@@ -7939,36 +8110,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "PantheraLeo1359531 / Wikimedia Commons / CC0",
     "trivia": [
       {
-        "q": "Which category best matches DNA Double Helix?",
+        "q": "Which statement is true about DNA Double Helix?",
+        "a": [
+          "DNA Double Helix is connected to science, discovery, or technology.",
+          "DNA Double Helix is only a fictional mobile-game item.",
+          "DNA Double Helix is mainly a cooking utensil.",
+          "DNA Double Helix is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What kind of scientific topic is DNA Double Helix?",
+        "a": [
+          "macromolecular conformation",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does DNA Double Helix belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "DNA Double Helix is especially connected with what?",
-        "a": [
-          "genetic information shape",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to DNA Double Helix?",
-        "a": [
-          "life science",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-160-cell-structure",
@@ -7989,36 +8162,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Royroydeb / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Cell Structure?",
+        "q": "Which statement is true about Cell Structure?",
+        "a": [
+          "Cell Structure is connected to science, discovery, or technology.",
+          "Cell Structure is only a fictional mobile-game item.",
+          "Cell Structure is mainly a cooking utensil.",
+          "Cell Structure is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What kind of scientific topic is Cell Structure?",
+        "a": [
+          "scientific journal",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Cell Structure belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Cell Structure is especially connected with what?",
-        "a": [
-          "basic unit of life",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Cell Structure?",
-        "a": [
-          "microscopy",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-161-human-skeleton",
@@ -8039,36 +8214,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Abdsomod / Wikimedia Commons / CC0",
     "trivia": [
       {
-        "q": "Which category best matches Human Skeleton?",
+        "q": "Which statement is true about Human Skeleton?",
+        "a": [
+          "Human Skeleton is connected to science, discovery, or technology.",
+          "Human Skeleton is only a fictional mobile-game item.",
+          "Human Skeleton is mainly a cooking utensil.",
+          "Human Skeleton is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which larger science idea is connected with Human Skeleton?",
+        "a": [
+          "human musculoskeletal system",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Human Skeleton belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Human Skeleton is especially connected with what?",
-        "a": [
-          "bone framework",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Human Skeleton?",
-        "a": [
-          "anatomy",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-162-heart-anatomy",
@@ -8089,36 +8266,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Wagner Souza e Silva / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Heart Anatomy?",
+        "q": "Which statement is true about Heart Anatomy?",
+        "a": [
+          "Heart Anatomy is connected to science, discovery, or technology.",
+          "Heart Anatomy is only a fictional mobile-game item.",
+          "Heart Anatomy is mainly a cooking utensil.",
+          "Heart Anatomy is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What kind of scientific topic is Heart Anatomy?",
+        "a": [
+          "scholarly article",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Heart Anatomy belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Heart Anatomy is especially connected with what?",
-        "a": [
-          "blood-pumping organ",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Heart Anatomy?",
-        "a": [
-          "circulation",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-163-neuron",
@@ -8139,36 +8318,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Lennart Rikk / Wikimedia Commons / CC0",
     "trivia": [
       {
-        "q": "Which category best matches Neuron?",
+        "q": "Which statement is true about Neuron?",
+        "a": [
+          "A neuron, neurone, or nerve cell, is a cell that is excitable, firing electric signals called action potentials across a neural network in the nervous system, mainly in the central nervous system, and helps to receive an",
+          "Neuron is only a fictional mobile-game item.",
+          "Neuron is mainly a cooking utensil.",
+          "Neuron is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What kind of scientific topic is Neuron?",
+        "a": [
+          "scientific journal",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Neuron belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Neuron is especially connected with what?",
-        "a": [
-          "nerve cell",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Neuron?",
-        "a": [
-          "brain signals",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-164-photosynthesis",
@@ -8189,36 +8370,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Frédéric Ducarme / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Photosynthesis?",
+        "q": "Which statement is true about Photosynthesis?",
+        "a": [
+          "The term photosynthesis usually refers to oxygenic photosynthesis, a process that releases oxygen as a byproduct of water splitting.",
+          "Photosynthesis is only a fictional mobile-game item.",
+          "Photosynthesis is mainly a cooking utensil.",
+          "Photosynthesis is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What kind of scientific topic is Photosynthesis?",
+        "a": [
+          "biological process",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Photosynthesis belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Photosynthesis is especially connected with what?",
-        "a": [
-          "plants make food using light",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Photosynthesis?",
-        "a": [
-          "chlorophyll",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-165-water-cycle",
@@ -8239,36 +8422,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "NASA's Scientific Visualization Studio - Marit Jentoft-Nilsen, Global Science and Technology, Inc./Deborah McLean / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Water Cycle?",
+        "q": "Which statement is true about Water Cycle?",
+        "a": [
+          "The water cycle is a biogeochemical cycle that involves the continuous change in form of water on, above and below the surface of the Earth across different reservoirs.",
+          "Water Cycle is only a fictional mobile-game item.",
+          "Water Cycle is mainly a cooking utensil.",
+          "Water Cycle is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which larger science idea is connected with Water Cycle?",
+        "a": [
+          "hydrology",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Water Cycle belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Water Cycle is especially connected with what?",
-        "a": [
-          "evaporation and rain",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Water Cycle?",
-        "a": [
-          "climate",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-166-volcano",
@@ -8289,36 +8474,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Volcano?",
+        "q": "Which statement is true about Volcano?",
+        "a": [
+          "A volcano is a vent or fissure in the crust of a planetary-mass object that allows hot lava, volcanic ash, and gases to escape from a magma chamber below the surface.",
+          "Volcano is only a fictional mobile-game item.",
+          "Volcano is mainly a cooking utensil.",
+          "Volcano is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which larger science idea is connected with Volcano?",
+        "a": [
+          "mountain",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Volcano belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Volcano is especially connected with what?",
-        "a": [
-          "molten rock eruption",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Volcano?",
-        "a": [
-          "geology",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-167-earthquake-fault",
@@ -8339,36 +8526,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Apple2000 / Wikimedia Commons / CC0",
     "trivia": [
       {
-        "q": "Which category best matches Earthquake Fault?",
+        "q": "Which statement is true about Earthquake Fault?",
+        "a": [
+          "Earthquake Fault is connected to science, discovery, or technology.",
+          "Earthquake Fault is only a fictional mobile-game item.",
+          "Earthquake Fault is mainly a cooking utensil.",
+          "Earthquake Fault is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which larger science idea is connected with Earthquake Fault?",
+        "a": [
+          "fracture",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Earthquake Fault belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Earthquake Fault is especially connected with what?",
-        "a": [
-          "moving rock fracture",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Earthquake Fault?",
-        "a": [
-          "tectonics",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-168-plate-tectonics",
@@ -8389,36 +8578,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Danny William Wilson / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Plate Tectonics?",
+        "q": "Which statement is true about Plate Tectonics?",
+        "a": [
+          "Plate tectonics is the scientific theory that Earth's lithosphere comprises a number of large tectonic plates, which have been slowly moving since 3–4 billion years ago.",
+          "Plate Tectonics is only a fictional mobile-game item.",
+          "Plate Tectonics is mainly a cooking utensil.",
+          "Plate Tectonics is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What kind of scientific topic is Plate Tectonics?",
+        "a": [
+          "theory",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Plate Tectonics belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Plate Tectonics is especially connected with what?",
-        "a": [
-          "moving crust plates",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Plate Tectonics?",
-        "a": [
-          "geology",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-169-fossil-formation",
@@ -8439,36 +8630,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Cardonatto and Melchor, 2018 / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Fossil Formation?",
+        "q": "Which statement is true about Fossil Formation?",
+        "a": [
+          "Fossil Formation is connected to science, discovery, or technology.",
+          "Fossil Formation is only a fictional mobile-game item.",
+          "Fossil Formation is mainly a cooking utensil.",
+          "Fossil Formation is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why is Fossil Formation useful in an educational science puzzle?",
+        "a": [
+          "It connects image recognition with real science learning",
+          "It is only a snack",
+          "It is only a phone brand",
+          "It is only a random road"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Fossil Formation belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Fossil Formation is especially connected with what?",
-        "a": [
-          "preserved ancient life",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Fossil Formation?",
-        "a": [
-          "sediments",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-170-microscope",
@@ -8489,36 +8682,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Rama / Wikimedia Commons / CC BY-SA 3.0 fr",
     "trivia": [
       {
-        "q": "Which category best matches Microscope?",
+        "q": "Which statement is true about Microscope?",
+        "a": [
+          "A microscope is a laboratory instrument used to examine objects that are too small to be seen by the naked eye.",
+          "Microscope is only a fictional mobile-game item.",
+          "Microscope is mainly a cooking utensil.",
+          "Microscope is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which larger science idea is connected with Microscope?",
+        "a": [
+          "optical instrument",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Microscope belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Microscope is especially connected with what?",
-        "a": [
-          "magnifies tiny objects",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Microscope?",
-        "a": [
-          "laboratory",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-171-telescope",
@@ -8539,36 +8734,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Pelligton / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Telescope?",
+        "q": "Which statement is true about Telescope?",
+        "a": [
+          "A telescope is a device used to observe distant objects by their emission, absorption, or reflection of electromagnetic radiation.",
+          "Telescope is only a fictional mobile-game item.",
+          "Telescope is mainly a cooking utensil.",
+          "Telescope is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What kind of scientific topic is Telescope?",
+        "a": [
+          "invention",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Telescope belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Telescope is especially connected with what?",
-        "a": [
-          "views distant objects",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Telescope?",
-        "a": [
-          "astronomy",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-172-compass",
@@ -8589,36 +8786,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Bernd Fiedler / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Compass?",
+        "q": "Which statement is true about Compass?",
+        "a": [
+          "A compass is a device that shows the cardinal directions used for navigation and geographic orientation.",
+          "Compass is only a fictional mobile-game item.",
+          "Compass is mainly a cooking utensil.",
+          "Compass is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What kind of scientific topic is Compass?",
+        "a": [
+          "independent record label",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Compass belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Compass is especially connected with what?",
-        "a": [
-          "magnetic direction",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Compass?",
-        "a": [
-          "navigation",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-173-steam-engine",
@@ -8639,36 +8838,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Jack Delano / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Steam Engine?",
+        "q": "Which statement is true about Steam Engine?",
+        "a": [
+          "A steam engine is a heat engine that performs mechanical work using steam as its working fluid.",
+          "Steam Engine is only a fictional mobile-game item.",
+          "Steam Engine is mainly a cooking utensil.",
+          "Steam Engine is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What kind of scientific topic is Steam Engine?",
+        "a": [
+          "engine class",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Steam Engine belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Steam Engine is especially connected with what?",
-        "a": [
-          "powered early industry",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Steam Engine?",
-        "a": [
-          "Industrial Revolution",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-174-printing-press",
@@ -8689,36 +8890,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Vis M / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Printing Press?",
+        "q": "Which statement is true about Printing Press?",
+        "a": [
+          "A printing press is a mechanical machine that transfers ink onto materials such as paper or cloth by applying pressure to an inked surface.",
+          "Printing Press is only a fictional mobile-game item.",
+          "Printing Press is mainly a cooking utensil.",
+          "Printing Press is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which larger science idea is connected with Printing Press?",
+        "a": [
+          "business",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Printing Press belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Printing Press is especially connected with what?",
-        "a": [
-          "mass book production",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Printing Press?",
-        "a": [
-          "communication",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-175-light-bulb",
@@ -8739,36 +8942,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Arcalino / Wikimedia Commons / CC BY-SA 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Light Bulb?",
+        "q": "Which statement is true about Light Bulb?",
+        "a": [
+          "An electric light, lamp, or light bulb is an electrical device that produces light from electricity.",
+          "Light Bulb is only a fictional mobile-game item.",
+          "Light Bulb is mainly a cooking utensil.",
+          "Light Bulb is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What kind of scientific topic is Light Bulb?",
+        "a": [
+          "invention",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Light Bulb belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Light Bulb is especially connected with what?",
-        "a": [
-          "electric lighting",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Light Bulb?",
-        "a": [
-          "invention",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-176-telephone",
@@ -8789,36 +8994,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Berthold Werner / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Telephone?",
+        "q": "Which statement is true about Telephone?",
+        "a": [
+          "A telephone, commonly shortened to phone, is a telecommunications device that enables two or more users to conduct a conversation when they are too far apart to be easily heard directly.",
+          "Telephone is only a fictional mobile-game item.",
+          "Telephone is mainly a cooking utensil.",
+          "Telephone is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What kind of scientific topic is Telephone?",
+        "a": [
+          "single",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Telephone belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Telephone is especially connected with what?",
-        "a": [
-          "voice communication",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Telephone?",
-        "a": [
-          "invention",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-177-radio",
@@ -8839,36 +9046,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Luna Char / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Radio?",
+        "q": "Which statement is true about Radio?",
+        "a": [
+          "Radio is the technology of communicating using radio waves.",
+          "Radio is only a fictional mobile-game item.",
+          "Radio is mainly a cooking utensil.",
+          "Radio is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What kind of scientific topic is Radio?",
+        "a": [
+          "type of mass media",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Radio belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Radio is especially connected with what?",
-        "a": [
-          "wireless communication",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Radio?",
-        "a": [
-          "electromagnetic waves",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-178-airplane",
@@ -8889,36 +9098,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Subhrajyoti07 / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Airplane?",
+        "q": "Which statement is true about Airplane?",
+        "a": [
+          "An airplane, or aeroplane, also plane, is a fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller, or rocket engine.",
+          "Airplane is only a fictional mobile-game item.",
+          "Airplane is mainly a cooking utensil.",
+          "Airplane is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What kind of scientific topic is Airplane?",
+        "a": [
+          "aircraft lift-power class",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Airplane belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Airplane is especially connected with what?",
-        "a": [
-          "powered flight",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Airplane?",
-        "a": [
-          "aviation",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-179-rocket",
@@ -8939,36 +9150,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Bill Ingalls / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Rocket?",
+        "q": "Which statement is true about Rocket?",
+        "a": [
+          "A rocket is an elongated flying vehicle that uses a rocket engine to accelerate without using any surrounding air.",
+          "Rocket is only a fictional mobile-game item.",
+          "Rocket is mainly a cooking utensil.",
+          "Rocket is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What kind of scientific topic is Rocket?",
+        "a": [
+          "first-order class",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Rocket belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Rocket is especially connected with what?",
-        "a": [
-          "launch vehicle",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Rocket?",
-        "a": [
-          "spaceflight",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-180-electric-motor",
@@ -8989,36 +9202,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Tobias ToMar Maier / Wikimedia Commons / CC BY-SA 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Electric Motor?",
+        "q": "Which statement is true about Electric Motor?",
+        "a": [
+          "An electric motor is a machine that converts electrical energy into mechanical energy.",
+          "Electric Motor is only a fictional mobile-game item.",
+          "Electric Motor is mainly a cooking utensil.",
+          "Electric Motor is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which larger science idea is connected with Electric Motor?",
+        "a": [
+          "tram",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Electric Motor belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Electric Motor is especially connected with what?",
-        "a": [
-          "converts electricity to motion",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Electric Motor?",
-        "a": [
-          "engineering",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-181-solar-panel",
@@ -9039,36 +9254,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Pending asset download and attribution verification",
     "trivia": [
       {
-        "q": "Which category best matches Solar Panel?",
+        "q": "Which statement is true about Solar Panel?",
+        "a": [
+          "Solar Panel is connected to science, discovery, or technology.",
+          "Solar Panel is only a fictional mobile-game item.",
+          "Solar Panel is mainly a cooking utensil.",
+          "Solar Panel is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which larger science idea is connected with Solar Panel?",
+        "a": [
+          "photovoltaic system",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Solar Panel belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Solar Panel is especially connected with what?",
-        "a": [
-          "converts sunlight to electricity",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Solar Panel?",
-        "a": [
-          "renewable energy",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-182-wind-turbine",
@@ -9089,36 +9306,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diliff / Wikimedia Commons / CC BY-SA 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Wind Turbine?",
+        "q": "Which statement is true about Wind Turbine?",
+        "a": [
+          "A wind turbine is a device that converts the kinetic energy of wind into electrical energy.",
+          "Wind Turbine is only a fictional mobile-game item.",
+          "Wind Turbine is mainly a cooking utensil.",
+          "Wind Turbine is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which larger science idea is connected with Wind Turbine?",
+        "a": [
+          "wind farm",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Wind Turbine belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Wind Turbine is especially connected with what?",
-        "a": [
-          "converts wind to electricity",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Wind Turbine?",
-        "a": [
-          "renewable energy",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-183-computer-chip",
@@ -9139,36 +9358,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "cole8888, https://flickr.com/photos/187597251@N05/ (aka Cole L) / Wikimedia Commons / CC BY-SA 2.0",
     "trivia": [
       {
-        "q": "Which category best matches Computer Chip?",
+        "q": "Which statement is true about Computer Chip?",
+        "a": [
+          "Computer Chip is connected to science, discovery, or technology.",
+          "Computer Chip is only a fictional mobile-game item.",
+          "Computer Chip is mainly a cooking utensil.",
+          "Computer Chip is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What kind of scientific topic is Computer Chip?",
+        "a": [
+          "type of electronic component",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Computer Chip belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Computer Chip is especially connected with what?",
-        "a": [
-          "integrated circuit",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Computer Chip?",
-        "a": [
-          "computing",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-184-robot-arm",
@@ -9189,36 +9410,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "BPLINFO / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Robot Arm?",
+        "q": "Which statement is true about Robot Arm?",
+        "a": [
+          "Robot Arm is connected to science, discovery, or technology.",
+          "Robot Arm is only a fictional mobile-game item.",
+          "Robot Arm is mainly a cooking utensil.",
+          "Robot Arm is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which larger science idea is connected with Robot Arm?",
+        "a": [
+          "robot",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Robot Arm belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Robot Arm is especially connected with what?",
-        "a": [
-          "programmable machine",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Robot Arm?",
-        "a": [
-          "automation",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-185-vaccination",
@@ -9239,36 +9462,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Per W / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Vaccination?",
+        "q": "Which statement is true about Vaccination?",
+        "a": [
+          "Vaccination is the administration of a vaccine to help the immune system develop immunity from a disease.",
+          "Vaccination is only a fictional mobile-game item.",
+          "Vaccination is mainly a cooking utensil.",
+          "Vaccination is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What kind of scientific topic is Vaccination?",
+        "a": [
+          "medical treatment",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Vaccination belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Vaccination is especially connected with what?",
-        "a": [
-          "immune protection",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Vaccination?",
-        "a": [
-          "public health",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-186-antibiotics",
@@ -9289,36 +9514,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Saloni Dattani / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Antibiotics?",
+        "q": "Which statement is true about Antibiotics?",
+        "a": [
+          "An antibiotic is a type of antimicrobial substance active against bacteria.",
+          "Antibiotics is only a fictional mobile-game item.",
+          "Antibiotics is mainly a cooking utensil.",
+          "Antibiotics is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What kind of scientific topic is Antibiotics?",
+        "a": [
+          "scientific journal",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Antibiotics belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Antibiotics is especially connected with what?",
-        "a": [
-          "bacterial infection treatment",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Antibiotics?",
-        "a": [
-          "medical science",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-187-x-ray-image",
@@ -9339,36 +9566,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "X-ray Image ID: 3684. Photographer: Unknown. / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches X-ray Image?",
+        "q": "Which statement is true about X-ray Image?",
+        "a": [
+          "X-ray Image is connected to science, discovery, or technology.",
+          "X-ray Image is only a fictional mobile-game item.",
+          "X-ray Image is mainly a cooking utensil.",
+          "X-ray Image is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which larger science idea is connected with X-ray Image?",
+        "a": [
+          "photograph",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does X-ray Image belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "X-ray Image is especially connected with what?",
-        "a": [
-          "internal imaging",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to X-ray Image?",
-        "a": [
-          "radiation",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-188-periodic-table",
@@ -9389,36 +9618,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Taofeeq Adebayo / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Periodic Table?",
+        "q": "Which statement is true about Periodic Table?",
+        "a": [
+          "The periodic table, also known as the periodic table of the elements, is an ordered arrangement of the chemical elements into rows (\"periods\") and columns (\"groups\").",
+          "Periodic Table is only a fictional mobile-game item.",
+          "Periodic Table is mainly a cooking utensil.",
+          "Periodic Table is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "What kind of scientific topic is Periodic Table?",
+        "a": [
+          "chemical classification",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Periodic Table belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Periodic Table is especially connected with what?",
-        "a": [
-          "organizes elements",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Periodic Table?",
-        "a": [
-          "chemical science",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-189-atom-model",
@@ -9439,36 +9670,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Чукічев Дмитро Віталійович / Wikimedia Commons / CC0",
     "trivia": [
       {
-        "q": "Which category best matches Atom Model?",
+        "q": "Which statement is true about Atom Model?",
+        "a": [
+          "Atom Model is connected to science, discovery, or technology.",
+          "Atom Model is only a fictional mobile-game item.",
+          "Atom Model is mainly a cooking utensil.",
+          "Atom Model is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which larger science idea is connected with Atom Model?",
+        "a": [
+          "scientific model",
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Atom Model belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Atom Model is especially connected with what?",
-        "a": [
-          "basic matter structure",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Atom Model?",
-        "a": [
-          "protons neutrons electrons",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-190-periodic-crystal-structure",
@@ -9489,36 +9722,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Pablo Carlos Budassi / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Periodic Crystal Structure?",
+        "q": "Which statement is true about Periodic Crystal Structure?",
+        "a": [
+          "Periodic Crystal Structure is connected to science, discovery, or technology.",
+          "Periodic Crystal Structure is only a fictional mobile-game item.",
+          "Periodic Crystal Structure is mainly a cooking utensil.",
+          "Periodic Crystal Structure is a random road sign."
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Why is Periodic Crystal Structure useful in an educational science puzzle?",
+        "a": [
+          "It connects image recognition with real science learning",
+          "It is only a snack",
+          "It is only a phone brand",
+          "It is only a random road"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which PuzzleVerse collection does Periodic Crystal Structure belong to?",
         "a": [
           "Science & Discovery",
           "Sports Stadium",
           "Cooking Method",
-          "Musical Instrument"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "Periodic Crystal Structure is especially connected with what?",
-        "a": [
-          "repeating atomic patterns",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Periodic Crystal Structure?",
-        "a": [
-          "materials science",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Random Brand"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-191-cumulus",
@@ -9539,36 +9774,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Petar Milošević / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Cumulus?",
+        "q": "What should you observe first in a cloud puzzle about Cumulus?",
         "a": [
-          "Cloud Types & Weather",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Shape, height, texture, and weather clues",
+          "Only the price of the cloud",
+          "Only a political flag",
+          "Only a cooking ingredient"
         ],
         "correct": 0
       },
       {
-        "q": "Cumulus is especially connected with what?",
+        "q": "Which statement is true about Cumulus?",
         "a": [
-          "puffy cotton-like clouds",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Cumulus clouds are clouds that have flat bases and are often described as puffy, cotton-like, or fluffy in appearance.",
+          "Cumulus is only a fictional mobile-game item.",
+          "Cumulus is mainly a cooking utensil.",
+          "Cumulus is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Cumulus?",
+        "q": "Why are cloud types educational in PuzzleVerse?",
         "a": [
-          "fair weather",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They connect visual pattern recognition with weather science",
+          "They teach only car repair",
+          "They are fictional monsters only",
+          "They are random letters"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-192-stratus",
@@ -9589,36 +9826,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "John Robert McPherson / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Stratus?",
+        "q": "What should you observe first in a cloud puzzle about Stratus?",
         "a": [
-          "Cloud Types & Weather",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Shape, height, texture, and weather clues",
+          "Only the price of the cloud",
+          "Only a political flag",
+          "Only a cooking ingredient"
         ],
         "correct": 0
       },
       {
-        "q": "Stratus is especially connected with what?",
+        "q": "Which statement is true about Stratus?",
         "a": [
-          "blanket-like layers",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Stratus may refer to:",
+          "Stratus is only a fictional mobile-game item.",
+          "Stratus is mainly a cooking utensil.",
+          "Stratus is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Stratus?",
+        "q": "Why are cloud types educational in PuzzleVerse?",
         "a": [
-          "overcast sky",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They connect visual pattern recognition with weather science",
+          "They teach only car repair",
+          "They are fictional monsters only",
+          "They are random letters"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-193-cirrus",
@@ -9639,36 +9878,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "PlatypusesAreBirds / Wikimedia Commons / CC0",
     "trivia": [
       {
-        "q": "Which category best matches Cirrus?",
+        "q": "What should you observe first in a cloud puzzle about Cirrus?",
         "a": [
-          "Cloud Types & Weather",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Shape, height, texture, and weather clues",
+          "Only the price of the cloud",
+          "Only a political flag",
+          "Only a cooking ingredient"
         ],
         "correct": 0
       },
       {
-        "q": "Cirrus is especially connected with what?",
+        "q": "Which statement is true about Cirrus?",
         "a": [
-          "thin wispy ice clouds",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Cirrus may refer to:",
+          "Cirrus is only a fictional mobile-game item.",
+          "Cirrus is mainly a cooking utensil.",
+          "Cirrus is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Cirrus?",
+        "q": "Why are cloud types educational in PuzzleVerse?",
         "a": [
-          "weather change",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They connect visual pattern recognition with weather science",
+          "They teach only car repair",
+          "They are fictional monsters only",
+          "They are random letters"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-194-cumulonimbus",
@@ -9689,36 +9930,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "NOAA Photo Library / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Cumulonimbus?",
+        "q": "What should you observe first in a cloud puzzle about Cumulonimbus?",
         "a": [
-          "Cloud Types & Weather",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Shape, height, texture, and weather clues",
+          "Only the price of the cloud",
+          "Only a political flag",
+          "Only a cooking ingredient"
         ],
         "correct": 0
       },
       {
-        "q": "Cumulonimbus is especially connected with what?",
+        "q": "Which statement is true about Cumulonimbus?",
         "a": [
-          "thunderstorms",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Cumulonimbus is a dense, towering, vertical cloud, typically forming from water vapor condensing in the lower troposphere that builds upward carried by powerful buoyant air currents.",
+          "Cumulonimbus is only a fictional mobile-game item.",
+          "Cumulonimbus is mainly a cooking utensil.",
+          "Cumulonimbus is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Cumulonimbus?",
+        "q": "Why are cloud types educational in PuzzleVerse?",
         "a": [
-          "heavy rain",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They connect visual pattern recognition with weather science",
+          "They teach only car repair",
+          "They are fictional monsters only",
+          "They are random letters"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-195-altocumulus",
@@ -9739,36 +9982,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "GerritR / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Altocumulus?",
+        "q": "What should you observe first in a cloud puzzle about Altocumulus?",
         "a": [
-          "Cloud Types & Weather",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Shape, height, texture, and weather clues",
+          "Only the price of the cloud",
+          "Only a political flag",
+          "Only a cooking ingredient"
         ],
         "correct": 0
       },
       {
-        "q": "Altocumulus is especially connected with what?",
+        "q": "Which statement is true about Altocumulus?",
         "a": [
-          "patchy rounded clouds",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "However, if the layers become tufted in appearance due to increased airmass instability, then the altocumulus clouds become more purely cumuliform in structure.",
+          "Altocumulus is only a fictional mobile-game item.",
+          "Altocumulus is mainly a cooking utensil.",
+          "Altocumulus is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Altocumulus?",
+        "q": "Why are cloud types educational in PuzzleVerse?",
         "a": [
-          "mackerel sky",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They connect visual pattern recognition with weather science",
+          "They teach only car repair",
+          "They are fictional monsters only",
+          "They are random letters"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-196-altostratus",
@@ -9789,36 +10034,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "GerritR / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Altostratus?",
+        "q": "What should you observe first in a cloud puzzle about Altostratus?",
         "a": [
-          "Cloud Types & Weather",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Shape, height, texture, and weather clues",
+          "Only the price of the cloud",
+          "Only a political flag",
+          "Only a cooking ingredient"
         ],
         "correct": 0
       },
       {
-        "q": "Altostratus is especially connected with what?",
+        "q": "Which statement is true about Altostratus?",
         "a": [
-          "gray sheet cloud",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Altostratus are middle-altitude clouds that develop horizontally and have a flat and uniform texture in the mid levels.",
+          "Altostratus is only a fictional mobile-game item.",
+          "Altostratus is mainly a cooking utensil.",
+          "Altostratus is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Altostratus?",
+        "q": "Why are cloud types educational in PuzzleVerse?",
         "a": [
-          "sun dimming",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They connect visual pattern recognition with weather science",
+          "They teach only car repair",
+          "They are fictional monsters only",
+          "They are random letters"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-197-nimbostratus",
@@ -9839,36 +10086,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "DavidGjorgiev / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Nimbostratus?",
+        "q": "What should you observe first in a cloud puzzle about Nimbostratus?",
         "a": [
-          "Cloud Types & Weather",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Shape, height, texture, and weather clues",
+          "Only the price of the cloud",
+          "Only a political flag",
+          "Only a cooking ingredient"
         ],
         "correct": 0
       },
       {
-        "q": "Nimbostratus is especially connected with what?",
+        "q": "Which statement is true about Nimbostratus?",
         "a": [
-          "thick rain layers",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "A nimbostratus cloud is a multilevel, amorphous, nearly uniform, and often dark-grey cloud that usually produces continuous rain, snow, or sleet, but no lightning or thunder.",
+          "Nimbostratus is only a fictional mobile-game item.",
+          "Nimbostratus is mainly a cooking utensil.",
+          "Nimbostratus is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Nimbostratus?",
+        "q": "Why are cloud types educational in PuzzleVerse?",
         "a": [
-          "steady rain",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They connect visual pattern recognition with weather science",
+          "They teach only car repair",
+          "They are fictional monsters only",
+          "They are random letters"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-198-stratocumulus",
@@ -9889,36 +10138,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Another one of my pictures:\n\n\n\nThis photograph was taken by Medium69 (William Crochot) and released under the license stated below. You are free to use it for any purpose as long as you credit the author (William Crochot), the Source (Wikimedia Commons) and the license (CC-BY-SA 4.0) in close relation to the image.\n\n\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source RAW. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Stratocumulus?",
+        "q": "What should you observe first in a cloud puzzle about Stratocumulus?",
         "a": [
-          "Cloud Types & Weather",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Shape, height, texture, and weather clues",
+          "Only the price of the cloud",
+          "Only a political flag",
+          "Only a cooking ingredient"
         ],
         "correct": 0
       },
       {
-        "q": "Stratocumulus is especially connected with what?",
+        "q": "Which statement is true about Stratocumulus?",
         "a": [
-          "lumpy layered clouds",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Weak convective currents create shallow cloud layers because of drier, stable air above preventing continued vertical development.",
+          "Stratocumulus is only a fictional mobile-game item.",
+          "Stratocumulus is mainly a cooking utensil.",
+          "Stratocumulus is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Stratocumulus?",
+        "q": "Why are cloud types educational in PuzzleVerse?",
         "a": [
-          "cool weather",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They connect visual pattern recognition with weather science",
+          "They teach only car repair",
+          "They are fictional monsters only",
+          "They are random letters"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-199-cirrostratus",
@@ -9939,36 +10190,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Franz van Duns / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Cirrostratus?",
+        "q": "What should you observe first in a cloud puzzle about Cirrostratus?",
         "a": [
-          "Cloud Types & Weather",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Shape, height, texture, and weather clues",
+          "Only the price of the cloud",
+          "Only a political flag",
+          "Only a cooking ingredient"
         ],
         "correct": 0
       },
       {
-        "q": "Cirrostratus is especially connected with what?",
+        "q": "Which statement is true about Cirrostratus?",
         "a": [
-          "thin veil cloud",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Cirrostratus is a high-altitude, very thin, and generally uniform stratiform genus-type of cloud.",
+          "Cirrostratus is only a fictional mobile-game item.",
+          "Cirrostratus is mainly a cooking utensil.",
+          "Cirrostratus is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Cirrostratus?",
+        "q": "Why are cloud types educational in PuzzleVerse?",
         "a": [
-          "halo effect",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They connect visual pattern recognition with weather science",
+          "They teach only car repair",
+          "They are fictional monsters only",
+          "They are random letters"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-200-cirrocumulus",
@@ -9989,36 +10242,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "GerritR / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Cirrocumulus?",
+        "q": "What should you observe first in a cloud puzzle about Cirrocumulus?",
         "a": [
-          "Cloud Types & Weather",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Shape, height, texture, and weather clues",
+          "Only the price of the cloud",
+          "Only a political flag",
+          "Only a cooking ingredient"
         ],
         "correct": 0
       },
       {
-        "q": "Cirrocumulus is especially connected with what?",
+        "q": "Which statement is true about Cirrocumulus?",
         "a": [
-          "tiny rippled clouds",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Cirrocumulus is one of the three main genus types of high-altitude tropospheric clouds, the other two being cirrus and cirrostratus.",
+          "Cirrocumulus is only a fictional mobile-game item.",
+          "Cirrocumulus is mainly a cooking utensil.",
+          "Cirrocumulus is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Cirrocumulus?",
+        "q": "Why are cloud types educational in PuzzleVerse?",
         "a": [
-          "ice crystals",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They connect visual pattern recognition with weather science",
+          "They teach only car repair",
+          "They are fictional monsters only",
+          "They are random letters"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-201-lenticular-cloud",
@@ -10039,36 +10294,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "GerritR / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Lenticular Cloud?",
+        "q": "What should you observe first in a cloud puzzle about Lenticular Cloud?",
         "a": [
-          "Cloud Types & Weather",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Shape, height, texture, and weather clues",
+          "Only the price of the cloud",
+          "Only a political flag",
+          "Only a cooking ingredient"
         ],
         "correct": 0
       },
       {
-        "q": "Lenticular Cloud is especially connected with what?",
+        "q": "Which statement is true about Lenticular Cloud?",
         "a": [
-          "lens-shaped cloud",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Lenticular Cloud is connected with weather observation and cloud science.",
+          "Lenticular Cloud is only a fictional mobile-game item.",
+          "Lenticular Cloud is mainly a cooking utensil.",
+          "Lenticular Cloud is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Lenticular Cloud?",
+        "q": "Why are cloud types educational in PuzzleVerse?",
         "a": [
-          "mountain waves",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They connect visual pattern recognition with weather science",
+          "They teach only car repair",
+          "They are fictional monsters only",
+          "They are random letters"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-202-mammatus-cloud",
@@ -10089,36 +10346,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Theov999 / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Mammatus Cloud?",
+        "q": "What should you observe first in a cloud puzzle about Mammatus Cloud?",
         "a": [
-          "Cloud Types & Weather",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Shape, height, texture, and weather clues",
+          "Only the price of the cloud",
+          "Only a political flag",
+          "Only a cooking ingredient"
         ],
         "correct": 0
       },
       {
-        "q": "Mammatus Cloud is especially connected with what?",
+        "q": "Which statement is true about Mammatus Cloud?",
         "a": [
-          "pouch-like formations",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Mammatus is a cellular pattern of pouches hanging underneath the base of a cloud, typically a cumulonimbus raincloud, although they may be attached to other classes of parent clouds.",
+          "Mammatus Cloud is only a fictional mobile-game item.",
+          "Mammatus Cloud is mainly a cooking utensil.",
+          "Mammatus Cloud is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Mammatus Cloud?",
+        "q": "Why are cloud types educational in PuzzleVerse?",
         "a": [
-          "storm outflow",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They connect visual pattern recognition with weather science",
+          "They teach only car repair",
+          "They are fictional monsters only",
+          "They are random letters"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-203-shelf-cloud",
@@ -10139,36 +10398,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Rizka / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Shelf Cloud?",
+        "q": "What should you observe first in a cloud puzzle about Shelf Cloud?",
         "a": [
-          "Cloud Types & Weather",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Shape, height, texture, and weather clues",
+          "Only the price of the cloud",
+          "Only a political flag",
+          "Only a cooking ingredient"
         ],
         "correct": 0
       },
       {
-        "q": "Shelf Cloud is especially connected with what?",
+        "q": "Which statement is true about Shelf Cloud?",
         "a": [
-          "wedge-shaped front",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Shelf Cloud is connected with weather observation and cloud science.",
+          "Shelf Cloud is only a fictional mobile-game item.",
+          "Shelf Cloud is mainly a cooking utensil.",
+          "Shelf Cloud is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Shelf Cloud?",
+        "q": "Why are cloud types educational in PuzzleVerse?",
         "a": [
-          "gust front",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They connect visual pattern recognition with weather science",
+          "They teach only car repair",
+          "They are fictional monsters only",
+          "They are random letters"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-204-wall-cloud",
@@ -10189,36 +10450,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Rubbish computer / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Wall Cloud?",
+        "q": "What should you observe first in a cloud puzzle about Wall Cloud?",
         "a": [
-          "Cloud Types & Weather",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Shape, height, texture, and weather clues",
+          "Only the price of the cloud",
+          "Only a political flag",
+          "Only a cooking ingredient"
         ],
         "correct": 0
       },
       {
-        "q": "Wall Cloud is especially connected with what?",
+        "q": "Which statement is true about Wall Cloud?",
         "a": [
-          "lowering below storm",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Wall Cloud is connected with weather observation and cloud science.",
+          "Wall Cloud is only a fictional mobile-game item.",
+          "Wall Cloud is mainly a cooking utensil.",
+          "Wall Cloud is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Wall Cloud?",
+        "q": "Why are cloud types educational in PuzzleVerse?",
         "a": [
-          "severe weather",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They connect visual pattern recognition with weather science",
+          "They teach only car repair",
+          "They are fictional monsters only",
+          "They are random letters"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-205-fog",
@@ -10239,36 +10502,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Michal Klajban / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Fog?",
+        "q": "What should you observe first in a cloud puzzle about Fog?",
         "a": [
-          "Cloud Types & Weather",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Shape, height, texture, and weather clues",
+          "Only the price of the cloud",
+          "Only a political flag",
+          "Only a cooking ingredient"
         ],
         "correct": 0
       },
       {
-        "q": "Fog is especially connected with what?",
+        "q": "Which statement is true about Fog?",
         "a": [
-          "cloud at ground level",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Fog is a visible aerosol consisting of tiny water droplets or ice crystals held in the air near the Earth's surface.",
+          "Fog is only a fictional mobile-game item.",
+          "Fog is mainly a cooking utensil.",
+          "Fog is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Fog?",
+        "q": "Why are cloud types educational in PuzzleVerse?",
         "a": [
-          "low visibility",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They connect visual pattern recognition with weather science",
+          "They teach only car repair",
+          "They are fictional monsters only",
+          "They are random letters"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-206-kelvin-helmholtz-cloud",
@@ -10289,36 +10554,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "N O E L | F E A N S / Wikimedia Commons / CC BY 2.0",
     "trivia": [
       {
-        "q": "Which category best matches Kelvin-Helmholtz Cloud?",
+        "q": "What should you observe first in a cloud puzzle about Kelvin-Helmholtz Cloud?",
         "a": [
-          "Cloud Types & Weather",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Shape, height, texture, and weather clues",
+          "Only the price of the cloud",
+          "Only a political flag",
+          "Only a cooking ingredient"
         ],
         "correct": 0
       },
       {
-        "q": "Kelvin-Helmholtz Cloud is especially connected with what?",
+        "q": "Which statement is true about Kelvin-Helmholtz Cloud?",
         "a": [
-          "ocean-wave appearance",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Kelvin-Helmholtz Cloud is connected with weather observation and cloud science.",
+          "Kelvin-Helmholtz Cloud is only a fictional mobile-game item.",
+          "Kelvin-Helmholtz Cloud is mainly a cooking utensil.",
+          "Kelvin-Helmholtz Cloud is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Kelvin-Helmholtz Cloud?",
+        "q": "Why are cloud types educational in PuzzleVerse?",
         "a": [
-          "wind shear",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They connect visual pattern recognition with weather science",
+          "They teach only car repair",
+          "They are fictional monsters only",
+          "They are random letters"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-207-noctilucent-cloud",
@@ -10339,36 +10606,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Wing / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Noctilucent Cloud?",
+        "q": "What should you observe first in a cloud puzzle about Noctilucent Cloud?",
         "a": [
-          "Cloud Types & Weather",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Shape, height, texture, and weather clues",
+          "Only the price of the cloud",
+          "Only a political flag",
+          "Only a cooking ingredient"
         ],
         "correct": 0
       },
       {
-        "q": "Noctilucent Cloud is especially connected with what?",
+        "q": "Which statement is true about Noctilucent Cloud?",
         "a": [
-          "night-shining cloud",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Noctilucent clouds (NLCs), or night shining clouds, are tenuous cloud-like phenomena in the upper atmosphere.",
+          "Noctilucent Cloud is only a fictional mobile-game item.",
+          "Noctilucent Cloud is mainly a cooking utensil.",
+          "Noctilucent Cloud is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Noctilucent Cloud?",
+        "q": "Why are cloud types educational in PuzzleVerse?",
         "a": [
-          "mesosphere",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They connect visual pattern recognition with weather science",
+          "They teach only car repair",
+          "They are fictional monsters only",
+          "They are random letters"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-208-contrail",
@@ -10389,36 +10658,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "NOTE: This image is a panorama of Sunrays near Walchwil, Switzerland consisting of 7 frames that were merged or stitched in Kolor Autopano Pro. As a result, this image necessarily underwent some form of digital manipulation. These manipulations may include blending, blurring, cloning, and colour and perspective adjustments. As a result of these adjustments, the image content may be slightly different from reality at the points where multiple images were combined. This manipulation is often required due to lens, perspective, and parallax distortions. / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Contrail?",
+        "q": "What should you observe first in a cloud puzzle about Contrail?",
         "a": [
-          "Cloud Types & Weather",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Shape, height, texture, and weather clues",
+          "Only the price of the cloud",
+          "Only a political flag",
+          "Only a cooking ingredient"
         ],
         "correct": 0
       },
       {
-        "q": "Contrail is especially connected with what?",
+        "q": "Which statement is true about Contrail?",
         "a": [
-          "aircraft condensation trail",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Contrails or vapour trails are line-shaped clouds produced by aircraft engine exhaust or changes in air pressure, typically at aircraft cruising altitudes several kilometres/miles above the Earth's surface.",
+          "Contrail is only a fictional mobile-game item.",
+          "Contrail is mainly a cooking utensil.",
+          "Contrail is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Contrail?",
+        "q": "Why are cloud types educational in PuzzleVerse?",
         "a": [
-          "ice crystals",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They connect visual pattern recognition with weather science",
+          "They teach only car repair",
+          "They are fictional monsters only",
+          "They are random letters"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-209-pileus-cloud",
@@ -10439,36 +10710,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "CARLOS TEIXIDOR CADENAS / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Pileus Cloud?",
+        "q": "What should you observe first in a cloud puzzle about Pileus Cloud?",
         "a": [
-          "Cloud Types & Weather",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Shape, height, texture, and weather clues",
+          "Only the price of the cloud",
+          "Only a political flag",
+          "Only a cooking ingredient"
         ],
         "correct": 0
       },
       {
-        "q": "Pileus Cloud is especially connected with what?",
+        "q": "Which statement is true about Pileus Cloud?",
         "a": [
-          "cap over growing cloud",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Pileus Cloud is connected with weather observation and cloud science.",
+          "Pileus Cloud is only a fictional mobile-game item.",
+          "Pileus Cloud is mainly a cooking utensil.",
+          "Pileus Cloud is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Pileus Cloud?",
+        "q": "Why are cloud types educational in PuzzleVerse?",
         "a": [
-          "rapid uplift",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They connect visual pattern recognition with weather science",
+          "They teach only car repair",
+          "They are fictional monsters only",
+          "They are random letters"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-210-virga",
@@ -10489,36 +10762,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "GerritR / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Virga?",
+        "q": "What should you observe first in a cloud puzzle about Virga?",
         "a": [
-          "Cloud Types & Weather",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Shape, height, texture, and weather clues",
+          "Only the price of the cloud",
+          "Only a political flag",
+          "Only a cooking ingredient"
         ],
         "correct": 0
       },
       {
-        "q": "Virga is especially connected with what?",
+        "q": "Which statement is true about Virga?",
         "a": [
-          "rain evaporating before ground",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "A virga, also called a dry storm, is an observable streak or shaft of precipitation that evaporates or sublimates before reaching the ground.",
+          "Virga is only a fictional mobile-game item.",
+          "Virga is mainly a cooking utensil.",
+          "Virga is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Virga?",
+        "q": "Why are cloud types educational in PuzzleVerse?",
         "a": [
-          "dry air",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They connect visual pattern recognition with weather science",
+          "They teach only car repair",
+          "They are fictional monsters only",
+          "They are random letters"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-211-orion",
@@ -10539,36 +10814,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "NASA, ESA, M. Robberto (Space Telescope Science Institute/ESA) and the Hubble Space Telescope Orion Treasury Project Team / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Orion?",
+        "q": "What is Orion in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Orion is especially connected with what?",
+        "q": "Which statement is true about Orion?",
         "a": [
-          "hunter figure",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Orion may refer to:",
+          "Orion is only a fictional mobile-game item.",
+          "Orion is mainly a cooking utensil.",
+          "Orion is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Orion?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "Betelgeuse and Rigel",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-212-ursa-major",
@@ -10589,36 +10866,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Thomas Bresson / Wikimedia Commons / CC BY 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Ursa Major?",
+        "q": "What is Ursa Major in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Ursa Major is especially connected with what?",
+        "q": "Which statement is true about Ursa Major?",
         "a": [
-          "great bear",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Ursa Major, also known as the Great Bear, is a constellation in the Northern Sky, whose associated mythology likely dates back into prehistory.",
+          "Ursa Major is only a fictional mobile-game item.",
+          "Ursa Major is mainly a cooking utensil.",
+          "Ursa Major is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Ursa Major?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "Big Dipper asterism",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-213-ursa-minor",
@@ -10639,36 +10918,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Alexander Jamieson / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Ursa Minor?",
+        "q": "What is Ursa Minor in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Ursa Minor is especially connected with what?",
+        "q": "Which statement is true about Ursa Minor?",
         "a": [
-          "little bear",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Ursa Minor, also known as the Little Bear, is a constellation located in the far northern sky.",
+          "Ursa Minor is only a fictional mobile-game item.",
+          "Ursa Minor is mainly a cooking utensil.",
+          "Ursa Minor is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Ursa Minor?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "Polaris",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-214-cassiopeia",
@@ -10689,36 +10970,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Joxeankoret / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Cassiopeia?",
+        "q": "What is Cassiopeia in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Cassiopeia is especially connected with what?",
+        "q": "Which statement is true about Cassiopeia?",
         "a": [
-          "W shape",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Cassiopeia or Cassiopea may refer to:",
+          "Cassiopeia is only a fictional mobile-game item.",
+          "Cassiopeia is mainly a cooking utensil.",
+          "Cassiopeia is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Cassiopeia?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "mythological queen",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-215-scorpius",
@@ -10739,36 +11022,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Bode, Johann Elert [1747-1826] / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Scorpius?",
+        "q": "What is Scorpius in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Scorpius is especially connected with what?",
+        "q": "Which statement is true about Scorpius?",
         "a": [
-          "scorpion",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Scorpius is a zodiac constellation located in the Southern celestial hemisphere, where it sits near the center of the Milky Way, between Libra to the west and Sagittarius to the east.",
+          "Scorpius is only a fictional mobile-game item.",
+          "Scorpius is mainly a cooking utensil.",
+          "Scorpius is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Scorpius?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "Antares",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-216-leo",
@@ -10789,36 +11074,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Charles J. Sharp / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Leo?",
+        "q": "What is Leo in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Leo is especially connected with what?",
+        "q": "Which statement is true about Leo?",
         "a": [
-          "lion",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It most often refers to:Leo (constellation), a constellation of stars in the night sky\nLeo (astrology), an astrological sign of the zodiac\nLeo, a given name in several languages, usually masculine",
+          "Leo is only a fictional mobile-game item.",
+          "Leo is mainly a cooking utensil.",
+          "Leo is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Leo?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "Regulus",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-217-taurus",
@@ -10839,36 +11126,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons / CC BY-SA 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Taurus?",
+        "q": "What is Taurus in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Taurus is especially connected with what?",
+        "q": "Which statement is true about Taurus?",
         "a": [
-          "bull",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Taurus is Latin for 'bull' and may refer to:",
+          "Taurus is only a fictional mobile-game item.",
+          "Taurus is mainly a cooking utensil.",
+          "Taurus is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Taurus?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "Aldebaran",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-218-gemini",
@@ -10889,36 +11178,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "John Flamsteed (1646-1719) / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Gemini?",
+        "q": "What is Gemini in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Gemini is especially connected with what?",
+        "q": "Which statement is true about Gemini?",
         "a": [
-          "twins",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Gemini most often refers to:Gemini (constellation), one of the constellations of the zodiac\nGemini (astrology), an astrological sign\nGemini, series of large language models developed by Google\nGoogle Gemini, chatbot",
+          "Gemini is only a fictional mobile-game item.",
+          "Gemini is mainly a cooking utensil.",
+          "Gemini is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Gemini?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "Castor and Pollux",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-219-cancer",
@@ -10939,36 +11230,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Korinna / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Cancer?",
+        "q": "What is Cancer in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Cancer is especially connected with what?",
+        "q": "Which statement is true about Cancer?",
         "a": [
-          "crab",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Cancer is a group of diseases involving uncontrolled cell growth typically resulting in tumors with the potential to invade or spread to other parts of the body.",
+          "Cancer is only a fictional mobile-game item.",
+          "Cancer is mainly a cooking utensil.",
+          "Cancer is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Cancer?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "Beehive Cluster",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-220-virgo",
@@ -10989,36 +11282,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "E. Slawik/NOIRLab/NSF/AURA/M. Zamani / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Virgo?",
+        "q": "What is Virgo in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Virgo is especially connected with what?",
+        "q": "Which statement is true about Virgo?",
         "a": [
-          "maiden",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Virgo may refer to:",
+          "Virgo is only a fictional mobile-game item.",
+          "Virgo is mainly a cooking utensil.",
+          "Virgo is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Virgo?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "Spica",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-221-libra",
@@ -11039,36 +11334,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Johann Bayer / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Libra?",
+        "q": "What is Libra in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Libra is especially connected with what?",
+        "q": "Which statement is true about Libra?",
         "a": [
-          "scales",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Libra generally refers to:Libra (constellation), a constellation\nLibra (astrology), an astrological sign based on the star constellation",
+          "Libra is only a fictional mobile-game item.",
+          "Libra is mainly a cooking utensil.",
+          "Libra is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Libra?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "balance",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-222-sagittarius",
@@ -11089,36 +11386,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Martin Bernardi / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Sagittarius?",
+        "q": "What is Sagittarius in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Sagittarius is especially connected with what?",
+        "q": "Which statement is true about Sagittarius?",
         "a": [
-          "archer",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Sagittarius may refer to:Sagittarius (constellation)\nSagittarius (astrology), a sign of the Zodiac\nSagittarius of Gap, a 6th century bishop\nSagittarius A*, the supermassive black hole at the center of the Milky Way galax",
+          "Sagittarius is only a fictional mobile-game item.",
+          "Sagittarius is mainly a cooking utensil.",
+          "Sagittarius is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Sagittarius?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "Milky Way center direction",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-223-capricornus",
@@ -11139,36 +11438,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Johann Elert Bode / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Capricornus?",
+        "q": "What is Capricornus in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Capricornus is especially connected with what?",
+        "q": "Which statement is true about Capricornus?",
         "a": [
-          "sea-goat",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Capricornus is one of the constellations of the zodiac.",
+          "Capricornus is only a fictional mobile-game item.",
+          "Capricornus is mainly a cooking utensil.",
+          "Capricornus is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Capricornus?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "faint constellation",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-224-aquarius",
@@ -11189,36 +11490,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "E. Slawik/NOIRLab/NSF/AURA/M. Zamani / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Aquarius?",
+        "q": "What is Aquarius in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Aquarius is especially connected with what?",
+        "q": "Which statement is true about Aquarius?",
         "a": [
-          "water bearer",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Aquarius may refer to:",
+          "Aquarius is only a fictional mobile-game item.",
+          "Aquarius is mainly a cooking utensil.",
+          "Aquarius is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Aquarius?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "Eta Aquariids radiant",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-225-pisces",
@@ -11239,36 +11542,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "E. Slawik/NOIRLab/NSF/AURA/M. Zamani / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Pisces?",
+        "q": "What is Pisces in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Pisces is especially connected with what?",
+        "q": "Which statement is true about Pisces?",
         "a": [
-          "fish",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Pisces may refer to:",
+          "Pisces is only a fictional mobile-game item.",
+          "Pisces is mainly a cooking utensil.",
+          "Pisces is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Pisces?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "vernal equinox region",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-226-aries",
@@ -11289,36 +11594,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Johann Bayer / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Aries?",
+        "q": "What is Aries in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Aries is especially connected with what?",
+        "q": "Which statement is true about Aries?",
         "a": [
-          "ram",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Aries may refer to:Aries (astrology), an astrological sign\nAries (constellation), a constellation in the zodiac",
+          "Aries is only a fictional mobile-game item.",
+          "Aries is mainly a cooking utensil.",
+          "Aries is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Aries?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "Hamal",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-227-canis-major",
@@ -11339,36 +11646,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "BreakdownDiode / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Canis Major?",
+        "q": "What is Canis Major in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Canis Major is especially connected with what?",
+        "q": "Which statement is true about Canis Major?",
         "a": [
-          "greater dog",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Canis Major is a constellation in the southern celestial hemisphere.",
+          "Canis Major is only a fictional mobile-game item.",
+          "Canis Major is mainly a cooking utensil.",
+          "Canis Major is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Canis Major?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "Sirius",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-228-canis-minor",
@@ -11389,36 +11698,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Johann Bayer (1572-1625) / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Canis Minor?",
+        "q": "What is Canis Minor in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Canis Minor is especially connected with what?",
+        "q": "Which statement is true about Canis Minor?",
         "a": [
-          "lesser dog",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Canis Minor is a small constellation in the northern celestial hemisphere.",
+          "Canis Minor is only a fictional mobile-game item.",
+          "Canis Minor is mainly a cooking utensil.",
+          "Canis Minor is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Canis Minor?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "Procyon",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-229-cygnus",
@@ -11439,36 +11750,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Feel free to use my photos, but please mention me as the author and if you want send me a  message. or (rufre@lenz-nenning.at) / Wikimedia Commons / CC BY-SA 3.0 at",
     "trivia": [
       {
-        "q": "Which category best matches Cygnus?",
+        "q": "What is Cygnus in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Cygnus is especially connected with what?",
+        "q": "Which statement is true about Cygnus?",
         "a": [
-          "swan",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Cygnus is the Latin word for swan and may refer to:",
+          "Cygnus is only a fictional mobile-game item.",
+          "Cygnus is mainly a cooking utensil.",
+          "Cygnus is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Cygnus?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "Northern Cross",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-230-lyra",
@@ -11489,36 +11802,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Johann Elert Bode (1747-1826) / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Lyra?",
+        "q": "What is Lyra in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Lyra is especially connected with what?",
+        "q": "Which statement is true about Lyra?",
         "a": [
-          "lyre",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It is one of the 48 listed by the 2nd century astronomer Ptolemy, and is one of the modern 88 constellations recognized by the International Astronomical Union.",
+          "Lyra is only a fictional mobile-game item.",
+          "Lyra is mainly a cooking utensil.",
+          "Lyra is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Lyra?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "Vega",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-231-aquila",
@@ -11539,36 +11854,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Quartl / Wikimedia Commons / CC BY-SA 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Aquila?",
+        "q": "What is Aquila in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Aquila is especially connected with what?",
+        "q": "Which statement is true about Aquila?",
         "a": [
-          "eagle",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Aquila may refer to:",
+          "Aquila is only a fictional mobile-game item.",
+          "Aquila is mainly a cooking utensil.",
+          "Aquila is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Aquila?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "Altair",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-232-crux",
@@ -11589,36 +11906,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "藤井旭 / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Crux?",
+        "q": "What is Crux in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Crux is especially connected with what?",
+        "q": "Which statement is true about Crux?",
         "a": [
-          "Southern Cross",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Crux is a constellation of the southern sky that is centred on four bright stars in a cross-shaped asterism commonly known as the Southern Cross.",
+          "Crux is only a fictional mobile-game item.",
+          "Crux is mainly a cooking utensil.",
+          "Crux is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Crux?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "navigation",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-233-centaurus",
@@ -11639,36 +11958,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Unknown Details on Google Art Project / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Centaurus?",
+        "q": "What is Centaurus in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Centaurus is especially connected with what?",
+        "q": "Which statement is true about Centaurus?",
         "a": [
-          "centaur",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Centaurus is a bright constellation in the southern sky.",
+          "Centaurus is only a fictional mobile-game item.",
+          "Centaurus is mainly a cooking utensil.",
+          "Centaurus is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Centaurus?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "Alpha Centauri",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-234-carina",
@@ -11689,36 +12010,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "NASA, ESA, N. Smith (University of California, Berkeley), and The Hubble Heritage Team (STScI/AURA); credit for CTIO Image: N. Smith (University of California, Berkeley) and NOAO/AURA/NSF / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Carina?",
+        "q": "What is Carina in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Carina is especially connected with what?",
+        "q": "Which statement is true about Carina?",
         "a": [
-          "ship keel",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Carina may refer to:",
+          "Carina is only a fictional mobile-game item.",
+          "Carina is mainly a cooking utensil.",
+          "Carina is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Carina?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "Canopus",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-235-vela",
@@ -11739,36 +12062,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "CTIO/NOIRLab/DOE/NSF/AURA\n\nImage Processing: T.A. Rector (University of Alaska Anchorage/NSF’s NOIRLab), M. Zamani &amp; D. de Martin (NSF’s NOIRLab) / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Vela?",
+        "q": "What is Vela in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Vela is especially connected with what?",
+        "q": "Which statement is true about Vela?",
         "a": [
-          "ship sails",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Vela or Velas may refer to:",
+          "Vela is only a fictional mobile-game item.",
+          "Vela is mainly a cooking utensil.",
+          "Vela is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Vela?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "former Argo Navis",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-236-puppis",
@@ -11789,36 +12114,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "E. Slawik/NOIRLab/NSF/AURA/M. Zamani / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Puppis?",
+        "q": "What is Puppis in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Puppis is especially connected with what?",
+        "q": "Which statement is true about Puppis?",
         "a": [
-          "ship stern",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Puppis (\"stern\") is a constellation in the southern sky.",
+          "Puppis is only a fictional mobile-game item.",
+          "Puppis is mainly a cooking utensil.",
+          "Puppis is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Puppis?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "former Argo Navis",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-237-pegasus",
@@ -11839,36 +12166,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Johann Bayer / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Pegasus?",
+        "q": "What is Pegasus in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Pegasus is especially connected with what?",
+        "q": "Which statement is true about Pegasus?",
         "a": [
-          "winged horse",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Pegasus is a winged horse in Greek mythology, usually depicted as a white stallion.",
+          "Pegasus is only a fictional mobile-game item.",
+          "Pegasus is mainly a cooking utensil.",
+          "Pegasus is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Pegasus?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "Great Square",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-238-andromeda",
@@ -11889,36 +12218,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "NASA, ESA, J. Dalcanton, B.F. Williams, and L.C. Johnson (University of Washington), the PHAT team, and R. Gendler / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Andromeda?",
+        "q": "What is Andromeda in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Andromeda is especially connected with what?",
+        "q": "Which statement is true about Andromeda?",
         "a": [
-          "princess",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Andromeda most commonly refers to:Andromeda (mythology), a princess from Greek mythology\nAndromeda (constellation), a region of the Earth's night sky\nThe Andromeda Galaxy, an astronomical object within the constellation",
+          "Andromeda is only a fictional mobile-game item.",
+          "Andromeda is mainly a cooking utensil.",
+          "Andromeda is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Andromeda?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "Andromeda Galaxy",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-239-perseus",
@@ -11939,36 +12270,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Alvesgaspar / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Perseus?",
+        "q": "What is Perseus in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Perseus is especially connected with what?",
+        "q": "Which statement is true about Perseus?",
         "a": [
-          "hero",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "In Greek mythology, Perseus is the legendary founder of the Perseid dynasty.",
+          "Perseus is only a fictional mobile-game item.",
+          "Perseus is mainly a cooking utensil.",
+          "Perseus is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Perseus?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "Algol",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-240-hercules",
@@ -11989,36 +12322,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Hercules?",
+        "q": "What is Hercules in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Hercules is especially connected with what?",
+        "q": "Which statement is true about Hercules?",
         "a": [
-          "hero",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Hercules is the Roman equivalent of the Greek divine hero Heracles, son of Jupiter and the mortal Alcmena.",
+          "Hercules is only a fictional mobile-game item.",
+          "Hercules is mainly a cooking utensil.",
+          "Hercules is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Hercules?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "Great Hercules Cluster",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-241-draco",
@@ -12039,36 +12374,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "E. Slawik/NOIRLab/NSF/AURA/M. Zamani / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Draco?",
+        "q": "What is Draco in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Draco is especially connected with what?",
+        "q": "Which statement is true about Draco?",
         "a": [
-          "dragon",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Draco is the Greco-Latin word for serpent, or dragon.",
+          "Draco is only a fictional mobile-game item.",
+          "Draco is mainly a cooking utensil.",
+          "Draco is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Draco?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "winds around pole",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-242-cepheus",
@@ -12089,36 +12426,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Tk833 / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Cepheus?",
+        "q": "What is Cepheus in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Cepheus is especially connected with what?",
+        "q": "Which statement is true about Cepheus?",
         "a": [
-          "king",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Cepheus may refer to:",
+          "Cepheus is only a fictional mobile-game item.",
+          "Cepheus is mainly a cooking utensil.",
+          "Cepheus is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Cepheus?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "house shape",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-243-bo-tes",
@@ -12139,36 +12478,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Johann Bayer / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Boötes?",
+        "q": "What is Boötes in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Boötes is especially connected with what?",
+        "q": "Which statement is true about Boötes?",
         "a": [
-          "herdsman",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Boötes is a constellation in the northern sky, located between 0° and +60° declination, and 13 and 16 hours of right ascension on the celestial sphere.",
+          "Boötes is only a fictional mobile-game item.",
+          "Boötes is mainly a cooking utensil.",
+          "Boötes is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Boötes?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "Arcturus",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-244-corona-borealis",
@@ -12189,36 +12530,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Johann Bayer / Wikimedia Commons / CC0",
     "trivia": [
       {
-        "q": "Which category best matches Corona Borealis?",
+        "q": "What is Corona Borealis in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Corona Borealis is especially connected with what?",
+        "q": "Which statement is true about Corona Borealis?",
         "a": [
-          "northern crown",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Corona Borealis is a small constellation in the Northern Celestial Hemisphere.",
+          "Corona Borealis is only a fictional mobile-game item.",
+          "Corona Borealis is mainly a cooking utensil.",
+          "Corona Borealis is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Corona Borealis?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "semicircle of stars",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-245-delphinus",
@@ -12239,36 +12582,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "H. Zell / Wikimedia Commons / CC BY-SA 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Delphinus?",
+        "q": "What is Delphinus in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Delphinus is especially connected with what?",
+        "q": "Which statement is true about Delphinus?",
         "a": [
-          "dolphin",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Delphinus is a small constellation in the Northern Celestial Hemisphere, close to the celestial equator.",
+          "Delphinus is only a fictional mobile-game item.",
+          "Delphinus is mainly a cooking utensil.",
+          "Delphinus is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Delphinus?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "small diamond shape",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-246-phoenix",
@@ -12289,36 +12634,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Tony Webster / Wikimedia Commons / CC BY 2.0",
     "trivia": [
       {
-        "q": "Which category best matches Phoenix?",
+        "q": "What is Phoenix in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Phoenix is especially connected with what?",
+        "q": "Which statement is true about Phoenix?",
         "a": [
-          "mythical bird",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Phoenix most commonly refers to:Phoenix (bird), an immortal bird in ancient Greek mythology\nPhoenix, Arizona, the capital and most populous city of Arizona",
+          "Phoenix is only a fictional mobile-game item.",
+          "Phoenix is mainly a cooking utensil.",
+          "Phoenix is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Phoenix?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "southern constellation",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-247-hydra",
@@ -12339,36 +12686,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "dronepicr / Wikimedia Commons / CC BY 2.0",
     "trivia": [
       {
-        "q": "Which category best matches Hydra?",
+        "q": "What is Hydra in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Hydra is especially connected with what?",
+        "q": "Which statement is true about Hydra?",
         "a": [
-          "water snake",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Hydra generally refers to:Lernaean Hydra, a many-headed serpent in Greek mythology\nHydra (genus), a genus of simple freshwater animals belonging to the phylum Cnidaria",
+          "Hydra is only a fictional mobile-game item.",
+          "Hydra is mainly a cooking utensil.",
+          "Hydra is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Hydra?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "largest constellation",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-248-lupus",
@@ -12389,36 +12738,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Wilfredor / Wikimedia Commons / CC0",
     "trivia": [
       {
-        "q": "Which category best matches Lupus?",
+        "q": "What is Lupus in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Lupus is especially connected with what?",
+        "q": "Which statement is true about Lupus?",
         "a": [
-          "wolf",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Lupus, formally called systemic lupus erythematosus (SLE), is an autoimmune disease in which the body's immune system mistakenly attacks healthy tissue in many parts of the body.",
+          "Lupus is only a fictional mobile-game item.",
+          "Lupus is mainly a cooking utensil.",
+          "Lupus is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Lupus?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "near Scorpius",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-249-grus",
@@ -12439,36 +12790,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Didier Descouens / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Grus?",
+        "q": "What is Grus in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Grus is especially connected with what?",
+        "q": "Which statement is true about Grus?",
         "a": [
-          "crane",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Grus may refer to:Grus (bird), a genus of birds in the crane family\nGrus grus, the common crane\nGrus (constellation), the constellation \"Crane\"\nGrus (geology), an accumulation of angular, coarse-grained fragments resulti",
+          "Grus is only a fictional mobile-game item.",
+          "Grus is mainly a cooking utensil.",
+          "Grus is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Grus?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "southern constellation",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-250-pavo",
@@ -12489,36 +12842,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Pavo?",
+        "q": "What is Pavo in astronomy?",
         "a": [
-          "Star Constellations",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A named star pattern or sky region used in astronomy",
+          "A coral reef",
+          "A dinosaur bone",
+          "A medieval tax coin"
         ],
         "correct": 0
       },
       {
-        "q": "Pavo is especially connected with what?",
+        "q": "Which statement is true about Pavo?",
         "a": [
-          "peacock",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Pavo may refer to:Pavo (bird), a genus of peafowl\nPavo (constellation), in astronomy\nPavo, a masculine Croatian name\nPavo, Georgia, United States",
+          "Pavo is only a fictional mobile-game item.",
+          "Pavo is mainly a cooking utensil.",
+          "Pavo is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Pavo?",
+        "q": "Why are constellations useful in an educational puzzle game?",
         "a": [
-          "southern constellation",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "They teach sky recognition, mythology, and astronomy",
+          "They teach only shoe sizes",
+          "They are cooking recipes",
+          "They are bank passwords"
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-251-anglerfish",
@@ -12539,36 +12894,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Didier Descouens / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Anglerfish?",
+        "q": "What scientific or taxon name is connected to Anglerfish?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Lophiiformes",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Anglerfish is especially connected with what?",
+        "q": "Which biological group is Anglerfish connected to?",
         "a": [
-          "bioluminescent lure",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Actinopterygii",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Anglerfish?",
+        "q": "Which statement is true about Anglerfish?",
         "a": [
-          "dark ocean",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The anglerfish are ray-finned fish in the order Lophiiformes.",
+          "Anglerfish is only a fictional mobile-game item.",
+          "Anglerfish is mainly a cooking utensil.",
+          "Anglerfish is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-252-giant-squid",
@@ -12589,36 +12946,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Den Unge Herr Holm (Kim Diaz Holm) / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Giant Squid?",
+        "q": "Which statement is true about Giant Squid?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Giant squid usually refers to any large squid including Humboldt squid or sometimes even the Robust clubhook squid.",
+          "Giant Squid is only a fictional mobile-game item.",
+          "Giant Squid is mainly a cooking utensil.",
+          "Giant Squid is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Giant Squid is especially connected with what?",
+        "q": "Why is Giant Squid part of the nature puzzle collection?",
         "a": [
-          "large eyes",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Giant Squid?",
+        "q": "Which statement is true about Giant Squid?",
         "a": [
-          "deep ocean",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Giant squid usually refers to any large squid including Humboldt squid or sometimes even the Robust clubhook squid.",
+          "Giant Squid is only a fictional mobile-game item.",
+          "Giant Squid is mainly a cooking utensil.",
+          "Giant Squid is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-253-vampire-squid",
@@ -12639,36 +12998,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Emőke Dénes / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Vampire Squid?",
+        "q": "What scientific or taxon name is connected to Vampire Squid?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Vampyroteuthis infernalis",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Vampire Squid is especially connected with what?",
+        "q": "Which biological group is Vampire Squid connected to?",
         "a": [
-          "webbed arms",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Vampyroteuthis",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Vampire Squid?",
+        "q": "Which statement is true about Vampire Squid?",
         "a": [
-          "oxygen minimum zones",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The vampire squid is a small cephalopod found throughout temperate and tropical oceans in extreme deep sea conditions.",
+          "Vampire Squid is only a fictional mobile-game item.",
+          "Vampire Squid is mainly a cooking utensil.",
+          "Vampire Squid is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-254-goblin-shark",
@@ -12689,36 +13050,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "CEphoto, Uwe Aranas / Wikimedia Commons / CC BY-SA 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Goblin Shark?",
+        "q": "What scientific or taxon name is connected to Goblin Shark?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Mitsukurina owstoni",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Goblin Shark is especially connected with what?",
+        "q": "Which biological group is Goblin Shark connected to?",
         "a": [
-          "protruding jaws",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Mitsukurina",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Goblin Shark?",
+        "q": "Which statement is true about Goblin Shark?",
         "a": [
-          "slope waters",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The goblin shark is a rare species of deep-sea shark.",
+          "Goblin Shark is only a fictional mobile-game item.",
+          "Goblin Shark is mainly a cooking utensil.",
+          "Goblin Shark is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-255-gulper-eel",
@@ -12739,36 +13102,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Emőke Dénes / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Gulper Eel?",
+        "q": "What scientific or taxon name is connected to Gulper Eel?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Eurypharynx pelecanoides",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Gulper Eel is especially connected with what?",
+        "q": "Which biological group is Gulper Eel connected to?",
         "a": [
-          "huge mouth",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Eurypharynx",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Gulper Eel?",
+        "q": "Which statement is true about Gulper Eel?",
         "a": [
-          "bathypelagic zone",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Gulper Eel is connected with life in the deep ocean.",
+          "Gulper Eel is only a fictional mobile-game item.",
+          "Gulper Eel is mainly a cooking utensil.",
+          "Gulper Eel is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-256-barreleye-fish",
@@ -12789,36 +13154,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Unknown authorUnknown author / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Barreleye Fish?",
+        "q": "Which statement is true about Barreleye Fish?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Barreleye Fish is connected with life in the deep ocean.",
+          "Barreleye Fish is only a fictional mobile-game item.",
+          "Barreleye Fish is mainly a cooking utensil.",
+          "Barreleye Fish is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Barreleye Fish is especially connected with what?",
+        "q": "Why is Barreleye Fish part of the nature puzzle collection?",
         "a": [
-          "transparent head",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Barreleye Fish?",
+        "q": "Which statement is true about Barreleye Fish?",
         "a": [
-          "green tubular eyes",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Barreleye Fish is connected with life in the deep ocean.",
+          "Barreleye Fish is only a fictional mobile-game item.",
+          "Barreleye Fish is mainly a cooking utensil.",
+          "Barreleye Fish is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-257-dumbo-octopus",
@@ -12839,36 +13206,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Dean Falk Schnabel / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Dumbo Octopus?",
+        "q": "What scientific or taxon name is connected to Dumbo Octopus?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Grimpoteuthis discoveryi",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Dumbo Octopus is especially connected with what?",
+        "q": "Which biological group is Dumbo Octopus connected to?",
         "a": [
-          "ear-like fins",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Grimpoteuthis",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Dumbo Octopus?",
+        "q": "Which statement is true about Dumbo Octopus?",
         "a": [
-          "deep seafloor",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Grimpoteuthis is a genus of pelagic cirrate (finned) octopods known as the dumbo octopus.",
+          "Dumbo Octopus is only a fictional mobile-game item.",
+          "Dumbo Octopus is mainly a cooking utensil.",
+          "Dumbo Octopus is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-258-fangtooth-fish",
@@ -12889,36 +13258,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "NOAA Photo Library / Wikimedia Commons / CC BY 2.0",
     "trivia": [
       {
-        "q": "Which category best matches Fangtooth Fish?",
+        "q": "Which statement is true about Fangtooth Fish?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Fangtooth Fish is connected with life in the deep ocean.",
+          "Fangtooth Fish is only a fictional mobile-game item.",
+          "Fangtooth Fish is mainly a cooking utensil.",
+          "Fangtooth Fish is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Fangtooth Fish is especially connected with what?",
+        "q": "Why is Fangtooth Fish part of the nature puzzle collection?",
         "a": [
-          "large teeth",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Fangtooth Fish?",
+        "q": "Which statement is true about Fangtooth Fish?",
         "a": [
-          "deep waters",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Fangtooth Fish is connected with life in the deep ocean.",
+          "Fangtooth Fish is only a fictional mobile-game item.",
+          "Fangtooth Fish is mainly a cooking utensil.",
+          "Fangtooth Fish is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-259-black-dragonfish",
@@ -12939,36 +13310,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Obata &amp; Imamura (2024) / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Black Dragonfish?",
+        "q": "What scientific or taxon name is connected to Black Dragonfish?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Idiacanthus atlanticus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Black Dragonfish is especially connected with what?",
+        "q": "Which biological group is Black Dragonfish connected to?",
         "a": [
-          "bioluminescence",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Idiacanthus",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Black Dragonfish?",
+        "q": "Which statement is true about Black Dragonfish?",
         "a": [
-          "dark waters",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Black Dragonfish is connected with life in the deep ocean.",
+          "Black Dragonfish is only a fictional mobile-game item.",
+          "Black Dragonfish is mainly a cooking utensil.",
+          "Black Dragonfish is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-260-hatchetfish",
@@ -12989,36 +13362,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Photographer: Benjamin HealleySource: Museums Victoria / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Hatchetfish?",
+        "q": "Which statement is true about Hatchetfish?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Hatchetfish may refer to three groups of fishes:Marine hatchetfishes, small deep-sea bioluminescent fishes (Stomiiformes) of the family Sternoptychidae, subfamily Sternoptychinae.",
+          "Hatchetfish is only a fictional mobile-game item.",
+          "Hatchetfish is mainly a cooking utensil.",
+          "Hatchetfish is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Hatchetfish is especially connected with what?",
+        "q": "Why is Hatchetfish part of the nature puzzle collection?",
         "a": [
-          "silver body",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Hatchetfish?",
+        "q": "Which statement is true about Hatchetfish?",
         "a": [
-          "counterillumination",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Hatchetfish may refer to three groups of fishes:Marine hatchetfishes, small deep-sea bioluminescent fishes (Stomiiformes) of the family Sternoptychidae, subfamily Sternoptychinae.",
+          "Hatchetfish is only a fictional mobile-game item.",
+          "Hatchetfish is mainly a cooking utensil.",
+          "Hatchetfish is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-261-lanternfish",
@@ -13039,36 +13414,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "HulloThere / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Lanternfish?",
+        "q": "What scientific or taxon name is connected to Lanternfish?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Diaphus effulgens",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Lanternfish is especially connected with what?",
+        "q": "Which biological group is Lanternfish connected to?",
         "a": [
-          "light organs",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Diaphus",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Lanternfish?",
+        "q": "Which statement is true about Lanternfish?",
         "a": [
-          "daily vertical migration",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Lanternfish are small mesopelagic fish of the large family Myctophidae.",
+          "Lanternfish is only a fictional mobile-game item.",
+          "Lanternfish is mainly a cooking utensil.",
+          "Lanternfish is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-262-siphonophore",
@@ -13089,36 +13466,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Peter Southwood / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Siphonophore?",
+        "q": "Which statement is true about Siphonophore?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Siphonophores are cnidarian animals of the hydrozoan order Siphonophorae.",
+          "Siphonophore is only a fictional mobile-game item.",
+          "Siphonophore is mainly a cooking utensil.",
+          "Siphonophore is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Siphonophore is especially connected with what?",
+        "q": "Why is Siphonophore part of the nature puzzle collection?",
         "a": [
-          "long drifting colony",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Siphonophore?",
+        "q": "Which statement is true about Siphonophore?",
         "a": [
-          "open ocean",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Siphonophores are cnidarian animals of the hydrozoan order Siphonophorae.",
+          "Siphonophore is only a fictional mobile-game item.",
+          "Siphonophore is mainly a cooking utensil.",
+          "Siphonophore is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-263-giant-isopod",
@@ -13139,36 +13518,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Chan T. Y. &amp; Lin C.W. / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Giant Isopod?",
+        "q": "What scientific or taxon name is connected to Giant Isopod?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Bathynomus giganteus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Giant Isopod is especially connected with what?",
+        "q": "Which biological group is Giant Isopod connected to?",
         "a": [
-          "armored body",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Bathynomus",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Giant Isopod?",
+        "q": "Which statement is true about Giant Isopod?",
         "a": [
-          "seafloor scavenger",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Giant isopods are large marine isopods in the genus Bathynomus.",
+          "Giant Isopod is only a fictional mobile-game item.",
+          "Giant Isopod is mainly a cooking utensil.",
+          "Giant Isopod is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-264-yeti-crab",
@@ -13189,36 +13570,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Noémy MOLLARET / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Yeti Crab?",
+        "q": "What scientific or taxon name is connected to Yeti Crab?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Kiwa hirsuta",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Yeti Crab is especially connected with what?",
+        "q": "Which biological group is Yeti Crab connected to?",
         "a": [
-          "hairy claws",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Kiwa",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Yeti Crab?",
+        "q": "Which statement is true about Yeti Crab?",
         "a": [
-          "hydrothermal vents",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Kiwa is a genus of marine decapods living at deep-sea hydrothermal vents and cold seeps.",
+          "Yeti Crab is only a fictional mobile-game item.",
+          "Yeti Crab is mainly a cooking utensil.",
+          "Yeti Crab is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-265-hydrothermal-vent-worm",
@@ -13239,36 +13622,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Wünderbrot / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Hydrothermal Vent Worm?",
+        "q": "Which statement is true about Hydrothermal Vent Worm?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Hydrothermal Vent Worm is connected with life in the deep ocean.",
+          "Hydrothermal Vent Worm is only a fictional mobile-game item.",
+          "Hydrothermal Vent Worm is mainly a cooking utensil.",
+          "Hydrothermal Vent Worm is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Hydrothermal Vent Worm is especially connected with what?",
+        "q": "Why is Hydrothermal Vent Worm part of the nature puzzle collection?",
         "a": [
-          "chemosynthesis symbiosis",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Hydrothermal Vent Worm?",
+        "q": "Which statement is true about Hydrothermal Vent Worm?",
         "a": [
-          "vents",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Hydrothermal Vent Worm is connected with life in the deep ocean.",
+          "Hydrothermal Vent Worm is only a fictional mobile-game item.",
+          "Hydrothermal Vent Worm is mainly a cooking utensil.",
+          "Hydrothermal Vent Worm is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-266-sea-pig",
@@ -13289,36 +13674,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Sunjana Supekar / Wikimedia Commons / CC0",
     "trivia": [
       {
-        "q": "Which category best matches Sea Pig?",
+        "q": "What scientific or taxon name is connected to Sea Pig?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Scotoplanes globosa",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Sea Pig is especially connected with what?",
+        "q": "Which biological group is Sea Pig connected to?",
         "a": [
-          "inflated body",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Scotoplanes",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Sea Pig?",
+        "q": "Which statement is true about Sea Pig?",
         "a": [
-          "abyssal plains",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Sea Pig is connected with life in the deep ocean.",
+          "Sea Pig is only a fictional mobile-game item.",
+          "Sea Pig is mainly a cooking utensil.",
+          "Sea Pig is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-267-blobfish",
@@ -13339,36 +13726,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Ryan Hodnett / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Blobfish?",
+        "q": "What scientific or taxon name is connected to Blobfish?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Psychrolutidae",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Blobfish is especially connected with what?",
+        "q": "Which biological group is Blobfish connected to?",
         "a": [
-          "soft body",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Cottoidea",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Blobfish?",
+        "q": "Which statement is true about Blobfish?",
         "a": [
-          "deep pressure",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Blobfish may refer to:Psychrolutidae, a fish family commonly known as blobfishes\nPsychrolutes microporos, commonly known as a blobfish or fathead\nMr Blobby (fish), an individual specimen of Psychrolutes microporos and th",
+          "Blobfish is only a fictional mobile-game item.",
+          "Blobfish is mainly a cooking utensil.",
+          "Blobfish is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-268-coelacanth",
@@ -13389,36 +13778,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Gunnar Creutz / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Coelacanth?",
+        "q": "What scientific or taxon name is connected to Coelacanth?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Coelacanthiformes",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Coelacanth is especially connected with what?",
+        "q": "Which biological group is Coelacanth connected to?",
         "a": [
-          "ancient lineage",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Actinistia",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Coelacanth?",
+        "q": "Which statement is true about Coelacanth?",
         "a": [
-          "lobe-finned fish",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Coelacanths are an ancient group of lobe-finned fish (Sarcopterygii) in the class Actinistia.",
+          "Coelacanth is only a fictional mobile-game item.",
+          "Coelacanth is mainly a cooking utensil.",
+          "Coelacanth is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-269-frilled-shark",
@@ -13439,36 +13830,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "NOAA / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Frilled Shark?",
+        "q": "What scientific or taxon name is connected to Frilled Shark?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Chlamydoselachus anguineus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Frilled Shark is especially connected with what?",
+        "q": "Which biological group is Frilled Shark connected to?",
         "a": [
-          "eel-like body",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Chlamydoselachus",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Frilled Shark?",
+        "q": "Which statement is true about Frilled Shark?",
         "a": [
-          "ancient-looking",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The frilled shark, also known as the lizard shark, is one of the two extant species of shark in the family Chlamydoselachidae.",
+          "Frilled Shark is only a fictional mobile-game item.",
+          "Frilled Shark is mainly a cooking utensil.",
+          "Frilled Shark is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-270-megamouth-shark",
@@ -13489,36 +13882,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "GordonMakryllos / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Megamouth Shark?",
+        "q": "What scientific or taxon name is connected to Megamouth Shark?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Megachasma pelagios",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Megamouth Shark is especially connected with what?",
+        "q": "Which biological group is Megamouth Shark connected to?",
         "a": [
-          "filter feeding",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Megachasma",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Megamouth Shark?",
+        "q": "Which statement is true about Megamouth Shark?",
         "a": [
-          "rare sightings",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The megamouth shark is a species of deepwater shark.",
+          "Megamouth Shark is only a fictional mobile-game item.",
+          "Megamouth Shark is mainly a cooking utensil.",
+          "Megamouth Shark is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-271-sixgill-shark",
@@ -13539,36 +13934,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Infinitecopper / Wikimedia Commons / CC0",
     "trivia": [
       {
-        "q": "Which category best matches Sixgill Shark?",
+        "q": "Which statement is true about Sixgill Shark?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Sixgill Shark is connected with life in the deep ocean.",
+          "Sixgill Shark is only a fictional mobile-game item.",
+          "Sixgill Shark is mainly a cooking utensil.",
+          "Sixgill Shark is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Sixgill Shark is especially connected with what?",
+        "q": "Why is Sixgill Shark part of the nature puzzle collection?",
         "a": [
-          "six gill slits",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Sixgill Shark?",
+        "q": "Which statement is true about Sixgill Shark?",
         "a": [
-          "deep slopes",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Sixgill Shark is connected with life in the deep ocean.",
+          "Sixgill Shark is only a fictional mobile-game item.",
+          "Sixgill Shark is mainly a cooking utensil.",
+          "Sixgill Shark is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-272-oarfish",
@@ -13589,36 +13986,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Sandstein / Wikimedia Commons / CC BY 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Oarfish?",
+        "q": "What scientific or taxon name is connected to Oarfish?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Regalecidae",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Oarfish is especially connected with what?",
+        "q": "Which biological group is Oarfish connected to?",
         "a": [
-          "long ribbon body",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Lampriformes",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Oarfish?",
+        "q": "Which statement is true about Oarfish?",
         "a": [
-          "rare surface sightings",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Oarfish are the 3 species of large and extremely long pelagic lampriform fish belonging to the small family Regalecidae.",
+          "Oarfish is only a fictional mobile-game item.",
+          "Oarfish is mainly a cooking utensil.",
+          "Oarfish is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-273-deep-sea-medusa",
@@ -13639,36 +14038,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "United Kingdom Hydrographic Office / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Deep-Sea Medusa?",
+        "q": "Which statement is true about Deep-Sea Medusa?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Deep-Sea Medusa is connected with life in the deep ocean.",
+          "Deep-Sea Medusa is only a fictional mobile-game item.",
+          "Deep-Sea Medusa is mainly a cooking utensil.",
+          "Deep-Sea Medusa is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Deep-Sea Medusa is especially connected with what?",
+        "q": "Why is Deep-Sea Medusa part of the nature puzzle collection?",
         "a": [
-          "transparent bell",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Deep-Sea Medusa?",
+        "q": "Which statement is true about Deep-Sea Medusa?",
         "a": [
-          "open ocean",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Deep-Sea Medusa is connected with life in the deep ocean.",
+          "Deep-Sea Medusa is only a fictional mobile-game item.",
+          "Deep-Sea Medusa is mainly a cooking utensil.",
+          "Deep-Sea Medusa is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-274-comb-jelly",
@@ -13689,36 +14090,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Kong of Lasers / Wikimedia Commons / CC BY 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Comb Jelly?",
+        "q": "What scientific or taxon name is connected to Comb Jelly?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Ctenophora",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Comb Jelly is especially connected with what?",
+        "q": "Which biological group is Comb Jelly connected to?",
         "a": [
-          "rainbow cilia",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Radiata",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Comb Jelly?",
+        "q": "Which statement is true about Comb Jelly?",
         "a": [
-          "gelatinous predator",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Ctenophora or ctenophores, commonly known as comb jellies, is a basal phylum of marine invertebrate animals notable for their unique aquatic locomotion using groups of cilia.",
+          "Comb Jelly is only a fictional mobile-game item.",
+          "Comb Jelly is mainly a cooking utensil.",
+          "Comb Jelly is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-275-glass-squid",
@@ -13739,36 +14142,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Betty Wills (Atsme) / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Glass Squid?",
+        "q": "What scientific or taxon name is connected to Glass Squid?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Cranchiidae",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Glass Squid is especially connected with what?",
+        "q": "Which biological group is Glass Squid connected to?",
         "a": [
-          "transparent body",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Oegopsida",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Glass Squid?",
+        "q": "Which statement is true about Glass Squid?",
         "a": [
-          "camouflage",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Glass Squid is connected with life in the deep ocean.",
+          "Glass Squid is only a fictional mobile-game item.",
+          "Glass Squid is mainly a cooking utensil.",
+          "Glass Squid is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-276-pelican-eel",
@@ -13789,36 +14194,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Emőke Dénes / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Pelican Eel?",
+        "q": "Which statement is true about Pelican Eel?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "It is the only known member of the genus Eurypharynx and the family Eurypharyngidae.",
+          "Pelican Eel is only a fictional mobile-game item.",
+          "Pelican Eel is mainly a cooking utensil.",
+          "Pelican Eel is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Pelican Eel is especially connected with what?",
+        "q": "Why is Pelican Eel part of the nature puzzle collection?",
         "a": [
-          "expandable mouth",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Pelican Eel?",
+        "q": "Which statement is true about Pelican Eel?",
         "a": [
-          "deep waters",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "It is the only known member of the genus Eurypharynx and the family Eurypharyngidae.",
+          "Pelican Eel is only a fictional mobile-game item.",
+          "Pelican Eel is mainly a cooking utensil.",
+          "Pelican Eel is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-277-stoplight-loosejaw",
@@ -13839,36 +14246,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Emőke Dénes / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Stoplight Loosejaw?",
+        "q": "What scientific or taxon name is connected to Stoplight Loosejaw?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Malacosteus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Stoplight Loosejaw is especially connected with what?",
+        "q": "Which biological group is Stoplight Loosejaw connected to?",
         "a": [
-          "red bioluminescence",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Malacosteinae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Stoplight Loosejaw?",
+        "q": "Which statement is true about Stoplight Loosejaw?",
         "a": [
-          "predation",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Stoplight Loosejaw is connected with life in the deep ocean.",
+          "Stoplight Loosejaw is only a fictional mobile-game item.",
+          "Stoplight Loosejaw is mainly a cooking utensil.",
+          "Stoplight Loosejaw is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-278-cookiecutter-shark",
@@ -13889,36 +14298,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Hugues Evano (IFREMER, Délégation océan Indien (DOI), Département Ressources Biologiques et Environnement (RBE), F-97420 Le Port, France) / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Cookiecutter Shark?",
+        "q": "What scientific or taxon name is connected to Cookiecutter Shark?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Isistius brasiliensis",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Cookiecutter Shark is especially connected with what?",
+        "q": "Which biological group is Cookiecutter Shark connected to?",
         "a": [
-          "round bite marks",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Isistius",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Cookiecutter Shark?",
+        "q": "Which statement is true about Cookiecutter Shark?",
         "a": [
-          "parasitic feeding",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Cookiecutter Shark is connected with life in the deep ocean.",
+          "Cookiecutter Shark is only a fictional mobile-game item.",
+          "Cookiecutter Shark is mainly a cooking utensil.",
+          "Cookiecutter Shark is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-279-sea-angel",
@@ -13939,36 +14350,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Unknown  – illuminator / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Sea Angel?",
+        "q": "What scientific or taxon name is connected to Sea Angel?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Clione limacina",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Sea Angel is especially connected with what?",
+        "q": "Which biological group is Sea Angel connected to?",
         "a": [
-          "wing-like foot",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Clione",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Sea Angel?",
+        "q": "Which statement is true about Sea Angel?",
         "a": [
-          "cold waters",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Sea Angel is connected with life in the deep ocean.",
+          "Sea Angel is only a fictional mobile-game item.",
+          "Sea Angel is mainly a cooking utensil.",
+          "Sea Angel is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-280-sea-butterfly",
@@ -13989,36 +14402,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Dido2022 / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Sea Butterfly?",
+        "q": "What scientific or taxon name is connected to Sea Butterfly?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Thecosomata",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Sea Butterfly is especially connected with what?",
+        "q": "Which biological group is Sea Butterfly connected to?",
         "a": [
-          "swimming foot",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Opisthobranchia",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Sea Butterfly?",
+        "q": "Which statement is true about Sea Butterfly?",
         "a": [
-          "plankton",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Sea Butterfly is connected with life in the deep ocean.",
+          "Sea Butterfly is only a fictional mobile-game item.",
+          "Sea Butterfly is mainly a cooking utensil.",
+          "Sea Butterfly is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-281-bristlemouth",
@@ -14039,36 +14454,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "U.S. Navy USNFE-6FPA by Staff Sgt. Rebeckah Wall / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Bristlemouth?",
+        "q": "What scientific or taxon name is connected to Bristlemouth?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Gonostomatidae",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Bristlemouth is especially connected with what?",
+        "q": "Which biological group is Bristlemouth connected to?",
         "a": [
-          "very abundant",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Stomiiformes",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Bristlemouth?",
+        "q": "Which statement is true about Bristlemouth?",
         "a": [
-          "mesopelagic zone",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The Gonostomatidae are a family of mesopelagic marine fish, commonly named bristlemouths or anglemouths.",
+          "Bristlemouth is only a fictional mobile-game item.",
+          "Bristlemouth is mainly a cooking utensil.",
+          "Bristlemouth is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-282-tripod-fish",
@@ -14089,36 +14506,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Unknown authorUnknown author / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Tripod Fish?",
+        "q": "What scientific or taxon name is connected to Tripod Fish?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Bathypterois grallator",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Tripod Fish is especially connected with what?",
+        "q": "Which biological group is Tripod Fish connected to?",
         "a": [
-          "stands on fin rays",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Bathypterois",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Tripod Fish?",
+        "q": "Which statement is true about Tripod Fish?",
         "a": [
-          "seafloor",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Tripod fish is a common name for different species of fish:Ipnopidae, a family found worldwide in deep seas, including:\nBathypterois grallator, the most famous species in the family\nTriacanthidae, a family from the Indo-",
+          "Tripod Fish is only a fictional mobile-game item.",
+          "Tripod Fish is mainly a cooking utensil.",
+          "Tripod Fish is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-283-viperfish",
@@ -14139,36 +14558,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Isabelle Cheret / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Viperfish?",
+        "q": "What scientific or taxon name is connected to Viperfish?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Chauliodus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Viperfish is especially connected with what?",
+        "q": "Which biological group is Viperfish connected to?",
         "a": [
-          "needle teeth",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Chauliodontinae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Viperfish?",
+        "q": "Which statement is true about Viperfish?",
         "a": [
-          "lure-like fin ray",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "A viperfish is any species of the genus Chauliodus, marine fish inhabiting the twilight or mesopelagic zone.",
+          "Viperfish is only a fictional mobile-game item.",
+          "Viperfish is mainly a cooking utensil.",
+          "Viperfish is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-284-deep-sea-coral",
@@ -14189,36 +14610,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Deep-Sea Coral?",
+        "q": "Which statement is true about Deep-Sea Coral?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Deep-Sea Coral is connected with life in the deep ocean.",
+          "Deep-Sea Coral is only a fictional mobile-game item.",
+          "Deep-Sea Coral is mainly a cooking utensil.",
+          "Deep-Sea Coral is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Deep-Sea Coral is especially connected with what?",
+        "q": "Why is Deep-Sea Coral part of the nature puzzle collection?",
         "a": [
-          "reef-like habitats",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Deep-Sea Coral?",
+        "q": "Which statement is true about Deep-Sea Coral?",
         "a": [
-          "deep sea",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Deep-Sea Coral is connected with life in the deep ocean.",
+          "Deep-Sea Coral is only a fictional mobile-game item.",
+          "Deep-Sea Coral is mainly a cooking utensil.",
+          "Deep-Sea Coral is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-285-hydrothermal-vent-shrimp",
@@ -14239,36 +14662,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Laura Flamme / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Hydrothermal Vent Shrimp?",
+        "q": "What scientific or taxon name is connected to Hydrothermal Vent Shrimp?",
         "a": [
-          "Deep Sea Creatures",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Rimicaris exoculata",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Hydrothermal Vent Shrimp is especially connected with what?",
+        "q": "Which biological group is Hydrothermal Vent Shrimp connected to?",
         "a": [
-          "heat-tolerant habitat",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Rimicaris",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Hydrothermal Vent Shrimp?",
+        "q": "Which statement is true about Hydrothermal Vent Shrimp?",
         "a": [
-          "vents",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Hydrothermal Vent Shrimp is connected with life in the deep ocean.",
+          "Hydrothermal Vent Shrimp is only a fictional mobile-game item.",
+          "Hydrothermal Vent Shrimp is mainly a cooking utensil.",
+          "Hydrothermal Vent Shrimp is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-286-staghorn-coral",
@@ -14289,36 +14714,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Staghorn Coral?",
+        "q": "What scientific or taxon name is connected to Staghorn Coral?",
         "a": [
-          "Corals & Reef Life",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Acropora millepora",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Staghorn Coral is especially connected with what?",
+        "q": "Which biological group is Staghorn Coral connected to?",
         "a": [
-          "fast-growing branches",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Acropora",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Staghorn Coral?",
+        "q": "Which statement is true about Staghorn Coral?",
         "a": [
-          "reef builder",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Staghorn Coral is connected with coral reefs and marine ecosystems.",
+          "Staghorn Coral is only a fictional mobile-game item.",
+          "Staghorn Coral is mainly a cooking utensil.",
+          "Staghorn Coral is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-287-elkhorn-coral",
@@ -14339,36 +14766,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Jstuby / Wikimedia Commons / CC0",
     "trivia": [
       {
-        "q": "Which category best matches Elkhorn Coral?",
+        "q": "What scientific or taxon name is connected to Elkhorn Coral?",
         "a": [
-          "Corals & Reef Life",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Acropora palmata",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Elkhorn Coral is especially connected with what?",
+        "q": "Which biological group is Elkhorn Coral connected to?",
         "a": [
-          "large antler-like branches",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Acropora",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Elkhorn Coral?",
+        "q": "Which statement is true about Elkhorn Coral?",
         "a": [
-          "Caribbean reefs",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Elkhorn Coral is connected with coral reefs and marine ecosystems.",
+          "Elkhorn Coral is only a fictional mobile-game item.",
+          "Elkhorn Coral is mainly a cooking utensil.",
+          "Elkhorn Coral is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-288-brain-coral",
@@ -14389,36 +14818,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Brain Coral?",
+        "q": "What scientific or taxon name is connected to Brain Coral?",
         "a": [
-          "Corals & Reef Life",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Faviidae",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Brain Coral is especially connected with what?",
+        "q": "Which biological group is Brain Coral connected to?",
         "a": [
-          "grooved brain-like surface",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Vacatina",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Brain Coral?",
+        "q": "Which statement is true about Brain Coral?",
         "a": [
-          "slow growth",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Brain coral is a common name given to various corals in the families Mussidae and Merulinidae, so called due to their generally spheroid shape and grooved surface which resembles a brain.",
+          "Brain Coral is only a fictional mobile-game item.",
+          "Brain Coral is mainly a cooking utensil.",
+          "Brain Coral is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-289-table-coral",
@@ -14439,36 +14870,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "MDC Seamarc Maldives / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Table Coral?",
+        "q": "What scientific or taxon name is connected to Table Coral?",
         "a": [
-          "Corals & Reef Life",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Acropora clathrata",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Table Coral is especially connected with what?",
+        "q": "Which biological group is Table Coral connected to?",
         "a": [
-          "flat table shape",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Acropora",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Table Coral?",
+        "q": "Which statement is true about Table Coral?",
         "a": [
-          "reef canopy",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Table Coral is connected with coral reefs and marine ecosystems.",
+          "Table Coral is only a fictional mobile-game item.",
+          "Table Coral is mainly a cooking utensil.",
+          "Table Coral is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-290-bubble-coral",
@@ -14489,36 +14922,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Bubble Coral?",
+        "q": "What scientific or taxon name is connected to Bubble Coral?",
         "a": [
-          "Corals & Reef Life",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Plerogyra sinuosa",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Bubble Coral is especially connected with what?",
+        "q": "Which biological group is Bubble Coral connected to?",
         "a": [
-          "bubble-like vesicles",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Plerogyra",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Bubble Coral?",
+        "q": "Which statement is true about Bubble Coral?",
         "a": [
-          "reef aquarium",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Bubble Coral is connected with coral reefs and marine ecosystems.",
+          "Bubble Coral is only a fictional mobile-game item.",
+          "Bubble Coral is mainly a cooking utensil.",
+          "Bubble Coral is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-291-hammer-coral",
@@ -14539,36 +14974,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Hammer Coral?",
+        "q": "Which statement is true about Hammer Coral?",
         "a": [
-          "Corals & Reef Life",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Euphyllia ancora is a species of hard coral in the family Euphylliidae.",
+          "Hammer Coral is only a fictional mobile-game item.",
+          "Hammer Coral is mainly a cooking utensil.",
+          "Hammer Coral is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Hammer Coral is especially connected with what?",
+        "q": "Why is Hammer Coral part of the nature puzzle collection?",
         "a": [
-          "hammer-shaped tips",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Hammer Coral?",
+        "q": "Which statement is true about Hammer Coral?",
         "a": [
-          "Euphyllia",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Euphyllia ancora is a species of hard coral in the family Euphylliidae.",
+          "Hammer Coral is only a fictional mobile-game item.",
+          "Hammer Coral is mainly a cooking utensil.",
+          "Hammer Coral is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-292-torch-coral",
@@ -14589,36 +15026,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Torch Coral?",
+        "q": "What scientific or taxon name is connected to Torch Coral?",
         "a": [
-          "Corals & Reef Life",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Euphyllia glabrescens",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Torch Coral is especially connected with what?",
+        "q": "Which biological group is Torch Coral connected to?",
         "a": [
-          "long flowing tentacles",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Euphyllia",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Torch Coral?",
+        "q": "Which statement is true about Torch Coral?",
         "a": [
-          "reef aquarium",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Euphyllia glabrescens is a species of large-polyped stony coral belonging to the family Euphylliidae.",
+          "Torch Coral is only a fictional mobile-game item.",
+          "Torch Coral is mainly a cooking utensil.",
+          "Torch Coral is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-293-frogspawn-coral",
@@ -14639,36 +15078,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Emőke Dénes / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Frogspawn Coral?",
+        "q": "Which statement is true about Frogspawn Coral?",
         "a": [
-          "Corals & Reef Life",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Euphyllia divisa, commonly known as frogspawn coral and sometimes misspelled Euphyllia divisia, is a large-polyped stony coral native to the Indo-Pacific islands.",
+          "Frogspawn Coral is only a fictional mobile-game item.",
+          "Frogspawn Coral is mainly a cooking utensil.",
+          "Frogspawn Coral is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Frogspawn Coral is especially connected with what?",
+        "q": "Why is Frogspawn Coral part of the nature puzzle collection?",
         "a": [
-          "clustered tentacle tips",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Frogspawn Coral?",
+        "q": "Which statement is true about Frogspawn Coral?",
         "a": [
-          "Euphyllia",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Euphyllia divisa, commonly known as frogspawn coral and sometimes misspelled Euphyllia divisia, is a large-polyped stony coral native to the Indo-Pacific islands.",
+          "Frogspawn Coral is only a fictional mobile-game item.",
+          "Frogspawn Coral is mainly a cooking utensil.",
+          "Frogspawn Coral is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-294-mushroom-coral",
@@ -14689,36 +15130,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Mushroom Coral?",
+        "q": "What scientific or taxon name is connected to Mushroom Coral?",
         "a": [
-          "Corals & Reef Life",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Fungia fungites",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Mushroom Coral is especially connected with what?",
+        "q": "Which biological group is Mushroom Coral connected to?",
         "a": [
-          "free-living disc",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Fungia",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Mushroom Coral?",
+        "q": "Which statement is true about Mushroom Coral?",
         "a": [
-          "Fungiidae",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The Fungiidae are a family of Cnidaria, commonly known as mushroom corals or plate corals.",
+          "Mushroom Coral is only a fictional mobile-game item.",
+          "Mushroom Coral is mainly a cooking utensil.",
+          "Mushroom Coral is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-295-plate-coral",
@@ -14739,36 +15182,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Coughdrop12 / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Plate Coral?",
+        "q": "Which statement is true about Plate Coral?",
         "a": [
-          "Corals & Reef Life",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Plate Coral is connected with coral reefs and marine ecosystems.",
+          "Plate Coral is only a fictional mobile-game item.",
+          "Plate Coral is mainly a cooking utensil.",
+          "Plate Coral is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Plate Coral is especially connected with what?",
+        "q": "Why is Plate Coral part of the nature puzzle collection?",
         "a": [
-          "flat plate form",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Plate Coral?",
+        "q": "Which statement is true about Plate Coral?",
         "a": [
-          "reef slope",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Plate Coral is connected with coral reefs and marine ecosystems.",
+          "Plate Coral is only a fictional mobile-game item.",
+          "Plate Coral is mainly a cooking utensil.",
+          "Plate Coral is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-296-montipora-capricornis",
@@ -14789,36 +15234,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Coughdrop12 / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Montipora Capricornis?",
+        "q": "What scientific or taxon name is connected to Montipora Capricornis?",
         "a": [
-          "Corals & Reef Life",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Montipora capricornis",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Montipora Capricornis is especially connected with what?",
+        "q": "Which biological group is Montipora Capricornis connected to?",
         "a": [
-          "scrolling plate growth",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Montipora",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Montipora Capricornis?",
+        "q": "Which statement is true about Montipora Capricornis?",
         "a": [
-          "reef tanks",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Montipora Capricornis is connected with coral reefs and marine ecosystems.",
+          "Montipora Capricornis is only a fictional mobile-game item.",
+          "Montipora Capricornis is mainly a cooking utensil.",
+          "Montipora Capricornis is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-297-pocillopora-coral",
@@ -14839,36 +15286,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Charles J. Sharp / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Pocillopora Coral?",
+        "q": "Which statement is true about Pocillopora Coral?",
         "a": [
-          "Corals & Reef Life",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Pocillopora Coral is connected with coral reefs and marine ecosystems.",
+          "Pocillopora Coral is only a fictional mobile-game item.",
+          "Pocillopora Coral is mainly a cooking utensil.",
+          "Pocillopora Coral is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Pocillopora Coral is especially connected with what?",
+        "q": "Why is Pocillopora Coral part of the nature puzzle collection?",
         "a": [
-          "cauliflower shape",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Pocillopora Coral?",
+        "q": "Which statement is true about Pocillopora Coral?",
         "a": [
-          "reef builder",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Pocillopora Coral is connected with coral reefs and marine ecosystems.",
+          "Pocillopora Coral is only a fictional mobile-game item.",
+          "Pocillopora Coral is mainly a cooking utensil.",
+          "Pocillopora Coral is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-298-birdsnest-coral",
@@ -14889,36 +15338,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Will Thomas / Wikimedia Commons / CC BY 2.0",
     "trivia": [
       {
-        "q": "Which category best matches Birdsnest Coral?",
+        "q": "What scientific or taxon name is connected to Birdsnest Coral?",
         "a": [
-          "Corals & Reef Life",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Seriatopora caliendrum",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Birdsnest Coral is especially connected with what?",
-        "a": [
-          "thin branching form",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Birdsnest Coral?",
+        "q": "Which biological group is Birdsnest Coral connected to?",
         "a": [
           "Seriatopora",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "mammal",
+          "bird",
+          "reptile"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which statement is true about Birdsnest Coral?",
+        "a": [
+          "Birdsnest coral may refer to several different species of coral:species of the genus Seriatopora\nspecies of the genus Stylophora",
+          "Birdsnest Coral is only a fictional mobile-game item.",
+          "Birdsnest Coral is mainly a cooking utensil.",
+          "Birdsnest Coral is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-299-porites-coral",
@@ -14939,36 +15390,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Porites Coral?",
+        "q": "Which statement is true about Porites Coral?",
         "a": [
-          "Corals & Reef Life",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Porites Coral is connected with coral reefs and marine ecosystems.",
+          "Porites Coral is only a fictional mobile-game item.",
+          "Porites Coral is mainly a cooking utensil.",
+          "Porites Coral is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Porites Coral is especially connected with what?",
+        "q": "Why is Porites Coral part of the nature puzzle collection?",
         "a": [
-          "long-lived colonies",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Porites Coral?",
+        "q": "Which statement is true about Porites Coral?",
         "a": [
-          "reef framework",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Porites Coral is connected with coral reefs and marine ecosystems.",
+          "Porites Coral is only a fictional mobile-game item.",
+          "Porites Coral is mainly a cooking utensil.",
+          "Porites Coral is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-300-gorgonian-sea-fan",
@@ -14989,36 +15442,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "EgorovaSvetlana / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Gorgonian Sea Fan?",
+        "q": "Which statement is true about Gorgonian Sea Fan?",
         "a": [
-          "Corals & Reef Life",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Gorgonian Sea Fan is connected with coral reefs and marine ecosystems.",
+          "Gorgonian Sea Fan is only a fictional mobile-game item.",
+          "Gorgonian Sea Fan is mainly a cooking utensil.",
+          "Gorgonian Sea Fan is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Gorgonian Sea Fan is especially connected with what?",
+        "q": "Why is Gorgonian Sea Fan part of the nature puzzle collection?",
         "a": [
-          "fan-like branches",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Gorgonian Sea Fan?",
+        "q": "Which statement is true about Gorgonian Sea Fan?",
         "a": [
-          "filter feeding",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Gorgonian Sea Fan is connected with coral reefs and marine ecosystems.",
+          "Gorgonian Sea Fan is only a fictional mobile-game item.",
+          "Gorgonian Sea Fan is mainly a cooking utensil.",
+          "Gorgonian Sea Fan is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-301-blue-coral",
@@ -15039,36 +15494,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Charles J. Sharp / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Blue Coral?",
+        "q": "What scientific or taxon name is connected to Blue Coral?",
         "a": [
-          "Corals & Reef Life",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Heliopora coerulea",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Blue Coral is especially connected with what?",
-        "a": [
-          "blue skeleton",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Blue Coral?",
+        "q": "Which biological group is Blue Coral connected to?",
         "a": [
           "Heliopora",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "mammal",
+          "bird",
+          "reptile"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which statement is true about Blue Coral?",
+        "a": [
+          "Blue coral is a species of colonial coral.",
+          "Blue Coral is only a fictional mobile-game item.",
+          "Blue Coral is mainly a cooking utensil.",
+          "Blue Coral is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-302-fire-coral",
@@ -15089,36 +15546,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Fire Coral?",
+        "q": "What scientific or taxon name is connected to Fire Coral?",
         "a": [
-          "Corals & Reef Life",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Millepora alcicornis",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Fire Coral is especially connected with what?",
-        "a": [
-          "stinging polyps",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Fire Coral?",
+        "q": "Which biological group is Fire Coral connected to?",
         "a": [
           "Millepora",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "mammal",
+          "bird",
+          "reptile"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which statement is true about Fire Coral?",
+        "a": [
+          "Fire Coral is connected with coral reefs and marine ecosystems.",
+          "Fire Coral is only a fictional mobile-game item.",
+          "Fire Coral is mainly a cooking utensil.",
+          "Fire Coral is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-303-leather-coral",
@@ -15139,36 +15598,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Marie HENNION / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Leather Coral?",
+        "q": "Which statement is true about Leather Coral?",
         "a": [
-          "Corals & Reef Life",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Sinularia is a genus of soft coral in the family Alcyoniidae.",
+          "Leather Coral is only a fictional mobile-game item.",
+          "Leather Coral is mainly a cooking utensil.",
+          "Leather Coral is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Leather Coral is especially connected with what?",
+        "q": "Why is Leather Coral part of the nature puzzle collection?",
         "a": [
-          "flexible body",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Leather Coral?",
+        "q": "Which statement is true about Leather Coral?",
         "a": [
-          "Sarcophyton",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Sinularia is a genus of soft coral in the family Alcyoniidae.",
+          "Leather Coral is only a fictional mobile-game item.",
+          "Leather Coral is mainly a cooking utensil.",
+          "Leather Coral is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-304-xenia-coral",
@@ -15189,36 +15650,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Xenia Coral?",
+        "q": "Which statement is true about Xenia Coral?",
         "a": [
-          "Corals & Reef Life",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Xenia Coral is connected with coral reefs and marine ecosystems.",
+          "Xenia Coral is only a fictional mobile-game item.",
+          "Xenia Coral is mainly a cooking utensil.",
+          "Xenia Coral is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Xenia Coral is especially connected with what?",
+        "q": "Why is Xenia Coral part of the nature puzzle collection?",
         "a": [
-          "pulsing polyps",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Xenia Coral?",
+        "q": "Which statement is true about Xenia Coral?",
         "a": [
-          "reef aquarium",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Xenia Coral is connected with coral reefs and marine ecosystems.",
+          "Xenia Coral is only a fictional mobile-game item.",
+          "Xenia Coral is mainly a cooking utensil.",
+          "Xenia Coral is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-305-zoanthids",
@@ -15239,36 +15702,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Pbsouthwood / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Zoanthids?",
+        "q": "Which statement is true about Zoanthids?",
         "a": [
-          "Corals & Reef Life",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Zoanthids are an order of hexacorals.",
+          "Zoanthids is only a fictional mobile-game item.",
+          "Zoanthids is mainly a cooking utensil.",
+          "Zoanthids is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Zoanthids is especially connected with what?",
+        "q": "Why is Zoanthids part of the nature puzzle collection?",
         "a": [
-          "colorful mats",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Zoanthids?",
+        "q": "Which statement is true about Zoanthids?",
         "a": [
-          "reef aquarium",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Zoanthids are an order of hexacorals.",
+          "Zoanthids is only a fictional mobile-game item.",
+          "Zoanthids is mainly a cooking utensil.",
+          "Zoanthids is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-306-palythoa",
@@ -15289,36 +15754,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Kai Medina (Mk170101) / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Palythoa?",
+        "q": "What scientific or taxon name is connected to Palythoa?",
         "a": [
-          "Corals & Reef Life",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Palythoa",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Palythoa is especially connected with what?",
+        "q": "Which biological group is Palythoa connected to?",
         "a": [
-          "larger polyps",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Sphenopidae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Palythoa?",
+        "q": "Which statement is true about Palythoa?",
         "a": [
-          "can be toxic",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Palythoa is a genus of anthozoans in the order Zoantharia.",
+          "Palythoa is only a fictional mobile-game item.",
+          "Palythoa is mainly a cooking utensil.",
+          "Palythoa is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-307-sun-coral",
@@ -15339,36 +15806,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Sun Coral?",
+        "q": "What scientific or taxon name is connected to Sun Coral?",
         "a": [
-          "Corals & Reef Life",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Tubastraea",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Sun Coral is especially connected with what?",
+        "q": "Which biological group is Sun Coral connected to?",
         "a": [
-          "orange polyps",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Dendrophylliidae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Sun Coral?",
+        "q": "Which statement is true about Sun Coral?",
         "a": [
-          "night feeding",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Tubastraea, also known as sun coral or sun polyps, is a genus of coral in the phylum Cnidaria.",
+          "Sun Coral is only a fictional mobile-game item.",
+          "Sun Coral is mainly a cooking utensil.",
+          "Sun Coral is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-308-dendrophyllia-coral",
@@ -15389,36 +15858,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Fernando Losada Rodríguez / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Dendrophyllia Coral?",
+        "q": "Which statement is true about Dendrophyllia Coral?",
         "a": [
-          "Corals & Reef Life",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Dendrophyllia Coral is connected with coral reefs and marine ecosystems.",
+          "Dendrophyllia Coral is only a fictional mobile-game item.",
+          "Dendrophyllia Coral is mainly a cooking utensil.",
+          "Dendrophyllia Coral is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Dendrophyllia Coral is especially connected with what?",
+        "q": "Why is Dendrophyllia Coral part of the nature puzzle collection?",
         "a": [
-          "large polyps",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Dendrophyllia Coral?",
+        "q": "Which statement is true about Dendrophyllia Coral?",
         "a": [
-          "deep/low light",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Dendrophyllia Coral is connected with coral reefs and marine ecosystems.",
+          "Dendrophyllia Coral is only a fictional mobile-game item.",
+          "Dendrophyllia Coral is mainly a cooking utensil.",
+          "Dendrophyllia Coral is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-309-chalice-coral",
@@ -15439,36 +15910,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Coughdrop12 / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Chalice Coral?",
+        "q": "What scientific or taxon name is connected to Chalice Coral?",
         "a": [
-          "Corals & Reef Life",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Pectiniidae",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Chalice Coral is especially connected with what?",
+        "q": "Which biological group is Chalice Coral connected to?",
         "a": [
-          "encrusting plates",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Scleractinia",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Chalice Coral?",
+        "q": "Which statement is true about Chalice Coral?",
         "a": [
-          "reef aquarium",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Pectiniidae was a family of stony corals, commonly known as chalice corals, but the name is no longer considered valid.",
+          "Chalice Coral is only a fictional mobile-game item.",
+          "Chalice Coral is mainly a cooking utensil.",
+          "Chalice Coral is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-310-acan-coral",
@@ -15489,36 +15962,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Internet Archive Book Images / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Acan Coral?",
+        "q": "Which statement is true about Acan Coral?",
         "a": [
-          "Corals & Reef Life",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Acan Coral is connected with coral reefs and marine ecosystems.",
+          "Acan Coral is only a fictional mobile-game item.",
+          "Acan Coral is mainly a cooking utensil.",
+          "Acan Coral is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Acan Coral is especially connected with what?",
+        "q": "Why is Acan Coral part of the nature puzzle collection?",
         "a": [
-          "fleshy polyps",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Acan Coral?",
+        "q": "Which statement is true about Acan Coral?",
         "a": [
-          "Micromussa",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Acan Coral is connected with coral reefs and marine ecosystems.",
+          "Acan Coral is only a fictional mobile-game item.",
+          "Acan Coral is mainly a cooking utensil.",
+          "Acan Coral is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-311-favites-coral",
@@ -15539,36 +16014,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Robert Howie / Wikimedia Commons / CC BY-SA 2.0",
     "trivia": [
       {
-        "q": "Which category best matches Favites Coral?",
+        "q": "What scientific or taxon name is connected to Favites Coral?",
         "a": [
-          "Corals & Reef Life",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Favites spinosa",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Favites Coral is especially connected with what?",
+        "q": "Which biological group is Favites Coral connected to?",
         "a": [
-          "shared walls",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Favites",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Favites Coral?",
+        "q": "Which statement is true about Favites Coral?",
         "a": [
-          "massive growth",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Favites Coral is connected with coral reefs and marine ecosystems.",
+          "Favites Coral is only a fictional mobile-game item.",
+          "Favites Coral is mainly a cooking utensil.",
+          "Favites Coral is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-312-favia-coral",
@@ -15589,36 +16066,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Favia Coral?",
+        "q": "What scientific or taxon name is connected to Favia Coral?",
         "a": [
-          "Corals & Reef Life",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Favia rosaria",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Favia Coral is especially connected with what?",
+        "q": "Which biological group is Favia Coral connected to?",
         "a": [
-          "separate corallites",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Favia",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Favia Coral?",
+        "q": "Which statement is true about Favia Coral?",
         "a": [
-          "reef builder",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Favia Coral is connected with coral reefs and marine ecosystems.",
+          "Favia Coral is only a fictional mobile-game item.",
+          "Favia Coral is mainly a cooking utensil.",
+          "Favia Coral is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-313-candy-cane-coral",
@@ -15639,36 +16118,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Brian Jeffery Beggerly / Wikimedia Commons / CC BY 2.0",
     "trivia": [
       {
-        "q": "Which category best matches Candy Cane Coral?",
+        "q": "Which statement is true about Candy Cane Coral?",
         "a": [
-          "Corals & Reef Life",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Caulastraea is a genus of stony corals in the family Merulinidae.",
+          "Candy Cane Coral is only a fictional mobile-game item.",
+          "Candy Cane Coral is mainly a cooking utensil.",
+          "Candy Cane Coral is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Candy Cane Coral is especially connected with what?",
+        "q": "Why is Candy Cane Coral part of the nature puzzle collection?",
         "a": [
-          "trumpet heads",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Candy Cane Coral?",
+        "q": "Which statement is true about Candy Cane Coral?",
         "a": [
-          "Caulastrea",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Caulastraea is a genus of stony corals in the family Merulinidae.",
+          "Candy Cane Coral is only a fictional mobile-game item.",
+          "Candy Cane Coral is mainly a cooking utensil.",
+          "Candy Cane Coral is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-314-open-brain-coral",
@@ -15689,36 +16170,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Will Thomas / Wikimedia Commons / CC BY 2.0",
     "trivia": [
       {
-        "q": "Which category best matches Open Brain Coral?",
+        "q": "What scientific or taxon name is connected to Open Brain Coral?",
         "a": [
-          "Corals & Reef Life",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Trachyphyllia geoffroyi",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Open Brain Coral is especially connected with what?",
-        "a": [
-          "fleshy mantle",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
-        ],
-        "correct": 0
-      },
-      {
-        "q": "What important context is linked to Open Brain Coral?",
+        "q": "Which biological group is Open Brain Coral connected to?",
         "a": [
           "Trachyphyllia",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "mammal",
+          "bird",
+          "reptile"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Which statement is true about Open Brain Coral?",
+        "a": [
+          "The open brain coral is a brightly colored free-living coral species in the family Merulinidae.",
+          "Open Brain Coral is only a fictional mobile-game item.",
+          "Open Brain Coral is mainly a cooking utensil.",
+          "Open Brain Coral is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-315-galaxea-coral",
@@ -15739,36 +16222,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Galaxea Coral?",
+        "q": "What scientific or taxon name is connected to Galaxea Coral?",
         "a": [
-          "Corals & Reef Life",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Galaxea acrhelia",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Galaxea Coral is especially connected with what?",
+        "q": "Which biological group is Galaxea Coral connected to?",
         "a": [
-          "long sweeper tentacles",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Galaxea",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Galaxea Coral?",
+        "q": "Which statement is true about Galaxea Coral?",
         "a": [
-          "reef aquarium",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Galaxea Coral is connected with coral reefs and marine ecosystems.",
+          "Galaxea Coral is only a fictional mobile-game item.",
+          "Galaxea Coral is mainly a cooking utensil.",
+          "Galaxea Coral is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-316-honeybee",
@@ -15789,36 +16274,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Ivar Leidus / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Honeybee?",
+        "q": "What scientific or taxon name is connected to Honeybee?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Apis mellifera",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Honeybee is especially connected with what?",
+        "q": "Which biological group is Honeybee connected to?",
         "a": [
-          "pollination",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Apis",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Honeybee?",
+        "q": "Which statement is true about Honeybee?",
         "a": [
-          "hives",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "A honey bee is a eusocial flying insect from the genus Apis of the largest bee family, Apidae.",
+          "Honeybee is only a fictional mobile-game item.",
+          "Honeybee is mainly a cooking utensil.",
+          "Honeybee is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-317-ladybird-beetle",
@@ -15839,36 +16326,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "26D / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Ladybird Beetle?",
+        "q": "What scientific or taxon name is connected to Ladybird Beetle?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Coccinellidae",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Ladybird Beetle is especially connected with what?",
+        "q": "Which biological group is Ladybird Beetle connected to?",
         "a": [
-          "aphid predator",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Cucujoidea",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Ladybird Beetle?",
+        "q": "Which statement is true about Ladybird Beetle?",
         "a": [
-          "gardens",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Ladybird Beetle is a small animal or invertebrate that supports biodiversity.",
+          "Ladybird Beetle is only a fictional mobile-game item.",
+          "Ladybird Beetle is mainly a cooking utensil.",
+          "Ladybird Beetle is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-318-praying-mantis",
@@ -15889,36 +16378,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Didier Descouens / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Praying Mantis?",
+        "q": "What scientific or taxon name is connected to Praying Mantis?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Mantis religiosa",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Praying Mantis is especially connected with what?",
+        "q": "Which biological group is Praying Mantis connected to?",
         "a": [
-          "raptorial forelegs",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Mantis",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Praying Mantis?",
+        "q": "Which statement is true about Praying Mantis?",
         "a": [
-          "ambush predator",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Mantises are an order (Mantodea) of insects that contains over 2,400 species in about 460 genera in 33 families.",
+          "Praying Mantis is only a fictional mobile-game item.",
+          "Praying Mantis is mainly a cooking utensil.",
+          "Praying Mantis is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-319-dragonfly",
@@ -15939,36 +16430,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Charles J. Sharp / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Dragonfly?",
+        "q": "Which statement is true about Dragonfly?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A dragonfly is a flying insect belonging to the infraorder Anisoptera below the order Odonata.",
+          "Dragonfly is only a fictional mobile-game item.",
+          "Dragonfly is mainly a cooking utensil.",
+          "Dragonfly is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Dragonfly is especially connected with what?",
+        "q": "Why is Dragonfly part of the nature puzzle collection?",
         "a": [
-          "aerial hunter",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Dragonfly?",
+        "q": "Which statement is true about Dragonfly?",
         "a": [
-          "wetlands",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "A dragonfly is a flying insect belonging to the infraorder Anisoptera below the order Odonata.",
+          "Dragonfly is only a fictional mobile-game item.",
+          "Dragonfly is mainly a cooking utensil.",
+          "Dragonfly is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-320-damselfly",
@@ -15989,36 +16482,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Charles J. Sharp / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Damselfly?",
+        "q": "Which statement is true about Damselfly?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Damselflies are flying insects of the suborder Zygoptera in the order Odonata.",
+          "Damselfly is only a fictional mobile-game item.",
+          "Damselfly is mainly a cooking utensil.",
+          "Damselfly is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Damselfly is especially connected with what?",
+        "q": "Why is Damselfly part of the nature puzzle collection?",
         "a": [
-          "delicate wings",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Damselfly?",
+        "q": "Which statement is true about Damselfly?",
         "a": [
-          "freshwater",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Damselflies are flying insects of the suborder Zygoptera in the order Odonata.",
+          "Damselfly is only a fictional mobile-game item.",
+          "Damselfly is mainly a cooking utensil.",
+          "Damselfly is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-321-firefly",
@@ -16039,36 +16534,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Jonathanfv / Wikimedia Commons / CC BY 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Firefly?",
+        "q": "What scientific or taxon name is connected to Firefly?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Lampyridae",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Firefly is especially connected with what?",
+        "q": "Which biological group is Firefly connected to?",
         "a": [
-          "bioluminescent signals",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Elateroidea",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Firefly?",
+        "q": "Which statement is true about Firefly?",
         "a": [
-          "night",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The Lampyridae are a family of elateroid beetles with more than 2,400 described species, many of which are light-emitting.",
+          "Firefly is only a fictional mobile-game item.",
+          "Firefly is mainly a cooking utensil.",
+          "Firefly is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-322-monarch-butterfly",
@@ -16089,36 +16586,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Rhododendrites / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Monarch Butterfly?",
+        "q": "What scientific or taxon name is connected to Monarch Butterfly?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Danaus plexippus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Monarch Butterfly is especially connected with what?",
+        "q": "Which biological group is Monarch Butterfly connected to?",
         "a": [
-          "long migration",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Danaus",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Monarch Butterfly?",
+        "q": "Which statement is true about Monarch Butterfly?",
         "a": [
-          "milkweed",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The monarch butterfly or simply monarch is a milkweed butterfly in the family Nymphalidae.",
+          "Monarch Butterfly is only a fictional mobile-game item.",
+          "Monarch Butterfly is mainly a cooking utensil.",
+          "Monarch Butterfly is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-323-atlas-moth",
@@ -16139,36 +16638,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Jeevan Jose, Kerala, India / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Atlas Moth?",
+        "q": "What scientific or taxon name is connected to Atlas Moth?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Attacus atlas",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Atlas Moth is especially connected with what?",
+        "q": "Which biological group is Atlas Moth connected to?",
         "a": [
-          "large wingspan",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Attacus",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Atlas Moth?",
+        "q": "Which statement is true about Atlas Moth?",
         "a": [
-          "tropical forests",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Attacus atlas, the Atlas moth, is a large saturniid moth endemic to the forests of Asia.",
+          "Atlas Moth is only a fictional mobile-game item.",
+          "Atlas Moth is mainly a cooking utensil.",
+          "Atlas Moth is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-324-leafcutter-ant",
@@ -16189,36 +16690,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "CaptainDarwin / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Leafcutter Ant?",
+        "q": "What scientific or taxon name is connected to Leafcutter Ant?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Atta cephalotes",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Leafcutter Ant is especially connected with what?",
+        "q": "Which biological group is Leafcutter Ant connected to?",
         "a": [
-          "fungus farming",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Atta",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Leafcutter Ant?",
+        "q": "Which statement is true about Leafcutter Ant?",
         "a": [
-          "colonies",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Leafcutter ants are fungus-growing ants that share the behaviour of cutting leaves which they carry back to their nests to farm fungus.",
+          "Leafcutter Ant is only a fictional mobile-game item.",
+          "Leafcutter Ant is mainly a cooking utensil.",
+          "Leafcutter Ant is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-325-termite",
@@ -16239,36 +16742,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Kwameghana / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Termite?",
+        "q": "What scientific or taxon name is connected to Termite?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Isoptera",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Termite is especially connected with what?",
+        "q": "Which biological group is Termite connected to?",
         "a": [
-          "wood digestion",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Blattodea",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Termite?",
+        "q": "Which statement is true about Termite?",
         "a": [
-          "social colonies",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Termites are a group of eusocial Cockroaches which consume a variety of decaying plant material, generally in the form of wood, leaf litter, and soil humus.",
+          "Termite is only a fictional mobile-game item.",
+          "Termite is mainly a cooking utensil.",
+          "Termite is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-326-jumping-spider",
@@ -16289,36 +16794,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "David Hill / Wikimedia Commons / CC BY 2.0",
     "trivia": [
       {
-        "q": "Which category best matches Jumping Spider?",
+        "q": "What scientific or taxon name is connected to Jumping Spider?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Salticidae",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Jumping Spider is especially connected with what?",
+        "q": "Which biological group is Jumping Spider connected to?",
         "a": [
-          "excellent vision",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Salticoidea",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Jumping Spider?",
+        "q": "Which statement is true about Jumping Spider?",
         "a": [
-          "active hunting",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Jumping spiders are spiders in the family Salticidae, with almost 700 genera and around 7,000 described species, making it the largest family of spiders – comprising 13% of spider species.",
+          "Jumping Spider is only a fictional mobile-game item.",
+          "Jumping Spider is mainly a cooking utensil.",
+          "Jumping Spider is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-327-tarantula",
@@ -16339,36 +16846,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "NASA, ESA, ESO, D. Lennon and E. Sabbi (ESA/STScI), J. Anderson, S. E. de Mink, R. van der Marel, T. Sohn, and N. Walborn (STScI), N. Bastian (Excellence Cluster, Munich), L. Bedin (INAF, Padua), E. Bressert (ESO), P. Crowther (Sheffield), A. de Koter (Amsterdam), C. Evans (UKATC/STFC, Edinburgh), A. Herrero (IAC, Tenerife), N. Langer (AifA, Bonn), I. Platais (JHU) and H. Sana (Amsterdam) / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Tarantula?",
+        "q": "What scientific or taxon name is connected to Tarantula?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Theraphosidae",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Tarantula is especially connected with what?",
+        "q": "Which biological group is Tarantula connected to?",
         "a": [
-          "large hairy body",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Theraphosoidea",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Tarantula?",
+        "q": "Which statement is true about Tarantula?",
         "a": [
-          "burrows",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Tarantulas are a group of large and often hairy spiders of the family Theraphosidae.",
+          "Tarantula is only a fictional mobile-game item.",
+          "Tarantula is mainly a cooking utensil.",
+          "Tarantula is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-328-scorpion",
@@ -16389,36 +16898,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Mario Modesto Mata / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Scorpion?",
+        "q": "What scientific or taxon name is connected to Scorpion?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Scorpiones",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Scorpion is especially connected with what?",
+        "q": "Which biological group is Scorpion connected to?",
         "a": [
-          "stinging tail",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Arachnopulmonata",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Scorpion?",
+        "q": "Which statement is true about Scorpion?",
         "a": [
-          "nocturnal hunter",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Scorpions are predatory arachnids with eight legs, a pair of grasping pincers and a narrow, segmented tail, often carried in a characteristic forward curve over the back and always ending with a stinger.",
+          "Scorpion is only a fictional mobile-game item.",
+          "Scorpion is mainly a cooking utensil.",
+          "Scorpion is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-329-horseshoe-crab",
@@ -16439,36 +16950,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Didier Descouens / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Horseshoe Crab?",
+        "q": "What scientific or taxon name is connected to Horseshoe Crab?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Limulus polyphemus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Horseshoe Crab is especially connected with what?",
+        "q": "Which biological group is Horseshoe Crab connected to?",
         "a": [
-          "ancient lineage",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Limulus",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Horseshoe Crab?",
+        "q": "Which statement is true about Horseshoe Crab?",
         "a": [
-          "shorelines",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Horseshoe crabs are arthropods of the family Limulidae and the only surviving xiphosurans.",
+          "Horseshoe Crab is only a fictional mobile-game item.",
+          "Horseshoe Crab is mainly a cooking utensil.",
+          "Horseshoe Crab is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-330-hermit-crab",
@@ -16489,36 +17002,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Tisha Mukherjee / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Hermit Crab?",
+        "q": "What scientific or taxon name is connected to Hermit Crab?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Paguroidea",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Hermit Crab is especially connected with what?",
+        "q": "Which biological group is Hermit Crab connected to?",
         "a": [
-          "uses borrowed shells",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Anomura",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Hermit Crab?",
+        "q": "Which statement is true about Hermit Crab?",
         "a": [
-          "tide pools",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Hermit crabs are anomuran decapod crustaceans of the superfamily Paguroidea that have adapted to occupy empty scavenged gastropod shells to protect their fragile abdomens.",
+          "Hermit Crab is only a fictional mobile-game item.",
+          "Hermit Crab is mainly a cooking utensil.",
+          "Hermit Crab is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-331-mantis-shrimp",
@@ -16539,36 +17054,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Mantis Shrimp?",
+        "q": "What scientific or taxon name is connected to Mantis Shrimp?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Stomatopoda",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Mantis Shrimp is especially connected with what?",
+        "q": "Which biological group is Mantis Shrimp connected to?",
         "a": [
-          "powerful strike",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Hoplocarida",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Mantis Shrimp?",
+        "q": "Which statement is true about Mantis Shrimp?",
         "a": [
-          "coral reefs",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Mantis shrimp are carnivorous marine crustaceans of the order Stomatopoda.",
+          "Mantis Shrimp is only a fictional mobile-game item.",
+          "Mantis Shrimp is mainly a cooking utensil.",
+          "Mantis Shrimp is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-332-cleaner-shrimp",
@@ -16589,36 +17106,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "q phia / Wikimedia Commons / CC BY 2.0",
     "trivia": [
       {
-        "q": "Which category best matches Cleaner Shrimp?",
+        "q": "Which statement is true about Cleaner Shrimp?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Cleaner shrimp is a common name for a number of swimming decapod crustaceans that clean other organisms of parasites.",
+          "Cleaner Shrimp is only a fictional mobile-game item.",
+          "Cleaner Shrimp is mainly a cooking utensil.",
+          "Cleaner Shrimp is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Cleaner Shrimp is especially connected with what?",
+        "q": "Why is Cleaner Shrimp part of the nature puzzle collection?",
         "a": [
-          "cleans fish parasites",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Cleaner Shrimp?",
+        "q": "Which statement is true about Cleaner Shrimp?",
         "a": [
-          "reef stations",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Cleaner shrimp is a common name for a number of swimming decapod crustaceans that clean other organisms of parasites.",
+          "Cleaner Shrimp is only a fictional mobile-game item.",
+          "Cleaner Shrimp is mainly a cooking utensil.",
+          "Cleaner Shrimp is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-333-copepod",
@@ -16639,36 +17158,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Andrei Savitsky / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Copepod?",
+        "q": "What scientific or taxon name is connected to Copepod?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Copepoda",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Copepod is especially connected with what?",
+        "q": "Which biological group is Copepod connected to?",
         "a": [
-          "tiny plankton",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Multicrustacea",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Copepod?",
+        "q": "Which statement is true about Copepod?",
         "a": [
-          "food webs",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Copepods are a group of small crustaceans found in nearly every freshwater and saltwater habitat.",
+          "Copepod is only a fictional mobile-game item.",
+          "Copepod is mainly a cooking utensil.",
+          "Copepod is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-334-krill",
@@ -16689,36 +17210,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Eduard Oscar Schmidt / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Krill?",
+        "q": "What scientific or taxon name is connected to Krill?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Euphausiacea",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Krill is especially connected with what?",
+        "q": "Which biological group is Krill connected to?",
         "a": [
-          "swarming plankton",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Eucarida",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Krill?",
+        "q": "Which statement is true about Krill?",
         "a": [
-          "whale food",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Krill (Euphausiids) are small and exclusively marine crustaceans of the order Euphausiacea, found in all of the world's oceans.",
+          "Krill is only a fictional mobile-game item.",
+          "Krill is mainly a cooking utensil.",
+          "Krill is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-335-water-bear-tardigrade",
@@ -16739,36 +17262,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Benjamin Stein / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Water Bear Tardigrade?",
+        "q": "Which statement is true about Water Bear Tardigrade?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Water Bear Tardigrade is a small animal or invertebrate that supports biodiversity.",
+          "Water Bear Tardigrade is only a fictional mobile-game item.",
+          "Water Bear Tardigrade is mainly a cooking utensil.",
+          "Water Bear Tardigrade is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Water Bear Tardigrade is especially connected with what?",
+        "q": "Why is Water Bear Tardigrade part of the nature puzzle collection?",
         "a": [
-          "extreme survival",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Water Bear Tardigrade?",
+        "q": "Which statement is true about Water Bear Tardigrade?",
         "a": [
-          "microscopic",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Water Bear Tardigrade is a small animal or invertebrate that supports biodiversity.",
+          "Water Bear Tardigrade is only a fictional mobile-game item.",
+          "Water Bear Tardigrade is mainly a cooking utensil.",
+          "Water Bear Tardigrade is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-336-planarian-flatworm",
@@ -16789,36 +17314,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Piterkeo / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Planarian Flatworm?",
+        "q": "Which statement is true about Planarian Flatworm?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Planarian Flatworm is a small animal or invertebrate that supports biodiversity.",
+          "Planarian Flatworm is only a fictional mobile-game item.",
+          "Planarian Flatworm is mainly a cooking utensil.",
+          "Planarian Flatworm is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Planarian Flatworm is especially connected with what?",
+        "q": "Why is Planarian Flatworm part of the nature puzzle collection?",
         "a": [
-          "regeneration",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Planarian Flatworm?",
+        "q": "Which statement is true about Planarian Flatworm?",
         "a": [
-          "freshwater",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Planarian Flatworm is a small animal or invertebrate that supports biodiversity.",
+          "Planarian Flatworm is only a fictional mobile-game item.",
+          "Planarian Flatworm is mainly a cooking utensil.",
+          "Planarian Flatworm is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-337-earthworm",
@@ -16839,36 +17366,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Tgru001 / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Earthworm?",
+        "q": "What scientific or taxon name is connected to Earthworm?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Lumbricus terrestris",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Earthworm is especially connected with what?",
+        "q": "Which biological group is Earthworm connected to?",
         "a": [
-          "soil aeration",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Lumbricus",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Earthworm?",
+        "q": "Which statement is true about Earthworm?",
         "a": [
-          "decomposition",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "An earthworm is a soil-dwelling terrestrial invertebrate that belongs to the phylum Annelida.",
+          "Earthworm is only a fictional mobile-game item.",
+          "Earthworm is mainly a cooking utensil.",
+          "Earthworm is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-338-leech",
@@ -16889,36 +17418,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "آرمین / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Leech?",
+        "q": "Which statement is true about Leech?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Leeches are segmented parasitic or predatory worms that comprise the subclass Hirudinea within the phylum Annelida.",
+          "Leech is only a fictional mobile-game item.",
+          "Leech is mainly a cooking utensil.",
+          "Leech is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Leech is especially connected with what?",
+        "q": "Why is Leech part of the nature puzzle collection?",
         "a": [
-          "suckers",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Leech?",
+        "q": "Which statement is true about Leech?",
         "a": [
-          "aquatic habitats",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Leeches are segmented parasitic or predatory worms that comprise the subclass Hirudinea within the phylum Annelida.",
+          "Leech is only a fictional mobile-game item.",
+          "Leech is mainly a cooking utensil.",
+          "Leech is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-339-nudibranch",
@@ -16939,36 +17470,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Filippo antinori1223 / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Nudibranch?",
+        "q": "What scientific or taxon name is connected to Nudibranch?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Nudibranchia",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Nudibranch is especially connected with what?",
+        "q": "Which biological group is Nudibranch connected to?",
         "a": [
-          "bright colors",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Nudipleura",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Nudibranch?",
+        "q": "Which statement is true about Nudibranch?",
         "a": [
-          "chemical defense",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Nudibranchs are a group of soft-bodied marine gastropod molluscs, belonging to the order Nudibranchia, that shed their shells after their larval stage.",
+          "Nudibranch is only a fictional mobile-game item.",
+          "Nudibranch is mainly a cooking utensil.",
+          "Nudibranch is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-340-sea-star",
@@ -16989,36 +17522,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Frédéric Ducarme / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Sea Star?",
+        "q": "What scientific or taxon name is connected to Sea Star?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Asteroidea",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Sea Star is especially connected with what?",
+        "q": "Which biological group is Sea Star connected to?",
         "a": [
-          "tube feet",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Asterozoa",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Sea Star?",
+        "q": "Which statement is true about Sea Star?",
         "a": [
-          "regeneration",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Starfish or sea stars are a class of marine invertebrates generally shaped like a star polygon.",
+          "Sea Star is only a fictional mobile-game item.",
+          "Sea Star is mainly a cooking utensil.",
+          "Sea Star is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-341-brittle-star",
@@ -17039,36 +17574,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Florence Sanchez / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Brittle Star?",
+        "q": "What scientific or taxon name is connected to Brittle Star?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Ophiuroidea",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Brittle Star is especially connected with what?",
+        "q": "Which biological group is Brittle Star connected to?",
         "a": [
-          "flexible arms",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Asterozoa",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Brittle Star?",
+        "q": "Which statement is true about Brittle Star?",
         "a": [
-          "seafloor",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Brittle stars, serpent stars, or ophiuroids are echinoderms in the class Ophiuroidea, closely related to starfish.",
+          "Brittle Star is only a fictional mobile-game item.",
+          "Brittle Star is mainly a cooking utensil.",
+          "Brittle Star is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-342-sea-urchin",
@@ -17089,36 +17626,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Sea Urchin?",
+        "q": "What scientific or taxon name is connected to Sea Urchin?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Echinoidea",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Sea Urchin is especially connected with what?",
+        "q": "Which biological group is Sea Urchin connected to?",
         "a": [
-          "spiny body",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Echinozoa",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Sea Urchin?",
+        "q": "Which statement is true about Sea Urchin?",
         "a": [
-          "grazing",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Sea urchins or urchins are the class Echinoidea within the echinoderms.",
+          "Sea Urchin is only a fictional mobile-game item.",
+          "Sea Urchin is mainly a cooking utensil.",
+          "Sea Urchin is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-343-sea-cucumber",
@@ -17139,36 +17678,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Chamberlain of Nilai / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Sea Cucumber?",
+        "q": "What scientific or taxon name is connected to Sea Cucumber?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Holothuroidea",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Sea Cucumber is especially connected with what?",
+        "q": "Which biological group is Sea Cucumber connected to?",
         "a": [
-          "soft elongated body",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Echinozoa",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Sea Cucumber?",
+        "q": "Which statement is true about Sea Cucumber?",
         "a": [
-          "sediment cleaning",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Sea cucumbers are echinoderms from the class Holothuroidea.",
+          "Sea Cucumber is only a fictional mobile-game item.",
+          "Sea Cucumber is mainly a cooking utensil.",
+          "Sea Cucumber is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-344-feather-star",
@@ -17189,36 +17730,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Coughdrop12 / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Feather Star?",
+        "q": "What scientific or taxon name is connected to Feather Star?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Crinoidea",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Feather Star is especially connected with what?",
+        "q": "Which biological group is Feather Star connected to?",
         "a": [
-          "filter-feeding arms",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Crinozoa",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Feather Star?",
+        "q": "Which statement is true about Feather Star?",
         "a": [
-          "reefs",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Crinoids are marine invertebrates that make up the class Crinoidea.",
+          "Feather Star is only a fictional mobile-game item.",
+          "Feather Star is mainly a cooking utensil.",
+          "Feather Star is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-345-snail",
@@ -17239,36 +17782,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "H. Zell / Wikimedia Commons / CC BY-SA 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Snail?",
+        "q": "Which statement is true about Snail?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "The name is most often applied to land snails, terrestrial pulmonate gastropod molluscs.",
+          "Snail is only a fictional mobile-game item.",
+          "Snail is mainly a cooking utensil.",
+          "Snail is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Snail is especially connected with what?",
+        "q": "Why is Snail part of the nature puzzle collection?",
         "a": [
-          "spiral shell",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Snail?",
+        "q": "Which statement is true about Snail?",
         "a": [
-          "radula",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The name is most often applied to land snails, terrestrial pulmonate gastropod molluscs.",
+          "Snail is only a fictional mobile-game item.",
+          "Snail is mainly a cooking utensil.",
+          "Snail is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-346-octopus",
@@ -17289,36 +17834,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Basile Morin / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Octopus?",
+        "q": "What scientific or taxon name is connected to Octopus?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Octopus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Octopus is especially connected with what?",
+        "q": "Which biological group is Octopus connected to?",
         "a": [
-          "eight arms",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Octopodinae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Octopus?",
+        "q": "Which statement is true about Octopus?",
         "a": [
-          "intelligence",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "An octopus is a soft-bodied, eight-limbed mollusc of the order Octopoda.",
+          "Octopus is only a fictional mobile-game item.",
+          "Octopus is mainly a cooking utensil.",
+          "Octopus is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-347-cuttlefish",
@@ -17339,36 +17886,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Kayman2016 / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Cuttlefish?",
+        "q": "What scientific or taxon name is connected to Cuttlefish?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Sepiidae",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Cuttlefish is especially connected with what?",
+        "q": "Which biological group is Cuttlefish connected to?",
         "a": [
-          "color-changing skin",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Sepioidea",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Cuttlefish?",
+        "q": "Which statement is true about Cuttlefish?",
         "a": [
-          "camouflage",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Cuttlefish, or cuttles, are marine molluscs of the family Sepiidae.",
+          "Cuttlefish is only a fictional mobile-game item.",
+          "Cuttlefish is mainly a cooking utensil.",
+          "Cuttlefish is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-348-nautilus",
@@ -17389,36 +17938,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Manuae / Wikimedia Commons / CC BY-SA 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Nautilus?",
+        "q": "What scientific or taxon name is connected to Nautilus?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Nautilus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Nautilus is especially connected with what?",
+        "q": "Which biological group is Nautilus connected to?",
         "a": [
-          "chambered shell",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Nautilidae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Nautilus?",
+        "q": "Which statement is true about Nautilus?",
         "a": [
-          "ancient lineage",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "A nautilus is any of the various species within the cephalopod family Nautilidae.",
+          "Nautilus is only a fictional mobile-game item.",
+          "Nautilus is mainly a cooking utensil.",
+          "Nautilus is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-349-clownfish",
@@ -17439,36 +17990,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Bruxton / Wikimedia Commons / CC0",
     "trivia": [
       {
-        "q": "Which category best matches Clownfish?",
+        "q": "What scientific or taxon name is connected to Clownfish?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Amphiprioninae",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Clownfish is especially connected with what?",
+        "q": "Which biological group is Clownfish connected to?",
         "a": [
-          "anemone partnership",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Pomacentridae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Clownfish?",
+        "q": "Which statement is true about Clownfish?",
         "a": [
-          "coral reefs",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Clownfish or anemonefishes are saltwater fish found in the warm and tropical waters of the Indo-Pacific.",
+          "Clownfish is only a fictional mobile-game item.",
+          "Clownfish is mainly a cooking utensil.",
+          "Clownfish is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-350-seahorse",
@@ -17489,36 +18042,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Romano Gianluca / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Seahorse?",
+        "q": "What scientific or taxon name is connected to Seahorse?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Hippocampus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Seahorse is especially connected with what?",
+        "q": "Which biological group is Seahorse connected to?",
         "a": [
-          "male pregnancy",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Hippocampinae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Seahorse?",
+        "q": "Which statement is true about Seahorse?",
         "a": [
-          "seagrass",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "A seahorse is any of 46 species of small marine bony fish in the genus Hippocampus.",
+          "Seahorse is only a fictional mobile-game item.",
+          "Seahorse is mainly a cooking utensil.",
+          "Seahorse is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-351-pipefish",
@@ -17539,36 +18094,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Lee Vilenski / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Pipefish?",
+        "q": "What scientific or taxon name is connected to Pipefish?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Syngnathinae",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Pipefish is especially connected with what?",
+        "q": "Which biological group is Pipefish connected to?",
         "a": [
-          "long slender body",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Syngnathidae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Pipefish?",
+        "q": "Which statement is true about Pipefish?",
         "a": [
-          "seagrass",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Pipefishes or pipe-fishes (Syngnathinae) are a subfamily of small fishes, which, together with the seahorses and seadragons, form the family Syngnathidae.",
+          "Pipefish is only a fictional mobile-game item.",
+          "Pipefish is mainly a cooking utensil.",
+          "Pipefish is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-352-frog",
@@ -17589,36 +18146,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Rushenb / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Frog?",
+        "q": "What scientific or taxon name is connected to Frog?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Anura",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Frog is especially connected with what?",
+        "q": "Which biological group is Frog connected to?",
         "a": [
-          "metamorphosis",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Salientia",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Frog?",
+        "q": "Which statement is true about Frog?",
         "a": [
-          "wetlands",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "A frog is any member of a diverse and largely semiaquatic group of short-bodied, tailless amphibian vertebrates composing the order Anura.",
+          "Frog is only a fictional mobile-game item.",
+          "Frog is mainly a cooking utensil.",
+          "Frog is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-353-axolotl",
@@ -17639,36 +18198,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Fernando Losada Rodríguez / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Axolotl?",
+        "q": "What scientific or taxon name is connected to Axolotl?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Ambystoma mexicanum",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Axolotl is especially connected with what?",
+        "q": "Which biological group is Axolotl connected to?",
         "a": [
-          "regeneration",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Ambystoma",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Axolotl?",
+        "q": "Which statement is true about Axolotl?",
         "a": [
-          "Mexico",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The axolotl is a species of mole salamander.",
+          "Axolotl is only a fictional mobile-game item.",
+          "Axolotl is mainly a cooking utensil.",
+          "Axolotl is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-354-gecko",
@@ -17689,36 +18250,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Basile Morin / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Gecko?",
+        "q": "What scientific or taxon name is connected to Gecko?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Gekkonidae",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Gecko is especially connected with what?",
+        "q": "Which biological group is Gecko connected to?",
         "a": [
-          "sticky toe pads",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Gekkonoidea",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Gecko?",
+        "q": "Which statement is true about Gecko?",
         "a": [
-          "walls",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Geckos are small, mostly carnivorous lizards that have a wide distribution, found on every continent except Antarctica.",
+          "Gecko is only a fictional mobile-game item.",
+          "Gecko is mainly a cooking utensil.",
+          "Gecko is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-355-chameleon",
@@ -17739,36 +18302,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Charles J. Sharp / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Chameleon?",
+        "q": "Which statement is true about Chameleon?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Chameleons are a distinctive and highly specialized clade of Old World lizards with 200 species described as of June 2015.",
+          "Chameleon is only a fictional mobile-game item.",
+          "Chameleon is mainly a cooking utensil.",
+          "Chameleon is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Chameleon is especially connected with what?",
+        "q": "Why is Chameleon part of the nature puzzle collection?",
         "a": [
-          "independent eyes",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Chameleon?",
+        "q": "Which statement is true about Chameleon?",
         "a": [
-          "color change",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Chameleons are a distinctive and highly specialized clade of Old World lizards with 200 species described as of June 2015.",
+          "Chameleon is only a fictional mobile-game item.",
+          "Chameleon is mainly a cooking utensil.",
+          "Chameleon is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-356-hummingbird",
@@ -17789,36 +18354,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Andy Morffew from Itchen Abbas, Hampshire, UK / Wikimedia Commons / CC BY 2.0",
     "trivia": [
       {
-        "q": "Which category best matches Hummingbird?",
+        "q": "What scientific or taxon name is connected to Hummingbird?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Trochilidae",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Hummingbird is especially connected with what?",
+        "q": "Which biological group is Hummingbird connected to?",
         "a": [
-          "hovering flight",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Apodiformes",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Hummingbird?",
+        "q": "Which statement is true about Hummingbird?",
         "a": [
-          "nectar",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Hummingbirds are birds native to the Americas and comprise the biological family Trochilidae.",
+          "Hummingbird is only a fictional mobile-game item.",
+          "Hummingbird is mainly a cooking utensil.",
+          "Hummingbird is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-357-kingfisher",
@@ -17839,36 +18406,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Alexis Lours / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Kingfisher?",
+        "q": "Which statement is true about Kingfisher?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Kingfishers are a family, the Alcedinidae, of small to medium-sized, brightly coloured birds in the order Coraciiformes.",
+          "Kingfisher is only a fictional mobile-game item.",
+          "Kingfisher is mainly a cooking utensil.",
+          "Kingfisher is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Kingfisher is especially connected with what?",
+        "q": "Why is Kingfisher part of the nature puzzle collection?",
         "a": [
-          "dives for fish",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Kingfisher?",
+        "q": "Which statement is true about Kingfisher?",
         "a": [
-          "rivers",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Kingfishers are a family, the Alcedinidae, of small to medium-sized, brightly coloured birds in the order Coraciiformes.",
+          "Kingfisher is only a fictional mobile-game item.",
+          "Kingfisher is mainly a cooking utensil.",
+          "Kingfisher is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-358-pangolin",
@@ -17889,36 +18458,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Frendi Apen Irawan / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Pangolin?",
+        "q": "What scientific or taxon name is connected to Pangolin?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Pholidota",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Pangolin is especially connected with what?",
+        "q": "Which biological group is Pangolin connected to?",
         "a": [
-          "keratin scales",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Pholidotamorpha",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Pangolin?",
+        "q": "Which statement is true about Pangolin?",
         "a": [
-          "insect eater",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Pangolins, also called scaly anteaters, are mammals of the order Pholidota.",
+          "Pangolin is only a fictional mobile-game item.",
+          "Pangolin is mainly a cooking utensil.",
+          "Pangolin is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-359-hedgehog",
@@ -17939,36 +18510,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "byapryl / Wikimedia Commons / CC0",
     "trivia": [
       {
-        "q": "Which category best matches Hedgehog?",
+        "q": "Which statement is true about Hedgehog?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A  hedgehog  is a spiny mammal of the subfamily Erinaceinae, in the eulipotyphlan family Erinaceidae.",
+          "Hedgehog is only a fictional mobile-game item.",
+          "Hedgehog is mainly a cooking utensil.",
+          "Hedgehog is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Hedgehog is especially connected with what?",
+        "q": "Why is Hedgehog part of the nature puzzle collection?",
         "a": [
-          "spiny defense",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Hedgehog?",
+        "q": "Which statement is true about Hedgehog?",
         "a": [
-          "nocturnal",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "A  hedgehog  is a spiny mammal of the subfamily Erinaceinae, in the eulipotyphlan family Erinaceidae.",
+          "Hedgehog is only a fictional mobile-game item.",
+          "Hedgehog is mainly a cooking utensil.",
+          "Hedgehog is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-360-fennec-fox",
@@ -17989,36 +18562,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Roger Culos / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Fennec Fox?",
+        "q": "What scientific or taxon name is connected to Fennec Fox?",
         "a": [
-          "Small Critters",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Vulpes zerda",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Fennec Fox is especially connected with what?",
+        "q": "Which biological group is Fennec Fox connected to?",
         "a": [
-          "large ears",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Vulpes",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Fennec Fox?",
+        "q": "Which statement is true about Fennec Fox?",
         "a": [
-          "desert",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The fennec fox is a small fox native to the deserts of North Africa, ranging from Western Sahara and Mauritania to the Sinai Peninsula.",
+          "Fennec Fox is only a fictional mobile-game item.",
+          "Fennec Fox is mainly a cooking utensil.",
+          "Fennec Fox is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-361-african-elephant",
@@ -18039,36 +18614,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches African Elephant?",
+        "q": "What scientific or taxon name is connected to African Elephant?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Loxodonta africana",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "African Elephant is especially connected with what?",
+        "q": "Which biological group is African Elephant connected to?",
         "a": [
-          "largest land animal",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "African elephant",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to African Elephant?",
+        "q": "Which statement is true about African Elephant?",
         "a": [
-          "savanna",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "African elephants are members of the genus Loxodonta comprising two living elephant species, the African bush elephant and the smaller African forest elephant.",
+          "African Elephant is only a fictional mobile-game item.",
+          "African Elephant is mainly a cooking utensil.",
+          "African Elephant is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-362-bengal-tiger",
@@ -18089,36 +18666,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Charles J. Sharp / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Bengal Tiger?",
+        "q": "What scientific or taxon name is connected to Bengal Tiger?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Panthera tigris tigris",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Bengal Tiger is especially connected with what?",
+        "q": "Which biological group is Bengal Tiger connected to?",
         "a": [
-          "striped big cat",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "tiger",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Bengal Tiger?",
+        "q": "Which statement is true about Bengal Tiger?",
         "a": [
-          "forests",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The Bengal tiger is a population of the Panthera tigris tigris subspecies.",
+          "Bengal Tiger is only a fictional mobile-game item.",
+          "Bengal Tiger is mainly a cooking utensil.",
+          "Bengal Tiger is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-363-lion",
@@ -18139,36 +18718,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Lion?",
+        "q": "Which statement is true about Lion?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "The lion is a large cat of the genus Panthera, currently ranging only in Sub-Saharan Africa and India.",
+          "Lion is only a fictional mobile-game item.",
+          "Lion is mainly a cooking utensil.",
+          "Lion is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Lion is especially connected with what?",
+        "q": "Why is Lion part of the nature puzzle collection?",
         "a": [
-          "social big cat",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Lion?",
+        "q": "Which statement is true about Lion?",
         "a": [
-          "prides",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The lion is a large cat of the genus Panthera, currently ranging only in Sub-Saharan Africa and India.",
+          "Lion is only a fictional mobile-game item.",
+          "Lion is mainly a cooking utensil.",
+          "Lion is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-364-cheetah",
@@ -18189,36 +18770,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Giles Laurent / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Cheetah?",
+        "q": "What scientific or taxon name is connected to Cheetah?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Acinonyx jubatus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Cheetah is especially connected with what?",
+        "q": "Which biological group is Cheetah connected to?",
         "a": [
-          "fastest land animal",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Acinonyx",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Cheetah?",
+        "q": "Which statement is true about Cheetah?",
         "a": [
-          "grasslands",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The cheetah is a species of large feline and the only living member of the genus Acinonyx.",
+          "Cheetah is only a fictional mobile-game item.",
+          "Cheetah is mainly a cooking utensil.",
+          "Cheetah is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-365-giraffe",
@@ -18239,36 +18822,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Giles Laurent / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Giraffe?",
+        "q": "What scientific or taxon name is connected to Giraffe?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Giraffa",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Giraffe is especially connected with what?",
+        "q": "Which biological group is Giraffe connected to?",
         "a": [
-          "long neck",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Giraffina",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Giraffe?",
+        "q": "Which statement is true about Giraffe?",
         "a": [
-          "savanna",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Giraffes are large African hoofed mammals.",
+          "Giraffe is only a fictional mobile-game item.",
+          "Giraffe is mainly a cooking utensil.",
+          "Giraffe is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-366-zebra",
@@ -18289,36 +18874,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Zebra?",
+        "q": "What scientific or taxon name is connected to Zebra?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Danio rerio",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Zebra is especially connected with what?",
+        "q": "Which biological group is Zebra connected to?",
         "a": [
-          "black-and-white stripes",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Danio",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Zebra?",
+        "q": "Which statement is true about Zebra?",
         "a": [
-          "grasslands",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Zebras are African equines with distinctive black-and-white striped coats.",
+          "Zebra is only a fictional mobile-game item.",
+          "Zebra is mainly a cooking utensil.",
+          "Zebra is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-367-giant-panda",
@@ -18339,36 +18926,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Gzen92 / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Giant Panda?",
+        "q": "What scientific or taxon name is connected to Giant Panda?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Ailuropoda melanoleuca",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Giant Panda is especially connected with what?",
+        "q": "Which biological group is Giant Panda connected to?",
         "a": [
-          "bamboo diet",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Ailuropoda",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Giant Panda?",
+        "q": "Which statement is true about Giant Panda?",
         "a": [
-          "China",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The giant panda, also known as the panda bear or simply panda, is a bear species endemic to China.",
+          "Giant Panda is only a fictional mobile-game item.",
+          "Giant Panda is mainly a cooking utensil.",
+          "Giant Panda is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-368-polar-bear",
@@ -18389,36 +18978,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Christopher Michel / Wikimedia Commons / CC BY 2.0",
     "trivia": [
       {
-        "q": "Which category best matches Polar Bear?",
+        "q": "What scientific or taxon name is connected to Polar Bear?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Ursus maritimus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Polar Bear is especially connected with what?",
+        "q": "Which biological group is Polar Bear connected to?",
         "a": [
-          "Arctic sea ice hunter",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Ursus",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Polar Bear?",
+        "q": "Which statement is true about Polar Bear?",
         "a": [
-          "Arctic",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The polar bear is a large Arctic animal.",
+          "Polar Bear is only a fictional mobile-game item.",
+          "Polar Bear is mainly a cooking utensil.",
+          "Polar Bear is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-369-blue-whale",
@@ -18439,36 +19030,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "NOAA Fisheries (TBjornstad 11:17, 18 April 2007 (UTC)) / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Blue Whale?",
+        "q": "What scientific or taxon name is connected to Blue Whale?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Balaenoptera musculus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Blue Whale is especially connected with what?",
+        "q": "Which biological group is Blue Whale connected to?",
         "a": [
-          "largest animal",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Balaenoptera",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Blue Whale?",
+        "q": "Which statement is true about Blue Whale?",
         "a": [
-          "ocean",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The blue whale is a species of baleen whale and the largest marine mammal in the rorqual family Balaenopteridae.",
+          "Blue Whale is only a fictional mobile-game item.",
+          "Blue Whale is mainly a cooking utensil.",
+          "Blue Whale is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-370-dolphin",
@@ -18489,36 +19082,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Software: Dolphin Team/Screenshot: PantheraLeo1359531 😺 (talk) / Wikimedia Commons / GPLv2",
     "trivia": [
       {
-        "q": "Which category best matches Dolphin?",
+        "q": "Which statement is true about Dolphin?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A dolphin is any one of the 40 extant species of aquatic mammal from the cetacean families Delphinidae, Platanistidae, Iniidae, Pontoporiidae, and the probably extinct Lipotidae.",
+          "Dolphin is only a fictional mobile-game item.",
+          "Dolphin is mainly a cooking utensil.",
+          "Dolphin is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Dolphin is especially connected with what?",
+        "q": "Why is Dolphin part of the nature puzzle collection?",
         "a": [
-          "echolocation",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Dolphin?",
+        "q": "Which statement is true about Dolphin?",
         "a": [
-          "ocean",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "A dolphin is any one of the 40 extant species of aquatic mammal from the cetacean families Delphinidae, Platanistidae, Iniidae, Pontoporiidae, and the probably extinct Lipotidae.",
+          "Dolphin is only a fictional mobile-game item.",
+          "Dolphin is mainly a cooking utensil.",
+          "Dolphin is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-371-orca",
@@ -18539,36 +19134,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Callan Carpenter / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Orca?",
+        "q": "Which statement is true about Orca?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "The orca, or killer whale, is a toothed whale and the largest member of the oceanic dolphin family.",
+          "Orca is only a fictional mobile-game item.",
+          "Orca is mainly a cooking utensil.",
+          "Orca is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Orca is especially connected with what?",
+        "q": "Why is Orca part of the nature puzzle collection?",
         "a": [
-          "apex marine predator",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Orca?",
+        "q": "Which statement is true about Orca?",
         "a": [
-          "oceans",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The orca, or killer whale, is a toothed whale and the largest member of the oceanic dolphin family.",
+          "Orca is only a fictional mobile-game item.",
+          "Orca is mainly a cooking utensil.",
+          "Orca is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-372-kangaroo",
@@ -18589,36 +19186,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Charles J. Sharp / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Kangaroo?",
+        "q": "Which statement is true about Kangaroo?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Kangaroos are marsupials from the subfamily Macropodinae.",
+          "Kangaroo is only a fictional mobile-game item.",
+          "Kangaroo is mainly a cooking utensil.",
+          "Kangaroo is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Kangaroo is especially connected with what?",
+        "q": "Why is Kangaroo part of the nature puzzle collection?",
         "a": [
-          "marsupial hopping",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Kangaroo?",
+        "q": "Which statement is true about Kangaroo?",
         "a": [
-          "Australia",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Kangaroos are marsupials from the subfamily Macropodinae.",
+          "Kangaroo is only a fictional mobile-game item.",
+          "Kangaroo is mainly a cooking utensil.",
+          "Kangaroo is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-373-koala",
@@ -18639,36 +19238,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Till Niermann / Wikimedia Commons / CC BY 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Koala?",
+        "q": "What scientific or taxon name is connected to Koala?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Phascolarctos cinereus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Koala is especially connected with what?",
+        "q": "Which biological group is Koala connected to?",
         "a": [
-          "eucalyptus diet",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Phascolarctos",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Koala?",
+        "q": "Which statement is true about Koala?",
         "a": [
-          "Australia",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The koala, sometimes inaccurately called the koala bear, is an arboreal herbivorous marsupial native to Australia.",
+          "Koala is only a fictional mobile-game item.",
+          "Koala is mainly a cooking utensil.",
+          "Koala is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-374-red-panda",
@@ -18689,36 +19290,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Sunuwargr / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Red Panda?",
+        "q": "What scientific or taxon name is connected to Red Panda?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Ailurus fulgens",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Red Panda is especially connected with what?",
+        "q": "Which biological group is Red Panda connected to?",
         "a": [
-          "tree-dwelling carnivoran",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Ailurus",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Red Panda?",
+        "q": "Which statement is true about Red Panda?",
         "a": [
-          "Himalayas",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "A red panda is a small mammal native to the eastern Himalayas and southwestern China.",
+          "Red Panda is only a fictional mobile-game item.",
+          "Red Panda is mainly a cooking utensil.",
+          "Red Panda is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-375-snow-leopard",
@@ -18739,36 +19342,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Jolanta Dyr / Wikimedia Commons / CC BY-SA 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Snow Leopard?",
+        "q": "What scientific or taxon name is connected to Snow Leopard?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Panthera uncia",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Snow Leopard is especially connected with what?",
+        "q": "Which biological group is Snow Leopard connected to?",
         "a": [
-          "mountain cat",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Panthera",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Snow Leopard?",
+        "q": "Which statement is true about Snow Leopard?",
         "a": [
-          "Central Asia",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The snow leopard is a species of large cat in the genus Panthera of the family Felidae.",
+          "Snow Leopard is only a fictional mobile-game item.",
+          "Snow Leopard is mainly a cooking utensil.",
+          "Snow Leopard is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-376-gray-wolf",
@@ -18789,36 +19394,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Wilfredor / Wikimedia Commons / CC0",
     "trivia": [
       {
-        "q": "Which category best matches Gray Wolf?",
+        "q": "What scientific or taxon name is connected to Gray Wolf?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Canis lupus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Gray Wolf is especially connected with what?",
+        "q": "Which biological group is Gray Wolf connected to?",
         "a": [
-          "pack hunter",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Canis",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Gray Wolf?",
+        "q": "Which statement is true about Gray Wolf?",
         "a": [
-          "northern forests",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The wolf, also known as the grey wolf or gray wolf, is a canine native to Eurasia and North America.",
+          "Gray Wolf is only a fictional mobile-game item.",
+          "Gray Wolf is mainly a cooking utensil.",
+          "Gray Wolf is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-377-brown-bear",
@@ -18839,36 +19446,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Gregory \"Slobirdr\" Smith / Wikimedia Commons / CC BY-SA 2.0",
     "trivia": [
       {
-        "q": "Which category best matches Brown Bear?",
+        "q": "What scientific or taxon name is connected to Brown Bear?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Ursus arctos",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Brown Bear is especially connected with what?",
+        "q": "Which biological group is Brown Bear connected to?",
         "a": [
-          "omnivore",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Ursus",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Brown Bear?",
+        "q": "Which statement is true about Brown Bear?",
         "a": [
-          "forests",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The brown bear is a large bear native to Eurasia and North America.",
+          "Brown Bear is only a fictional mobile-game item.",
+          "Brown Bear is mainly a cooking utensil.",
+          "Brown Bear is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-378-rhinoceros",
@@ -18889,36 +19498,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Giles Laurent / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Rhinoceros?",
+        "q": "What scientific or taxon name is connected to Rhinoceros?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Rhinoceros",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Rhinoceros is especially connected with what?",
+        "q": "Which biological group is Rhinoceros connected to?",
         "a": [
-          "horned herbivore",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "rhinoceros",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Rhinoceros?",
+        "q": "Which statement is true about Rhinoceros?",
         "a": [
-          "Africa/Asia",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "A rhinoceros, commonly abbreviated to rhino, is a member of any of the five extant species of odd-toed ungulates (perissodactyls) in the family Rhinocerotidae.",
+          "Rhinoceros is only a fictional mobile-game item.",
+          "Rhinoceros is mainly a cooking utensil.",
+          "Rhinoceros is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-379-hippopotamus",
@@ -18939,36 +19550,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Hippopotamus?",
+        "q": "What scientific or taxon name is connected to Hippopotamus?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Hippopotamus amphibius",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Hippopotamus is especially connected with what?",
+        "q": "Which biological group is Hippopotamus connected to?",
         "a": [
-          "semi-aquatic herbivore",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Hippopotamus",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Hippopotamus?",
+        "q": "Which statement is true about Hippopotamus?",
         "a": [
-          "rivers",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The hippopotamus, often shortened to hippo, further qualified as the common hippopotamus, Nile hippopotamus and river hippopotamus, is a large semiaquatic mammal native to sub-Saharan Africa.",
+          "Hippopotamus is only a fictional mobile-game item.",
+          "Hippopotamus is mainly a cooking utensil.",
+          "Hippopotamus is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-380-gorilla",
@@ -18989,36 +19602,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Didier Descouens / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Gorilla?",
+        "q": "What scientific or taxon name is connected to Gorilla?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Gorilla",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Gorilla is especially connected with what?",
+        "q": "Which biological group is Gorilla connected to?",
         "a": [
-          "great ape",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Gorillini",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Gorilla?",
+        "q": "Which statement is true about Gorilla?",
         "a": [
-          "African forests",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Gorillas are large, primarily herbivorous, great apes that live in the tropical forests of equatorial Africa.",
+          "Gorilla is only a fictional mobile-game item.",
+          "Gorilla is mainly a cooking utensil.",
+          "Gorilla is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-381-chimpanzee",
@@ -19039,36 +19654,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Giles Laurent / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Chimpanzee?",
+        "q": "What scientific or taxon name is connected to Chimpanzee?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Pan troglodytes",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Chimpanzee is especially connected with what?",
+        "q": "Which biological group is Chimpanzee connected to?",
         "a": [
-          "tool use",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Pan",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Chimpanzee?",
+        "q": "Which statement is true about Chimpanzee?",
         "a": [
-          "African forests",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The chimpanzee, also simply known as the chimp, is an endangered species of great ape native to the forests and savannahs of tropical Africa.",
+          "Chimpanzee is only a fictional mobile-game item.",
+          "Chimpanzee is mainly a cooking utensil.",
+          "Chimpanzee is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-382-orangutan",
@@ -19089,36 +19706,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Anton Leddin / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Orangutan?",
+        "q": "What scientific or taxon name is connected to Orangutan?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Pongo",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Orangutan is especially connected with what?",
+        "q": "Which biological group is Orangutan connected to?",
         "a": [
-          "arboreal ape",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Pongini",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Orangutan?",
+        "q": "Which statement is true about Orangutan?",
         "a": [
-          "Borneo/Sumatra",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Orangutans are great apes native to the rainforests of Indonesia and Malaysia.",
+          "Orangutan is only a fictional mobile-game item.",
+          "Orangutan is mainly a cooking utensil.",
+          "Orangutan is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-383-sloth",
@@ -19139,36 +19758,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "James Ensor / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Sloth?",
+        "q": "Which statement is true about Sloth?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Sloths are a Neotropical group of xenarthran mammals constituting the suborder Folivora, including the extant arboreal tree sloths and extinct terrestrial ground sloths.",
+          "Sloth is only a fictional mobile-game item.",
+          "Sloth is mainly a cooking utensil.",
+          "Sloth is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Sloth is especially connected with what?",
+        "q": "Why is Sloth part of the nature puzzle collection?",
         "a": [
-          "slow tree life",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Sloth?",
+        "q": "Which statement is true about Sloth?",
         "a": [
-          "rainforest",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Sloths are a Neotropical group of xenarthran mammals constituting the suborder Folivora, including the extant arboreal tree sloths and extinct terrestrial ground sloths.",
+          "Sloth is only a fictional mobile-game item.",
+          "Sloth is mainly a cooking utensil.",
+          "Sloth is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-384-meerkat",
@@ -19189,36 +19810,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Meerkat?",
+        "q": "What scientific or taxon name is connected to Meerkat?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Suricata suricatta",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Meerkat is especially connected with what?",
+        "q": "Which biological group is Meerkat connected to?",
         "a": [
-          "sentinel behavior",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Suricata",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Meerkat?",
+        "q": "Which statement is true about Meerkat?",
         "a": [
-          "desert",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The meerkat or suricate is a small mongoose found in southern Africa.",
+          "Meerkat is only a fictional mobile-game item.",
+          "Meerkat is mainly a cooking utensil.",
+          "Meerkat is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-385-otter",
@@ -19239,36 +19862,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Alexander Leisser / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Otter?",
+        "q": "Which statement is true about Otter?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Otters are carnivorous mammals in the subfamily Lutrinae.",
+          "Otter is only a fictional mobile-game item.",
+          "Otter is mainly a cooking utensil.",
+          "Otter is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Otter is especially connected with what?",
+        "q": "Why is Otter part of the nature puzzle collection?",
         "a": [
-          "playful swimmer",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Otter?",
+        "q": "Which statement is true about Otter?",
         "a": [
-          "rivers/coasts",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Otters are carnivorous mammals in the subfamily Lutrinae.",
+          "Otter is only a fictional mobile-game item.",
+          "Otter is mainly a cooking utensil.",
+          "Otter is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-386-platypus",
@@ -19289,36 +19914,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Charles J. Sharp / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Platypus?",
+        "q": "What scientific or taxon name is connected to Platypus?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Platypus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Platypus is especially connected with what?",
+        "q": "Which biological group is Platypus connected to?",
         "a": [
-          "egg-laying mammal",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Platypodinae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Platypus?",
+        "q": "Which statement is true about Platypus?",
         "a": [
-          "Australia",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The platypus, sometimes referred to as the duck-billed platypus, is a semiaquatic, egg-laying mammal endemic to eastern Australia, including Tasmania.",
+          "Platypus is only a fictional mobile-game item.",
+          "Platypus is mainly a cooking utensil.",
+          "Platypus is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-387-eagle",
@@ -19339,36 +19966,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "NASA, ESA, and The Hubble Heritage Team (STScI/AURA) / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Eagle?",
+        "q": "Which statement is true about Eagle?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Eagle is the common name for certain large birds of prey within the family of the Accipitridae.",
+          "Eagle is only a fictional mobile-game item.",
+          "Eagle is mainly a cooking utensil.",
+          "Eagle is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Eagle is especially connected with what?",
+        "q": "Why is Eagle part of the nature puzzle collection?",
         "a": [
-          "sharp vision",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Eagle?",
+        "q": "Which statement is true about Eagle?",
         "a": [
-          "skies",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Eagle is the common name for certain large birds of prey within the family of the Accipitridae.",
+          "Eagle is only a fictional mobile-game item.",
+          "Eagle is mainly a cooking utensil.",
+          "Eagle is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-388-peacock",
@@ -19389,36 +20018,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Giles Laurent / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Peacock?",
+        "q": "Which statement is true about Peacock?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Peafowl is a common name for two bird species of the genus Pavo and one species of the closely related genus Afropavo within the tribe Pavonini of the family Phasianidae.",
+          "Peacock is only a fictional mobile-game item.",
+          "Peacock is mainly a cooking utensil.",
+          "Peacock is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Peacock is especially connected with what?",
+        "q": "Why is Peacock part of the nature puzzle collection?",
         "a": [
-          "colorful tail display",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Peacock?",
+        "q": "Which statement is true about Peacock?",
         "a": [
-          "South Asia",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Peafowl is a common name for two bird species of the genus Pavo and one species of the closely related genus Afropavo within the tribe Pavonini of the family Phasianidae.",
+          "Peacock is only a fictional mobile-game item.",
+          "Peacock is mainly a cooking utensil.",
+          "Peacock is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-389-flamingo",
@@ -19439,36 +20070,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Giles Laurent / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Flamingo?",
+        "q": "Which statement is true about Flamingo?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Flamingos or flamingoes are a type of wading bird in the family Phoenicopteridae, which is the only extant family in the order Phoenicopteriformes.",
+          "Flamingo is only a fictional mobile-game item.",
+          "Flamingo is mainly a cooking utensil.",
+          "Flamingo is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Flamingo is especially connected with what?",
+        "q": "Why is Flamingo part of the nature puzzle collection?",
         "a": [
-          "pink feathers",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Flamingo?",
+        "q": "Which statement is true about Flamingo?",
         "a": [
-          "wetlands",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Flamingos or flamingoes are a type of wading bird in the family Phoenicopteridae, which is the only extant family in the order Phoenicopteriformes.",
+          "Flamingo is only a fictional mobile-game item.",
+          "Flamingo is mainly a cooking utensil.",
+          "Flamingo is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-390-penguin",
@@ -19489,36 +20122,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Jason Auch / Wikimedia Commons / CC BY 2.0",
     "trivia": [
       {
-        "q": "Which category best matches Penguin?",
+        "q": "Which statement is true about Penguin?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Penguins are a group of flightless semi-aquatic sea birds which live almost exclusively in the Southern Hemisphere.",
+          "Penguin is only a fictional mobile-game item.",
+          "Penguin is mainly a cooking utensil.",
+          "Penguin is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Penguin is especially connected with what?",
+        "q": "Why is Penguin part of the nature puzzle collection?",
         "a": [
-          "flightless swimmer",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Penguin?",
+        "q": "Which statement is true about Penguin?",
         "a": [
-          "Southern Hemisphere",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Penguins are a group of flightless semi-aquatic sea birds which live almost exclusively in the Southern Hemisphere.",
+          "Penguin is only a fictional mobile-game item.",
+          "Penguin is mainly a cooking utensil.",
+          "Penguin is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-391-owl",
@@ -19539,36 +20174,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Максат79 / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Owl?",
+        "q": "Which statement is true about Owl?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Exceptions include the diurnal northern hawk-owl and the gregarious burrowing owl.",
+          "Owl is only a fictional mobile-game item.",
+          "Owl is mainly a cooking utensil.",
+          "Owl is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Owl is especially connected with what?",
+        "q": "Why is Owl part of the nature puzzle collection?",
         "a": [
-          "night hunter",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Owl?",
+        "q": "Which statement is true about Owl?",
         "a": [
-          "forests",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Exceptions include the diurnal northern hawk-owl and the gregarious burrowing owl.",
+          "Owl is only a fictional mobile-game item.",
+          "Owl is mainly a cooking utensil.",
+          "Owl is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-392-parrot",
@@ -19589,36 +20226,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Philip Nalangan / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Parrot?",
+        "q": "Which statement is true about Parrot?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Parrots, also known as psittacines from the name of the type genus Psittacus, are birds with a strong curved beak, upright stance, and clawed feet.",
+          "Parrot is only a fictional mobile-game item.",
+          "Parrot is mainly a cooking utensil.",
+          "Parrot is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Parrot is especially connected with what?",
+        "q": "Why is Parrot part of the nature puzzle collection?",
         "a": [
-          "vocal mimicry",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Parrot?",
+        "q": "Which statement is true about Parrot?",
         "a": [
-          "tropical forests",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Parrots, also known as psittacines from the name of the type genus Psittacus, are birds with a strong curved beak, upright stance, and clawed feet.",
+          "Parrot is only a fictional mobile-game item.",
+          "Parrot is mainly a cooking utensil.",
+          "Parrot is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-393-hornbill",
@@ -19639,36 +20278,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Malyasri Bhattacharya / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Hornbill?",
+        "q": "What scientific or taxon name is connected to Hornbill?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Bucerotidae",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Hornbill is especially connected with what?",
+        "q": "Which biological group is Hornbill connected to?",
         "a": [
-          "large bill",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Bucerotiformes",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Hornbill?",
+        "q": "Which statement is true about Hornbill?",
         "a": [
-          "forests",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Hornbills are birds found in tropical and subtropical Africa, Asia and Melanesia of the family Bucerotidae.",
+          "Hornbill is only a fictional mobile-game item.",
+          "Hornbill is mainly a cooking utensil.",
+          "Hornbill is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-394-albatross",
@@ -19689,36 +20330,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "JJ Harrison / Wikimedia Commons / CC BY-SA 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Albatross?",
+        "q": "Which statement is true about Albatross?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Albatrosses, of the biological family Diomedeidae, are large seabirds related to the procellariids, storm petrels, and diving petrels in the order Procellariiformes.",
+          "Albatross is only a fictional mobile-game item.",
+          "Albatross is mainly a cooking utensil.",
+          "Albatross is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Albatross is especially connected with what?",
+        "q": "Why is Albatross part of the nature puzzle collection?",
         "a": [
-          "long-distance glider",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Albatross?",
+        "q": "Which statement is true about Albatross?",
         "a": [
-          "oceans",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Albatrosses, of the biological family Diomedeidae, are large seabirds related to the procellariids, storm petrels, and diving petrels in the order Procellariiformes.",
+          "Albatross is only a fictional mobile-game item.",
+          "Albatross is mainly a cooking utensil.",
+          "Albatross is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-395-crocodile",
@@ -19739,36 +20382,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "MathKnight and Zachi Evenor / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Crocodile?",
+        "q": "Which statement is true about Crocodile?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "A crocodile or true crocodile is a large, semiaquatic reptile that lives throughout the tropics in Africa, Asia, the Americas and Australia.",
+          "Crocodile is only a fictional mobile-game item.",
+          "Crocodile is mainly a cooking utensil.",
+          "Crocodile is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Crocodile is especially connected with what?",
+        "q": "Why is Crocodile part of the nature puzzle collection?",
         "a": [
-          "powerful jaws",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Crocodile?",
+        "q": "Which statement is true about Crocodile?",
         "a": [
-          "rivers",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "A crocodile or true crocodile is a large, semiaquatic reptile that lives throughout the tropics in Africa, Asia, the Americas and Australia.",
+          "Crocodile is only a fictional mobile-game item.",
+          "Crocodile is mainly a cooking utensil.",
+          "Crocodile is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-396-komodo-dragon",
@@ -19789,36 +20434,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Charles J. Sharp / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Komodo Dragon?",
+        "q": "What scientific or taxon name is connected to Komodo Dragon?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Varanus komodoensis",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Komodo Dragon is especially connected with what?",
+        "q": "Which biological group is Komodo Dragon connected to?",
         "a": [
-          "largest lizard",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Varanus",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Komodo Dragon?",
+        "q": "Which statement is true about Komodo Dragon?",
         "a": [
-          "Indonesia",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The Komodo dragon, also known as the Komodo monitor, is a large reptile of the monitor lizard family Varanidae that is endemic to the Indonesian islands of Komodo, Rinca, Flores, Gili Dasami, and Gili Motang.",
+          "Komodo Dragon is only a fictional mobile-game item.",
+          "Komodo Dragon is mainly a cooking utensil.",
+          "Komodo Dragon is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-397-sea-turtle",
@@ -19839,36 +20486,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Charles J. Sharp / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Sea Turtle?",
+        "q": "What scientific or taxon name is connected to Sea Turtle?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Chelonioidea",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Sea Turtle is especially connected with what?",
+        "q": "Which biological group is Sea Turtle connected to?",
         "a": [
-          "ocean migration",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Cryptodira",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Sea Turtle?",
+        "q": "Which statement is true about Sea Turtle?",
         "a": [
-          "beaches",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Sea turtles, sometimes called marine turtles, are reptiles of the order Testudines and of the suborder Cryptodira.",
+          "Sea Turtle is only a fictional mobile-game item.",
+          "Sea Turtle is mainly a cooking utensil.",
+          "Sea Turtle is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-398-iguana",
@@ -19889,36 +20538,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Carlos Valenzuela / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Iguana?",
+        "q": "What scientific or taxon name is connected to Iguana?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Iguana",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Iguana is especially connected with what?",
+        "q": "Which biological group is Iguana connected to?",
         "a": [
-          "herbivorous lizard",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Iguanidae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Iguana?",
+        "q": "Which statement is true about Iguana?",
         "a": [
-          "tropics",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Iguana is a genus of herbivorous lizards that are native to tropical areas of Mexico, Central America, South America, and the Caribbean.",
+          "Iguana is only a fictional mobile-game item.",
+          "Iguana is mainly a cooking utensil.",
+          "Iguana is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-399-python",
@@ -19939,36 +20590,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Rushenb / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Python?",
+        "q": "Which statement is true about Python?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Python may refer to:",
+          "Python is only a fictional mobile-game item.",
+          "Python is mainly a cooking utensil.",
+          "Python is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Python is especially connected with what?",
+        "q": "Why is Python part of the nature puzzle collection?",
         "a": [
-          "constrictor snake",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Python?",
+        "q": "Which statement is true about Python?",
         "a": [
-          "tropics",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Python may refer to:",
+          "Python is only a fictional mobile-game item.",
+          "Python is mainly a cooking utensil.",
+          "Python is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-400-king-cobra",
@@ -19989,36 +20642,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Rushenb / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches King Cobra?",
+        "q": "What scientific or taxon name is connected to King Cobra?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Ophiophagus hannah",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "King Cobra is especially connected with what?",
+        "q": "Which biological group is King Cobra connected to?",
         "a": [
-          "venomous snake",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Ophiophagus",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to King Cobra?",
+        "q": "Which statement is true about King Cobra?",
         "a": [
-          "South/Southeast Asia",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The king cobra is a species complex of snakes endemic to Asia.",
+          "King Cobra is only a fictional mobile-game item.",
+          "King Cobra is mainly a cooking utensil.",
+          "King Cobra is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-401-poison-dart-frog",
@@ -20039,36 +20694,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Celloc85 / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Poison Dart Frog?",
+        "q": "What scientific or taxon name is connected to Poison Dart Frog?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Dendrobatidae",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Poison Dart Frog is especially connected with what?",
+        "q": "Which biological group is Poison Dart Frog connected to?",
         "a": [
-          "bright warning colors",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Dendrobatoidea",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Poison Dart Frog?",
+        "q": "Which statement is true about Poison Dart Frog?",
         "a": [
-          "rainforest",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The poison dart frog is the common name of a group of frogs in the family Dendrobatidae which are native to tropical Central and South America.",
+          "Poison Dart Frog is only a fictional mobile-game item.",
+          "Poison Dart Frog is mainly a cooking utensil.",
+          "Poison Dart Frog is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-402-salamander",
@@ -20089,36 +20746,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Didier Descouens / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Salamander?",
+        "q": "What scientific or taxon name is connected to Salamander?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Caudata",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Salamander is especially connected with what?",
+        "q": "Which biological group is Salamander connected to?",
         "a": [
-          "moist skin",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Batrachia",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Salamander?",
+        "q": "Which statement is true about Salamander?",
         "a": [
-          "forests",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "All ten extant salamander families are grouped together under the order Urodela, the sole surviving order from the group Caudata.",
+          "Salamander is only a fictional mobile-game item.",
+          "Salamander is mainly a cooking utensil.",
+          "Salamander is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-403-great-white-shark",
@@ -20139,36 +20798,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "https://www.aucklandmuseum.com/collections-research/collections/record/am_naturalsciences-object-792543 / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Great White Shark?",
+        "q": "What scientific or taxon name is connected to Great White Shark?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Carcharodon carcharias",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Great White Shark is especially connected with what?",
+        "q": "Which biological group is Great White Shark connected to?",
         "a": [
-          "apex predator",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Carcharodon",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Great White Shark?",
+        "q": "Which statement is true about Great White Shark?",
         "a": [
-          "oceans",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The great white shark, also known as the white shark, white pointer, or great white, is a large shark.",
+          "Great White Shark is only a fictional mobile-game item.",
+          "Great White Shark is mainly a cooking utensil.",
+          "Great White Shark is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-404-manta-ray",
@@ -20189,36 +20850,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Daniel Sasse / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Manta Ray?",
+        "q": "Which statement is true about Manta Ray?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Manta rays are large rays belonging to the genus Mobula.",
+          "Manta Ray is only a fictional mobile-game item.",
+          "Manta Ray is mainly a cooking utensil.",
+          "Manta Ray is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Manta Ray is especially connected with what?",
+        "q": "Why is Manta Ray part of the nature puzzle collection?",
         "a": [
-          "large filter feeder",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Manta Ray?",
+        "q": "Which statement is true about Manta Ray?",
         "a": [
-          "tropical seas",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Manta rays are large rays belonging to the genus Mobula.",
+          "Manta Ray is only a fictional mobile-game item.",
+          "Manta Ray is mainly a cooking utensil.",
+          "Manta Ray is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-405-whale-shark",
@@ -20239,36 +20902,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Don McCulley / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Whale Shark?",
+        "q": "What scientific or taxon name is connected to Whale Shark?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Rhincodon typus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Whale Shark is especially connected with what?",
+        "q": "Which biological group is Whale Shark connected to?",
         "a": [
-          "largest fish",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Rhincodon",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Whale Shark?",
+        "q": "Which statement is true about Whale Shark?",
         "a": [
-          "warm oceans",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The whale shark is a slow-moving, filter-feeding carpet shark and the largest known extant fish species.",
+          "Whale Shark is only a fictional mobile-game item.",
+          "Whale Shark is mainly a cooking utensil.",
+          "Whale Shark is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-406-clown-triggerfish",
@@ -20289,36 +20954,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "H. Zell / Wikimedia Commons / CC BY-SA 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Clown Triggerfish?",
+        "q": "What scientific or taxon name is connected to Clown Triggerfish?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Balistoides conspicillum",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Clown Triggerfish is especially connected with what?",
+        "q": "Which biological group is Clown Triggerfish connected to?",
         "a": [
-          "bold pattern",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Balistoides",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Clown Triggerfish?",
+        "q": "Which statement is true about Clown Triggerfish?",
         "a": [
-          "coral reefs",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The clown triggerfish, also known as the bigspotted triggerfish, is a demersal marine fish.",
+          "Clown Triggerfish is only a fictional mobile-game item.",
+          "Clown Triggerfish is mainly a cooking utensil.",
+          "Clown Triggerfish is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-407-mandarinfish",
@@ -20339,36 +21006,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Mandarinfish?",
+        "q": "What scientific or taxon name is connected to Mandarinfish?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Synchiropus splendidus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Mandarinfish is especially connected with what?",
+        "q": "Which biological group is Mandarinfish connected to?",
         "a": [
-          "bright colors",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Synchiropus",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Mandarinfish?",
+        "q": "Which statement is true about Mandarinfish?",
         "a": [
-          "reefs",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Mandarinfish or mandarin fish may refer to:",
+          "Mandarinfish is only a fictional mobile-game item.",
+          "Mandarinfish is mainly a cooking utensil.",
+          "Mandarinfish is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-408-lionfish",
@@ -20389,36 +21058,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Lionfish?",
+        "q": "What scientific or taxon name is connected to Lionfish?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Pterois",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Lionfish is especially connected with what?",
+        "q": "Which biological group is Lionfish connected to?",
         "a": [
-          "venomous spines",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Scorpaenidae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Lionfish?",
+        "q": "Which statement is true about Lionfish?",
         "a": [
-          "reefs",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Lionfish are venomous marine fish native to the Indo-Pacific.",
+          "Lionfish is only a fictional mobile-game item.",
+          "Lionfish is mainly a cooking utensil.",
+          "Lionfish is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-409-moorish-idol",
@@ -20439,36 +21110,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Moorish Idol?",
+        "q": "What scientific or taxon name is connected to Moorish Idol?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Zanclus cornutus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Moorish Idol is especially connected with what?",
+        "q": "Which biological group is Moorish Idol connected to?",
         "a": [
-          "reef fish",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Zanclus",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Moorish Idol?",
+        "q": "Which statement is true about Moorish Idol?",
         "a": [
-          "Indo-Pacific",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The Moorish idol is a species of marine ray-finned fish belonging to the family Zanclidae.",
+          "Moorish Idol is only a fictional mobile-game item.",
+          "Moorish Idol is mainly a cooking utensil.",
+          "Moorish Idol is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-410-emperor-angelfish",
@@ -20489,36 +21162,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Emperor Angelfish?",
+        "q": "What scientific or taxon name is connected to Emperor Angelfish?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Pomacanthus imperator",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Emperor Angelfish is especially connected with what?",
+        "q": "Which biological group is Emperor Angelfish connected to?",
         "a": [
-          "reef fish",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Pomacanthus",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Emperor Angelfish?",
+        "q": "Which statement is true about Emperor Angelfish?",
         "a": [
-          "coral reefs",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The emperor angelfish is a species of marine angelfish.",
+          "Emperor Angelfish is only a fictional mobile-game item.",
+          "Emperor Angelfish is mainly a cooking utensil.",
+          "Emperor Angelfish is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-411-regal-blue-tang",
@@ -20539,36 +21214,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "shankar s. from sharjah, united arab emirates / Wikimedia Commons / CC BY 2.0",
     "trivia": [
       {
-        "q": "Which category best matches Regal Blue Tang?",
+        "q": "Which statement is true about Regal Blue Tang?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Regal Blue Tang is an animal connected to ecology and biodiversity.",
+          "Regal Blue Tang is only a fictional mobile-game item.",
+          "Regal Blue Tang is mainly a cooking utensil.",
+          "Regal Blue Tang is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Regal Blue Tang is especially connected with what?",
+        "q": "Why is Regal Blue Tang part of the nature puzzle collection?",
         "a": [
-          "blue reef fish",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Regal Blue Tang?",
+        "q": "Which statement is true about Regal Blue Tang?",
         "a": [
-          "Indo-Pacific",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Regal Blue Tang is an animal connected to ecology and biodiversity.",
+          "Regal Blue Tang is only a fictional mobile-game item.",
+          "Regal Blue Tang is mainly a cooking utensil.",
+          "Regal Blue Tang is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-412-naso-tang",
@@ -20589,36 +21266,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Rjcastillo / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Naso Tang?",
+        "q": "Which statement is true about Naso Tang?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "It is native to the eastern Indian Ocean and western Pacific Ocean, where it is found in coral reefs, often in pairs.",
+          "Naso Tang is only a fictional mobile-game item.",
+          "Naso Tang is mainly a cooking utensil.",
+          "Naso Tang is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Naso Tang is especially connected with what?",
+        "q": "Why is Naso Tang part of the nature puzzle collection?",
         "a": [
-          "surgeonfish",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Naso Tang?",
+        "q": "Which statement is true about Naso Tang?",
         "a": [
-          "reefs",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "It is native to the eastern Indian Ocean and western Pacific Ocean, where it is found in coral reefs, often in pairs.",
+          "Naso Tang is only a fictional mobile-game item.",
+          "Naso Tang is mainly a cooking utensil.",
+          "Naso Tang is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-413-cleaner-wrasse",
@@ -20639,36 +21318,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Cleaner Wrasse?",
+        "q": "Which statement is true about Cleaner Wrasse?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Cleaner Wrasse is an animal connected to ecology and biodiversity.",
+          "Cleaner Wrasse is only a fictional mobile-game item.",
+          "Cleaner Wrasse is mainly a cooking utensil.",
+          "Cleaner Wrasse is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Cleaner Wrasse is especially connected with what?",
+        "q": "Why is Cleaner Wrasse part of the nature puzzle collection?",
         "a": [
-          "cleaning behavior",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Cleaner Wrasse?",
+        "q": "Which statement is true about Cleaner Wrasse?",
         "a": [
-          "reefs",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Cleaner Wrasse is an animal connected to ecology and biodiversity.",
+          "Cleaner Wrasse is only a fictional mobile-game item.",
+          "Cleaner Wrasse is mainly a cooking utensil.",
+          "Cleaner Wrasse is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-414-giant-clam",
@@ -20689,36 +21370,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "H. Zell / Wikimedia Commons / CC BY-SA 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Giant Clam?",
+        "q": "What scientific or taxon name is connected to Giant Clam?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Tridacna gigas",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Giant Clam is especially connected with what?",
+        "q": "Which biological group is Giant Clam connected to?",
         "a": [
-          "symbiotic algae",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Tridacna",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Giant Clam?",
+        "q": "Which statement is true about Giant Clam?",
         "a": [
-          "reefs",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Tridacna gigas, the giant clam, is the best-known species of the giant clam genus Tridacna.",
+          "Giant Clam is only a fictional mobile-game item.",
+          "Giant Clam is mainly a cooking utensil.",
+          "Giant Clam is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-415-crown-of-thorns-starfish",
@@ -20739,36 +21422,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Diego Delso / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Crown-of-Thorns Starfish?",
+        "q": "What scientific or taxon name is connected to Crown-of-Thorns Starfish?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Acanthaster planci",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Crown-of-Thorns Starfish is especially connected with what?",
+        "q": "Which biological group is Crown-of-Thorns Starfish connected to?",
         "a": [
-          "coral predator",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Acanthaster",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Crown-of-Thorns Starfish?",
+        "q": "Which statement is true about Crown-of-Thorns Starfish?",
         "a": [
-          "reefs",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The crown-of-thorns starfish, Acanthaster planci, is a large starfish that preys upon hard, or stony, coral polyps (Scleractinia).",
+          "Crown-of-Thorns Starfish is only a fictional mobile-game item.",
+          "Crown-of-Thorns Starfish is mainly a cooking utensil.",
+          "Crown-of-Thorns Starfish is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-416-jellyfish",
@@ -20789,36 +21474,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Mtheletter / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Jellyfish?",
+        "q": "Which statement is true about Jellyfish?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Jellyfish, also known as sea jellies or simply jellies, are the medusa-phase of certain gelatinous members of the subphylum Medusozoa, which is a major part of the phylum Cnidaria.",
+          "Jellyfish is only a fictional mobile-game item.",
+          "Jellyfish is mainly a cooking utensil.",
+          "Jellyfish is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Jellyfish is especially connected with what?",
+        "q": "Why is Jellyfish part of the nature puzzle collection?",
         "a": [
-          "stinging cells",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Jellyfish?",
+        "q": "Which statement is true about Jellyfish?",
         "a": [
-          "oceans",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Jellyfish, also known as sea jellies or simply jellies, are the medusa-phase of certain gelatinous members of the subphylum Medusozoa, which is a major part of the phylum Cnidaria.",
+          "Jellyfish is only a fictional mobile-game item.",
+          "Jellyfish is mainly a cooking utensil.",
+          "Jellyfish is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-417-anemone",
@@ -20839,36 +21526,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Dominicus Johannes Bergsma / Wikimedia Commons / CC BY-SA 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Anemone?",
+        "q": "What scientific or taxon name is connected to Anemone?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Anemone",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Anemone is especially connected with what?",
+        "q": "Which biological group is Anemone connected to?",
         "a": [
-          "stinging tentacles",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Ranunculaceae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Anemone?",
+        "q": "Which statement is true about Anemone?",
         "a": [
-          "reefs",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Anemone is a genus of flowering plants in the buttercup family Ranunculaceae.",
+          "Anemone is only a fictional mobile-game item.",
+          "Anemone is mainly a cooking utensil.",
+          "Anemone is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-418-portuguese-man-o-war",
@@ -20889,36 +21578,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Auckland Museum  Collections from Auckland, Aotearoa New Zealand / Wikimedia Commons / CC BY 2.0",
     "trivia": [
       {
-        "q": "Which category best matches Portuguese Man o War?",
+        "q": "Which statement is true about Portuguese Man o War?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Portuguese Man o War is an animal connected to ecology and biodiversity.",
+          "Portuguese Man o War is only a fictional mobile-game item.",
+          "Portuguese Man o War is mainly a cooking utensil.",
+          "Portuguese Man o War is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Portuguese Man o War is especially connected with what?",
+        "q": "Why is Portuguese Man o War part of the nature puzzle collection?",
         "a": [
-          "floating siphonophore",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Portuguese Man o War?",
+        "q": "Which statement is true about Portuguese Man o War?",
         "a": [
-          "ocean surface",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Portuguese Man o War is an animal connected to ecology and biodiversity.",
+          "Portuguese Man o War is only a fictional mobile-game item.",
+          "Portuguese Man o War is mainly a cooking utensil.",
+          "Portuguese Man o War is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-419-cuttlefish",
@@ -20939,36 +21630,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Kayman2016 / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Cuttlefish?",
+        "q": "What scientific or taxon name is connected to Cuttlefish?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Sepiidae",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Cuttlefish is especially connected with what?",
+        "q": "Which biological group is Cuttlefish connected to?",
         "a": [
-          "camouflage master",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Sepioidea",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Cuttlefish?",
+        "q": "Which statement is true about Cuttlefish?",
         "a": [
-          "seas",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Cuttlefish, or cuttles, are marine molluscs of the family Sepiidae.",
+          "Cuttlefish is only a fictional mobile-game item.",
+          "Cuttlefish is mainly a cooking utensil.",
+          "Cuttlefish is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-420-moray-eel",
@@ -20989,36 +21682,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Elizaveta Alenchenko / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Moray Eel?",
+        "q": "What scientific or taxon name is connected to Moray Eel?",
         "a": [
-          "Animals Around the World",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Muraenidae",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Moray Eel is especially connected with what?",
+        "q": "Which biological group is Moray Eel connected to?",
         "a": [
-          "reef predator",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Anguilliformes",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Moray Eel?",
+        "q": "Which statement is true about Moray Eel?",
         "a": [
-          "reefs",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Moray eels, or Muraenidae, are a family of eels whose members are found worldwide.",
+          "Moray Eel is only a fictional mobile-game item.",
+          "Moray Eel is mainly a cooking utensil.",
+          "Moray Eel is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-421-tyrannosaurus-rex",
@@ -21039,36 +21734,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Jorge Jaramillo / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Tyrannosaurus rex?",
+        "q": "What scientific or taxon name is connected to Tyrannosaurus rex?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Tyrannosaurus rex",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Tyrannosaurus rex is especially connected with what?",
+        "q": "Which biological group is Tyrannosaurus rex connected to?",
         "a": [
-          "powerful jaws",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Tyrannosaurus",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Tyrannosaurus rex?",
+        "q": "Which statement is true about Tyrannosaurus rex?",
         "a": [
-          "Late Cretaceous",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Tyrannosaurus is a genus of large theropod dinosaur.",
+          "Tyrannosaurus rex is only a fictional mobile-game item.",
+          "Tyrannosaurus rex is mainly a cooking utensil.",
+          "Tyrannosaurus rex is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-422-triceratops",
@@ -21089,36 +21786,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Martinvl / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Triceratops?",
+        "q": "What scientific or taxon name is connected to Triceratops?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Triceratops",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Triceratops is especially connected with what?",
+        "q": "Which biological group is Triceratops connected to?",
         "a": [
-          "three horns",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Triceratopsini",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Triceratops?",
+        "q": "Which statement is true about Triceratops?",
         "a": [
-          "Late Cretaceous",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "It was one of the last-known non-avian dinosaurs and lived until the Cretaceous–Paleogene extinction event 66 million years ago.",
+          "Triceratops is only a fictional mobile-game item.",
+          "Triceratops is mainly a cooking utensil.",
+          "Triceratops is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-423-velociraptor",
@@ -21139,36 +21838,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "2nd Lt. Samuel Eckholm / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Velociraptor?",
+        "q": "What scientific or taxon name is connected to Velociraptor?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Velociraptor",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Velociraptor is especially connected with what?",
+        "q": "Which biological group is Velociraptor connected to?",
         "a": [
-          "feathered predator",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Velociraptorinae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Velociraptor?",
+        "q": "Which statement is true about Velociraptor?",
         "a": [
-          "Late Cretaceous",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Velociraptor is a genus of small dromaeosaurid dinosaurs that lived in Asia during the Late Cretaceous epoch, about 75 million to 71 million years ago (Mya).",
+          "Velociraptor is only a fictional mobile-game item.",
+          "Velociraptor is mainly a cooking utensil.",
+          "Velociraptor is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-424-stegosaurus",
@@ -21189,36 +21890,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Michael Barera / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Stegosaurus?",
+        "q": "What scientific or taxon name is connected to Stegosaurus?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Stegosaurus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Stegosaurus is especially connected with what?",
+        "q": "Which biological group is Stegosaurus connected to?",
         "a": [
-          "back plates",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Stegosaurinae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Stegosaurus?",
+        "q": "Which statement is true about Stegosaurus?",
         "a": [
-          "Late Jurassic",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Stegosaurus is a genus of extinct herbivorous four-legged armored dinosaurs from the Late Jurassic, characterized by the distinctive kite-shaped upright plates along their backs and spikes on their tails.",
+          "Stegosaurus is only a fictional mobile-game item.",
+          "Stegosaurus is mainly a cooking utensil.",
+          "Stegosaurus is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-425-brachiosaurus",
@@ -21239,36 +21942,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Gunnar Bivens / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Brachiosaurus?",
+        "q": "What scientific or taxon name is connected to Brachiosaurus?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Brachiosaurus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Brachiosaurus is especially connected with what?",
+        "q": "Which biological group is Brachiosaurus connected to?",
         "a": [
-          "long neck",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Brachiosauridae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Brachiosaurus?",
+        "q": "Which statement is true about Brachiosaurus?",
         "a": [
-          "Late Jurassic",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Brachiosaurus is a genus of sauropod dinosaur that lived in North America during the Late Jurassic, about 155.6 to 145.5 million years ago.",
+          "Brachiosaurus is only a fictional mobile-game item.",
+          "Brachiosaurus is mainly a cooking utensil.",
+          "Brachiosaurus is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-426-diplodocus",
@@ -21289,36 +21994,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Elekes Andor / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Diplodocus?",
+        "q": "What scientific or taxon name is connected to Diplodocus?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Diplodocus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Diplodocus is especially connected with what?",
+        "q": "Which biological group is Diplodocus connected to?",
         "a": [
-          "long tail",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Diplodocinae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Diplodocus?",
+        "q": "Which statement is true about Diplodocus?",
         "a": [
-          "Late Jurassic",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Diplodocus is an extinct genus of diplodocid sauropod dinosaurs known from the Late Jurassic of North America.",
+          "Diplodocus is only a fictional mobile-game item.",
+          "Diplodocus is mainly a cooking utensil.",
+          "Diplodocus is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-427-spinosaurus",
@@ -21339,36 +22046,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Gustavo Monroy-Becerril / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Spinosaurus?",
+        "q": "What scientific or taxon name is connected to Spinosaurus?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Spinosaurus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Spinosaurus is especially connected with what?",
+        "q": "Which biological group is Spinosaurus connected to?",
         "a": [
-          "sail-like spine",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Spinosaurini",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Spinosaurus?",
+        "q": "Which statement is true about Spinosaurus?",
         "a": [
-          "Cretaceous",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Spinosaurus is a genus of large spinosaurid theropod dinosaurs that lived in what is now North Africa during the Cenomanian stage of the Late Cretaceous period, about 100 to 94 million years ago.",
+          "Spinosaurus is only a fictional mobile-game item.",
+          "Spinosaurus is mainly a cooking utensil.",
+          "Spinosaurus is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-428-ankylosaurus",
@@ -21389,36 +22098,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Rjcastillo / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Ankylosaurus?",
+        "q": "What scientific or taxon name is connected to Ankylosaurus?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Ankylosaurus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Ankylosaurus is especially connected with what?",
+        "q": "Which biological group is Ankylosaurus connected to?",
         "a": [
-          "tail club",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Ankylosaurini",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Ankylosaurus?",
+        "q": "Which statement is true about Ankylosaurus?",
         "a": [
-          "Late Cretaceous",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Ankylosaurus is a genus of armored dinosaur.",
+          "Ankylosaurus is only a fictional mobile-game item.",
+          "Ankylosaurus is mainly a cooking utensil.",
+          "Ankylosaurus is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-429-iguanodon",
@@ -21439,36 +22150,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Kritzolina / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Iguanodon?",
+        "q": "What scientific or taxon name is connected to Iguanodon?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Iguanodon",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Iguanodon is especially connected with what?",
+        "q": "Which biological group is Iguanodon connected to?",
         "a": [
-          "thumb spike",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Iguanodontidae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Iguanodon?",
+        "q": "Which statement is true about Iguanodon?",
         "a": [
-          "Early Cretaceous",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Iguanodon, named in 1825, is a genus of iguanodontian dinosaur.",
+          "Iguanodon is only a fictional mobile-game item.",
+          "Iguanodon is mainly a cooking utensil.",
+          "Iguanodon is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-430-parasaurolophus",
@@ -21489,36 +22202,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Rjcastillo / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Parasaurolophus?",
+        "q": "What scientific or taxon name is connected to Parasaurolophus?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Parasaurolophus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Parasaurolophus is especially connected with what?",
+        "q": "Which biological group is Parasaurolophus connected to?",
         "a": [
-          "long crest",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Lambeosaurinae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Parasaurolophus?",
+        "q": "Which statement is true about Parasaurolophus?",
         "a": [
-          "Late Cretaceous",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Parasaurolophus is a genus of hadrosaurid \"duck-billed\" dinosaur that lived in what is now western North America and possibly Asia during the Late Cretaceous period, about 76.5–73 million years ago.",
+          "Parasaurolophus is only a fictional mobile-game item.",
+          "Parasaurolophus is mainly a cooking utensil.",
+          "Parasaurolophus is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-431-pachycephalosaurus",
@@ -21539,36 +22254,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Rjcastillo / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Pachycephalosaurus?",
+        "q": "What scientific or taxon name is connected to Pachycephalosaurus?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Pachycephalosaurus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Pachycephalosaurus is especially connected with what?",
+        "q": "Which biological group is Pachycephalosaurus connected to?",
         "a": [
-          "thick skull",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Pachycephalosaurini",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Pachycephalosaurus?",
+        "q": "Which statement is true about Pachycephalosaurus?",
         "a": [
-          "Late Cretaceous",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Pachycephalosaurus is a genus of pachycephalosaurid ornithischian dinosaur.",
+          "Pachycephalosaurus is only a fictional mobile-game item.",
+          "Pachycephalosaurus is mainly a cooking utensil.",
+          "Pachycephalosaurus is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-432-allosaurus",
@@ -21589,36 +22306,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "CryolophosaurusEllioti / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Allosaurus?",
+        "q": "What scientific or taxon name is connected to Allosaurus?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Allosaurus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Allosaurus is especially connected with what?",
+        "q": "Which biological group is Allosaurus connected to?",
         "a": [
-          "Jurassic predator",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Allosaurinae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Allosaurus?",
+        "q": "Which statement is true about Allosaurus?",
         "a": [
-          "Late Jurassic",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Allosaurus is a genus of theropod dinosaur that lived 155 to 143 million years ago during the late Jurassic period.",
+          "Allosaurus is only a fictional mobile-game item.",
+          "Allosaurus is mainly a cooking utensil.",
+          "Allosaurus is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-433-archaeopteryx",
@@ -21639,36 +22358,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "JensKunstfreund / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Archaeopteryx?",
+        "q": "What scientific or taxon name is connected to Archaeopteryx?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Archaeopteryx",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Archaeopteryx is especially connected with what?",
+        "q": "Which biological group is Archaeopteryx connected to?",
         "a": [
-          "feathers",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Archaeopterygidae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Archaeopteryx?",
+        "q": "Which statement is true about Archaeopteryx?",
         "a": [
-          "Late Jurassic",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Archaeopteryx, sometimes referred to by its German name, \"Urvogel \" is an extinct genus of bird-like dinosaurs.",
+          "Archaeopteryx is only a fictional mobile-game item.",
+          "Archaeopteryx is mainly a cooking utensil.",
+          "Archaeopteryx is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-434-microraptor",
@@ -21689,36 +22410,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Tom Page / Wikimedia Commons / CC BY-SA 2.0",
     "trivia": [
       {
-        "q": "Which category best matches Microraptor?",
+        "q": "What scientific or taxon name is connected to Microraptor?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Microraptor",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Microraptor is especially connected with what?",
+        "q": "Which biological group is Microraptor connected to?",
         "a": [
-          "four-winged form",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Dromaeosauridae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Microraptor?",
+        "q": "Which statement is true about Microraptor?",
         "a": [
-          "Early Cretaceous",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Microraptor is a genus of small, four-winged dromaeosaurid dinosaurs.",
+          "Microraptor is only a fictional mobile-game item.",
+          "Microraptor is mainly a cooking utensil.",
+          "Microraptor is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-435-carnotaurus",
@@ -21739,36 +22462,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Rjcastillo / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Carnotaurus?",
+        "q": "What scientific or taxon name is connected to Carnotaurus?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Carnotaurus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Carnotaurus is especially connected with what?",
+        "q": "Which biological group is Carnotaurus connected to?",
         "a": [
-          "bull-like horns",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Carnotaurini",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Carnotaurus?",
+        "q": "Which statement is true about Carnotaurus?",
         "a": [
-          "Late Cretaceous",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Carnotaurus is a genus of theropod dinosaur that lived in South America during the Late Cretaceous period, between 69 and 66 million years ago.",
+          "Carnotaurus is only a fictional mobile-game item.",
+          "Carnotaurus is mainly a cooking utensil.",
+          "Carnotaurus is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-436-giganotosaurus",
@@ -21789,36 +22514,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Rjcastillo / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Giganotosaurus?",
+        "q": "What scientific or taxon name is connected to Giganotosaurus?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Giganotosaurus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Giganotosaurus is especially connected with what?",
+        "q": "Which biological group is Giganotosaurus connected to?",
         "a": [
-          "giant predator",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Giganotosaurini",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Giganotosaurus?",
+        "q": "Which statement is true about Giganotosaurus?",
         "a": [
-          "Late Cretaceous",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Giganotosaurus is a genus of large theropod dinosaur that lived in what is now Argentina, during the early Cenomanian age of the Late Cretaceous period, approximately 99.6 to 95 million years ago.",
+          "Giganotosaurus is only a fictional mobile-game item.",
+          "Giganotosaurus is mainly a cooking utensil.",
+          "Giganotosaurus is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-437-deinonychus",
@@ -21839,36 +22566,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Christian-wittmann-1964 / Wikimedia Commons / CC0",
     "trivia": [
       {
-        "q": "Which category best matches Deinonychus?",
+        "q": "What scientific or taxon name is connected to Deinonychus?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Deinonychus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Deinonychus is especially connected with what?",
+        "q": "Which biological group is Deinonychus connected to?",
         "a": [
-          "sickle claw",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Eudromaeosauria",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Deinonychus?",
+        "q": "Which statement is true about Deinonychus?",
         "a": [
-          "Early Cretaceous",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Deinonychus is a genus of dromaeosaurid theropod dinosaur with one described species, Deinonychus antirrhopus.",
+          "Deinonychus is only a fictional mobile-game item.",
+          "Deinonychus is mainly a cooking utensil.",
+          "Deinonychus is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-438-therizinosaurus",
@@ -21889,36 +22618,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "PaleoNeolitic / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Therizinosaurus?",
+        "q": "What scientific or taxon name is connected to Therizinosaurus?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Therizinosaurus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Therizinosaurus is especially connected with what?",
+        "q": "Which biological group is Therizinosaurus connected to?",
         "a": [
-          "long claws",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Therizinosauridae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Therizinosaurus?",
+        "q": "Which statement is true about Therizinosaurus?",
         "a": [
-          "Late Cretaceous",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Therizinosaurus is a genus of very large therizinosaurid dinosaurs that lived during the Late Cretaceous period in what is now Asia.",
+          "Therizinosaurus is only a fictional mobile-game item.",
+          "Therizinosaurus is mainly a cooking utensil.",
+          "Therizinosaurus is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-439-pteranodon",
@@ -21939,36 +22670,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Vicpeters / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Pteranodon?",
+        "q": "What scientific or taxon name is connected to Pteranodon?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Pteranodon",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Pteranodon is especially connected with what?",
+        "q": "Which biological group is Pteranodon connected to?",
         "a": [
-          "large flying reptile",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Pteranodontinae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Pteranodon?",
+        "q": "Which statement is true about Pteranodon?",
         "a": [
-          "Late Cretaceous",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Pteranodon (; from Ancient Greek pteron 'wing', an- 'without', and odon 'tooth' is a genus of pterosaur that included some of the largest known flying reptiles, with P.",
+          "Pteranodon is only a fictional mobile-game item.",
+          "Pteranodon is mainly a cooking utensil.",
+          "Pteranodon is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-440-quetzalcoatlus",
@@ -21989,36 +22722,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Connor Ashbridge / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Quetzalcoatlus?",
+        "q": "What scientific or taxon name is connected to Quetzalcoatlus?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Quetzalcoatlus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Quetzalcoatlus is especially connected with what?",
+        "q": "Which biological group is Quetzalcoatlus connected to?",
         "a": [
-          "giant wingspan",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Quetzalcoatlinae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Quetzalcoatlus?",
+        "q": "Which statement is true about Quetzalcoatlus?",
         "a": [
-          "Late Cretaceous",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Quetzalcoatlus is a genus of azhdarchid pterosaur that lived during the Maastrichtian age of the Late Cretaceous in North America.",
+          "Quetzalcoatlus is only a fictional mobile-game item.",
+          "Quetzalcoatlus is mainly a cooking utensil.",
+          "Quetzalcoatlus is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-441-mosasaurus",
@@ -22039,36 +22774,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "SaltieCroc / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Mosasaurus?",
+        "q": "What scientific or taxon name is connected to Mosasaurus?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Mosasaurus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Mosasaurus is especially connected with what?",
+        "q": "Which biological group is Mosasaurus connected to?",
         "a": [
-          "ocean predator",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Mosasaurini",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Mosasaurus?",
+        "q": "Which statement is true about Mosasaurus?",
         "a": [
-          "Late Cretaceous",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Mosasaurus is the type genus of the Mosasauridae, an extinct group of aquatic squamate reptiles.",
+          "Mosasaurus is only a fictional mobile-game item.",
+          "Mosasaurus is mainly a cooking utensil.",
+          "Mosasaurus is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-442-plesiosaurus",
@@ -22089,36 +22826,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Michael Barera / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Plesiosaurus?",
+        "q": "What scientific or taxon name is connected to Plesiosaurus?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Plesiosaurus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Plesiosaurus is especially connected with what?",
+        "q": "Which biological group is Plesiosaurus connected to?",
         "a": [
-          "long neck",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Plesiosauridae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Plesiosaurus?",
+        "q": "Which statement is true about Plesiosaurus?",
         "a": [
-          "Jurassic seas",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Plesiosaurus is a genus of extinct, large marine sauropterygian reptile that lived during the Early Jurassic.",
+          "Plesiosaurus is only a fictional mobile-game item.",
+          "Plesiosaurus is mainly a cooking utensil.",
+          "Plesiosaurus is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-443-ichthyosaurus",
@@ -22139,36 +22878,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Emőke Dénes / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Ichthyosaurus?",
+        "q": "What scientific or taxon name is connected to Ichthyosaurus?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Ichthyosaurus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Ichthyosaurus is especially connected with what?",
+        "q": "Which biological group is Ichthyosaurus connected to?",
         "a": [
-          "fish-like body",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Ichthyosauridae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Ichthyosaurus?",
+        "q": "Which statement is true about Ichthyosaurus?",
         "a": [
-          "Mesozoic seas",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Ichthyosaurus is an extinct genus of ichthyosaurs from the Early Jurassic of Europe.",
+          "Ichthyosaurus is only a fictional mobile-game item.",
+          "Ichthyosaurus is mainly a cooking utensil.",
+          "Ichthyosaurus is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-444-dimetrodon",
@@ -22189,36 +22930,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "H. Zell / Wikimedia Commons / CC BY-SA 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Dimetrodon?",
+        "q": "What scientific or taxon name is connected to Dimetrodon?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Dimetrodon",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Dimetrodon is especially connected with what?",
+        "q": "Which biological group is Dimetrodon connected to?",
         "a": [
-          "back sail",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Sphenacodontinae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Dimetrodon?",
+        "q": "Which statement is true about Dimetrodon?",
         "a": [
-          "Permian",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Dimetrodon is an extinct genus of sphenacodontid synapsid that lived during the Cisuralian to early Guadalupian epoch of the Permian period, around 294.1–271 million years ago.",
+          "Dimetrodon is only a fictional mobile-game item.",
+          "Dimetrodon is mainly a cooking utensil.",
+          "Dimetrodon is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-445-mammoth",
@@ -22239,36 +22982,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Jacob W. Frank / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Mammoth?",
+        "q": "What scientific or taxon name is connected to Mammoth?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Mammuthus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Mammoth is especially connected with what?",
+        "q": "Which biological group is Mammoth connected to?",
         "a": [
-          "curved tusks",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Elephantina",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Mammoth?",
+        "q": "Which statement is true about Mammoth?",
         "a": [
-          "Pleistocene",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "A mammoth is a member of the extinct elephantid genus Mammuthus.",
+          "Mammoth is only a fictional mobile-game item.",
+          "Mammoth is mainly a cooking utensil.",
+          "Mammoth is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-446-saber-toothed-cat",
@@ -22289,36 +23034,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "George Miquilena\nPePeEfe\nIzvora\nRyan Somma / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Saber-Toothed Cat?",
+        "q": "Which statement is true about Saber-Toothed Cat?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Machairodontinae is an extinct subfamily of carnivoran mammals of the cat family Felidae, representing the earliest diverging major branch of the family.",
+          "Saber-Toothed Cat is only a fictional mobile-game item.",
+          "Saber-Toothed Cat is mainly a cooking utensil.",
+          "Saber-Toothed Cat is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Saber-Toothed Cat is especially connected with what?",
+        "q": "Why is Saber-Toothed Cat part of the nature puzzle collection?",
         "a": [
-          "long canine teeth",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Saber-Toothed Cat?",
+        "q": "Which statement is true about Saber-Toothed Cat?",
         "a": [
-          "Pleistocene",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Machairodontinae is an extinct subfamily of carnivoran mammals of the cat family Felidae, representing the earliest diverging major branch of the family.",
+          "Saber-Toothed Cat is only a fictional mobile-game item.",
+          "Saber-Toothed Cat is mainly a cooking utensil.",
+          "Saber-Toothed Cat is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-447-dodo",
@@ -22339,36 +23086,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Kintaro / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Dodo?",
+        "q": "Which statement is true about Dodo?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "The dodo is an extinct flightless bird that was endemic to Mauritius, an island east of Madagascar in the Indian Ocean.",
+          "Dodo is only a fictional mobile-game item.",
+          "Dodo is mainly a cooking utensil.",
+          "Dodo is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Dodo is especially connected with what?",
+        "q": "Why is Dodo part of the nature puzzle collection?",
         "a": [
-          "flightless island bird",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Dodo?",
+        "q": "Which statement is true about Dodo?",
         "a": [
-          "Mauritius",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The dodo is an extinct flightless bird that was endemic to Mauritius, an island east of Madagascar in the Indian Ocean.",
+          "Dodo is only a fictional mobile-game item.",
+          "Dodo is mainly a cooking utensil.",
+          "Dodo is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-448-great-auk",
@@ -22389,36 +23138,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Marie-Lan Taÿ Pamart / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Great Auk?",
+        "q": "What scientific or taxon name is connected to Great Auk?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Pinguinus impennis",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Great Auk is especially connected with what?",
+        "q": "Which biological group is Great Auk connected to?",
         "a": [
-          "flightless seabird",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Pinguinus",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Great Auk?",
+        "q": "Which statement is true about Great Auk?",
         "a": [
-          "North Atlantic",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The great auk, also known as the penguin or garefowl, is an extinct species of flightless alcid that first appeared around 400,000 years ago and was driven to extinction by human exploitation in the mid-19th century.",
+          "Great Auk is only a fictional mobile-game item.",
+          "Great Auk is mainly a cooking utensil.",
+          "Great Auk is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-449-tasmanian-tiger",
@@ -22439,36 +23190,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "User:Megan Jerrard / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Tasmanian Tiger?",
+        "q": "What scientific or taxon name is connected to Tasmanian Tiger?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Thylacinus cynocephalus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Tasmanian Tiger is especially connected with what?",
+        "q": "Which biological group is Tasmanian Tiger connected to?",
         "a": [
-          "striped back",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Thylacinus",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Tasmanian Tiger?",
+        "q": "Which statement is true about Tasmanian Tiger?",
         "a": [
-          "Tasmania",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Before European settlement, around 5,000 remained in the wild on the island of Tasmania.",
+          "Tasmanian Tiger is only a fictional mobile-game item.",
+          "Tasmanian Tiger is mainly a cooking utensil.",
+          "Tasmanian Tiger is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-450-passenger-pigeon",
@@ -22489,36 +23242,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Eugene S. M. Haines / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Passenger Pigeon?",
+        "q": "What scientific or taxon name is connected to Passenger Pigeon?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Ectopistes migratorius",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Passenger Pigeon is especially connected with what?",
+        "q": "Which biological group is Passenger Pigeon connected to?",
         "a": [
-          "vast flocks",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Ectopistes",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Passenger Pigeon?",
+        "q": "Which statement is true about Passenger Pigeon?",
         "a": [
-          "North America",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "The passenger pigeon or wild pigeon is an extinct species of pigeon that was endemic to North America.",
+          "Passenger Pigeon is only a fictional mobile-game item.",
+          "Passenger Pigeon is mainly a cooking utensil.",
+          "Passenger Pigeon is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-451-megatherium",
@@ -22539,36 +23294,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Basenji1908 / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Megatherium?",
+        "q": "What scientific or taxon name is connected to Megatherium?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Megatherium",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Megatherium is especially connected with what?",
+        "q": "Which biological group is Megatherium connected to?",
         "a": [
-          "giant ground sloth",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Megatheriinae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Megatherium?",
+        "q": "Which statement is true about Megatherium?",
         "a": [
-          "Pleistocene",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Megatherium is an extinct genus of large ground sloths endemic to South America that lived from the Early Pliocene through the end of the Late Pleistocene.",
+          "Megatherium is only a fictional mobile-game item.",
+          "Megatherium is mainly a cooking utensil.",
+          "Megatherium is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-452-glyptodon",
@@ -22589,36 +23346,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Luca Mendieta https://biopicturestudio.blogspot.com/ / Wikimedia Commons / CC BY-SA 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Glyptodon?",
+        "q": "What scientific or taxon name is connected to Glyptodon?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Glyptodon",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Glyptodon is especially connected with what?",
+        "q": "Which biological group is Glyptodon connected to?",
         "a": [
-          "armored body",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "glyptodonts",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Glyptodon?",
+        "q": "Which statement is true about Glyptodon?",
         "a": [
-          "Pleistocene",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Glyptodon is a genus of glyptodont, an extinct group of large, herbivorous armadillos that lived from the Pliocene, around 3.2 million years ago, to the early Holocene, around 11,000 years ago, in South America.",
+          "Glyptodon is only a fictional mobile-game item.",
+          "Glyptodon is mainly a cooking utensil.",
+          "Glyptodon is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-453-megalodon",
@@ -22639,36 +23398,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "EvolutionIncarnate / Wikimedia Commons / CC0",
     "trivia": [
       {
-        "q": "Which category best matches Megalodon?",
+        "q": "What scientific or taxon name is connected to Megalodon?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Otodus megalodon",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Megalodon is especially connected with what?",
+        "q": "Which biological group is Megalodon connected to?",
         "a": [
-          "giant teeth",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Otodus",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Megalodon?",
+        "q": "Which statement is true about Megalodon?",
         "a": [
-          "Miocene-Pliocene",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Otodus megalodon, commonly known as megalodon, is an extinct species of giant mackerel shark that lived approximately 23 to 3.58 million years ago (Mya), from the Early Miocene to the Early Pliocene epochs.",
+          "Megalodon is only a fictional mobile-game item.",
+          "Megalodon is mainly a cooking utensil.",
+          "Megalodon is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-454-dunkleosteus",
@@ -22689,36 +23450,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "ДиБгд / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Dunkleosteus?",
+        "q": "What scientific or taxon name is connected to Dunkleosteus?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Dunkleosteus",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Dunkleosteus is especially connected with what?",
+        "q": "Which biological group is Dunkleosteus connected to?",
         "a": [
-          "powerful jaws",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Dunkleosteidae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Dunkleosteus?",
+        "q": "Which statement is true about Dunkleosteus?",
         "a": [
-          "Devonian",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Dunkleosteus is an extinct genus of large arthrodire (\"jointed-neck\") fish that existed during the Late Devonian period, about 382–358 million years ago.",
+          "Dunkleosteus is only a fictional mobile-game item.",
+          "Dunkleosteus is mainly a cooking utensil.",
+          "Dunkleosteus is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-455-trilobite",
@@ -22739,36 +23502,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Didier Descouens / Wikimedia Commons / CC BY-SA 3.0",
     "trivia": [
       {
-        "q": "Which category best matches Trilobite?",
+        "q": "What scientific or taxon name is connected to Trilobite?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Trilobita",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Trilobite is especially connected with what?",
+        "q": "Which biological group is Trilobite connected to?",
         "a": [
-          "segmented exoskeleton",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Trilobitomorpha",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Trilobite?",
+        "q": "Which statement is true about Trilobite?",
         "a": [
-          "Paleozoic",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Trilobites are extinct marine arthropods that form the class Trilobita.",
+          "Trilobite is only a fictional mobile-game item.",
+          "Trilobite is mainly a cooking utensil.",
+          "Trilobite is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-456-ammonite",
@@ -22789,36 +23554,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Steve Jurvetson / Wikimedia Commons / CC BY 4.0",
     "trivia": [
       {
-        "q": "Which category best matches Ammonite?",
+        "q": "What scientific or taxon name is connected to Ammonite?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Ammonoidea",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Ammonite is especially connected with what?",
+        "q": "Which biological group is Ammonite connected to?",
         "a": [
-          "spiral shell",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Neocephalopoda",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Ammonite?",
+        "q": "Which statement is true about Ammonite?",
         "a": [
-          "Mesozoic",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Ammonoids are extinct, typically coiled-shelled cephalopods composing the subclass Ammonoidea.",
+          "Ammonite is only a fictional mobile-game item.",
+          "Ammonite is mainly a cooking utensil.",
+          "Ammonite is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-457-hallucigenia",
@@ -22839,36 +23606,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Han Zeng / Wikimedia Commons / CC0",
     "trivia": [
       {
-        "q": "Which category best matches Hallucigenia?",
+        "q": "What scientific or taxon name is connected to Hallucigenia?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Hallucigenia",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Hallucigenia is especially connected with what?",
+        "q": "Which biological group is Hallucigenia connected to?",
         "a": [
-          "spiny body",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Hallucigeniidae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Hallucigenia?",
+        "q": "Which statement is true about Hallucigenia?",
         "a": [
-          "Cambrian",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Hallucigenia is a genus of lobopodian known from Cambrian-aged fossils in Burgess Shale-type deposits in Canada and China, and from isolated spines around the world.",
+          "Hallucigenia is only a fictional mobile-game item.",
+          "Hallucigenia is mainly a cooking utensil.",
+          "Hallucigenia is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-458-anomalocaris",
@@ -22889,36 +23658,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "YameenØriøn / Wikimedia Commons / CC0",
     "trivia": [
       {
-        "q": "Which category best matches Anomalocaris?",
+        "q": "What scientific or taxon name is connected to Anomalocaris?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Anomalocaris",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Anomalocaris is especially connected with what?",
+        "q": "Which biological group is Anomalocaris connected to?",
         "a": [
-          "early predator",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Anomalocarididae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Anomalocaris?",
+        "q": "Which statement is true about Anomalocaris?",
         "a": [
-          "Cambrian",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Anomalocaris is an extinct genus of radiodont, an order of early-diverging stem-group marine arthropods.",
+          "Anomalocaris is only a fictional mobile-game item.",
+          "Anomalocaris is mainly a cooking utensil.",
+          "Anomalocaris is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-459-tiktaalik",
@@ -22939,36 +23710,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Ryan Schwark / Wikimedia Commons / CC0",
     "trivia": [
       {
-        "q": "Which category best matches Tiktaalik?",
+        "q": "What scientific or taxon name is connected to Tiktaalik?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Tiktaalik",
+          "Homo sapiens",
+          "Panthera leo",
+          "Felis catus"
         ],
         "correct": 0
       },
       {
-        "q": "Tiktaalik is especially connected with what?",
+        "q": "Which biological group is Tiktaalik connected to?",
         "a": [
-          "limb-like fins",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "Elpistostegidae",
+          "mammal",
+          "bird",
+          "reptile"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Tiktaalik?",
+        "q": "Which statement is true about Tiktaalik?",
         "a": [
-          "Devonian",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Tiktaalik is a monospecific genus of extinct sarcopterygian from the late Devonian Period, about 375 Mya, having many features similar to those of tetrapods.",
+          "Tiktaalik is only a fictional mobile-game item.",
+          "Tiktaalik is mainly a cooking utensil.",
+          "Tiktaalik is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-460-haast-eagle",
@@ -22989,36 +23762,38 @@ window.PUZZLEVERSE_LEVELS = [
     "credit": "Szilas / Wikimedia Commons / Public domain",
     "trivia": [
       {
-        "q": "Which category best matches Haast Eagle?",
+        "q": "Which statement is true about Haast Eagle?",
         "a": [
-          "Dinosaurs & Extinct Animals",
-          "Sports Stadium",
-          "Cooking Method",
-          "Musical Instrument"
+          "Haast's eagle, sometimes known as Fuller's eagle, is an extinct species of eagle that lived in the South Island of New Zealand, commonly accepted to be the pouākai of Māori mythology.",
+          "Haast Eagle is only a fictional mobile-game item.",
+          "Haast Eagle is mainly a cooking utensil.",
+          "Haast Eagle is a random road sign."
         ],
         "correct": 0
       },
       {
-        "q": "Haast Eagle is especially connected with what?",
+        "q": "Why is Haast Eagle part of the nature puzzle collection?",
         "a": [
-          "giant eagle",
-          "modern shopping malls",
-          "video game consoles",
-          "random road signs"
+          "It helps players learn about biodiversity and living or extinct life",
+          "It is a famous treaty",
+          "It is a computer file",
+          "It is a musical note"
         ],
         "correct": 0
       },
       {
-        "q": "What important context is linked to Haast Eagle?",
+        "q": "Which statement is true about Haast Eagle?",
         "a": [
-          "New Zealand",
-          "a fictional city only",
-          "a cooking recipe",
-          "a car model"
+          "Haast's eagle, sometimes known as Fuller's eagle, is an extinct species of eagle that lived in the South Island of New Zealand, commonly accepted to be the pouākai of Māori mythology.",
+          "Haast Eagle is only a fictional mobile-game item.",
+          "Haast Eagle is mainly a cooking utensil.",
+          "Haast Eagle is a random road sign."
         ],
         "correct": 0
       }
-    ]
+    ],
+    "triviaStatus": "improved-v5-subject-specific",
+    "triviaSource": "wikidata-wikipedia-with-template-fallback"
   },
   {
     "id": "pv-461-indus-valley-civilization",
