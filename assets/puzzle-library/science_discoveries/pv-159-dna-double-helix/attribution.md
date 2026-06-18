@@ -1,19 +1,7 @@
-# Attribution for DNA Double Helix
+# Attribution
 
-Source page: https://commons.wikimedia.org/wiki/File%3ADNA-Helix-Rendering_20220603.png
+Selected educational visual: File:3DScience DNA structure labeled a-es.png
 
-Downloaded URL: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/DNA-Helix-Rendering_20220603.png/1920px-DNA-Helix-Rendering_20220603.png
+Source URL: https://upload.wikimedia.org/wikipedia/commons/2/2f/3DScience_DNA_structure_labeled_a-es.png
 
-Original URL: https://upload.wikimedia.org/wikipedia/commons/c/c7/DNA-Helix-Rendering_20220603.png
-
-Thumbnail URL: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/DNA-Helix-Rendering_20220603.png/1920px-DNA-Helix-Rendering_20220603.png
-
-Artist: PantheraLeo1359531
-
-Credit: Own work
-
-License: CC0
-
-Original dimensions: 18000 x 2160
-
-Review status: needs human review before commercial use.
+Review before commercial release.
